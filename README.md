@@ -2,7 +2,7 @@
 Hungarian translation for Thronebreaker: The Witcher Tales</br>
 A Thronebreaker: The Witcher Tales (Trónbitorló: A Vaják-történetek) magyarítása</br></br>
 
-<strong>Editing / Szerkesztés</strong></br></br>
+<strong>Editing</strong></br>
 
 <i>EN - Step 1</i></br>
 For easier editing, use Notepad++,</br>
@@ -26,7 +26,9 @@ and</br>
 > at the end of line 3</br>
 (<i>to get a last, completely empty (or filled only with a space) line 4!</i>)
 
-</br></br>
+
+<strong>Szerkesztés</strong></br>
+
 <i>HU - 1. lépés</i></br>
 A könnyebb szerkeszthetőség végett használj Notepad++,</br>
 valamint illessz a szövegbe carriage return-öket (CR) és line feed-eket (LF);</br>
