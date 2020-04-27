@@ -17,6 +17,7 @@ as TXT DUMP files.</br>
 
 <i>EN - Step 2</i></br>
 For easier editing, use Notepad++,</br>
+(it is important to have UTF-8-BOM encoded files!),</br>
 and insert carriage returns (CR) and line feeds (LF);</br>
 for this, one needs to replace every '\\' (backslashes) with '\x0D\x0A\\',</br>
 while the 'search mode' is set to 'extended'.</br>
@@ -59,6 +60,7 @@ DUMP-olt TXT-fájlokként.</br>
 
 <i>HU - 2. lépés</i></br>
 A TXT-k és a CSV könnyebb szerkeszthetőség végett használj Notepad++,</br>
+(fontos, hogy a fájlok karakterkódolása UTF-8-BOM legyen!),</br>
 valamint illessz a szövegbe carriage return-öket (CR) és line feed-eket (LF);</br>
 ehhez cseréld ki az összes '\\'-t (backslash-t) erre: '\x0D\x0A\\',</br>
 miközben a 'search mode' legyen ez: 'extended'.</br>
