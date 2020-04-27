@@ -29,26 +29,26 @@ and</br>
 
 </br><strong>Szerkesztés</strong></br>
 
-<i>HU - 0. lépés</i></br>
+<i>HU - 1. lépés</i></br>
 Tömörítsd ki a 'data_definitions' fájlt (mondjuk a 7-ZIP nevű tömörítővel),</br>
 aminek a 'Localizations' nevű almappájából erre a fájlra lesz szükség:</br>
 -- en-us.cvs,</br>
 valamint nyisd meg az 'en-us' fájlokat (mondjuk az UABE nevű segédprogrammal),</br>
-és vagy exportáld az asset-fájlt az 'export'-gombra kattintva,</br>
+és vagy exportáld az asset-fájlokat az 'export'-gombra kattintva, majd abból exportáld,</br>
 vagy kattints az 'info'-gombra, és közvetlenül onnan exportáld</br>
 a megfelelő TextAsset-eket:</br>
--- en_us-characters-TextAsset,</br>
--- en_us-interface-TextAsset,</br>
+-- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-7298506300715917946-TextAsset,</br>
+-- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533-TextAsset</br>
 DUMP-olt TXT-fájlokként.</br>
 
-<i>HU - 1. lépés</i></br>
+<i>HU - 2. lépés</i></br>
 A TXT-k és a CSV könnyebb szerkeszthetőség végett használj Notepad++,</br>
 valamint illessz a szövegbe carriage return-öket (CR) és line feed-eket (LF);</br>
 ehhez cseréld ki az összes '\\'-t (backslash-t) erre: '\x0D\x0A\\',</br>
 miközben a 'search mode' legyen ez: 'extended'.</br>
 És közben ne felejtsd el elhagyni az aposztrófokat!</br>
 
-<i>HU - 2. lépés</i></br>
+<i>HU - 3. lépés</i></br>
 Ahhoz, hogy visszakapd az eredeti formázást,</br>
 el kell távolítanod minden carriage return-t és line feed-et úgy,</br>
 hogy lecserélsz minden '\x0D\x0A'-t "semmire" (üresen hagyott beviteli mezővel),</br>
@@ -62,3 +62,10 @@ ezután 'CR'-t és 'LF'-et kell beszúrnod ezek után:</br>
 és</br>
 > a 3. sor végére</br>
 (<i>hogy a fájl egy teljesen üres (vagy egy szóközt tartalmazó) utolsó, 4. sorral záródjon!</i>)
+
+<i>HU - 4. lépés</i></br>
+A módosított fájlokat végül vissza kell csomagolni az eredeti konténereikba az alábbi módokon:</br>
+-- a 'data_definitions' fájlait tömörítés nélkül, tárolással kell visszapakolni ZIP-be, kiterjesztés nélkül,</br>
+-- az 'en-us'-ek dump-jait pedig visszaimportálni a saját asset-jeikbe, majd menteni a fájlokat.</br>
+
+Sok sikert!</br>
