@@ -29,8 +29,20 @@ and</br>
 
 </br><strong>Szerkesztés</strong></br>
 
+<i>HU - 0. lépés</i></br>
+Tömörítsd ki a 'data_definitions' fájlt (mondjuk a 7-ZIP nevű tömörítővel),</br>
+aminek a 'Localizations' nevű almappájából erre a fájlra lesz szükség:</br>
+-- en-us.cvs,</br>
+valamint nyisd meg az 'en-us' fájlokat (mondjuk az UABE nevű segédprogrammal),</br>
+és vagy exportáld az asset-fájlt az 'export'-gombra kattintva,</br>
+vagy kattints az 'info'-gombra, és közvetlenül onnan exportáld</br>
+a megfelelő TextAsset-eket:</br>
+-- en_us-characters-TextAsset,</br>
+-- en_us-interface-TextAsset,</br>
+DUMP-olt TXT-fájlokként.</br>
+
 <i>HU - 1. lépés</i></br>
-A könnyebb szerkeszthetőség végett használj Notepad++,</br>
+A TXT-k és a CSV könnyebb szerkeszthetőség végett használj Notepad++,</br>
 valamint illessz a szövegbe carriage return-öket (CR) és line feed-eket (LF);</br>
 ehhez cseréld ki az összes '\\'-t (backslash-t) erre: '\x0D\x0A\\',</br>
 miközben a 'search mode' legyen ez: 'extended'.</br>
