@@ -2,11 +2,11 @@
 <strong>EN</strong> Hungarian translation for Thronebreaker: The Witcher Tales</br>
 <strong>HU</strong> A Thronebreaker: The Witcher Tales (Trónbitorló: A Vaják-történetek) magyarítása</br></br>
 
-<strong>Editing</strong></br>
+<strong>EN - Editing</strong></br>
 
 <i>EN - Step 1</i></br>
 Firstly, extract the 'data_definitions' file (for example: with 7-ZIP),</br>
-then from its 'Localization' subfolder you will need the</br></br>
+then from its 'Localization' subfolder you will need the</br>
 -- en-us.csv file</br>
 Secondly, open the 'en-us' files (for example: with UABE),</br>
 and either export the packed asset files to open them directly,</br>
@@ -37,8 +37,13 @@ and</br>
 > at the end of line 3</br>
 (<i>to get a last, completely empty (or filled only with a space) line 4!</i>)
 
+<i>EN - Step 4</i></br>
+Finally, you should repack the modified csv and text contents to their original containers as follows:</br>
+-- the 'data_definitions' contents must be compressed to ZIP via the "store" method, then lose its extension,</br>
+-- the 'en-us' dumps must be imported back as DUMPs, then their assets repacked into the original 'en-us' files.</br>
 
-</br><strong>Szerkesztés</strong></br>
+
+</br><strong>HU - Szerkesztés</strong></br>
 
 <i>HU - 1. lépés</i></br>
 Tömörítsd ki a 'data_definitions' fájlt (mondjuk a 7-ZIP nevű tömörítővel),</br>
