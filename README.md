@@ -5,13 +5,24 @@
 <strong>Editing</strong></br>
 
 <i>EN - Step 1</i></br>
+Firstly, extract the 'data_definitions' file (for example: with 7-ZIP),</br>
+then from its 'Localization' subfolder you will need the</br></br>
+-- en-us.csv file</br>
+Secondly, open the 'en-us' files (for example: with UABE),</br>
+and either export the packed asset files to open them directly,</br>
+or either see then export the packed assets' contents via the 'info'-button</br>
+-- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-7298506300715917946-TextAsset,</br>
+-- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533-TextAsset</br>
+as TXT DUMP files.</br>
+
+<i>EN - Step 2</i></br>
 For easier editing, use Notepad++,</br>
 and insert carriage returns (CR) and line feeds (LF);</br>
 for this, one needs to replace every '\\' (backslashes) with '\x0D\x0A\\',</br>
 while the 'search mode' is set to 'extended'.</br>
 But do not forget to loose the apostrophes!</br>
 
-<i>EN - Step 2</i></br>
+<i>EN - Step 3</i></br>
 To revert to original formatting,</br>
 one needs to remove all carriage returns and line feeds</br>
 by replacing every '\x0D\x0A' with '' (blanks),</br>
@@ -32,7 +43,7 @@ and</br>
 <i>HU - 1. lépés</i></br>
 Tömörítsd ki a 'data_definitions' fájlt (mondjuk a 7-ZIP nevű tömörítővel),</br>
 aminek a 'Localizations' nevű almappájából erre a fájlra lesz szükség:</br>
--- en-us.cvs,</br>
+-- en-us.csv,</br>
 valamint nyisd meg az 'en-us' fájlokat (mondjuk az UABE nevű segédprogrammal),</br>
 és vagy exportáld az asset-fájlokat az 'export'-gombra kattintva, majd abból exportáld,</br>
 vagy kattints az 'info'-gombra, és közvetlenül onnan exportáld</br>
