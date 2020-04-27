@@ -27,7 +27,7 @@ and</br>
 (<i>to get a last, completely empty (or filled only with a space) line 4!</i>)
 
 
-<strong>Szerkesztés</strong></br>
+</br><strong>Szerkesztés</strong></br>
 
 <i>HU - 1. lépés</i></br>
 A könnyebb szerkeszthetőség végett használj Notepad++,</br>
