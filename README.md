@@ -7,13 +7,12 @@
 <i>EN - Step 1</i></br>
 Firstly, extract the 'data_definitions' file (for example: with 7-ZIP),</br>
 then from its 'Localization' subfolder you will need the</br>
--- en-us.csv file</br>
-Secondly, open the 'en-us' files (for example: with UABE),</br>
-and either export the packed asset files to open them directly,</br>
-or either see then export the packed assets' contents via the 'info'-button</br>
--- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-7298506300715917946-TextAsset,</br>
--- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533-TextAsset</br>
-as TXT DUMP files.</br>
+-- en-us.csv (card infos) file</br>
+Secondly, unpack the asset packed in the 'en-us' files (for example: with UABE),</br>
+then export the packed assets' TextAsset contents, the:</br>
+-- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-206071617672001105-TextAsset (characters),</br>
+-- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-8085160267778392822-TextAsset (interface)</br>
+files as TXT DUMP files.</br>
 
 <i>EN - Step 2</i></br>
 For easier editing, use Notepad++,</br>
@@ -42,6 +41,7 @@ and</br>
 Finally, you should repack the modified csv and text contents to their original containers as follows:</br>
 -- the 'data_definitions' contents must be compressed to ZIP via the "store" method, then lose its extension,</br>
 -- the 'en-us' dumps must be imported back as DUMPs, then their assets repacked into the original 'en-us' files.</br>
+Although, it is not necessary to 'compress' the assets back to 'en-us's - the game will work with uncompressed 'en-us' assets!</br>
 
 
 </br><strong>HU - Szerkesztés</strong></br>
@@ -49,13 +49,11 @@ Finally, you should repack the modified csv and text contents to their original 
 <i>HU - 1. lépés</i></br>
 Tömörítsd ki a 'data_definitions' fájlt (mondjuk a 7-ZIP nevű tömörítővel),</br>
 aminek a 'Localizations' nevű almappájából erre a fájlra lesz szükség:</br>
--- en-us.csv,</br>
-valamint nyisd meg az 'en-us' fájlokat (mondjuk az UABE nevű segédprogrammal),</br>
-és vagy exportáld az asset-fájlokat az 'export'-gombra kattintva, majd abból exportáld,</br>
-vagy kattints az 'info'-gombra, és közvetlenül onnan exportáld</br>
-a megfelelő TextAsset-eket:</br>
--- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-7298506300715917946-TextAsset,</br>
--- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533-TextAsset</br>
+-- en-us.csv (kártyák szövegezése),</br>
+valamint csomagold ki az 'en-us' fájlokat (mondjuk az UABE nevű segédprogrammal),</br>
+majd a kicsomagolt asset-fájlokból exportáld a megfelelő TextAsset-eket, pl.:</br>
+-- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-206071617672001105-TextAsset (karakterek),</br>
+-- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-8085160267778392822-TextAsset (felületek)</br>
 DUMP-olt TXT-fájlokként.</br>
 
 <i>HU - 2. lépés</i></br>
@@ -84,6 +82,8 @@ ezután 'CR'-t és 'LF'-et kell beszúrnod ezek után:</br>
 <i>HU - 4. lépés</i></br>
 A módosított fájlokat végül vissza kell csomagolni az eredeti konténereikba az alábbi módokon:</br>
 -- a 'data_definitions' fájlait tömörítés nélkül, tárolással kell visszapakolni ZIP-be, kiterjesztés nélkül,</br>
--- az 'en-us'-ek dump-jait pedig visszaimportálni a saját asset-jeikbe, majd menteni a fájlokat.</br>
+-- az 'en-us'-ek dump-jait pedig visszaimportálni a saját asset-jeikbe az UABE-vel, majd</br>
+-- az asset-fájlokat visszacsomagolni a kiterjesztés nélküli 'en-us'-ekbe, szintén az UABE-vel.</br>
+A kicsomagolt asset-eket viszont nem szükséges visszatömöríteni ('compress'): a játék kicsomagolt 'en-us'-ekkel is működni fog.</br>
 
 Sok sikert!</br>
