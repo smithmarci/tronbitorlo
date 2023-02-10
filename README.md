@@ -11,8 +11,8 @@ then from its 'Localization' subfolder you will need the</br>
 Secondly, unpack the asset packed in the 'en-us' files (for example: with UABE),</br>
 then export the packed assets' TextAsset contents, the:</br>
 -- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533.txt TextAsset (characters),</br>
--- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-8085160267778392822-TextAsset (interface)</br>
-files as TXT DUMP files.</br>
+-- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-7298506300715917946.txt TextAsset (interface)</br>
+files as TXT EXPORT files.</br>
 
 <i>EN - Step 2</i></br>
 For easier editing, use Notepad++,</br>
@@ -53,8 +53,8 @@ aminek a 'Localizations' nevű almappájából erre a fájlra lesz szükség:</b
 valamint csomagold ki az 'en-us' fájlokat (mondjuk az UABE nevű segédprogrammal),</br>
 majd a kicsomagolt asset-fájlokból exportáld a megfelelő TextAsset-eket, pl.:</br>
 -- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533.txt TextAsset (karakterek),</br>
--- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-8085160267778392822-TextAsset (felületek)</br>
-DUMP-olt TXT-fájlokként.</br>
+-- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-7298506300715917946.txt TextAsset (felületek)</br>
+EXPORT-ált TXT-fájlokként.</br>
 
 <i>HU - 2. lépés</i></br>
 A TXT-k és a CSV könnyebb szerkeszthetőség végett használj Notepad++,</br>
