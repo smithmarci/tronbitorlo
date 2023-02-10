@@ -12,7 +12,7 @@ Secondly, unpack the asset packed in the 'en-us' files (for example: with UABE),
 then export the packed assets' TextAsset contents, the:</br>
 -- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533.txt TextAsset (characters),</br>
 -- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-7298506300715917946.txt TextAsset (interface)</br>
-files as TXT EXPORT files.</br>
+files as TXT DUMP files.</br>
 
 <i>EN - Step 2</i></br>
 For easier editing, use Notepad++,</br>
@@ -54,13 +54,13 @@ valamint csomagold ki az 'en-us' fájlokat (mondjuk az UABE nevű segédprogramm
 majd a kicsomagolt asset-fájlokból exportáld a megfelelő TextAsset-eket, pl.:</br>
 -- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533.txt TextAsset (karakterek),</br>
 -- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-7298506300715917946.txt TextAsset (felületek)</br>
-EXPORT-ált TXT-fájlokként.</br>
+DUMP-olt TXT-fájlokként.</br>
 
 <i>HU - 2. lépés</i></br>
 A TXT-k és a CSV könnyebb szerkeszthetőség végett használj Notepad++,</br>
 (fontos, hogy a fájlok karakterkódolása UTF-8-BOM legyen!),</br>
 valamint illessz a szövegbe carriage return-öket (CR) és line feed-eket (LF);</br>
-ehhez cseréld ki az összes '\\'-t (backslash-t) erre: '\x0D\x0A\\',</br>
+ehhez cseréld ki az összes '\\'-t (vissza-perjel-t) erre: '\x0D\x0A\\',</br>
 miközben a 'search mode' legyen ez: 'extended'.</br>
 És közben ne felejtsd el elhagyni az aposztrófokat!</br>
 
