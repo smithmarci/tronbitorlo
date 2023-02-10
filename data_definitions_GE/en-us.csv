@@ -25,7 +25,7 @@
 200001_fluff;Ha ez kellene ahhoz, hogy megmentsük a világot, akkor jobb, ha inkább hagyjuk elpusztulni.
 200001_name;Ríviai Geralt
 200001_tooltip;<keyword=resilient>Rugalmas</keyword>.\n<keyword=order>Parancs</keyword>: Erôsíti <b>Cahir Dyffrynt</b> ennyivel: {Boost} , és <keyword=duel>Párbajozik</keyword> egy ellenséggel.\n<keyword=cooldown>Lehiggadás</keyword>: {Counter}.
-200002_fluff;Ezek a kis fickók már-már aranyosak... ha figyelmen kívül hagyod ezt az egész gonosz gyilkos attitűdöt.
+200002_fluff;Ezek a kis fickók már-már aranyosak... ha figyelmen kívül hagyod ezt az egész gonosz gyilkos attitûdöt.
 200002_name;Nekker
 200002_tooltip;Minden körben, a kör kezdetén egy <b>Nekkert</b> <keyword=summon>Idéz</keyword> erre a sorra a paklidból.
 200003_fluff;Csúnya – a természet így közli veled, hogy "tartsd távol magad".
