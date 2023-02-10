@@ -10,7 +10,7 @@ then from its 'Localization' subfolder you will need the</br>
 -- en-us.csv (card infos) file</br>
 Secondly, unpack the asset packed in the 'en-us' files (for example: with UABE),</br>
 then export the packed assets' TextAsset contents, the:</br>
--- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-206071617672001105-TextAsset (characters),</br>
+-- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533.txt TextAsset (characters),</br>
 -- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-8085160267778392822-TextAsset (interface)</br>
 files as TXT DUMP files.</br>
 
@@ -52,7 +52,7 @@ aminek a 'Localizations' nevű almappájából erre a fájlra lesz szükség:</b
 -- en-us.csv (kártyák szövegezése),</br>
 valamint csomagold ki az 'en-us' fájlokat (mondjuk az UABE nevű segédprogrammal),</br>
 majd a kicsomagolt asset-fájlokból exportáld a megfelelő TextAsset-eket, pl.:</br>
--- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-206071617672001105-TextAsset (karakterek),</br>
+-- en-us-CAB-2bf68cae6734f4a703d7af0814d2cc52-6741145933582964533.txt TextAsset (karakterek),</br>
 -- en_us-CAB-2bf68cae6734f4a703d7af0814d2cc52-8085160267778392822-TextAsset (felületek)</br>
 DUMP-olt TXT-fájlokként.</br>
 
