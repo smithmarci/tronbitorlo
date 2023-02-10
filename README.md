@@ -1,6 +1,6 @@
 # tronbitorlo
 <strong>EN</strong> Hungarian translation for Thronebreaker: The Witcher Tales</br>
-<strong>HU</strong> A Thronebreaker: The Witcher Tales (Trónbitorló: A Vaják-történetek) magyarítása</br></br>
+<strong>HU</strong> A Thronebreaker: The Witcher Tales (Trónbitorló: Egy Vaják-történet) magyarítása</br></br>
 
 <strong>EN - Editing</strong></br>
 
