@@ -283,7 +283,7 @@
 201401_fluff;Miután itt vert tanyát, majd' egy évszázadon keresztül küzdöttek ellene. Aztán a sárkány belefáradt a csatározásba, ôk pedig rájöttek, hogy az nem megy innét sehová, így hát alkut kötöttek. A sárkány nem háborgatja ôket, ôk pedig megadják neki, amire szüksége van.
 201401_name;Keltullis: Tüzes lehelet
 201401_tooltip;Minden körben, a kör elején <b>Tüzet</b> <keyword=spawn>Teremt</keyword> az ellenfél térfelére.\n3 kör után, a kör kezdetén az ellenfél térfelére mozdul, és minden egységnek 1 sebzést okoz.
-201403_fluff;Egyes nekrofágok úgy rákaptak az emberhús ízére, hogy többé már nem érik be a kiásott hullákkal...
+201403_fluff;Néhány nekrofág annyira megkedveli az emberi hús ízét, hogy többé nem érik be a kiásott holttestekkel...
 201403_name;Vérszomjas alghoul
 201403_tooltip;<keyword=order>Parancs</keyword>: <keyword=consume>Bekebelezi</keyword> a legfelsô egységet a temetôdbôl, és 1 <b>alap példányt</b> <keyword=spawn>Teremt</keyword> belôle.\n<keyword=cooldown>Lehiggadás</keyword>: 3.
 201405_fluff;Képzeld el egy vakond és egy tatu keresztezôdését, csak emez tíz láb magas, és szereti az emberhúst.
@@ -1448,7 +1448,7 @@
 202169_fluff;Jóval azelôtt ki fogod ôket szagolni, minthogy látnád ôket.
 202169_name;Bûzdémon
 202169_tooltip;Amikor egy másik egység megsemmisül, 1 sebzést okoz egy <b>véletlenszerûen választott ellenségnek</b>.
-202170_fluff;Egyes nekrofágok úgy rákaptak az emberhús ízére, hogy többé már nem érik be a kiásott hullákkal...
+202170_fluff;Néhány nekrofág annyira megkedveli az emberi hús ízét, hogy többé nem érik be a kiásott holttestekkel...
 202170_name;Telhetetlen alghoul
 202170_tooltip;<keyword=order>Parancs</keyword>: Megsemmisíti a <b>legerôsebb ellenséget</b>, aztán Erôsít <b>minden szövetségest</b> amaz egység erejével.
 202171_fluff;Minden levágott nilfgaardi helyébe tüstént három is terem.
