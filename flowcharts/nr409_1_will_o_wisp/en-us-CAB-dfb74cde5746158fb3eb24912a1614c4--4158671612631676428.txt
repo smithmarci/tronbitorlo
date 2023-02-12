@@ -1,0 +1,25 @@
+menu.nr409_1_will_o_wisp.11;Követed a lidércfényt.
+menu.nr409_1_will_o_wisp.12;Nem veszel tudomást a jelenésrôl.
+say.nr409_1_will_o_wisp.1;Hatalmas égerfák nôtték be sûrûn az Ysgithet, a lombkoronájuk olyan kiterjedt volt, hogy teljesen eltakarták az eget. Ha egy fénypászma át is tudott hatolni ezen az összekuszálódott lombozaton, akkor az beleveszett az alant tejszerûen gomolygó ködbe. Ezért az ingovány örökös félhomályba burkolózott, ahol az ember könnyedén elveszítette az idô- és irányérzékét.
+say.nr409_1_will_o_wisp.15;Meve tudta, hogy a fény csalóka lehet, és csapdába csalhatja ôket. Ennek ellenére követte azt, bár maga sem tudta pontosan, miért. A katonái lelkesnek tûntek, érezte, hogy ôk is ezt akarták... Ám ô maga csak egyszerûen kíváncsi volt.\n
+say.nr409_1_will_o_wisp.17;Ahogy a fény egy szûk, kanyargó ösvényen vezette ôket, Meve óvatossággal szemlélte a környezetüket. Verejték ütközött ki a homlokán, ám a félelme végül megalapozatlannak bizonyult...\n\n
+say.nr409_1_will_o_wisp.19;Mert hogy az ösvény végén az egységei egy karaván maradványaira leltek. Az enyészeté lett hintók félig az ingoványba süllyedtek, és már évtizedek óta ott rohadhattak. Talán még régebb óta. Ennek ellenére arannyal szegett oldallapok és ezüsttel futtatott szövetek jelezték, hogy annak idején meglehetôsen díszesek lehettek.
+say.nr409_1_will_o_wisp.21;A hintókban a katonák számos acélládára leltek. Rozsda lepte ôket, viszont még egyben voltak, és a mélyük szemet kápráztató kincseket rejtett. Voltak ott aranyérmékkel tömött erszények, gyöngy-berakásos kelyhek, különleges bársonyok és selymek végszámra...\n
+say.nr409_1_will_o_wisp.23;Meve gyorsan összerakta a képet. Egyszer maga is utazott egy hasonlóan pompás, aranyakkal megrakott menetben. Akkor, amikor az esküvôjére indult...\n\n
+say.nr409_1_will_o_wisp.25;A lidércfény Meve kompániája körül körözött, többször pislákolt is,... majd elenyészett. A sereg folytatta a menetelést, és minden rendbenlévônek tûnt. De csak tûnt, ugyanis hamarosan több gyalogoskatonának hûlt helyét találták.\n\n
+say.nr409_1_will_o_wisp.26;"Vagy csapdába szeretne csalni"
+say.nr409_1_will_o_wisp.28;– mondta Meve. –
+say.nr409_1_will_o_wisp.3;Ahogy a serege nyomult elôre, egy derengés jelent meg a fák között. A lyriaiak hunyorogtak, és csodálkozva tátották el a szájukat. Egy lüktetô, zümmögô fénygömb lebegett a víztükör fölött. Aztán megkerülte a katonákat, elcikkant a távolba, majd egy ponton lebegve megállt, mintha várakozott volna...\n
+say.nr409_1_will_o_wisp.30;"Maradjatok távol tôle, hagyjátok békén! Ez parancs!"\n\n
+say.nr409_1_will_o_wisp.309;"Követjük... óvatosan! Fegyvereket a kézbe!"
+say.nr409_1_will_o_wisp.310;A mohóság lett a vesztük, túl sokat markoltak. Testüket húzta a zsákmány súlya, a mocsár pedig magába fogadta ôket.
+say.nr409_1_will_o_wisp.311;A történet végét aztán már nem volt nehéz kitalálni, ugyanis a menyasszony hozományát találták meg. Ô és a kísérete eltévedtek, és az Ysgith lett végül a sírjuk – senki sem tudta meg, mi lett a sorsuk.
+say.nr409_1_will_o_wisp.32;A fény tovább villódzott, és olyannyira megbabonázta a katonákat, hogy alig bírták levenni róla a szemüket. Késôbb, miközben a posványban gázoltak, azon töprengtek, vajon hova vezette volna ôket a lidércfény. Csodás kincseket képzeltek maguk elé, miközben azok náluknál bátrabb emberek ölébe hullanak – és ez a gondolat megôrjítette ôket...
+say.nr409_1_will_o_wisp.33;"Teringettét... Micsoda vagyon! És itt, minden helyek legszörnyûbbikében!"
+say.nr409_1_will_o_wisp.34;– dörmögte az egyik talpas a bajsza alatt.
+say.nr409_1_will_o_wisp.5;"Ez egy lidércfény"
+say.nr409_1_will_o_wisp.7;– suttogta az egyik gyalogoskatona. –
+say.nr409_1_will_o_wisp.9;"Mintha mindenáron szeretne nekünk mutatni valamit."
+title.nr409_1_will_o_wisp.1;A csábító fény
+title.nr409_1_will_o_wisp.308;A csábító fény
+

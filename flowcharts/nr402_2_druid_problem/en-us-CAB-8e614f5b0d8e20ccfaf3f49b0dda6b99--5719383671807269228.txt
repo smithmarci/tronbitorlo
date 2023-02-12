@@ -1,0 +1,18 @@
+say.nr402_2_druid_problem.12;Mert bicegést érzett lova járásában, Meve megállította a menetet. Tüske ment a ménje patájába, és minden egyes lépéssel csak még mélyebbre fúródott. A ló nyihogott és elhúzta a lábát, de Meve tudta, miképp nyugtassa meg. Miközben simogatta a pofáját, szavakat suttogott a fülébe lassan. Aztán minden nehézség nélkül kihúzta a tüskét.
+say.nr402_2_druid_problem.25;"Elnézést, amiért megzavarlak"
+say.nr402_2_druid_problem.27;– szólalt meg a druida Meve háta mögött, –
+say.nr402_2_druid_problem.29;"de itt elválnak útjaink. Fogadd el ezt a szerény ajándékot a közös útért,... és a segítségedért a lápisteneknek emelt obeliszknél."\n\n
+say.nr402_2_druid_problem.31;Meve válaszolni szeretett volna, de a druidák batyujukat a vállukra véve már meg is indultak az erdô irányába. A királynô várt, amíg szem elôl vesztette ôket, majd kibontotta a csomagot. Az ajándék egyáltalán nem volt szerénynek mondható...
+say.nr402_2_druid_problem.33;"Itt elválnak útjaink"
+say.nr402_2_druid_problem.35;– fogott bele a druida, ezzel kizökkentve Meve-et merengésébôl. –
+say.nr402_2_druid_problem.37;"Jó szerencsét kívánunk, Felség... És ezzel a szerény ajándékkal adunk hálát közös utunkért."\n\n
+say.nr402_2_druid_problem.39;Ahogy a druidák sarkon fordultak és távoztak, a lyriaiak lovai mindenféle utasítás nélkül léptek egyet hátra, és lehajtották a fejüket. Meve még hosszasan nézte a távolodó utazókat, majd kinyitotta a csomagot. Az ajándék valóban szerény volt.
+say.nr402_2_druid_problem.40;A lovasság a menetoszlop élén léptetett, közöttük a királynô, aki a felderítôivel értekezett. Egyszer csak kiáltásra lett figyelmes.\n
+say.nr402_2_druid_problem.42;"Caeflau neydio!"\n
+say.nr402_2_druid_problem.44;Parancsnak hangzott. És valóban: a lovak curükkolni kezdtek, majd levetették a lovasaikat. Aztán megbokrosodva bevágtattak az erdôbe. Meve-et szintén ledobta a lova, és egy puffanással ért földet a sárban. Ahogy megpróbált felkecmeregni, tekintete találkozott a fakó hajú druidáéval.
+say.nr402_2_druid_problem.46;"Aki állatok vérével táplálja a lápisteneket"
+say.nr402_2_druid_problem.48;– ordította feldühödve a druida, –
+say.nr402_2_druid_problem.50;"az érdemtelen az állatok segítségére! Legyen ez egy lecke számodra, kegyetlen királynô!"\n\n
+say.nr402_2_druid_problem.52;Beletelt egy kis idôbe, amíg Meve összeszedte magát, aztán egységeket küldött a druidák üldözésére. A katonák üres kézzel tértek vissza, nem találták meg se a druidákat, se a lovakat. Az erdô lelassította az elôrejutásukat, a lábukra minduntalan kiálló gyökerek tekeredtek, amik még a lábnyomokat is eltüntették elôlük. A királynô semmit nem tehetett ellene, így csak beharapta az ajkát, és szitkozódott egyet.
+title.nr402_2_druid_problem.302;Megtört kör
+

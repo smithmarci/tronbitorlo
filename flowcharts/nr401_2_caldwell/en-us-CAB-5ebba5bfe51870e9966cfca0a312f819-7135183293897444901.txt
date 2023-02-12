@@ -1,0 +1,95 @@
+menu.nr401_2_caldwell.174;Addigra már rég továbbállok.
+menu.nr401_2_caldwell.175;Szembeszállok velük – és gyôzni fogok.
+menu.nr401_2_caldwell.40;Megtámadod a várat.
+menu.nr401_2_caldwell.41;Elhalasztod a támadást.
+menu.nr401_2_caldwell.56;Megtámadod a várat.
+menu.nr401_2_caldwell.57;Elhalasztod a támadást.
+say.nr401_2_caldwell.1;Könnyen eltévedhetett, aki Angren ingoványos vidékére merészkedett. Ahol csak úgy harapni lehet a ködöt, buja aljnövényzet borít mindent a távolban, és az ösvények egyszer csak váratlanul véget érnek. Az egyetlen módja, hogy valaki megállapíthassa, merre is jár, ha felmászik egy fára, és a lombkoronából kémlel körül. {audio=nr401_2_caldwell_scout_climb}Ez a feladat Meve felderítôire hárult, míg a sereg odalent várakozott.\n\n
+say.nr401_2_caldwell.100;"Bizonyítsák be, hogy nem volt ostobaság részemrôl a kegyelem"
+say.nr401_2_caldwell.102;– mondta Meve Gasconhoz és Reynardhoz fordulva. –
+say.nr401_2_caldwell.104;"El kell kerülnünk a mészárlást. Miképp érhetjük ezt el?"\n
+say.nr401_2_caldwell.106;"Felség,..."
+say.nr401_2_caldwell.108;– kezdett rá Reynard, –
+say.nr401_2_caldwell.110;"Állítsuk hadrendbe a kôhajítókat... Célozzák meg a nyugati falat, az a leggyengébb. Azt van a legnagyobb esélyünk áttörni."\n
+say.nr401_2_caldwell.112;"Az embereinknek szükségük lesz fedezékre"
+say.nr401_2_caldwell.114;– tette hozzá Gascon. –
+say.nr401_2_caldwell.116;"Nádat kell gyûjtenünk, majd fel kell gyújtanunk. A füst majd álcáz bennünket, eltakar minket a védôk szeme elôl."\n
+say.nr401_2_caldwell.118;"Helyes,"
+say.nr401_2_caldwell.120;– értett egyet a királynô, –
+say.nr401_2_caldwell.122;"most pedig lássanak munkához!"
+say.nr401_2_caldwell.124;A lyriaiak kékes színû füstben rohanták meg a rést, amit Reynard kôhajítói ütöttek a falon. Bár még hátra volt a megbocsátás, Meve-nek el kellett ismernie, hogy hadsegédei kiváló tanácsokkal látták el.
+say.nr401_2_caldwell.127;"Felség,... ha bátorkodhatom,..."
+say.nr401_2_caldwell.129;– szólt Reynard tétovázva, mintha már elôre tartana Meve válaszától.\n
+say.nr401_2_caldwell.131;"Mondja! Hallgatom."\n
+say.nr401_2_caldwell.133;"Nézze a nyugati falat. Moha borítja, feltehetôen befurakodta már magát a rothadás a kövek közé. Néhány sorozatnyi hajítás a katapultákból elégséges lehet."\n
+say.nr401_2_caldwell.135;"Hmm... Bizonyára nem árthat, ha próbát teszünk velük"
+say.nr401_2_caldwell.137;– felelte a királynô rövid mérlegelés után. –
+say.nr401_2_caldwell.139;"Adja ki a parancsot!"\n
+say.nr401_2_caldwell.141;A szeme nem csalta meg Reynardot. Tuzla várának valóban volt egy gyenge pontja. Már az elsô hajítás úgy döntötte le a nyugati falat, mint valami kártyavárat... A lyriai haderô pedig ádáz üvöltés kíséretében megrohamozta az újonnan támadt rést.
+say.nr401_2_caldwell.143;"Meve..."
+say.nr401_2_caldwell.145;– szólalt meg Gascon, –
+say.nr401_2_caldwell.146;"ne küldd vágóhídra az embereidet. Halaszd el az ostromot."\n
+say.nr401_2_caldwell.148;"Mégis miért?!"
+say.nr401_2_caldwell.150;– horkant fel a királynô. –
+say.nr401_2_caldwell.152;"Tán mert közeleg a tél, és befagy a láp?"\n
+say.nr401_2_caldwell.154;"Ôszintén? Ez egy biztos alternatíva lenne,... de én más megoldásra gondoltam. Mondd meg az embereidnek, hogy arassák le a nádat, majd gyújtsák fel az egészet. Egy kedvezô fuvallattal füstbe boríthatjuk az egész környéket,..."\n
+say.nr401_2_caldwell.156;"...és az erôd védôi kénytelenek lennének vaktában lôdözni. Helyes."\n
+say.nr401_2_caldwell.158;A lyriaiak kékes színû füst leple alatt rohanták meg a várat. Meve krákogott, könnybe lábadt a szeme, és semmit sem látott. Ám a terv nem volt hiábavaló. Caldwell íjászai bôszen lôdözték nyilaikat, ám rendre mellétaláltak. A királynô nemsokára elérte Tuzla várának falát...
+say.nr401_2_caldwell.161;Meve tanácsot kért hadmérnökétôl, Xaviertôl, akinek viszont fogalma sem volt arról, miképp javíthatna a lyriaiak esélyein. Nehéz szívvel ugyan, de Meve elrendelte a támadást. Tudta, hogy nagyok lesznek a veszteségeik,... de nem látott más lehetôséget.\n\n
+say.nr401_2_caldwell.163;Ahogy a katonáit nézte, amint keresztülvonszolják magukat a zavaros iszapon át a vár irányába, Meve megbánta ama döntését, miszerint szélnek eresztette Gascont és Reynardot. Bizonyára kieszeltek volna valamiféle tervet, eléje tártak volna valamilyen lehetôséget. De gyorsan elhessegette ezeket a gondolatokat. Az úgynevezett hadsegédei elárulták ôt, és azzal kiérdemelték a számûzetést. Ideje volt hát, hogy Caldwell gróf is megkapja jogos jussát...
+say.nr401_2_caldwell.165;A halál sokféleképpen eljöhet értünk, Gróf. Néha gyorsan,... néha lassan.
+say.nr401_2_caldwell.167;Lám, lám, hogy henceg és dicsekszik. Rettentô mód biztos magában. Talán túlságosan is!
+say.nr401_2_caldwell.169;A vára az enyém, a seregét eltapostam. Kijelenthetem hát, nem elbizakodottság ez részemrôl.
+say.nr401_2_caldwell.171;Pontosan errôl beszélek, hát nem látja? A Birodalom nem egyetlen hadsereg. Több tucatnyi, száznyi! Ezt próbáltam beleverni abba a konok fejébe. Talán túl ostoba ahhoz, hogy megérthette volna.
+say.nr401_2_caldwell.173;Amint megtudtam, hogy átlépte a Jarugát, erôsítésért küldettem. Hamarosan itt lesznek. Három ezred, állig felfegyverkezve. Ha-ha!
+say.nr401_2_caldwell.178;Egy lándzsára tûzve találják majd itt a hulláját. Én pedig addigra már messze járok.
+say.nr401_2_caldwell.180;Hahh. Azon tûnôdöm, vajon milyen úton.
+say.nr401_2_caldwell.184;Úgy tûnhet, hogy mindig a nilfgaardiaknál van az elôny, ám mindig megtalálom a módját, hogy visszaverjem ôket.
+say.nr401_2_caldwell.186;Ezúttal nem, Meve. Nilfgaardnál a számbeli fölény – minden emberére tíz birodalmi talpas jut.
+say.nr401_2_caldwell.188;Nem gyôzhet. És nem is menekülhet. Tudja, miért?
+say.nr401_2_caldwell.19;A katonák kimerülten és mocskosan álltak, többen köhögtek, és lebetegedtek az alultápláltság miatt. Ám az indulási parancstól új erôre kaptak. Élénk léptekkel és tûzben égô tekintettel meneteltek azt remélve, hogy kionthatják Caldwell beleit, és azoknál fogva lógathatják majd fel az erôdítmény falára.\n\n
+say.nr401_2_caldwell.190;Világosítson fel, legyen olyan kedves!
+say.nr401_2_caldwell.193;Egyetlen híd vezet Tuzlába. Én pedig elrendeltem a felégetését, amint hozzákezdett az ostromhoz.
+say.nr401_2_caldwell.195;A várat körülvevô mocsár túl mély ahhoz, hogy át lehessen kelni rajta. Megpróbálhatja újjáépíttetni a hidat, ám a birodalmi seregek még azelôtt ideérnek, hogy befejezhetnék azt. Az embereit a szeme láttára fogják levágni. Aztán pedig egyszerûen csak kitekerik a nyakát.
+say.nr401_2_caldwell.197;Az Ön helyében nem lennék ennyire elégedett. Nem fogja megérni, hogy lássa ezt a végkimenetelt.
+say.nr401_2_caldwell.199;Ezzel tisztában vagyok,... de bátorságot merítek az igazságból. Lehet, hogy elfoglalta a várat, és valószínûleg végez velem, de akkor is én nyerek.
+say.nr401_2_caldwell.20;"Régóta vártam már erre"
+say.nr401_2_caldwell.201;Túljártam az eszén, Meve. Immár másodjára. És tudja, mit? Még csak nem is volt túl nehéz.
+say.nr401_2_caldwell.205;Utolsó szavaival, a belôlük sütô gôggel és megvetéssel Caldwell túl messzire ment. A királynô megmarkolta a vállainál fogva, és taszajtott rajta egyet. Caldwell hátrafelé lépvén megbotlott, és átesett az ablakon. Vérfagyasztó sikoltás töltötte be a várudvart... Aztán a sikolyt mintha elvágták volna.\n
+say.nr401_2_caldwell.207;Meve felderítôi hamar megerôsítették az áruló által elmondottakat: a híd valóban lángokban állt, és nilfgaardi ezredek közeledtek déli irányból. Már csak azt kellett kideríteni, hogy valóban nem volt-e másik út, amelyen elmenekülhettek.\n\n
+say.nr401_2_caldwell.209;A királynô utasította az embereit, hogy kérdezôsködjenek a helyi parasztoktól. Egyikük, egy istállófiú, aki világéletében Tuzla közelében élt, állította, hogy titkos út indul az erôdítmény másik végébôl.
+say.nr401_2_caldwell.21;Meve számos tette halhatatlanná lett költemények és dalok által. Nem úgy Tuzla várának eleste. Lyriai harcolt lyriai ellen, testvér lett testvérnek gyilkosa esôben és sárban, egy elátkozott mocsár közepében. Semmi olyan nem volt benne, ami egy trubadúrt megihlethetett volna.\n\n
+say.nr401_2_caldwell.211;"Maga Ragbard király rendelte el a megépítését. Hatalmas köveket dobatott a mocsárba, egyiket a másik után,... mintha fonalra fûzött babszemek lennének. Némi víz borítja ôket, így nem látszik, honnan indul az ösvény. De ha nagyon lassan lépdel, azért ki lehet venni ôket. Uhh..."\n
+say.nr401_2_caldwell.212;"Mi az...?"\n
+say.nr401_2_caldwell.214;"A kövek... az Ysgithbe vezetnek. És ott, Úrnôm, még a Feketék seregeinél is rosszabb gonosz ólálkodik..."\n
+say.nr401_2_caldwell.216;"Micsoda? Valamiféle bestia?"\n
+say.nr401_2_caldwell.218;"Egyesek azt mondják, bestia... Mások azt, hogy istenség. Gernichora, így nevezik. És meglátja majd, Úrnôm, hogy az Ysgith vörösen fénylik a vérétôl."
+say.nr401_2_caldwell.219;Egy butácska kis mese, amivel a gyermekeket rémisztgetik – gondolta az elején Meve... Aztán elbizonytalanodott. Volt valami a férfi hangjában, amitôl minden szava hihetônek tetszett.\n\n
+say.nr401_2_caldwell.22;A csata végéhez közeledvén Meve megrohamozta a nagy erôdtornyot, ahová Caldwell menekült. A királynô csapást csapás után osztva, véres testeket hagyva maga után hágott fel a lépcsôkön. Amikor felért a legfelsô szintre, ott találta a grófot, aki úgy várt rá, hogy még csak nem is védte magát.
+say.nr401_2_caldwell.220;"Nem túl biztató... Mégis, inkább, mint a biztos halál. Mondd, az Ysgithbôl eljuthatunk a Jaruga partjára? Rôtlobinden közelébe, esetleg?"\n
+say.nr401_2_caldwell.222;"Igen, Felség. Nem kell mást tenniük, mint északnak tartani... És egész úton imádkozni."
+say.nr401_2_caldwell.224;Nemsokára Meve ott állt, ahová a lovászfiú irányította: egy végeláthatatlan láp szélén. Egyik lábát óvatosan belemerítette a mocskos szennylébe, és próbált szilárt talajra lelni benne. Rövidesen követ érzett a talpa alatt. Egy elôvigyázatosan megtett lépés, aztán egy másik... Meve lassan lábalt az Ysgith felé.
+say.nr401_2_caldwell.23;Ha a kegyelmemre számít, akkor fájdalmasan csalódni fog.
+say.nr401_2_caldwell.24;Kegyelemre? Ahhoz túlságosan is jól ismerem már, Meve. Mindig bosszúszomjas és könyörtelen.
+say.nr401_2_caldwell.25;Mondja ezt a lovagi erények mintaképe. Hátba szúrt, Caldwell. És ehhez Villemet használta fel! A fiamat!
+say.nr401_2_caldwell.26;Aki ebbe egy pillanatnyi habozás nélkül beleegyezett! A saját fia hagyta cserben. A saját húsa és vére! Mit mond el mindez Önrôl?
+say.nr401_2_caldwell.27;Ó, vékony jégen táncol. Javaslom, óvatosan válogassa meg a következô szavait...
+say.nr401_2_caldwell.28;Kíméljen meg a fenyegetéseitôl. Így is, úgy is végez velem.
+say.nr401_2_caldwell.30;Az egyik ilyen kényszerpihenô során hallotta meg Meve azokat a szavakat, amiket már régóta vágyott hallani...\n
+say.nr401_2_caldwell.301;Meve leporolta a kezeit. Az áruló elnyerte méltó jutalmát. De nem most volt itt az ideje örülni a gróf végzete fölött... Ha Caldwell igazat beszélt, akkor a királynô és serege nagy veszélyben forgott.
+say.nr401_2_caldwell.302;"Most próbálj meg harmadjára is túljárni az eszemen."\n\n
+say.nr401_2_caldwell.32;"Felség, Tuzla vára! A tornyát – látom a tornyát!"
+say.nr401_2_caldwell.34;Katonái legnagyobb ámulatára Meve letépte magáról az alkarvédôit, és nekirugaszkodott a legközelebbi fatörzsnek. A saját szemével akarta látni a várat, hogy tudja, valóban közel már az édes bosszú.
+\n
+say.nr401_2_caldwell.36;Nem volt egyszerû felhágni a fa törzsén, ugyanis az csúszós volt, és az ágak, amiket átjárt a rothadás, pedig törékenyek. Ennek ellenére Meve fürgének és ügyesnek bizonyult. Gyerekként imádott fára mászni, amivel a pesztráját minduntalan a rémületbe kergette.
+say.nr401_2_caldwell.38;Meve egy irdatlan nagy tornyot látott az égbolt elôterében magasodni. A legenda úgy tartja, hogy Tuzla várának eredetileg három bástyája volt. De Ragbard király, az erôd építtetôje felhagyott a grandiózus tervvel, amikor Angren mocsaras útjai egyik kôszállítmányt nyelték el a másik után.\n\n
+say.nr401_2_caldwell.39;Egy nyugodt pillanat, egy pillanatnyi csendes öröm volt ez Meve számára. {audio=nr401_2_caldwell_meve_breath}Mélyet lélegzett, magába szívta az ingovány bûzétôl mentes levegôt, kiélvezte a szúnyogok zümmögésétôl mentes csöndet. És kiélvezte a kilátásait: a Caldwell elleni közelgô leszámolást.
+say.nr401_2_caldwell.55;Meve megint a Tuzla vára melletti erdôbe találta magát. Az emberei készenlétben álltak, várakozásteljesen néztek rá...
+say.nr401_2_caldwell.59;– mondta a királynô. –
+say.nr401_2_caldwell.61;"De ez nem elég ok arra, hogy kapkodjunk. Végtére is, a bosszú hidegen tálalva a legjobb."\n
+say.nr401_2_caldwell.63;A királynô halogatta a támadást... De csak egy rövid ideig.
+say.nr401_2_caldwell.64;Mégis, ahogy a várhoz közeledtek, és felkaptattak egy nagyobb sziklaplatóra, a hevületük megtört, a lelkesedésük alábbhagyott. Bevettek már vastagabb falak kerítette, magasabb tornyok alkotta és több ember által védett erôdítményeket. De nem láttak, s nem is ostromoltak még erôdöt, ami ily faramuci módon állt ki a környezô vidékbôl. Egyáltalán lehetséges derékig érô lápvízben megrohanni a bástyákat?
+title.nr401_2_caldwell.296;Bosszúnak ideje
+title.nr401_2_caldwell.459;Bosszúnak ideje
+title.nr401_2_caldwell.460;Bosszúnak ideje
+

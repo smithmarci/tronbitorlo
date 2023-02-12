@@ -1,0 +1,31 @@
+menu.nr402_1_fleeing_druids.39;Ha úgy kívánjátok, velünk tarthattok.
+menu.nr402_1_fleeing_druids.40;Biztonságos utat neked és a társaidnak.
+say.nr402_1_fleeing_druids.1;A lyriai menetoszlop minden látható ok nélkül egyszer csak megállt. Meve felágaskodott a kengyelben, hogy lássa, mi akadályozza a haladásukat. Úgy tûnt, valami nagy állja el az útjukat. Egy villám sújtotta fa, esetleg egy hátrahagyott szekér – gondolta a királynô.\n\n
+say.nr402_1_fleeing_druids.11;– felelte a királynô, és gyanakvón nézett farkasszemet a karcsú idegennel. –
+say.nr402_1_fleeing_druids.13;"De tégy úgy. Egy próbát megér."\n\n
+say.nr402_1_fleeing_druids.15;A szôke hajú leány leguggolt a kô mellé, lehunyta a szemét, és suttogni kezdett. A lovak felnyerítettek, és rángatni kezdték a zabláikat, egy kutya felvonított a távolban. Aztán... a szikla úgy gördült félre, mint egy alma egy tengeren hánykolódó hajó padlatán.
+say.nr402_1_fleeing_druids.17;"Ki vagy te? Áruld el."\n
+say.nr402_1_fleeing_druids.19;"Egy druida"
+say.nr402_1_fleeing_druids.21;– jött a higgadt válasz. –
+say.nr402_1_fleeing_druids.23;"Ez a kô... a körünkben állt."\n
+say.nr402_1_fleeing_druids.25;A nô csöndben az erdô irányába fordult. Meve követte a tekintetét, és észrevette, hogy a fák között még több hatalmas kô fekszik – mind széthasadva és megperzselôdve.
+say.nr402_1_fleeing_druids.27;"Mi történt itt?"\n
+say.nr402_1_fleeing_druids.29;"Visszautasítottuk a nilfgaardiak segítségét"
+say.nr402_1_fleeing_druids.3;Akár ezek valamelyike is lehetett volna. De nem. Egy pajta méretû sziklatömb hevert az ösvényen. A talpasok köteleket vetettek átal rajta, megvetették a lábukat, és próbálták arrébb mozdítani. Ám az meg sem mozdult.
+say.nr402_1_fleeing_druids.31;– felelte a druida. –
+say.nr402_1_fleeing_druids.33;"Ezért elpusztították a szent helyeinket. Talán... ez áldás is számunkra."\n
+say.nr402_1_fleeing_druids.35;"Áldás? Mi módon?"\n
+say.nr402_1_fleeing_druids.37;"Nem is olyan rég sötétség ereszkedett Angrenre,... és egyre csak növekszik. Az erdô elvadult, a teremtményei megrészegülnek a vértôl. A népek más, kegyetlen isteneket kezdtek el imádni. Ideje, hogy elhagyjuk ezt a földet, és délnek induljunk. Caed Myrkvidbe."
+say.nr402_1_fleeing_druids.43;"A mi utunk is délre visz. Bár nem annyira messzire"
+say.nr402_1_fleeing_druids.45;– mondta a királynô. –
+say.nr402_1_fleeing_druids.47;"Csatlakozhattok hozzánk. Manapság minél többen vagyunk, annál biztonságosabb."\n
+say.nr402_1_fleeing_druids.49;A druidák egyetértettek,... és hálásak voltak. Arcukat csuklyával takarták el, és imát mormoltak, miközben a menetoszlop végére sétáltak.
+say.nr402_1_fleeing_druids.5;"Talán én a segítségetekre lehetek."\n
+say.nr402_1_fleeing_druids.50;"Hosszú út áll elôttetek,"
+say.nr402_1_fleeing_druids.52;– mondta a királynô, –
+say.nr402_1_fleeing_druids.54;"hát nem tartalak fel benneteket. Biztonságos utat kívánok neked és társaidnak."\n
+say.nr402_1_fleeing_druids.56;A druida mélyen meghajolt, majd fordult, és elindult a fák irányába. Meve-nek a szája is tátva maradt csodálkozásában, ahogy a bozótos zizegve szétnyílt, hogy utat adjon a vándoroknak...
+say.nr402_1_fleeing_druids.7;Meve a hang hallatán megfordult a nyeregben. Fakó köpönyeges utazók léptek elô nagy óvatosan a fák közül. Egy hosszú, világos hajú fiatal nô vezette ôket.\n
+say.nr402_1_fleeing_druids.9;"Nem úgy festesz, mint egy kövitroll"
+title.nr402_1_fleeing_druids.301;Megtört kör
+

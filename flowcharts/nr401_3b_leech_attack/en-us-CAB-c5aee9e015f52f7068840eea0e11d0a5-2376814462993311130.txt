@@ -1,0 +1,18 @@
+say.nr401_3b_leech_attack.1;A lyriai sereg eljutott Ysgith szívébe. Minden faágról, indáról és cserjérôl piócák és kullancsok csüngtek tucatszámra. Vértôl felpüffedt testük csak úgy csillogott, vörösen derengett a párás levegôben.\n\n
+say.nr401_3b_leech_attack.10;"Zárkózz!"\n
+say.nr401_3b_leech_attack.12;A lyriaiak gyorsan összezártak, pajzsfalat formáltak, és a mögé húzódtak. Elborzadva bámulták, amint rengeteg szempár szegezôdik rájuk az ágak közül, és visszataszító, mocsok-borította szörnyek emelkednek ki a csobogó vízbôl. Meve némán elmotyogott egy imát: "Éltetünk Téged, Melitele, Jóságos Anya, Szûzleány és Vénasszony, végy bennünket pártfogásodba...
+say.nr401_3b_leech_attack.18;Az Ysgithben vívott csatából Meve csak nagyon kevésre emlékezett. Az egész egy rémálomnak tûnt – a részletei ködösnek, az élmények túlságosan is valóságosnak. A sûrû ködben eszelôs módjára küzdött, elkeseredetten csépelte a minden irányból ellene törô borzalmak hadát.\n\n
+say.nr401_3b_leech_attack.24;Végül csend ereszkedett a lápra, háborgó vizei elsimultak. A kullancsoknak és piócáknak csak a hûlt helyük maradt, miközben Gernichora a rothadó levelek között feküdt, véresen és mozdulatlanul... Ennek ellenére még mindig rettenetesen.
+say.nr401_3b_leech_attack.26;"Égessétek el a holttesteket"
+say.nr401_3b_leech_attack.28;– recsegte a királynô, –
+say.nr401_3b_leech_attack.3;A levegô annyira bûzös volt, hogy Meve émelyegni kezdett. Megállt egy moha-lepte sziklatömb mellett, és kipirult homlokát a hideg kôhöz nyomta. Sápadt, koszos és kimerült katonái elmentek mellette. Szeretett volna mondani nekik valamit, amivel lelket önthetett beléjük, ám helyette csak köhögés tört fel a mellkasából.
+say.nr401_3b_leech_attack.30;"aztán továbbmegyünk!"\n
+say.nr401_3b_leech_attack.32;A katonák csak ide-oda pillantgattak némán. Meve-nek is idôbe telt, mire rájött, hogy az emberei még mindig rettegnek. És bár a szörny teste élettelenül feküdt a földön, nem mertek közelíteni hozzá.
+say.nr401_3b_leech_attack.34;Ha újfent kiadja a parancsot, végrehajtották volna. De nem kívánta erôltetni. Viszolygását leküzdve egy fáklyával a kezében odasétált Gernichora teteméhez, és felgyújtotta azt. {audio=nr401_3b_Leech_attack_gernichora_burns}A levegôt hamarosan betöltötte az égett haj és hús fullasztó bûze, szikrák pattantak, ahogy az olvadó zsír lángra kapott... Végül nem maradt más a Véres Úrnô után, csak az elfeketedett csontok.\n\n
+say.nr401_3b_leech_attack.5;Hirtelen csobbanások hallatszódtak Meve körül a vízben. Mintha ökölnyi cseppekben kezdett volna esni az esô. A királynô elgyötörten nézett fel. És ekkor, mintegy parancsszóra, kullancsok és piócák kezdtek belepotyogni a meleg, levesként kavargó vízbe, aztán esetlen izgés-mozgással nekiindulni egy kiszáradt égerfa irányába. Meve azonnal tudta, mi ólálkodik a fák között. Gernichora, Ysgith úrnôje, Ysgith királynôje.
+say.nr401_3b_leech_attack.7;"Fegyvereket készenlétbe!"
+say.nr401_3b_leech_attack.8;– harsogta a királynô. –
+say.nr401_3b_leech_attack.878;A lyriaiak folytatták útjukat a Jaruga partja irányába. Úgy kellett kényszeríteniük megfáradt lábaikat, hogy tartani tudják az iramot,... és egyetlen pillantást sem vetettek mindarra, amit maguk mögött hagytak.
+title.nr401_3b_leech_attack.299;A Véres Úrnô
+title.nr401_3b_leech_attack.306;A Véres Úrnô
+

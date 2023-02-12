@@ -1,0 +1,10 @@
+say.nr401_3b_leech_attack_combat.1;Minden élô istenre... Mindenki, ide hozzám!
+say.nr401_3b_leech_attack_combat.11;Ne veszítsétek el a hiteteket! Mindig hajnal elôtt van a legsötétebb!
+say.nr401_3b_leech_attack_combat.15;Milyen gyorsan átbillen a mérleg!
+say.nr401_3b_leech_attack_combat.16;Ezeket a rettenetes szörnyeket le lehet vágni! Felül lehet rajtuk kerekedni!
+say.nr401_3b_leech_attack_combat.17;Ne feledjétek: az indokolatlan önhittség lassan és alattomosan öl.
+say.nr401_3b_leech_attack_combat.3;Azt... Azt hiszem, ez megdöglött.
+say.nr401_3b_leech_attack_combat.5;Felség,... ezek az élôsködôk,... a vérünkbôl táplálkoznak!
+say.nr401_3b_leech_attack_combat.7;Figyeljetek, hová léptek! Mély ez a mocsár!
+say.nr401_3b_leech_attack_combat.9;Az istenek legyenek könyörületesek... Mind meghalunk!
+

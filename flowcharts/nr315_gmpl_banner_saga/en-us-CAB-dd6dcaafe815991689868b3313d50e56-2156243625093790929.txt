@@ -1,0 +1,3 @@
+say.nr315_gmpl_banner_saga.2;Fagyott minden,... csak a lobogó rezzen, lengeti a szél.
+say.nr315_gmpl_banner_saga.3;Egyenesen költôi. Kiváló alapanyag egy balladához, ha nem egy egész szágához...
+

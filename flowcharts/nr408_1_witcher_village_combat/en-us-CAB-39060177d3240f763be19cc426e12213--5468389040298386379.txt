@@ -1,0 +1,4 @@
+say.nr408_1_witcher_village_combat.1;Közelednek! Úgy tûnik, igazad volt...
+say.nr408_1_witcher_village_combat.3;Ez volt az utolsó. Talán nyugtunk lesz... egy kis ideig.
+say.nr408_1_witcher_village_combat.5;Erôs mágiát érzek, Úrnôm. Valami irányítja ezeket a teremtményeket.
+

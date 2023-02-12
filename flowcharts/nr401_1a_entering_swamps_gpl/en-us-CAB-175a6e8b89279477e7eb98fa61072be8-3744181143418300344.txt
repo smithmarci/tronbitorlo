@@ -1,0 +1,6 @@
+say.nr401_1a_entering_swamps_gpl.1;Semmi kétség: elbûvölô ez a vidék, amin aztán a Feketék hagyták, hogy Caldwell gróf erôszakot tegyen.
+say.nr401_1a_entering_swamps_gpl.11;És én sem teszem. Semmi esetre sem.
+say.nr401_1a_entering_swamps_gpl.7;Valóban gyönyörû ajándék, amit Caldwell nem utasíthatott vissza. Úgy tûnik, aep Dahy meg kívánt szabadulni a gróftól, hogy egymaga uralkodhasson Lyriában...
+say.nr401_1a_entering_swamps_gpl.8;Kíváncsi lennék, min kaptak hajba...
+say.nr401_1a_entering_swamps_gpl.9;Caldwell Villemen keresztül szerette volna gyakorolni a hatalmat. Ebbôl viszont kevés haszna származott Nilfgaardnak, így a tábornok ezt bizonyára nem hagyta jóvá.
+

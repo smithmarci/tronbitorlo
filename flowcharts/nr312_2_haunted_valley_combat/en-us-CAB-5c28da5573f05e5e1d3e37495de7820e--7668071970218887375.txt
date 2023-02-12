@@ -1,0 +1,4 @@
+say.nr312_2_haunted_valley_combat.1;A telepeseket védjétek!
+say.nr312_2_haunted_valley_combat.3;Valószínûleg ez volt az utolsó. Most már biztonságos.
+say.nr312_2_haunted_valley_combat.5;Egyet se féljetek! Megvédelmezlek benneteket!
+

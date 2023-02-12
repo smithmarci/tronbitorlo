@@ -1,0 +1,33 @@
+menu.nr410_1_nilfgaardian_chase.19;Hagyod távozni a Feketéket.
+menu.nr410_1_nilfgaardian_chase.20;Megtámadod az ellent.
+say.nr410_1_nilfgaardian_chase.1;Caldwell erôsítést kért Nilfgaardból. Meve feltételezte, hogy nincsenek mögöttük sokkal lemaradva. Mégis, a kíméletlen terep miatt a nilfgaardiak nem remélhették, hogy egy teljes hadosztály elmanôvezerhet itt, és elzárhatja elôlük a menekülés útját. Ennek ellenére kisebb könnyûlovassági és -gyalogsági különítmények könnyedén megtehették ezt.\n\n
+say.nr410_1_nilfgaardian_chase.10;"Igaz, de jelentôs erôfölényben vagyunk."\n
+say.nr410_1_nilfgaardian_chase.12;"Valóban. Ha harcra kerül sor, minden bizonnyal gyôznek. De ebben az átkozott mocsárban minden seb elfertôzôdik, a hús hamar rothadásnak indul. Többeket fog elveszíteni azoknál, mint akiket a harc közben ér el a vég."\n
+say.nr410_1_nilfgaardian_chase.14;"Hm. Mire gondol pontosan?"
+say.nr410_1_nilfgaardian_chase.16;"Váljunk el egymástól békésen. Háború dúl, lesz még rá alkalom, hogy harcoljunk. Talán épp egymással. De ne itt,... és ne így."
+say.nr410_1_nilfgaardian_chase.17;Hirtelen elbizonytalanodván a királynô mérlegelte a tiszt szavait. Az érvelése kikezdhetetlen volt,... bár könnyen lehetett mindez egy csel része.\n
+say.nr410_1_nilfgaardian_chase.23;"Legyen így. Elfogadom a javaslatát."
+say.nr410_1_nilfgaardian_chase.25;– válaszolta Meve némi gondolkodás után. –
+say.nr410_1_nilfgaardian_chase.27;"Majd egy másik napon mérjük össze az erôinket. Tiszta égbolt alatt, szilárd talajon állva."\n
+say.nr410_1_nilfgaardian_chase.29;"Remélem, tartja a szavát, Felség"
+say.nr410_1_nilfgaardian_chase.3;Ezért amikor fekete páncélos emberek bukkantak elô a ködbôl, a királynô nem volt meglepve. Utasította a csapatait, hogy sorakozzanak fel, rendezôdjenek alakzatba, és védjék az arcvonalat.
+say.nr410_1_nilfgaardian_chase.31;– felelte a nilfgaardi, majd felemelte a kezét, és tisztelgett.\n\n
+say.nr410_1_nilfgaardian_chase.310;– kérdezte a királynô összeszûkûlt tekintettel és oldalra döntött fejjel.\n
+say.nr410_1_nilfgaardian_chase.33;A visszavonuló birodalmiak elsétáltak a lyriaiak mellett. A keskeny ösvényen a vállaik már-már összeértek. Meve katonái összevont szemöldökük alól fixírozták az ellent, tekintetük egészen addig rájuk szegezôdött, amíg azok el nem tûntek az erdôben. Aztán mindannyian megkönnyebbülten sóhajtottak fel.
+say.nr410_1_nilfgaardian_chase.36;"Én másképp látom a dolgot"
+say.nr410_1_nilfgaardian_chase.38;– mondta Meve ravasz mosollyal az arcán. –
+say.nr410_1_nilfgaardian_chase.40;"Eltaposunk benneteket most, és késôbb ennyivel is kevesebbel kell megküzdenünk."\n
+say.nr410_1_nilfgaardian_chase.42;"Biztosnak tûnik magában, Úrnôm."\n
+say.nr410_1_nilfgaardian_chase.44;"Hadd mutassam meg, miért. Támadjatok!!!"\n
+say.nr410_1_nilfgaardian_chase.46;Meve odacserdített a lovának a gyeplô végével, és egyenest a parancsnokra és annak seregére rontott.
+say.nr410_1_nilfgaardian_chase.5;Ám a támadás nem következett be. A megszállók mozdulatlanul, csöndben várakoztak,... így Meve jobban szemügyre vehette ôket. Görnyedt volt a tartásuk, az arcuk hamuszürke, bizonytalan a léptük, és sebek borították ôket. Ysgith ugyanolyan könyörtelenül bánt velük, mint bárki mással.\n\n
+say.nr410_1_nilfgaardian_chase.62;Sûrû ködben és eltorzult, bütykös törzsû fák között zajlott le az összecsapás. Miután a csata utolsó zaja is elhalt, Meve nem volt bizonyos abban, hogy melyik fél gyôzedelmeskedett. Aztán kimerült és sebesült katonák szállingóztak elô az erdôbôl, mosollyal az arcukon. Mikor meglátta, hogy az övéi azok, csak akkor tudta, hogy a gyôzelem is az övé lett.\n\n
+say.nr410_1_nilfgaardian_chase.64;De az idô nem volt alkalmas az ünneplésre. Hagyta, hogy mind kifújják magukat, aztán kiadta a parancsot az indulásra. Egy nagyobb nilfgaardi haderô volt a nyomukban, és azzal, hogy a csata feltartóztatta a királynôt és seregét, a nilfgaardiak jócskán lefaragtak a hátrányukból.
+say.nr410_1_nilfgaardian_chase.65;"Felség..."
+say.nr410_1_nilfgaardian_chase.67;– hangzott fel Xavier köszörülô hangja Meve háta mögül. –
+say.nr410_1_nilfgaardian_chase.69;"Nem engedhetjük, hogy továbbmenjenek. Eddig csak bajt okoztak,... és nem hagynak fel vele csak azért, hogy aztán hazamenjenek."
+say.nr410_1_nilfgaardian_chase.7;Nyergében imbolyogva a parancsnokuk kitört az alakzatból. Elôre lovagolt, és a közös nyelvet folyékonyan beszélve megszólította a királynôt.
+say.nr410_1_nilfgaardian_chase.8;"Az embereim egyik fele sérült, a másik pedig beteg. Az Ön csapatai sincsenek jobb állapotban."\n
+title.nr410_1_nilfgaardian_chase.309;Az üldözés
+title.nr410_1_nilfgaardian_chase.318;Az üldözés
+

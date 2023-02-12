@@ -1,0 +1,14 @@
+say.nr401_4_battle_for_the_bridge_combat1.1;Védjétek a királynôt! Lyriáért!!!
+say.nr401_4_battle_for_the_bridge_combat1.11;Oda az egyik fogam... A jó durva anyját!
+say.nr401_4_battle_for_the_bridge_combat1.13;Felség! A katonáink,... megfutnak!
+say.nr401_4_battle_for_the_bridge_combat1.15;Felség! A katonáink,... menekülôre fogták!
+say.nr401_4_battle_for_the_bridge_combat1.17;Zavar támadt közöttük! Gloir aen Ard Feain!
+say.nr401_4_battle_for_the_bridge_combat1.19;Ne lôjetek, ne lôôôjetek! Barátok vagyunk, nem ellenség!
+say.nr401_4_battle_for_the_bridge_combat1.21;A fenébe...! Csak egyre jobb és jobb lesz...
+say.nr401_4_battle_for_the_bridge_combat1.23;A hídhoz! Vágjunk utat magunknak! Támogassuk meg a védelmüket!
+say.nr401_4_battle_for_the_bridge_combat1.27;Meghátrálni! Veloë!
+say.nr401_4_battle_for_the_bridge_combat1.3;Működött! Ez tényleg bejött! Visszavonulnak!
+say.nr401_4_battle_for_the_bridge_combat1.5;Lehet, hogy ma meghalunk,... de nem négykézláb, mint a kutyák!
+say.nr401_4_battle_for_the_bridge_combat1.7;Ááárghhh!!!
+say.nr401_4_battle_for_the_bridge_combat1.9;Felség! Ne!!!
+

@@ -1,0 +1,4 @@
+say.nr405_1_sunken_ruins_combat.1;Ide, hozzám! Nem ezen a napon fogunk meghalni!
+say.nr405_1_sunken_ruins_combat.3;Azt hiszem, ez volt az utolsó, de azért tartsátok készenlétben a fegyvereiteket.
+say.nr405_1_sunken_ruins_combat.5;Olyan sötét és nyirkos... Miért van mindenütt, ahová megyünk, sötét és nyirkos?
+

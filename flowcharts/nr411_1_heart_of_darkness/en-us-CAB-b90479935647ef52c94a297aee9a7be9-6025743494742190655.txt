@@ -1,0 +1,63 @@
+menu.nr411_1_heart_of_darkness.132;Dörömbölsz a kapun.
+menu.nr411_1_heart_of_darkness.133;Visszavonulsz.
+menu.nr411_1_heart_of_darkness.34;Elfogadod a meghívást, és fogadalmat teszel.
+menu.nr411_1_heart_of_darkness.35;Elvezeted a seregedet Gerwin erôdjétôl.
+menu.nr411_1_heart_of_darkness.4;Dörömbölsz a kapun.
+menu.nr411_1_heart_of_darkness.5;Visszavonulsz.
+menu.nr411_1_heart_of_darkness.74;Kiszabadítod a parasztokat.
+menu.nr411_1_heart_of_darkness.75;Tiszteletben tartod a fogadalmadat, és nem avatkozol bele.
+say.nr411_1_heart_of_darkness.1;Angrenben minden az enyészeté lesz, legyen az halott, vagy épp nagyon is élô. A korhadás pusztítja a fákat, a sebekbe beszivárgó rothadás kínozza az állatokat, és az egész lápot áthatja a bomlás édeskés, fanyar, fojtogató bûze.\n\n
+say.nr411_1_heart_of_darkness.107;Bár sánta volt, Gerwin zsoldos is volt egykoron. Keményen harcolt, jól küzdött,... mégsem lehetett ellenfél Meve számára.{audio=nr411_1_heart_of_darkness_gerwin_dies} Miután kiütötte a kezébôl a fejszéjét, a férfi térdre hullt, és a királynô egy suhintással a fejét vette. Az úgy gurult el a földön, mint egy tök, majd megállt az egyik paraszt lábai elôtt.\n
+say.nr411_1_heart_of_darkness.109;"Mostantól szabadok vagytok"
+say.nr411_1_heart_of_darkness.111;– zihálta Meve, és letörölte a kardja pengéjét. –
+say.nr411_1_heart_of_darkness.113;"Mégsem lesz nyugtotok. Nilfgaard elért Angrenig, a Feketék is megérkeznek hamarosan. Mindaddig, amíg az Aranyló Napkorong ragyog a mocsárvidék fölött, keressetek menedéket az erdôkben!"
+say.nr411_1_heart_of_darkness.115;Meve serege hajnal elôtt hagyta el az erôdöt. A királynô a menetoszlop élén lovagolt, összezárt ajkakkal, összeszorított állkapoccsal... Folt esett a becsületén – megszegte az adott szavát. Ez a bestia, a többivel ellentétben, belülrôl marcangolta.
+say.nr411_1_heart_of_darkness.118;"Kinek a lobogója van kitûzve rá? Kiét láttátok?"
+say.nr411_1_heart_of_darkness.119;– tudakolta a királynô.\n
+say.nr411_1_heart_of_darkness.12;Meve a pajzsával jó néhányszor megdöngette a kaput. Pár pillanattal késôbb tucatnyi fegyveres jelent meg a sánc tetején, köztük a vezérük, egy szakállas fickó...
+say.nr411_1_heart_of_darkness.121;"Senkiét, Felség. Se egy Aranyló Napkorong, se egy ezüst ruta sehol."
+say.nr411_1_heart_of_darkness.134;Meve visszatért a magányosan álló erôdhöz, ám az okáról senkinek nem beszélt...
+say.nr411_1_heart_of_darkness.14;Ki vagy te? És mit keresel itt?
+say.nr411_1_heart_of_darkness.143;"Nem, Felség!"
+say.nr411_1_heart_of_darkness.150;– kiáltotta Deneslei Eyck. –
+say.nr411_1_heart_of_darkness.152;"Nincs ez így rendjén! Nem hagyom itt a parasztokat ezeknek a vadállatoknak a kezén!"\n
+say.nr411_1_heart_of_darkness.154;Eyck kivonta kardját, és egyetlen hatalmas csapásával Gerwin két katonáját vágta le. S mert inkább félték Gerwin haragját, a többiek aztán nem vártak parancsra, hanem azonnal lyriai vendégeikre vetették magukat...
+say.nr411_1_heart_of_darkness.18;Meve vagyok – Lyria és Rívia királynôje. A Nilfgaard ellen vívott háború hozott bennünket ebbe a mocsárba.
+say.nr411_1_heart_of_darkness.20;Háború dúl odakint? He-he. Micsoda újság...! De kevéssé érdekes számomra. A nevem Gimpy Gerwin, és én uralkodok e földek fölött.
+say.nr411_1_heart_of_darkness.22;Így volna? Ki ruházta rád ezt a hatalmat?
+say.nr411_1_heart_of_darkness.24;Jómagam! Ha-ha! Angren egy pöttyet nagyobbacska, mint azt a népek gondolják. És nincs az a herceg vagy császár, akinek a keze elérne minden szegletébe. Ezért hát fogtam magam, és kisajátítottam ezt a kis zugot.
+say.nr411_1_heart_of_darkness.3;Így amikor a mocsár egy távoli zugában füst és sült hús szaga csiklandozta meg a lyriaiak orrát, tüstént lecövekeltek. A felderítôk az illatokat követve értek el egy palánkkal körülvett tisztáshoz. A cölöpök közötti réseken át egy kisebb erôdöt pillantottak meg odabent.\n
+say.nr411_1_heart_of_darkness.30;Szóval beszélgessünk, Meve – mint egyik uralkodó a másikkal. Meglehet, nyers leszek, de teszek rá, hogy ki nyeri ezt a háborút. Viszont legyen az bárki is, azzal jó viszonyt akarok ápolni.
+say.nr411_1_heart_of_darkness.311;Ezért helyet kínálok nektek a tüzemnél, ahol megmelengethetitek a végtagjaitokat. Helyet az asztalomnál, és ágyat, hogy kipihenhessétek magatokat. Azzal a feltétellel, hogy megesküszöl egy aprócska dologra: hogy tiszteletben fogod tartani a vendégszeretet ôsi törvényeit.
+say.nr411_1_heart_of_darkness.312;Meve egy különös, a férfi nyaka köré vetett zsinegrôl lelógó tárgyra lett figyelmes... {audio=nr411_1_heart_of_darkness_hand_impact}Egy félig a csontig rohadt emberi kézfejre.\n
+say.nr411_1_heart_of_darkness.38;Soha nem szegem meg a fogadalmaimat... Nem utolsó sorban azért, mert ritkán teszek esküt bármire is. Egyáltalán nem ismerlek téged, Gerwin, és nem szavazok egykönnyen bizalmat senkinek. Ezért nem fogadhatom el a meghívást, bár értékelem a gesztust.
+say.nr411_1_heart_of_darkness.44;Meve döntése elégedetlenséggel töltötte el csapzott és éhes harcosait. A nap hátralevô részében kelletlenül vánszorogtak csak, és mindig találtak rá valamilyen indokot, hogy lassítsák a haladásukat, vagy megállítsák a menetet.
+say.nr411_1_heart_of_darkness.45;Ám legyen... Ezennel ünnepélyesen megfogadom, az istenek és ôseim színe elôtt, hogy tiszteletben fogjuk tartani a vendégszeretet ôsi törvényeit.
+say.nr411_1_heart_of_darkness.51;Hi-hi-hí! Akkor hát legyetek üdvözölve odabent!
+say.nr411_1_heart_of_darkness.55;Az erôd egyszerû volt, rönkökbôl emelték, és csak nádtetô fedte. De odabent, ó,... meleg volt és száraz. Forrón gôzölgô tányérok voltak ott tálcákra halmozva, az asztalok berogytak az étkek súlya alatt. Mosoly terült szét a katonák elgyötört arcán, és végre Meve is jobb kedvre derült.
+say.nr411_1_heart_of_darkness.56;Gerwin szívélyes házigazdának bizonyult, nem csak az ételét osztotta meg velük, hanem a történetét is. Annak idején egy zsoldosokból álló csapatot vezetett, amikor egyszer Angrenbe vetette ôket a sors. Mert úgy találták, hogy nincs hûbérura e vidéknek, erôdöt emeltek, aztán a vezér az uralma alatt egyesítette a környezô falvakat.\n
+say.nr411_1_heart_of_darkness.58;"A népek errefelé vadak, dacosak,"
+say.nr411_1_heart_of_darkness.60;– mondta, miközben a borát kortyolgatta. –
+say.nr411_1_heart_of_darkness.62;"A saját érdekükben rövid pórázon tartom ôket. Máskülönben az elsô adandó alkalommal elvágnák a torkotokat!"
+say.nr411_1_heart_of_darkness.64;Késôbb azon az éjszakán Meve elindult, hogy megnézze, rendesen ellátták-e a lovát. Az istállóban belebotlott Gerwin egyik béresébe, aki, felismervén a királynôt, azonnal térdre rogyott, és lesütötte a tekintetét.\n\n
+say.nr411_1_heart_of_darkness.66;"Mi... mi az ott?"
+say.nr411_1_heart_of_darkness.67;"A feleségem keze, Felség"
+say.nr411_1_heart_of_darkness.69;– dadogta a paraszt. –
+say.nr411_1_heart_of_darkness.71;"Lord Gerwin azon kapta, hogy elcsent valamit – pusztán csak ételmaradékot... Levágta a kezét, nekem meg meghagyta, hogy viseljem, így mindig emlékezni fogok rá, mi történik ha... ha..."
+say.nr411_1_heart_of_darkness.73;Meve szó nélkül hagyta el az istállót, és egyenesen a szolgálók szállására ment. Fáklyája halovány fényében nézte meg magának jobban a parasztokat: azok rémültek voltak, és friss, még vérzô sebek borították ôket. A királynô érezte, ahogy felhorgad benne a düh...
+say.nr411_1_heart_of_darkness.78;A királynô a kardjáért nyúlt... De fogadalmat tett, ezért a keze megállt a markolaton. Gerwin kegyetlen volt, és büntetést érdemelt,... de Meve nem szándékozott kimérni rá azt.\n\n
+say.nr411_1_heart_of_darkness.8;Meve úgy határozott, hogy tisztes távolságot tart az erôdítménytôl. Valószínûtlennek tûnt, hogy a palánkvár lakói örömmel fogadnák ôt és seregét.
+say.nr411_1_heart_of_darkness.80;A királynô megfújta a kürtjét, felébresztve ezzel az embereit szunyókálásukból. Parancsot adott a gyülekezôre és az azonnali indulásra. Gerwin is zavartan jött elô, és azt firtatta, hogy mi a fennforgás tárgya. Meve nem válaszolt, csak a csizmája elé köpött.\n
+say.nr411_1_heart_of_darkness.81;A királynô megfújta a kürtjét. Lyriai katonák özönlötték el az udvart. Sebesen öltötték magukra a vértjeiket és csatolták fel kardjukat. Nem ismervén Meve szándékait Gerwin emberei hasonlóképp cselekedtek, és készenlétben álltak, fegyverrel a kezükben.\n
+say.nr411_1_heart_of_darkness.83;"Gerwin!"
+say.nr411_1_heart_of_darkness.85;– üvöltötte Meve. –
+say.nr411_1_heart_of_darkness.87;"Gyere elô, azonnal!"\n
+say.nr411_1_heart_of_darkness.89;A nagydarab zsoldos a szobája ablakában állt, és összevont szemöldöke alól tekintett le rá.\n
+say.nr411_1_heart_of_darkness.91;"Nem vagyok biztos benne, hogy tudod, mit csinálsz"
+say.nr411_1_heart_of_darkness.93;– kiáltotta, –
+say.nr411_1_heart_of_darkness.95;"de szeretnélek emlékeztetni a fogadalmadra és a törvényekre!"\n
+say.nr411_1_heart_of_darkness.97;"Láttam én a te törvényeidet. Könyörtelen vagy és kegyetlen! Ezért az uralkodásod ezennel véget ér! Támadás!"
+title.nr411_1_heart_of_darkness.1;A mocsarak ura
+title.nr411_1_heart_of_darkness.310;A mocsarak ura
+title.nr411_1_heart_of_darkness.456;A mocsarak ura
+

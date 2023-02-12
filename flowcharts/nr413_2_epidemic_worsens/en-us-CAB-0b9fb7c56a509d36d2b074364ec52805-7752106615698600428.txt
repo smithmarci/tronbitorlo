@@ -1,0 +1,4 @@
+say.nr413_2_epidemic_worsens.1;A királynô meglátogatta a kórházként funkcionáló sátrat, hogy megnézze a gyengélkedô férfit. Mint megtudta, amaz már kiszenvedett: a férfi mozdulatlanul feküdt egy fátyolszövet alatt. Csak a kiütésektôl pettyezett lábfeje lógott ki a fehér lepel alól.\n\n
+say.nr413_2_epidemic_worsens.2;Habár már másnap elégették a testet, addigra másik négy katona is a ragály tüneteit mutatta. Egy nappal késôbb már húszan, {audio=nr413_2_epidemic_worsens_sick_soldiers}két nap múltán pedig még többen. Támolyogtak a láztól, kifulladtak, gyakran összeestek. Meve kénytelen volt pihenôt elrendelni, és várni a legrosszabbat. {audio=nr413_2_epidemic_worsens_marching}Amikor aztán végre újra elindultak, a sereg után számos friss sír maradt.
+title.nr413_2_epidemic_worsens.314;Ragály
+

@@ -1,0 +1,4 @@
+say.nr410_1_nilgaardian_chase_combat.1;Harc nélkül nem adjuk meg magunkat!
+say.nr410_1_nilgaardian_chase_combat.3;Igazat beszéltek... Tényleg nem kegyelmez senkinek, mert nem ismer irgalmat...
+say.nr410_1_nilgaardian_chase_combat.5;Tényleg szükséges ez...?
+

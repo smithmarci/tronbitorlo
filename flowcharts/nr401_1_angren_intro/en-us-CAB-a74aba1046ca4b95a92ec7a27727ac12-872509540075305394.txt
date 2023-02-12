@@ -1,0 +1,120 @@
+menu.nr401_1_angren_intro.115;Parancsot adsz a seregednek Rôtlobinden megtámadására.
+menu.nr401_1_angren_intro.116;Visszavonulót fújsz.
+menu.nr401_1_angren_intro.196;Lehetetlen... Ezt nem vagyok hajlandó elhinni!
+menu.nr401_1_angren_intro.197;Igen. Számítottam valami ilyesmire.
+menu.nr401_1_angren_intro.226;Reynard, kirôl beszél?
+menu.nr401_1_angren_intro.227;Ne akarjanak engem megvezetni!
+menu.nr401_1_angren_intro.262;Takarodjanak a szemem elôl! Mindketten!
+menu.nr401_1_angren_intro.263;Sajnos az útjaink itt szétválnak, Reynard.
+menu.nr401_1_angren_intro.264;Nem akarlak többé látni, Gascon.
+menu.nr401_1_angren_intro.265;Ez egyszer hajlandó vagyok szemet hunyni az árulásuk fölött.
+menu.nr401_1_angren_intro.91;Parancsot adsz a seregednek Rôtlobinden megtámadására.
+menu.nr401_1_angren_intro.92;Visszavonulót fújsz.
+say.nr401_1_angren_intro.1;Gascon, mint valami démoni förgeteg, verekedte magát keresztül az erôdig, és fél kézzel vágta le a parancsnokot. A hirtelen vezér nélkül maradt nilfgaardiak letették a fegyvert.
+say.nr401_1_angren_intro.101;"Hamarosan, Reynard,"
+say.nr401_1_angren_intro.107;– kezdte a királynô, tekintetét még mindig a célra szegezve. –
+say.nr401_1_angren_intro.108;"De még nem. Elôbb haditervet kell kovácsolnom... Fújasson visszavonulót!"
+say.nr401_1_angren_intro.120;A lyriaiak újfent Rôtlobinden erôdítménye elôtt találták magukat.\n
+say.nr401_1_angren_intro.122;"A jelére várunk, Felség"
+say.nr401_1_angren_intro.124;– mondta Reynard.
+say.nr401_1_angren_intro.128;"Ám legyen... Nem késlekedhetünk. Reynard, íme, a haditerv. A páncélos gyalogság menjen elôre, és a pajzsaikkal hárítsák a lövészek elsô sortüzét, ôket kövessék az ostromlétra-kezelôk. Utána––\n
+say.nr401_1_angren_intro.130;"Mesteri! Igazán mesteri!"
+say.nr401_1_angren_intro.132;– szakította félbe Gascon. –
+say.nr401_1_angren_intro.134;"Mégis, annak ellenére, hogy mennyire mesteri, tökéletesítésre szorul."\n
+say.nr401_1_angren_intro.136;"És, konkrétan, miben is?"\n
+say.nr401_1_angren_intro.138;"Fogd vissza a sereget. Lapuljatok meg, és várakozzatok. Én viszek magammal... tíz ügyes fickót, és kitárjuk nektek a kaput. Szélesre."
+say.nr401_1_angren_intro.140;"És miképp szándékozik elérni mindezt?"
+say.nr401_1_angren_intro.142;– firtatta Reynard. –
+say.nr401_1_angren_intro.144;"Bekopogtat, és azt mondja, hogy csecsebecsékkel házal? Vagy talán azt, hogy Lebioda buzgó tanítványa?"\n
+say.nr401_1_angren_intro.146;"Minden apró részletrôl tudnia kell? Hol van abban a móka, uram?"\n
+say.nr401_1_angren_intro.148;"A háborúban az nincsen! Sosincs!"
+say.nr401_1_angren_intro.150;– sziszegte Reynard. –
+say.nr401_1_angren_intro.152;"A háború nem holmi komédia! Felség, nincs esélye a sikerre. A legkevésbé sincs."\n
+say.nr401_1_angren_intro.154;"Egyáltalán nincs, egyetértek. Mégis, a lelkesedése kíváncsivá tett. Lássuk, mire képes!"
+say.nr401_1_angren_intro.156;Az, hogy Reynard nem helyeselte Meve döntését, egyértelmû volt. Ám mégsem mert szembeszegülni vele. Mint hogy a királynô az áldását adta rá, {audio=nr401_1_angren_intro_going_through_swamp}Gascon összeállított egy kisebb egységet, majd nekivágott, egyenesen az erôdítmény kapuja felé.\n
+say.nr401_1_angren_intro.158;"Mint a marhák a vágóhídra..."
+say.nr401_1_angren_intro.16;Ezt nem... Ezt én nem hiszem el. Nem, ez nem lehetséges!
+say.nr401_1_angren_intro.160;– motyogta Reynard, és közben hitetlenkedve csóválta a fejét. –
+say.nr401_1_angren_intro.162;"Királynôm, még nem késô. Még mindig––"\n
+say.nr401_1_angren_intro.164;"Csitt! Nézze!"
+say.nr401_1_angren_intro.166;Gascon, aki már a kapu elôtt állt, a békés szándék jeleként felemelte a kezeit, és kedélyes élcelôdésbe kezdett az ôrökkel. Alig pár pillanat múlva... a kapuszárnyak mozgásba lendültek.\n
+say.nr401_1_angren_intro.168;"De... hogyan?!"\n
+say.nr401_1_angren_intro.170;"Nem számít! A kapu tárva-nyitva, most kell támadnunk!"\n\n
+say.nr401_1_angren_intro.172;Meve megrohanta az erôdítményt anélkül, hogy akár csak hátra pillantott volna. Tudta jól, hogy az emberei követni fogják.
+say.nr401_1_angren_intro.176;Nincs itt semmi titok, ahogy én látom. Jómagam is tartanám a szám, ha nyomná valami a lelkiismeretemet.
+say.nr401_1_angren_intro.18;Tagadja le, Gascon! Gyerünk! Mondja, hogy tévedek!
+say.nr401_1_angren_intro.182;Sosem takargattam a szégyenteljes múltamat, barátom. Bandita voltam, valóban, mégis––
+say.nr401_1_angren_intro.184;Ne merészeljen bolondnak nézni! Tudja jól, mirôl beszélek.
+say.nr401_1_angren_intro.186;Én viszont nem tudom! Reynard, mi akar ez lenni? Mi ütött magába?!
+say.nr401_1_angren_intro.188;Felség... Még Mahakamban, az a nilfgaardi levél, amit sikerült megkaparintanunk...
+say.nr401_1_angren_intro.190;Az ajánlatát tekintse elfogadottnak. Terelje Meve-et és seregét az elôre megbeszélt helyre. Várni fogjuk az érkezésüket. A jutalma a megbeszéltek szerinti lesz.
+say.nr401_1_angren_intro.192;Gascon volt az, aki elmondta nekünk, hogy Caldwell megkapta Angrent. Gascon volt, akik azt javasolta, hogy Lobinden felé induljunk.
+say.nr401_1_angren_intro.194;Itt pedig a Feketék önként és dalolva kitárták neki a kaput,... mert azt hitték, hogy egy foglyot hoz el nekik: Önt.
+say.nr401_1_angren_intro.198;...
+say.nr401_1_angren_intro.199;Kell még ennél is több bizonyíték, Felség?
+say.nr401_1_angren_intro.2;No, lám csak, lám, Gascon... Sikerült meglepned.
+say.nr401_1_angren_intro.20;Hm, igen. Számítottam valami ilyesmire.
+say.nr401_1_angren_intro.200;Amikor fogva tartottak, megkérdeztelek, miért döntöttél úgy, hogy segítesz nekem. A válaszod furcsa volt,... és nem volt túl meggyôzô.
+say.nr401_1_angren_intro.202;Meve...
+say.nr401_1_angren_intro.204;Neked "Felség", te zsivány.
+say.nr401_1_angren_intro.217;Meve... El akartalak adni nekik, így igaz, és hasznot reméltem általa. De Aedirnben kivívtad a tiszteletemet. Mahakamban pedig a csodálatomat.
+say.nr401_1_angren_intro.221;Akkor megfogadtam, hogy többé nem követem a megállapodásban foglaltakat. Hanem ahelyett bejuttatlak az erôdítménybe,... és gondoskodom róla, hogy a helyôrség parancsnokának ne járhasson el a szája. Habár, úgy fest, alábecsültem Reynardot.
+say.nr401_1_angren_intro.223;A hízelgéssel nem ér el semmit. Ön, uram, egy áruló.
+say.nr401_1_angren_intro.225;Na de kérlek, barátom. Olybá' tûnik, mintha bagoly mondaná verébnek, hogy nagyfejû.
+say.nr401_1_angren_intro.23;Mit ígértek? Kegyelmet? Vagy halmokban álló aranyakat?
+say.nr401_1_angren_intro.231;Reynard? Mit jelentsen ez?
+say.nr401_1_angren_intro.233;Fogalmam nincs róla, Felség, a legkevésbé sincs...
+say.nr401_1_angren_intro.235;Igazán? Hahh! És én még az gondoltam, hogy egy becsületes ember vagy.
+say.nr401_1_angren_intro.238;Meg ne próbálj kibújni a felelôsség alól, Gascon!
+say.nr401_1_angren_intro.240;Sose tenném. De teljes egészében át kell látnod a helyzetet. Megérdemled.
+say.nr401_1_angren_intro.242;Ne kéresd magad, Reynard! Ki volt az, aki titkos üzeneteket küldött Villemnek? Gyerünk, igazán elmondhatnád a királynôdnek.
+say.nr401_1_angren_intro.244;Micsoda? Reynard?
+say.nr401_1_angren_intro.246;Még Mahakamban az egyik emberem belopózott Ôfelsége szállására. És rátalált egy levélre, amin egy bizonyos Reynard Odo aláírása virított.
+say.nr401_1_angren_intro.248;Reynard... Könyörgöm. Mondja, hogy nem így volt! Mondja, hogy ez egy szemenszedett hazugság!
+say.nr401_1_angren_intro.25;Ugyan... Mindkettôt. Természetesen tudtam, hogy Nilfgaard nem fog csak úgy tárgyalni velem. Ahhoz, hogy komolyan vegyenek, szükségem volt valamire, ami értékkel bír számukra. Csak a vakszerencsének köszönhettem, hogy lehetôségem nyílt kiszabadítani Caldwell fogságából.
+say.nr401_1_angren_intro.250;Én... Én... Felség, abban reménykedtem, hogy Ôfelsége és Ön megbékélnek... Látni, hogy a fiú szemben áll az anyjával, abba belehasad a szívem. Én... Én... csak segíteni szerettem volna.
+say.nr401_1_angren_intro.254;A hátam mögött...
+say.nr401_1_angren_intro.256;Felség, csak el akartam érni, hogy az ifjú úr észérvek mentén gondolkodjék! Csak fel akartam nyitni a szemét!
+say.nr401_1_angren_intro.260;Meve érezte, amint felhorgad benne a düh. Ám nem engedhette, hogy feltörjön, máskülönben elhomályosítaná az itélôképességét. Ezt a problémát meg kellett oldania: számûznie kellett a gondolatai közül, és azon nyomban folytatnia kellett az útját.
+say.nr401_1_angren_intro.267;Tûnjenek a szemem elôl! Mindketten!
+say.nr401_1_angren_intro.269;Felség... Könyörgöm, nyugodjon meg, és gondolja ezt végig!
+say.nr401_1_angren_intro.271;Talán rájuk kell uszítanom a kutyákat?!
+say.nr401_1_angren_intro.272;Gascon és Reynard egymásra pillantottak, majd megfordultak, és távoztak... Az egyik emerre, a másik amarra.
+say.nr401_1_angren_intro.276;Hasztalan lett volna minden szó. Gascon finoman meghajolt, a vállára vette a batyuját,... és eltûnt, mint a reggeli köd.
+say.nr401_1_angren_intro.277;A királynô utasítása egyértelmû volt és ellentmondást nem tûrô. Gascon és Reynard eliszkoltak, magára hagyva Meve-et a gondolataival.
+say.nr401_1_angren_intro.279;"A fene vigye az egészet"
+say.nr401_1_angren_intro.281;– morogta. –
+say.nr401_1_angren_intro.283;"Nem ez az elsô tôr, amivel hátba szúrtak. És, jó eséllyel, nem is az utolsó. Az pedig, hogy magamat siratom, egyáltalán nem segít."
+say.nr401_1_angren_intro.285;Az elfogott nilfgaardiaktól Meve megtudta, hogy Caldwell Tuzla várában, Angren szívében tartózkodott. Egy kisebb különítmény Rôtlobindenben maradt, a királynô a sereg többi részével pedig elindult, hogy szembenézzen az áruló gróffal...
+say.nr401_1_angren_intro.288;Csak Aedirnben váltottunk levelet elôször. Majd Rosberg elestét követôen jutottunk megegyezésre.
+say.nr401_1_angren_intro.289;Nem én vagyok az egyedüli, aki megtévesztett. De azon vagyok, hogy jóvá tegyem a hibámat.
+say.nr401_1_angren_intro.294;Ezt mondja most... De nem tudhatom, mik álltak a levelekben, milyen háttéralkuk köttettek. És ezért többet nem hihetek a szavának.
+say.nr401_1_angren_intro.3;Remélhetôleg kellemesen.
+say.nr401_1_angren_intro.300;A lovak után kellene köttetnem, aztán felnégyeltetnem mindkettôjüket.
+say.nr401_1_angren_intro.301;"A fene egye meg...!"
+say.nr401_1_angren_intro.33;Akkor hogy lehet, hogy még mindig életben vagyok? Miért nem ejtettél foglyul az éj leple alatt, s hurcoltál láncra verve Rôtlobindenbe?
+say.nr401_1_angren_intro.4;Ne ácsingózz itt dicséretért. Nem áll jól neked. Különben is, mindketten tudjuk, hogy kiérdemelted már a kitüntetést és a rangot.
+say.nr401_1_angren_intro.43;Arra, hogy Gascon a hátam mögött ármánykodik és cselt szó, számítottam is! De hogy Ön, Reynard?
+say.nr401_1_angren_intro.45;Felség... ôszinte meggyôzôdéssel tettem... Sôt, a legnemesebb szándékkal. Könyörögve kérem, adjon egy esélyt, hogy––
+say.nr401_1_angren_intro.46;Nem. Elválnak az útjaink, Reynard. Itt és most, végleg.
+say.nr401_1_angren_intro.47;Reynardnak mozgott a szája, mintha beszélne, ám a torkán akadtak a szavak. Ezért hát meghajolt, majd lovához viharzott, aztán elvágtatott a messzeségbe.
+say.nr401_1_angren_intro.48;Amikor elôször találkoztunk, meg voltam róla gyôzôdve, hogy egy gazember vagy, Gascon. Fontolgattam, hogy felköttetlek az elsô, utunkba esô ölesebb fára.
+say.nr401_1_angren_intro.5;Ha-ha-haa! Még szavadon foglak, Királynôm.
+say.nr401_1_angren_intro.50;Úgy tûnik, a megérzésem helyes volt. Jobban kellene bíznom benne. Most pedig, takarodj a szemem elôl!
+say.nr401_1_angren_intro.52;Meve...
+say.nr401_1_angren_intro.54;Taka- rodj a- szemem- elôl!
+say.nr401_1_angren_intro.55;Ám, az igazat megvallva,... nem boldogulnék kettejük nélkül. Most még kevésbé, mint eddig. Ez az egyetlen oka, amiért kegyelmes leszek, és megbocsátok.
+say.nr401_1_angren_intro.57;Felség, talán kételkedik a helyességében, de ez a jó döntés. Be fogom bizonyítani Önnek. Köszönöm!
+say.nr401_1_angren_intro.58;Reynard és én ritkán vagyunk azonos állásponton,... de – jelen körülmények között – jómagam is csak ismételni tudnám a szavait.
+say.nr401_1_angren_intro.59;Ó, fogják már be a szájukat! És mintha akadna épp elég dolguk a szekereknél. Most!
+say.nr401_1_angren_intro.6;Mindennek eljön az ideje. De tudnom kell,... hogyan csináltad. Milyen fondorlattal vetted rá a nilfgaardiakat, hogy kinyissák a kaput?
+say.nr401_1_angren_intro.7;Ugyan, ugyan – az én elbûvölô jellememmel nincs szükség fondorlatra.
+say.nr401_1_angren_intro.70;Meve a palánkról letekintett a Jarugán túl elterülô ingoványra. A királynô sóhajtott egy nagyot. Kihívásokra számított Angrenben. Arra is számított, sôt, remélte, hogy rálel a soraik között megbúvó árulóra. De hogy kettôre is – és, ráadásul, hogy mindkettô a hadsegédje legyen? Nagy súly telepedett a szívére.\n
+say.nr401_1_angren_intro.8;Ó, értem. Nem kívánod megosztani a titkaidat?
+say.nr401_1_angren_intro.83;Meve a szederbokrok közül figyelte a palánk tetején strázsáló nilfgaardi ôröket. Teljes felszerelésükbôl és feszült testtartásukból arra következtetett, hogy készek mindenáron megvédelmezni az erôdítményt.\n\n
+say.nr401_1_angren_intro.85;– káromkodta el magát Meve, mert tudta, hogy Rôtlobindent nem tudja csellel bevenni. Meg kell majd ostromolnia, és az jelentôsen le foga lassítani az elôrehaladásban. De nem tehetett mást, mert rajta keresztül vezetett az egyetlen út Angrenbe,... és Caldwellhez.\n\n
+say.nr401_1_angren_intro.87;Reynard letörölte a verejtéket a homlokáról, fejébe húzta a sisakját, és egy mozdulattal lecsapta a napellenzôjét.\n
+say.nr401_1_angren_intro.89;"Parancsára, Felség."
+title.nr401_1_angren_intro.295;Rôtlobinden
+title.nr401_1_angren_intro.817;Rôtlobinden
+

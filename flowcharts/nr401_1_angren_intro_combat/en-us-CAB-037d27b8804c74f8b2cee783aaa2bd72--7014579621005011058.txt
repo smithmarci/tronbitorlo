@@ -1,0 +1,5 @@
+say.nr401_1_angren_intro_combat.1;Vaaaúúú!!! Ha-haa! A Bitangok beszállnak a mókába!
+say.nr401_1_angren_intro_combat.3;Egy Rôtlobinden kegyednek, Úrnôm. A ház ajándéka.
+say.nr401_1_angren_intro_combat.5;Nem igazán tudom, ezt hogyan csináltad, de le vagyok nyûgözve.
+say.nr401_1_angren_intro_combat.7;Az az igazság, hogy varázsló vagyok, de csitt,... el ne mondd senkinek!
+

@@ -1,0 +1,15 @@
+say.nr401_1_cs1_angren_intro.1;Meve seregével végre-valahára megérkezett Angren mocsaras erdejeibe. Jártatok már arra valaha? Nem? Szerencsésnek mondhatjátok magatokat.
+say.nr401_1_cs1_angren_intro.12;Biztos, hogy nem tértünk le az útról?
+say.nr401_1_cs1_angren_intro.14;Nincs erre semmiféle "út". Folytatjuk tovább délnek, abba az irányba.
+say.nr401_1_cs1_angren_intro.16;Délnek, úgy érted: lefelé...
+say.nr401_1_cs1_angren_intro.18;Ha egyszer mégis arra vetne a sors, fogadjatok meg egy tanácsot: azon legyetek,...
+say.nr401_1_cs1_angren_intro.20;...hogy soha ne csapjatok zajt.
+say.nr401_1_cs1_angren_intro.21;Ááááárgh!
+say.nr401_1_cs1_angren_intro.23;Felség!
+say.nr401_1_cs1_angren_intro.25;Szegény lélek. A bajtársai kiáltoztak, érte nyúltak, ennek ellenére... A tajtékzó vízbôl csontok ropogása, a behorpadó és összezúzódó páncél csikorgása hallatszott...
+say.nr401_1_cs1_angren_intro.27;Mi a... A jó életbe, mi volt ez?
+say.nr401_1_cs1_angren_intro.29;Én, személy szerint, inkább nem szeretném tudni.
+say.nr401_1_cs1_angren_intro.31;Mindenki maradjon a helyén! Fegyvereket a kézbe!
+say.nr401_1_cs1_angren_intro.33;Egy lápcsótány volt. Egy a sokból, amelyekkel a lyriaiak a további útjuk során találkoztak... De ne rohanjunk ennyire elôre.
+say.nr401_1_cs1_angren_intro.35;Végül Meve és a serege ott álltak a Jaruga partján. Ahhoz, hogy megtalálják és megbüntessék Caldwell grófot, elôbb át kellett kelniük a folyón... Ám az egyetlen közelben lévô híd a nilfgaardiak kezén volt.
+

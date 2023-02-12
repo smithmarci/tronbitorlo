@@ -1,0 +1,90 @@
+menu.nr408_1_witcher_village.102;Közönséges piócák és kullancsok? Miért aggódnánk?
+menu.nr408_1_witcher_village.103;Gernichora micsoda is valójában?
+menu.nr408_1_witcher_village.144;Mi a helyzet veled? Véget ért a vadászatod?
+menu.nr408_1_witcher_village.145;Hogyan gyôzhetem le? Lenne valami tanácsod?
+menu.nr408_1_witcher_village.16;Átkutatod a falut.
+menu.nr408_1_witcher_village.17;Továbbmész.
+menu.nr408_1_witcher_village.18;Átkutatod a falut.
+menu.nr408_1_witcher_village.19;Továbbmész.
+menu.nr408_1_witcher_village.67;Mit tudsz errôl a bestiáról?
+menu.nr408_1_witcher_village.68;A szerzôdés fejében ki ajánlhatott pénzt?
+say.nr408_1_witcher_village.100;Bölcsen tennék, ha távol tartanák magukat tôlük.
+say.nr408_1_witcher_village.106;Ez a Gernichora... micsoda ô... valójában?
+say.nr408_1_witcher_village.108;Az attól függ, kit kérdez róla. A tündék egy bukott istennôt láttak benne. Nem sikerült végezniük vele, amíg itt éltek, viszont sikerült gátat szabniuk a növekedésének, annak, hogy erôsebbé váljon.
+say.nr408_1_witcher_village.110;A helyi embernépek azt tartják, hogy egy elátkozott hercegnô szelleme ô. Mélyen gyökerezô hiedelem az övék.
+say.nr408_1_witcher_village.112;Kifejtenéd?
+say.nr408_1_witcher_village.114;Úgy mesélik, Észak felé tartott, hogy feleségül menjen egy temeriai herceghez. Az egész kísérete, a teljes karaván eltévedt. A szekerek elakadtak, mindenki belefulladt a mocsárba, elnyelte ôket a futóhomok, ilyesmik.
+say.nr408_1_witcher_village.116;Gernichora megragadott egy gyökeret, mielôtt az ingovány elnyelhette volna egészen. Órákon át kiabált, de nem volt, ki meghallhatta volna. Piócák százai lepték el a testét, és királyi lakomát csaptak... Szárazra szívták, az utolsó csepp vérétôl is megfosztották.
+say.nr408_1_witcher_village.118;Félelem és gyûlölet lett úrrá a lelkén, így az nem léphetett át a túlvilágra. Ezért hát visszatért,... az Ysgith mágiája által életre keltve.
+say.nr408_1_witcher_village.120;Uhh. Hátborzongató történet.
+say.nr408_1_witcher_village.122;Igen, de valószínûleg csak kitaláció. A tündék legendájának sem hiszek. Gernichora egy szörny, ilyen egyszerû az egész. Rendkívül veszedelmes, nyilván – de csak egy szörny.
+say.nr408_1_witcher_village.125;A piócák és kullancsok... Azt mondod, azok az ô gyümölcsei?
+say.nr408_1_witcher_village.127;Ez kissé bonyolult.
+say.nr408_1_witcher_village.129;Van idônk.
+say.nr408_1_witcher_village.131;Hmm... Gernichora kicsit olyan, mint a vámpírok, lényegében hasonszôrû teremtmények. Egy kis különbséggel: ahelyett, hogy ô maga táplálkozna másokból, hagyja, hogy a kreatúrái belôle táplálkozzanak.
+say.nr408_1_witcher_village.133;Nem biztos, hogy értem...
+say.nr408_1_witcher_village.135;Paraziták, igaz? A saját testére helyezi és a vérével táplálja ôket... Majd felaggatja a bokrokra és fákra azokat.
+say.nr408_1_witcher_village.136;Ó... És mi végre?
+say.nr408_1_witcher_village.138;Csemegéül, más szörnyek számára. Édesek, szaftosak, teli Gernichora vérével. Ellenállhatatlanok. Bármely szörny, amely megízleli, eszét veszti, és Gernichora rabszolgájává válik.
+say.nr408_1_witcher_village.14;Meve megint a titokzatos falu határában állt. Azon gondolkodott, vajon belépje-e...
+say.nr408_1_witcher_village.140;Ezért... ha az útjaik keresztezik egymást, és magukra találják haragítani, nem lesz majd egyedül. Az egész átkozott mocsárral lesznek kénytelenek megküzdeni.
+say.nr408_1_witcher_village.146;Hmm... Hogyan szállhatunk vele szembe? Miképp végezhetünk vele?
+say.nr408_1_witcher_village.148;Bocsásson meg, de nem szoktuk a titkainkat megosztani másokkal.
+say.nr408_1_witcher_village.149;Még azokkal sem, akik épp az imént mentették meg a bôrödet?
+say.nr408_1_witcher_village.151;...
+say.nr408_1_witcher_village.153;Várjanak addig, amíg nekiáll etetni a parazitákat. Akkor a legsebezhetôbb. Akkor talán lesz esélyük ártani neki.
+say.nr408_1_witcher_village.156;És te? Nem vadászol rá tovább?
+say.nr408_1_witcher_village.158;Ó, dehogyis nem. Csak jobban fel kell készülnöm. Ez ma bizonyossá vált. Fôzeteket és fegyverolajakat kell kotyvasztanom... Pár nap múlva visszatérek.
+say.nr408_1_witcher_village.159;Aztán... el kell égetniük a hulláját. Ez fontos. Megértette? Égesse el!
+say.nr408_1_witcher_village.161;Nekem nincs ennyi idôm. Nilfgaard hordái a nyomunkban vannak... Tovább kell nyomulnunk.
+say.nr408_1_witcher_village.175;Felség,... a mutációk az érzelmektôl fosztanak meg bennünket, nem a józan eszünktôl.
+say.nr408_1_witcher_village.179;Ebben az esetben... jó szerencsét kívánok. Sok szerencsét!
+say.nr408_1_witcher_village.181;A vaják eltûnt a fák között. És Meve... Meve pedig abban reménykedett, hogy a katonái semmit sem csíptek el a beszélgetésükbôl...
+say.nr408_1_witcher_village.183;"Lakott ez a település?"
+say.nr408_1_witcher_village.185;– kérdezte Meve odafordulván az egyik felderítôhöz.\n
+say.nr408_1_witcher_village.187;"Ekkora távolságból lehetetlen megmondani, Felség."
+say.nr408_1_witcher_village.190;Ahogy már mondtam Felségednek: önzô zsoldosok, akik mentesek az érzelmektôl. Nincs bennük együttérzés vagy igazságérzet. Nincs becsületük. Csak az arany érdekli ôket.
+say.nr408_1_witcher_village.191;Mhm. Egyenesen gonosz dolog fizetséget várni az elvégzett munkáért.
+say.nr408_1_witcher_village.194;Gyakran fedezhetni fel az igazság morzsáit a legendákban, Felség. Legfôképp azokban, amelyek tragédiával végzôdnek...
+say.nr408_1_witcher_village.197;Tehát... egy isteneket nem ismerô mutáns.
+say.nr408_1_witcher_village.199;Eyck... Én beszélek.
+say.nr408_1_witcher_village.20;Meve jelt adott a továbbhaladásra. Úgy hitte, ez a hely semmi értékeset nem tartogat számukra...
+say.nr408_1_witcher_village.202;Hadd menjen. Nem fog hiányozni, Felség. Benne és a fajtájában egyszerûen nem lehet megbízni.
+say.nr408_1_witcher_village.21;A lyriaiak kivont karddal és harcra készen léptek be a faluba, de egyetlen lakó, egyetlen bestia nem sok, annyi sem jött elô a fogadásukra. Néhány hajlék már összeomlott a rothadástól, és derékig érô fû takarta a közöttük futó ösvényeket.\n\n
+say.nr408_1_witcher_village.23;Valaki mégis járhatott ott nemrég, ugyanis friss ghúltetemek hevertek a kút mellett, ami a szebb napokat látott település közepén állt. Meve letérdelt az egyik, félbevágott tetem mellé. A szörny gyilkosa meglehetôsen erôs lehetett,... és egy borotvaélesre fent pengét forgatott.
+say.nr408_1_witcher_village.25;"Valószínûleg még több jön majd."\n
+say.nr408_1_witcher_village.27;Meve sebesen ugrott talpra. Egy vastag bôrvértet viselô férfi lépett elô a kalyibák egyikébôl. Bár majd felnyársalta macska-pupillájú, átható tekintetével a királynôt, amaz ennek ellenére érezte, hogy a másik csúnyán megsérült.\n
+say.nr408_1_witcher_village.29;"Ha így lenne, hidd el, a felderítôim már rég megfújták volna a kürtöket."\n
+say.nr408_1_witcher_village.31;A férfi egy medvefejet formázó medált húzott elô a zekéje alól. Az zümmögött és rángatózott, mintha meg akart volna szabadulni a láncaitól.
+say.nr408_1_witcher_village.318;Értem. Tehát akkor támadunk, amikor a bôrére helyezi a vérszopókat.
+say.nr408_1_witcher_village.320;Igen. És amikor megölik – ha megölik –, minden, a varázsa alatt álló bestia meggyengül majd.
+say.nr408_1_witcher_village.321;Ha jól sejtem, semmivel nem tudnálak rávenni, hogy csatlakozz hozzánk.
+say.nr408_1_witcher_village.33;"Ha szörnyekrôl van szó"
+say.nr408_1_witcher_village.35;– mondta, és gúnyos mosolyra görbült a szája, –
+say.nr408_1_witcher_village.37;"a vajákok ritkán tévednek."\n
+say.nr408_1_witcher_village.39;Egy minutummal késôbb üvöltés hasított a környék csendjébe. Meve ösztönösen, villámgyorsan vonta elô kardját, és támadott...
+say.nr408_1_witcher_village.52;A lyriaiak gyôzedelmeskedtek – amely gyôzelemben nem kis része volt a vajáknak.
+say.nr408_1_witcher_village.54;Köszönet a segítségért. Ivo a nevem, vaják vagyok, a Medve Iskolából.
+say.nr408_1_witcher_village.56;Meve, Lyria és Rívia királynôje.
+say.nr408_1_witcher_village.58;Nos,... Nem számítottam arra, hogy bárkivel is összefutok idekint. Legfôképp nem egy királynôvel, akit ráadásul egy sereg kísér.
+say.nr408_1_witcher_village.60;Nem volt más választásunk.
+say.nr408_1_witcher_village.62;Azt le mertem volna fogadni. Senki sem tervezi, hogy önszántából kel át az Ysgithen.
+say.nr408_1_witcher_village.64;És téged mi szél hozott erre? Egy szerzôdés talán?
+say.nr408_1_witcher_village.65;Így van. Egy szörny leölésére.
+say.nr408_1_witcher_village.71;Úgy tudom, a felbérelésetek rendkívül költséges dolog... Ki engedhette meg magának ebben a nyomorult mocsárban, hogy felbéreljen egy vajákot?
+say.nr408_1_witcher_village.73;A nilfgaardiak.
+say.nr408_1_witcher_village.75;A fenébe, persze...! Elôkészítik a vidéket a telepeseiknek. Elirtják a szörnyeket, lecsapolják a lápot, aztán behozzák a rabszolgáikat... Feltételezhetôen Északról.
+say.nr408_1_witcher_village.77;Meglehet. Engem elôre kifizettek. Nem láttam szükségét, hogy kérdéseket tegyek fel.
+say.nr408_1_witcher_village.79;De muszáj volt elfogadnod tôlük a pénzt? Nem látod, hogy mit mûvelnek?
+say.nr408_1_witcher_village.8;Míg ahhoz hozzászoktak, hogy a láp szörnyei és fekete mágia társaságában éljék életüket, Angren lakói sosem tették be a lábukat az Ysgithbe. A lyriaiak csak egyetlen egyszer botlottak az emberi élet jeleibe ott tartózkodásuk során: amikor zsúpfedeles viskók egy csoportját pillantottak meg az égerfák között megbújva...\n
+say.nr408_1_witcher_village.81;Bocsáss meg, Felség, de nekem úgy tûnik, összekevered a vajákokat a kóbor lovagokkal.
+say.nr408_1_witcher_village.83;Nem az elnyomás ellen küzdünk, nem is a dolgok jobbá tételéért, sem nem árvák megbosszulásáért. Szörnyeket ölünk – pénzért. És nem érdekel bennünket, hogy azon kinek az arcmása virít, sem pedig hogy kinek a pénzesládájából származik.
+say.nr408_1_witcher_village.86;Miféle szörny az, aminek az elirtására szerzôdtél?
+say.nr408_1_witcher_village.88;Várjunk csak... Azt mondja, úgy vezette az Ysgithbe a seregét, hogy azt sem tudja, mi lakozik itt?
+say.nr408_1_witcher_village.90;Azt hiszem, érthetôen fogalmaztam: nem jókedvünkben vagyunk itt.
+say.nr408_1_witcher_village.92;Igen... De most, hogy itt vannak, kisebb csoda kell majd ahhoz, hogy ki is jussanak.
+say.nr408_1_witcher_village.94;Az Ysgith mocsarai egy igazán veszedelmes teremtménynek adnak otthont. A tündék úgy nevezik, hogy Gvaern Ichaer, a "Véres Úrnô". Emberöltôk során a helyiek ajkán eltorzult a név, míg végül csak Gernichora maradt.
+say.nr408_1_witcher_village.96;Valóban... Hallottam már róla.
+say.nr408_1_witcher_village.98;Akkor, feltételezem, az imádott gyümölcseit is látta már: a piócákat és a kullancsokat.
+title.nr408_1_witcher_village.307;A szakma mestere
+

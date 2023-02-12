@@ -1,0 +1,30 @@
+say.nr406_1_skellige_raid.1;Meve elöl lovagolt, tekintetét a földre szegezve – és ki is szúrt egy levelek és ágak fedte vermet. Durván megrántotta a kantárt, és oldalra vezette a lovát. Sajnos a mögötte léptetô lovas nem követte a vezérét. Levelek zizegtek, ágak reccsentek,... és a verem fenekére zuhanó lovas a nyakát szegte.\n\n
+say.nr406_1_skellige_raid.16;A lyriai kalapács és a skelligei kô közé fogva a nilfgaardiak szétmorzsolódtak, megsemmisültek. A gyôztesek egymást méregetve álltak szemben. Ezek a szigetlakók egyáltalán nem hasonlítottak azokra, akikkel eddig Meve találkozott. Ezek ugyanis nem viseltek páncélt, és nem használtak pajzsot.\n\n
+say.nr406_1_skellige_raid.18;"Köszönet a segítségedért, Arnjolf"
+say.nr406_1_skellige_raid.20;– mondta Meve, és feléje nyújtatta a kezét.\n
+say.nr406_1_skellige_raid.3;Hamarosan kiderült, kik állították a csapdát, amikor a erdô megelevenedett, és kiáltás harsant:\n
+say.nr406_1_skellige_raid.307;Az élükön álló férfi olyan izmos volt, akár egy ökör, és olyan csupasz, mint valami ôsi ghúl. Az emberei úgy nevezték, hogy Arnjolf... Az apagyilkos.\n
+say.nr406_1_skellige_raid.308;"Segítségért, azt mondja? Segítségért? Hallottátok, legények? Hahahaha!"\n
+say.nr406_1_skellige_raid.309;A királynô pengéje átszúrta a mellkasát, {audio= nr406_1_skellige_raid_Meve_kills}és ekkor Arnjolf mintha megkönnyebbülten sóhajtott volna egyet. Vezeklése véget ért, megbûnhôdött a tettéért, eztán Arnjolf már békében nyugodhatott.
+say.nr406_1_skellige_raid.311;"Mire vársz még? Ölj meg! Gyerünk, ölj!"\n
+say.nr406_1_skellige_raid.33;"Segíteni titeket?! Ha!"
+say.nr406_1_skellige_raid.35;– bömbölte Arnjolf. –
+say.nr406_1_skellige_raid.37;"Hallottátok ezt, trógerek? Azt mondja, azért jöttünk, hogy megmentsük a seggüket!"\n
+say.nr406_1_skellige_raid.39;A skelligeiek egymásra néztek, majd harsogó nevetésben törtek ki.
+say.nr406_1_skellige_raid.41;"Nem azért vagyunk itt, hogy segítsünk, de nem ám! Ölni jöttünk! Nilfgaardiakat, lyriaiakat... Nekünk aztán mindegy. Beleket és vért ontani, hogy lemoshassuk vele a szégyenünket."\n
+say.nr406_1_skellige_raid.43;"Biztos vagyok benne, hogy..."\n
+say.nr406_1_skellige_raid.45;"Készülj, némber! Állj ki, és harcolj! Ááárgh! Ááárgh! Skellige!!!"
+say.nr406_1_skellige_raid.51;Meve képzett harcosnak és méltó ellenfélnek bizonyult. Nemcsak hogy kiállt Arnjolffal, hanem le is gyôzte ôt. A skelligei megtörve, vértôl mocskosan feküdt a földön.\n
+say.nr406_1_skellige_raid.67;"Nem azért jöttünk, hogy a tieidet segítsük, de nem ám! Ölni jöttünk!"\n
+say.nr406_1_skellige_raid.69;"Csatlakozzatok hozzám, és megkapjátok az öldökléseteket."\n
+say.nr406_1_skellige_raid.71;"Csatlakozzunk hozzátok? Ha-ha! És ki a franc is vagy te?"\n
+say.nr406_1_skellige_raid.73;"Meve, Rívia és Lyria királynôje."\n
+say.nr406_1_skellige_raid.75;"Meve..."
+say.nr406_1_skellige_raid.77;– mondta Arnjolf, a hangjába józanság vegyült. –
+say.nr406_1_skellige_raid.79;"Ismerôs nekem ez a név! Lippy Gudmund azt mondta, merész vagy, a bátorságodért az egekig magasztalt! Legyen hát,... követünk akár a tûzbe is, asszony! Add meg nekünk a hôsöknek kijáró dicsô halált!"\n
+say.nr406_1_skellige_raid.81;Meve önkéntelenül is elmosolyodott, aztán beleegyezôen bólintott. A lyriaiak utat engedtek a hozzájuk csatlakozó tetovált harcosoknak...
+say.nr406_1_skellige_raid.88;"Hael Ker'zaer! E'er y gloir!"
+title.nr406_1_skellige_raid.305;A megbecstelenült
+title.nr406_1_skellige_raid.321;A megbecstelenült
+title.nr406_1_skellige_raid.322;A megbecstelenült
+

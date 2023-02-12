@@ -1,0 +1,48 @@
+menu.nr413_1_epidemic_starts.34;Magaddal viszed a szenvedô férfit.
+menu.nr413_1_epidemic_starts.35;Hátrahagyod a beteg katonát.
+menu.nr413_1_epidemic_starts.71;Pénzt adsz Isbelnek, hogy elkészíthesse a fôzetet.
+menu.nr413_1_epidemic_starts.72;Nem adsz pénzt Isbelnek a fôzet alapanyagaira.
+menu.nr413_1_epidemic_starts.84;Hátrahagyod a beteg katonát.
+menu.nr413_1_epidemic_starts.85;Magaddal viszed a katonát.
+say.nr413_1_epidemic_starts.1;A lyriaiak egy keresztúthoz értek. Miközben Meve és a felderítôk arról tanácskoztak, hogy melyik utat válasszák, az egyik gyalog egyszer csak összeesett, és elterült a sárban. A bajtársai próbálták talpra állítani – kevés sikerrel.\n\n
+say.nr413_1_epidemic_starts.11;"Tífuszos láz."\n
+say.nr413_1_epidemic_starts.12;"Fertôzô?"\n
+say.nr413_1_epidemic_starts.14;"Rendkívül, attól tartok... Bár a betegség jelen fázisában még nem az. Ám a duzzanatok már ott vannak a torkában, holnapra mindenütt tele lesz velük. Onnantól válik fertôzôvé a kór."\n
+say.nr413_1_epidemic_starts.16;"Értem... Mi a helyzet a gyógyszerekkel? Van ismert ellenszere?"
+say.nr413_1_epidemic_starts.22;Az orvos Meve szemébe nézett, megrázta a fejét, és vállat vont. A beteget közben egy pokrócra emelték, s a szerencsétlen most azon vonaglott és motyogott a láztól kábán.\n
+say.nr413_1_epidemic_starts.3;Meve hívatta a felcsert, aki érkezett is rohanvást. Átnézte a férfit sebek után kutatva, ellenôrizte a szívverését, és minden más egyebet, amit az orvosok ellenôrizni szoktak. Majd belenézett a katona torkába. És egy szemvillanás alatt már talpon is volt, majd hátrálni kezdett, és kezével takarta el a száját...
+say.nr413_1_epidemic_starts.30;"Mit lehet tenni ebben az esetben?"\n
+say.nr413_1_epidemic_starts.32;"Felség,... kegyetlenségnek fog hangozni, tudom, de itt kell hagynunk, és tovább kell mennünk. Máskülönben kitör a járvány, és az meg fogja tizedelni a sereget."
+say.nr413_1_epidemic_starts.38;"Nem kockáztathatom az egész sereget egyetlen ember miatt"
+say.nr413_1_epidemic_starts.4;"Milyen az állapota? Mi a baja?"
+say.nr413_1_epidemic_starts.40;– mondta a királynô az orvosnak. –
+say.nr413_1_epidemic_starts.42;"Hátrahagyjuk."\n
+say.nr413_1_epidemic_starts.44;"Felség, talán nem kellene elmondanunk a többieknek. Meneteljenek csak elôre, mi még hátramaradunk egy kis ideig, hogy senki––"\n
+say.nr413_1_epidemic_starts.46;"Az teljességgel ki van zárva! Nem fogom megtéveszteni azokat, akik értem harcolnak."\n\n
+say.nr413_1_epidemic_starts.47;A királynô összehívta a sereget, és elmondta nekik, mit szándékozik tenni. Hogy sorsára hagyja a beteg férfit. Azok, akik ismerték a katonát, könyörögtek neki, tiltakoztak, átkozták az isteneket, de Meve hajthatatlan volt, így kiadta a parancsot az indulásra. Az élre lovagolt, hogy emberei ne lássák a szemeit, amik képtelenek voltak bennrekeszteni a könnyeit.
+say.nr413_1_epidemic_starts.48;"Van a felépülésére bármi esély?"
+say.nr413_1_epidemic_starts.50;– kérdezte a királynô a felcsert.\n
+say.nr413_1_epidemic_starts.52;"Talán úgy egy az ötvenhez, Felség, de––"\n
+say.nr413_1_epidemic_starts.54;"Tehát van rá esély."\n
+say.nr413_1_epidemic_starts.56;"Felség, muszáj figyelmeztetnem, hogy––"
+say.nr413_1_epidemic_starts.58;"Már megtetted. Tudomásul vettem. Most pedig rakják fel azt az embert egy szekérre."\n\n
+say.nr413_1_epidemic_starts.6;– kérdezte a királynô, közben a tekintete az orvos és a beteg között cikázott oda s vissza.\n
+say.nr413_1_epidemic_starts.60;Meve parancsot adott az indulásra, majd a menetoszlop élére lovagolt... Kétségtelenül azért, hogy elrejtse az emberei elôl a tekintetében lappangó félelmet és aggodalmat.
+say.nr413_1_epidemic_starts.63;A felcser Meve szemébe nézett, megrázta a fejét, és vállat vont. Mert hogy semmit nem tehetett. De ahol a gyógyászat kudarcot vall, ott a mágia néha diadalmaskodhat. Meve gondolkodás nélkül Isbelért küldetett.\n
+say.nr413_1_epidemic_starts.65;"Ez tífusz. Semmi kétség"
+say.nr413_1_epidemic_starts.67;– erôsítette meg a gyógyító. –
+say.nr413_1_epidemic_starts.69;"Ismerek egy ráolvasást, ami talán segíthet. Weigel Purgálása, így hívjuk. Idôbe telik, míg elôkészülök, és számos hozzávaló szükségeltetik. Meglehetôsen drágák mind."
+say.nr413_1_epidemic_starts.75;"Én... Én nem áldozhatok most erre ekkora összeget."\n
+say.nr413_1_epidemic_starts.77;"Megértem, Felség"
+say.nr413_1_epidemic_starts.78;– felelte Isbel.
+say.nr413_1_epidemic_starts.8;"Typhus exanthematicus, Felség"
+say.nr413_1_epidemic_starts.80;"Szeretném, ha tudná, hogy együttérzek – nehéz döntést kellett meghoznia."\n\n
+say.nr413_1_epidemic_starts.82;A királynô nem szólt semmit, csak lecsüggesztette a fejét. Sokkalta súlyosabb volt a döntés, amit ez után volt kénytelen meghozni.
+say.nr413_1_epidemic_starts.86;"A pénz nem számít"
+say.nr413_1_epidemic_starts.88;– mondta Meve. –
+say.nr413_1_epidemic_starts.9;– felelte a felcser, és a kezeit egy alkoholba áztatott ronggyal törölte meg. –
+say.nr413_1_epidemic_starts.90;"Fogj hozzá, de tüstént!"\n\n
+say.nr413_1_epidemic_starts.92;Isbel rendkívül értékes és ritka gyógynövényekkel – páfrányvirággal, mandragóragyökérrel, nadálytô magokkal, mi egyébbel – tért vissza a füvesembertôl. Aztán különbözô edényeket – tölcséreket, lepárlókat, lombikokat és kancsókat – vett elô az utazóládájából. Különféle színû fôzetek készültek keze munkája nyomán, az edényekbôl gôzök és furcsa szagok szálltak. Sok-sok munka árán, és több óra elteltével a végeredmény néhány cseppnyi sûrû szubsztancia lett egy fiola alján.
+say.nr413_1_epidemic_starts.94;Isbel elsuttogott egy varázsigét, majd beadta az orvosságot a haldoklónak. A remegés és a láz szinte azonnal alábbhagyott, a többi tünete néhány órán belül elmúlt. Csak eztán engedett meg magának Meve egy megkönnyebbült sóhajt.
+title.nr413_1_epidemic_starts.313;Ragály
+

@@ -1,0 +1,65 @@
+menu.nr401_4_battle_for_the_bridge.88;Hátrahagyod a sebesülteket, és azonnal folytatod az utadat.
+menu.nr401_4_battle_for_the_bridge.89;Hagysz idôt a felcsereknek, hogy bekötözhessék a katonák sebeit.
+say.nr401_4_battle_for_the_bridge.1;Legyek és szúnyogok lepték Meve arcát és nyakát, de nem veszôdött azzal, hogy lesöpörje ôket. Elég idôt töltött Angrenben ahhoz, hogy tudja, úgyis jönnének helyettük újak.\n
+say.nr401_4_battle_for_the_bridge.101;"Természetesen megértem. De értse meg Ön is: nehéz szívvel hoztam meg ezt a döntést."
+say.nr401_4_battle_for_the_bridge.103;A katonák némán fogadták Meve döntését. És ez volt az elsô alkalom, hogy megvetés látott a szemükben. De nem ingott meg. Hátrahagyták a sebesülteket. Közben mindannyian abban reménykedtek, hogy a nilfgaardiak a hadviselés szabályai értelmében becsülettel viseltetnek majd a sebesültek iránt, úgy bánnak majd velük, mint hadifoglyokkal – és nem ölik le ôket, mint a satnya állatokat.\n\n
+say.nr401_4_battle_for_the_bridge.105;A sereg azonnal nekiindult. Így, hogy nem lassították le ôket a sebesültek, gyorsan haladtak. Az üldözôik és közöttük egyre nôtt a távolság. A királynô görnyedt vállal és lesütött tekintettel lovagolt a menetoszlop élére.
+say.nr401_4_battle_for_the_bridge.106;"Gasconnak igaza van. Amint Nilfgaard beér minket, kevés esélyünk lesz ellenük."\n
+say.nr401_4_battle_for_the_bridge.108;"Uhh... Legalább még képes vagy józanul––"\n
+say.nr401_4_battle_for_the_bridge.110;"De elôbb halok meg, sem hogy hagyjam az embereimet ebben az átkozott ingoványban megrohadni. Az orvosok lássák el a sebesülteket! Aztán,... lesz, ami lesz."\n
+say.nr401_4_battle_for_the_bridge.112;"Megmondom én Neked, mi lesz"
+say.nr401_4_battle_for_the_bridge.114;– horkantott fel Gascon. –
+say.nr401_4_battle_for_the_bridge.116;"Aep Dahy szerez egy henteskampót, és azzal fog kibelezni, majd fellógat Lyria székesfôvárosának kapuja fölé. Ám ha ez a kívánságod,..."
+say.nr401_4_battle_for_the_bridge.118;Meve kivárta, amíg a seborvosok összeöltik az utolsó sebet, felkötik az utolsó fáslit is. Csak az után adta ki a parancsot az indulásra. A menetoszlop végén, saroglyákon vonszolva – láztól emésztve, kábultan vagy eszméletlenül, halódva – feküdtek azok, akiknek nem maradt már ereje a járáshoz.\n\n
+say.nr401_4_battle_for_the_bridge.120;Kimerülve és a sebesültek által hátráltatva a lyriaiak olyan lassan mozogtak, mint a szirupba ragadt bogarak. Hamarosan beérték ôket Nilfgaard elôretolt egységei. A hátvédjüket a Feketék fák takarásából kínálták meg nyilaikkal, és alkalmasint a lovasságuk is rájuk rontott. Nem kapkodták el a dolgot. Kedvükre gyötörhették ellenfelüket, törhették meg a lelkületüket a végsô csapás elôtt.
+say.nr401_4_battle_for_the_bridge.123;Végre valahára Meve egy sötét tömeget pillantott meg a víz fölött: Rôtlobinden hídját. Már csak egészen kevés hiányzott ahhoz, hogy a lyriaiak megmenekedjenek a mocsárvidék szorításából, egérutat nyerjenek üldözôik, és az azokat követô szörnyek elôl.\n\n
+say.nr401_4_battle_for_the_bridge.125;De a látványra elôtörô öröm hamarosan kétségbeesésnek adta át a helyét. A híd sötétlett, sôt, feketéllett... az azt védô nilfgaardiak hordáitól. Láthatóan a Feketék megneszelték, Meve milyen úton szándékozott elmenekülni,... majd elvágtak elôle minden lehetôséget.\n
+say.nr401_4_battle_for_the_bridge.127;Meve lehunyta a szemeit, érezte, hogy azok szúrnak a kimerültségtôl. Tudta, hogy amikor majd feléjük fordul, félelmet, a kétely legapróbb jelét sem mutathatja az emberei elôtt. Szorosan megmarkolta a gyeplôt. A bôrszíj belevágott a bôrébe, és segített neki visszatartani a könnyeit. És amikor a királynô végre megszólalt, a hangja acélos volt, és túlzengte a folyó zúgását is.\n
+say.nr401_4_battle_for_the_bridge.129;"Tudom, hogy mit szeretnétek hallani"
+say.nr401_4_battle_for_the_bridge.131;– kezdett bele a királynô. –
+say.nr401_4_battle_for_the_bridge.133;"Hogy az istenek vigyáznak ránk, hogy sértetlenül kerülünk ki a küzdelembôl, és hogy egy baráti sereg alig csak egy kôhajításnyira van tôlünk."
+say.nr401_4_battle_for_the_bridge.135;"De mindez hazugság lenne. Az igazság amilyen keserû, olyannyira tagadhatatlan – sarokba szorítottak bennünket, és ezt a csatát nem nyerhetjük meg, nem menekülhetünk elôle. De megválaszthatjuk, hogy miképp haljunk. Fára felkötve, mint a közönséges bûnözôk, vagy fegyverrel a kézben, mint a harcosok. Mert hogy azok vagyunk. Én már eldöntöttem. Ideje, hogy ti is döntsetek!"\n\n
+say.nr401_4_battle_for_the_bridge.137;Ezzel a kiáltással az ajkán tört Meve a híd felé, lándzsák erdeje felé, nyilak zápora felé. Hagyta, hogy a könny kicsorduljon a szemébôl – a düh, a félelem, a kimerültség könnyei. Csak akkor mert aztán hátrapillantani, amikor már majdnem elért az ellenség arcvonaláig. És látta, hogy nem volt egyedül.
+say.nr401_4_battle_for_the_bridge.14;Kevéssel a csata vége elôtt Meve szembe találta magát a Feketék egy tisztjével. Fürgén elhajolt a csapása elôl, majd nyomban riposztolt. A pengéje mélyre hatolt, a keresztvasa a Fekete mellvértjét karistolta. Meleg vér öntözte Meve kezét. A szárnyas sisak lebucskázott a tiszt fejérôl, felfedve izzadságban fürdô, lélegzetért kapkodó ábrázatát.\n
+say.nr401_4_battle_for_the_bridge.29;"Felség"
+say.nr401_4_battle_for_the_bridge.301;"Neen... Aaa... Waen nee..."\n
+say.nr401_4_battle_for_the_bridge.302;"Ennyi volt... Halottak vagyunk. Mind! Levágnak bennünket, az utolsó szálig!"
+say.nr401_4_battle_for_the_bridge.303;– Ekkor hirtelen Meve beleöklözött a legközelebbi fába. Ami – szerencséjére – puha kérgû és pudvás volt. –
+say.nr401_4_battle_for_the_bridge.305;"Ne... Nem! Ez nem lehet!"
+say.nr401_4_battle_for_the_bridge.306;"Ez nem igazság!"
+say.nr401_4_battle_for_the_bridge.31;– hallotta a háta mögül Reynard hangját. –
+say.nr401_4_battle_for_the_bridge.33;"Visszatértek a felderítôink. Nagy számban vannak a nyomunkban Feketék, gyalogság és lovasság egyaránt... És egyre zárkóznak föl."\n
+say.nr401_4_battle_for_the_bridge.35;"A fenébe...!"
+say.nr401_4_battle_for_the_bridge.37;– Meve arrébb törölte a homlokából izzadságtól csatakos haját. –
+say.nr401_4_battle_for_the_bridge.39;"Mit javasol, Reynard? Harcba szálljunk velük?"\n
+say.nr401_4_battle_for_the_bridge.41;"Alig néhány mérföldnyire vagyunk csak a folyótól, ahol a komp vár ránk. Nincs értelme most megütközni velük."
+say.nr401_4_battle_for_the_bridge.42;Bár utolsó erôtartalékait élte fel, Meve megszaporázta a lépteit. Már alig várta, hogy a kompra tegye a lábát, és maga mögött hagyhassa Angren ezerszer is elátkozott lápvidékét.\n\n
+say.nr401_4_battle_for_the_bridge.44;Ám... a beígért vízi alkalmatosság helyén csak az eloldozott kikötôköteleket találták.\n
+say.nr401_4_battle_for_the_bridge.46;"Felség, én... Kegye-kegyelmezzen... Alig csak egy pillanatra néztem félre..."
+say.nr401_4_battle_for_the_bridge.48;– krákogta a felderítô, aki úgy elsápadt, mintha szellemet látott volna, –
+say.nr401_4_battle_for_the_bridge.50;"a tolvajok meg csak kiugrottak a bokrok közül, egyenest rá a kompra. Egész bandára való zsivány – egy ôsz hajú harcos, egy vándormuzsikus, egy lány íjjal..."\n\n
+say.nr401_4_battle_for_the_bridge.52;"Hahh! Még valaki?"
+say.nr401_4_battle_for_the_bridge.54;– szakította félbe Gascon. –
+say.nr401_4_battle_for_the_bridge.56;"És merô véletlenségbôl egyikôjüket sem ülte meg szôrén egy vámpír? Részeg vagy, ember, a fene essen beléd! Meve, most mi legyen?"\n
+say.nr401_4_battle_for_the_bridge.58;A királynô visszafordult a mocsár irányába. A fák között elô-elôtûnt egy aranyló napkorongos lobogó.\n
+say.nr401_4_battle_for_the_bridge.60;"Ezt késôbb beszéljük meg"
+say.nr401_4_battle_for_the_bridge.62;– mondta a királynô, és kivonta kardját. –
+say.nr401_4_battle_for_the_bridge.64;"Feltéve, ha életben maradunk.
+say.nr401_4_battle_for_the_bridge.65;Egy vörös üstökû, hosszú szempillájú fiú állt Meve elôtt. Egyidôs lehetett Villemmel, talán egy kicsit idôsebb. {audio=nr401_4_battle_for_the_bridge_soldier_in_mud}A teste lecsúszott a pengérôl, összenyeklett, majd eltûnt a sötéten kavargó lápvíz bûzös habjai között. Meve úgy hajította el a kardját, mintha az égette volna a kezét.
+say.nr401_4_battle_for_the_bridge.66;"Felség! Mi történt? Megsérült?"
+say.nr401_4_battle_for_the_bridge.67;– kérdezte Reynard a királynô felé futtában.\n
+say.nr401_4_battle_for_the_bridge.73;"Nem, én nem. Jól vagyok. Adja ki a parancsot, menetelünk tovább. Komp nélkül gyalogolnunk kell Rôtlobindenig, a folyópart mentén."\n
+say.nr401_4_battle_for_the_bridge.75;"Felség... Gondoskodnunk kell a sebesültekrôl. Talán a nap hátralévô részére pihenôt tarthatnánk..."
+say.nr401_4_battle_for_the_bridge.77;"Nincs arra idônk"
+say.nr401_4_battle_for_the_bridge.79;– vágott a szavába Gascon. –
+say.nr401_4_battle_for_the_bridge.83;"Ez csak az elôôrs volt, azért vettek üldözôbe, hogy lelassítsanak. És még így is, mindegyikünkre kettô jutott belôlük! Mi lesz akkor, amikor a fô sereg ideér? Menekülnünk kell. Most!"\n
+say.nr401_4_battle_for_the_bridge.85;"És hagyjuk hátra a sebesülteket? Hogy a sárban fekve vérezzenek el?"\n
+say.nr401_4_battle_for_the_bridge.87;"Ha kell, Reynard, igen. Hacsak nem szeretné, ha maradnánk, és mi is velük halnánk."
+say.nr401_4_battle_for_the_bridge.93;"Reynard... Becsülettel vezetni, s nem pedig önzô, rideg számítással – ha megtehetném, mindig az elôbbit választanám..."\n
+say.nr401_4_battle_for_the_bridge.95;"Felség, könyörögve kérem..."\n
+say.nr401_4_battle_for_the_bridge.97;"Ám Gascon érvei kikezdhetetlenek. Azonnal indulunk, máskülönben azt kockáztatjuk, hogy mindannyian itt veszünk. És mindent, amit ez idáig tettünk, kockára teszünk: a megvívott csatákat, a sok kiontott vért... Mindez a semmiért lenne. Ezt nem engedhetem."\n
+say.nr401_4_battle_for_the_bridge.99;"Felség... Tudja, hogy nem érthetek ezzel egyet. Amit ez után tesz, ahhoz nem asszisztálhatok."\n
+title.nr401_4_battle_for_the_bridge.300;Folyásiránt
+title.nr401_4_battle_for_the_bridge.312;Folyásiránt
+title.nr401_4_battle_for_the_bridge.879;A hídért vívott csata
+

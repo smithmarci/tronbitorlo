@@ -1,0 +1,40 @@
+menu.nr404_1_leech_temple.13;Megakadályozod a véráldozatot.
+menu.nr404_1_leech_temple.14;Áldozatot mutatsz be a lápisteneknek.
+menu.nr404_1_leech_temple.15;Félreállsz, és nem avatkozol közbe.
+say.nr404_1_leech_temple.1;Meve a távolban megpillantott egy fenôkô formájú, ovális alakzatot, ami aztán egy hatalmas, sötét obeliszknek bizonyult. Egy vizenyôs lapály közepén állt. Több tucat vasból készült gyûrû himbálózott a kerületén, amik a szélben hozzá-hozzáverôdtek a kôhöz csengô-bongó hang kíséretében.\n\n
+say.nr404_1_leech_temple.11;"A sötét vizekben lakoznak. Ha hallják a vér csöpögését, elôjönnek, és lakmároznak. Az istenek irgalmasak azokhoz, akik áldozattal kedveskednek nekik."
+say.nr404_1_leech_temple.19;"Nem ismerem az isteneiteket"
+say.nr404_1_leech_temple.21;– kezdett rá a királynô, és undorodva húzta fel az orrát, –
+say.nr404_1_leech_temple.23;"de ha efféle szörnyû áldozatot követelnek, nem érdemelnek sem tiszteletet, sem hódolatot. Amit ezekkel az állatokkal mûveltek, az barbárság, amit nem hagyhatok."\n
+say.nr404_1_leech_temple.25;"Elkergethetsz minket"
+say.nr404_1_leech_temple.26;– válaszolta a vén banya, –
+say.nr404_1_leech_temple.28;"ám amint továbbállsz, mi visszatérünk. Ahogy mindig is visszatértünk."\n
+say.nr404_1_leech_temple.3;Tehenek, szamarak és kutyák voltak összeterelve a kô köré, és mind a gyûrûkhöz voltak kikötve. Az irhájukon mély vágások látszottak, amikbôl vér szivárgott, és a sebek szúnyogok rajait vonzották oda. Sok állat nekifeszült a köteleinek, míg a többi csak döglôdve feküdt a nedves, magas fûben.
+say.nr404_1_leech_temple.30;"Tisztában vagyok vele. Ezért gondoskodom róla, hogy ne legyen hova visszatérnetek."\n\n
+say.nr404_1_leech_temple.31;A parasztok ordításait és rimánkodását túlharsogva Meve parancsot adott az obeliszk ledöntésére. A katonái megragadták a gyûrûkrôl lelógó köteleket, és felborították a kôtömböt. Amint az a földnek csapódott, rengeteg apró darabra tört.
+say.nr404_1_leech_temple.32;"Azt mondod, nem ismered az isteneinket"
+say.nr404_1_leech_temple.34;– az öregasszony komisz tekintetet vetett rá, a hangja fenyegetôvé vált. –
+say.nr404_1_leech_temple.36;"No hát, ne is aggaszd magad emiatt, Kedveském, ugyanis hamarosan találkozni fogsz velük. Tévútra vezetnek benneteket, ragályt terjesztenek a tieid között, ôrületbe kergetik mindegyiküket! Megátkozlak! Mindannyiótoknak! Gernichora nevében!"\n\n
+say.nr404_1_leech_temple.38;Meve ellovagolt, nem is zavartatva magát a vén satrafa szavai által,... de az emberei még sokáig pusmogtak az átokról. Megmérgezte az elméjüket és a szívüket. Minden botlást és szerencsétlenséget a szentségtörésért rájuk mért büntetésnek véltek.
+say.nr404_1_leech_temple.39;"Minden vidéknek megvannak a maga szokásai,... minden földnek megvannak a maga istenei"
+say.nr404_1_leech_temple.41;– mondta Meve. –
+say.nr404_1_leech_temple.43;"Meggondolatlan tett volna megsérteni ôket. Mi is áldozni fogunk nekik."\n\n
+say.nr404_1_leech_temple.44;A vénasszony elégedett volt, szeme mohón csillant, és még csak nem is próbálta elleplezni. Amikor a katonák egy ökröt vezettek elô, {audio=nr404_1_leech_temple_offering}segített nekik a vezetôszárat a kövön csüngô gyûrûk egyikéhez odakötözni. Majd egy csontkést illesztett az állat bôréhez, a bordák fölött, aztán belehasított. Vér csörgedezett, a víz az állat lábainál vörösre vált,... és forrni kezdett.
+say.nr404_1_leech_temple.46;"Az istenek elfogadják az áldozatot, Úrnôm"
+say.nr404_1_leech_temple.48;– mondta az öregasszony, és fogatlan vigyor ült ki az arcára, ami olyan barázdált volt, akár egy fa kérge. –
+say.nr404_1_leech_temple.5;A tisztás túloldalán emberek bukkantak elô a fák közül: néhány paraszt, mögöttük egy száron vezetett öszvérrel. Az állat ellenállt, topogott és megvetette a lábait – talán érezte, milyen szörnyû sors vár rá. A királynô úgy döntött, megkérdezi a parasztokat, és nemsokára megtudta tôlük, hogy az állatok áldozat gyanánt szolgálnak a lápisteneknek.\n
+say.nr404_1_leech_temple.50;"És szeretnénk köszönetet mondani, amiért tiszteletben tartottad a szokásainkat. Jöjjetek el a falunkba. Lesz étel és ital bôséggel, meg mellé furcsábbnál furcsább mesék!"\n\n
+say.nr404_1_leech_temple.52;Meve elfogadta az öregasszony meghívását. A falucska meglehetôsen szerénynek bizonyult, de a falusiak a vendégeiket megilletô lakomával fogadták ôket. A lyriaiak végre meleg étellel tölthették meg a gyomrukat, és megszáríthatták átázott ruháikat.
+say.nr404_1_leech_temple.53;A vén banya egész éjjel szôtte a meséjét egykor itt élt tündékrôl, az Ysgith ingoványairól, halott fákról, amik rettenetes gyümölcsöket teremnek. És végül Gernichoráról, a mocsár legfôbb úrnôjérôl és legmélyebben tisztelt istenségérôl...\n\n
+say.nr404_1_leech_temple.54;"Nem ismerem az isteneiteket"
+say.nr404_1_leech_temple.56;– mondta a királynô, –
+say.nr404_1_leech_temple.58;"de ha ilyen rettenetes ajándékot kívánnak, inkább nem is szeretném megismerni ôket."\n
+say.nr404_1_leech_temple.60;"Akkor vigyázz magadra, Kedveském"
+say.nr404_1_leech_temple.62;– felelte a vén banya. –
+say.nr404_1_leech_temple.64;"Mert ami nem adatik meg az isteneknek, azt elveszik. Kerüld az Ysgithet és annak gyümölcsfáit,... és óvakodj a Gernichora nevezetûtôl."\n\n
+say.nr404_1_leech_temple.66;Meve bólintott, majd felemelte egyik kezét, és jelt adott az indulásra. Ahogy a sereg továbbindult, morgolódás támadt a katonák között. Aztán mind megborzongtak, amikor egy hang törte meg a láp folyamatos neszezését. Az öszvér keserves bôgése volt az, miközben a falusiak bôrdarabokat metszettek ki a húsából...
+say.nr404_1_leech_temple.69;A lyriaiak másnap reggel kipihenten és teli hassal hagyták el a falucskát.
+say.nr404_1_leech_temple.7;"Mindenütt ott vannak, Kedveském. Nagyon közel. Ó, nagyon-nagyon közel"
+say.nr404_1_leech_temple.9;– suttogta egy fogatlan vénasszony. –
+title.nr404_1_leech_temple.304;Véráldozat
+

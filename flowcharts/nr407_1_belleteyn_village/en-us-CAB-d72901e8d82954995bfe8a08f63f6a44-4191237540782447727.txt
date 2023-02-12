@@ -1,0 +1,115 @@
+menu.nr407_1_belleteyn_village.149;Szóval,... fel se kérhetem egy táncra?
+menu.nr407_1_belleteyn_village.150;Jobban nem is érthetnék egyet, Reynard.
+menu.nr407_1_belleteyn_village.17;Szíves örömest! Fiatal még az este.
+menu.nr407_1_belleteyn_village.18;Sajnos tovább kell mennünk.
+menu.nr407_1_belleteyn_village.209;Ne nézzenek ostobának!
+menu.nr407_1_belleteyn_village.210;A dárdavetôt. Természetesen.
+menu.nr407_1_belleteyn_village.93;Azt javaslom, mondd el az igazat.
+menu.nr407_1_belleteyn_village.94;Ahogy akarod.
+say.nr407_1_belleteyn_village.1;"Hééé, legények-legények, a pirongatást nem csípem, de ha már szurkálódnátok: a cickóm helyett a fenekem!"\n
+say.nr407_1_belleteyn_village.10;"Nem akarunk ártani nektek. Mit ünnepeltek? Legényavatást? Mennyegzôt talán?"\n
+say.nr407_1_belleteyn_village.101;Többé nem hinni akarok. Tudni akarok.
+say.nr407_1_belleteyn_village.103;Ahh...
+say.nr407_1_belleteyn_village.105;Nem voltam én mindig haramia. Azelôtt teljesen más életet éltem. Olyan életet, amiben a de Marquise grófné tanácsai valóban szolgáltak valamiféle célt.
+say.nr407_1_belleteyn_village.107;Ó, az istenekre...! Azt akarod mondani, hogy az Ebek hercege tényleg kékvérû?
+say.nr407_1_belleteyn_village.109;Igazán ennyire mókás ez, Meve?
+say.nr407_1_belleteyn_village.11;"Dehogy, Úrnôm. Hála'dást. Az istenek kegyesek voltak, megtöltötték hallal a hálóinkat és vaddal a csapdáinkat. Ideje, hogy hálát adjunk nekik."\n
+say.nr407_1_belleteyn_village.111;Sajnálom. Általában Te szoktál lenni az, aki másokat kinevet,... nos, általában mindenért. És én csak nem tudtam, hogy––
+say.nr407_1_belleteyn_village.113;Esetleg témát válthatnánk?
+say.nr407_1_belleteyn_village.117;Rendben, legyen.
+say.nr407_1_belleteyn_village.119;...
+say.nr407_1_belleteyn_village.121;Köszönöm!
+say.nr407_1_belleteyn_village.123;Mit?
+say.nr407_1_belleteyn_village.125;Hogy nem firtattad tovább.
+say.nr407_1_belleteyn_village.127;Mindent el fogok mondani Neked... egyszer, talán. De nem ma éjjel. Még nem.
+say.nr407_1_belleteyn_village.129;Meve még egy ideig Gascon társaságában maradt, ám a társalgásuk hamar ellaposodott... Végül a királynô visszatért a tûzhöz, és a gondolataiba merült.
+say.nr407_1_belleteyn_village.13;"Akkor van miért hálát adnotok."\n
+say.nr407_1_belleteyn_village.135;Egy beszélgetés rendkívül jól megmaradt a királynô emlékezetében...
+say.nr407_1_belleteyn_village.137;Mi a helyzet Önnel, Reynard? Nincs ünneplôs hangulatban?
+say.nr407_1_belleteyn_village.139;Nem, Felség, nem vagyok.
+say.nr407_1_belleteyn_village.141;Nos, akkor mi aggasztja? Mi a gond?
+say.nr407_1_belleteyn_village.143;Gondolnom kell a jó híremre, nem hagyhatom, hogy bármi aláássa a tekintélyemet.
+say.nr407_1_belleteyn_village.145;Igaz. Az istenek óvják attól, hogy a katonák megláthassák Önben az embert a páncél alatt.
+say.nr407_1_belleteyn_village.147;Másképp fogalmazta volna. De a parancsnokok nem engedhetik meg maguknak, hogy az egységeik túlságosan megismerjék ôket.
+say.nr407_1_belleteyn_village.15;"Úgy igaz, Úrnôm, mert hát mi szegény népek volnánk, de egy királynônek... Nos, Kegyednek sem árt. Felség, maradjanak itt éjszakára, vigadjanak velünk. Lesz itt dínomdánom, és akad még hely a tûz körül."
+say.nr407_1_belleteyn_village.151;Úgy érti,... inkább fel se kérjem egy táncra?
+say.nr407_1_belleteyn_village.153;Felség, távol álljon tôlem, hogy megmondjam Önnek, mit tegyen, vagy mit ne tegyen...
+say.nr407_1_belleteyn_village.155;Tudja, hogy értettem.
+say.nr407_1_belleteyn_village.157;...
+say.nr407_1_belleteyn_village.159;Úgy vélem, nem a legalkalmasabb az idôpont ehhez a beszélgetéshez, Felség.
+say.nr407_1_belleteyn_village.161;De amint megnyeri ezt a háborút,... hajlandó lennék folytatni.
+say.nr407_1_belleteyn_village.163;Óóó, már alig várom, hogy láthassam a boldog és elégedett Reynardot! Most még nehezemre esik elképzelni.
+say.nr407_1_belleteyn_village.165;Ne aggódjon, szaván fogom majd, Odo gróf.
+say.nr407_1_belleteyn_village.167;Igen, Felség. Most bocsásson meg,... meg kell hallgatnom a felderítôk jelentéseit.
+say.nr407_1_belleteyn_village.169;Meve egyetértése jeleként bólintott. Majd visszafordult a mulatozók felé, és a tûzbe bámult, miközben aprócska kis mosoly játszott a szája sarkában.
+say.nr407_1_belleteyn_village.171;Igaza van, Reynard. Az embernek távolságot kell tartania.
+say.nr407_1_belleteyn_village.173;Örülök, hogy egyetértünk.
+say.nr407_1_belleteyn_village.175;...
+say.nr407_1_belleteyn_village.177;Felség, szeretném meghallgatni a felderítôk jelentéseit,... engedelmével.
+say.nr407_1_belleteyn_village.179;Természetesen, Reynard. Távozhat.
+say.nr407_1_belleteyn_village.181;Reynard bólintott, majd beleveszett a sötétségbe. Meve visszafordult a tábortûzhöz, és belemerült a gondolataiba.
+say.nr407_1_belleteyn_village.185;Egy párbeszéd rendkívül jól megmaradt a királynô emlékezetében. Egy beszélgetés, amit fél füllel kapott el...
+say.nr407_1_belleteyn_village.187;Kicsit sem? Egy icurka-picurkát sem?
+say.nr407_1_belleteyn_village.189;Elmondom még egyszer: nem a maga dolga.
+say.nr407_1_belleteyn_village.191;Persze, hogy nem. Nem is lennék ennyire kíváncsi, ha az volna.
+say.nr407_1_belleteyn_village.193;Legyen, hallgasson csak. De, mhh, azok a szemek, mint a nyári égbolt, {audio=nr407_1_belleteyn_village_Meve_approches}és az a haj, mint a szellôben hullámzó búzaszálak... Látom ám, milyen szemeket mereszt rá.
+say.nr407_1_belleteyn_village.195;Mi az, amirôl itt megy a pusmogás?
+say.nr407_1_belleteyn_village.197;Uhh, Felséged...
+say.nr407_1_belleteyn_village.199;Ha-ha! Magam sem felelhettem volna meg rá szebben!
+say.nr407_1_belleteyn_village.201;Mit nézeget annyira Reynard?
+say.nr407_1_belleteyn_village.203;...
+say.nr407_1_belleteyn_village.205;Báhh... hát az új dárdavetôt, mi mást?! Ó, micsoda mestermunka az. Színtiszta mûalkotás, én azt mondom. Egy pillanatra sem tudod levenni róla a szemed!
+say.nr407_1_belleteyn_village.21;"Hálás vagyok a szíves meghívásért"
+say.nr407_1_belleteyn_village.211;Nem hallgattak el már így is túl sok mindent elôlem?
+say.nr407_1_belleteyn_village.213;...
+say.nr407_1_belleteyn_village.215;Ne nézzenek ostobának! Mirôl van szó?
+say.nr407_1_belleteyn_village.217;Meve, komolyan, jobb lenne, ha nem––
+say.nr407_1_belleteyn_village.219;Ez személyes jellegû dolog, Felség. Úgy is mondhatnánk, afféle szívbéli ügy.
+say.nr407_1_belleteyn_village.221;Engedelmével, nem szívesen osztanám meg a beszélgetés részleteit.
+say.nr407_1_belleteyn_village.223;Rendben. Beszéljék meg,... amit a férfiaknak meg kell beszélniük. Távozom.
+say.nr407_1_belleteyn_village.225;Meve sarkon fordult, visszament a tábortûzhöz, és letelepedett egy régi fatönkre...
+say.nr407_1_belleteyn_village.227;Hahh! Ez közel volt. Én––
+say.nr407_1_belleteyn_village.229;Pszt!
+say.nr407_1_belleteyn_village.23;– felelte a királynô, –
+say.nr407_1_belleteyn_village.231;...és egy halvány mosoly derengett fel a királynô szája szegletében.
+say.nr407_1_belleteyn_village.233;Á, szóval a dárdavetôt...
+say.nr407_1_belleteyn_village.235;Pontosan.
+say.nr407_1_belleteyn_village.239;Hmm. És mi teszi annyira különlegessé ezt a gépet? A faszerkezet simasága? A felajzott karok elegáns ívei és kecses hajlatai?
+say.nr407_1_belleteyn_village.24;"de folytatnunk kell utunkat."\n
+say.nr407_1_belleteyn_village.241;Felség... Ha megengedi, inkább nem––
+say.nr407_1_belleteyn_village.243;Megértem, Reynard. Tisztában vagyok vele, hogy a férfiak gyakran vitatják meg egymás között, milyenek bizonyos... dárdavetôk. Már itt sem vagyok.
+say.nr407_1_belleteyn_village.246;A lyriaiak nem hajnalhasadtával kerekedtek fel. A sereg délután indult útnak – a katonák borotválatlanul, mosdatlanul, ziláltan. Általában nem szokott elnézô lenni a fegyelem ilyen fokú semmibevételét illetôen, azonban Meve is megértette: néhanapján a katonái megérdemlik, hogy kevésbé kelljen fegyelmezettnek és ébernek lenniük.
+say.nr407_1_belleteyn_village.26;"Ó. És hova tartanak ilyen nagy sietve, Úrnôm?"\n
+say.nr407_1_belleteyn_village.28;"Haza, jóember. Haza."\n\n
+say.nr407_1_belleteyn_village.3;Meve és a mellette léptetô lovas meghökkenten néztek össze. Jól kivehetôen hallották az éneket – a dallamát és a szövegét is. Akárki is rikoltotta azt, közel kellett hogy legyen. És az elôadásmódból ítélve már eléggé kapatos lehetett...
+say.nr407_1_belleteyn_village.30;Meve éleset füttyentett, és megsarkantyúzta a hátasát. Az emberei követték, habár támadt némi zúgolódás. A parasztok visszatértek az önfeledt vigalomhoz. Vidám dalaik még sokáig visszhangoztak a katonák fülében.
+say.nr407_1_belleteyn_village.319;A flóták, sípok és hegedûk trillázása közepette hajnalig tartott a mulatozás. Végre valahára pihenhettek, megfeledkezhettek Nilfgaardról és a nádasban ólálkodó számtalan bestiáról.\n\n
+say.nr407_1_belleteyn_village.32;"Huhh. Miért is ne"
+say.nr407_1_belleteyn_village.320;Sokáig emlékeztek még arra az éjszakára – az önfeledt kacagásra, a tánc közben pörgô-forgó parasztlányokra. A sörre, ami olyan hûs volt, mint egy hegyi patak vize, és a kenyérre, amit a tûz fölött pirítottak jó ropogósra...
+say.nr407_1_belleteyn_village.321;Meve úgy gondolta, hogy a falusiak ellentételezést várnak majd a vendéglátásért. Ám a parasztok egy árva említést sem tettek a pénzrôl, ezért a királynô igazán meghatódott a kedvességüktôl. Újfent bebizonyosodott, hogy akiknek a kevésnél is kevesebb jutott, azok adnak másoknak a legtöbbet...\n\n
+say.nr407_1_belleteyn_village.34;– így Meve, miközben leszállt a lováról. –
+say.nr407_1_belleteyn_village.36;"Úgy vélem, mindannyiunkra ráfér egy kis lazítás."\n
+say.nr407_1_belleteyn_village.38;A lyriaiakat nem kellett gyôzködni. Megdöbbentô gyorsasággal szabadultak meg páncéljaiktól és sisakjaiktól, aztán azon nyomban becsatlakoztak az ünneplésbe és a táncba.
+say.nr407_1_belleteyn_village.4;Rövidesen egy kis falu tárult a szemük elé. A közepén egy hatalmas örömtûz lángolt, körülötte pedig meztéllábas, kacagó és rikkantgató parasztok ropták a táncot jókedélyûen és önfeledten. Aztán egyikük is, másikuk is észrevette a királynôt. Pár pillanat múltán mind elcsendesedtek, egymáshoz bújtak, {audio=nr407_1_belleteyn_village_fear_not} és gyerekek pillantgattak elô félôsen a felnôttek háta mögül.
+say.nr407_1_belleteyn_village.6;"Ne féljetek"
+say.nr407_1_belleteyn_village.69;Egy beszélgetés rendkívül jól megmaradt a királynô emlékezetében...
+say.nr407_1_belleteyn_village.71;Mi a helyzet veled, Meve? Nem vagy egy táncos alkat?
+say.nr407_1_belleteyn_village.73;Nem ismerem a lépéseket. A nevelônôimtôl megtanultam, hogyan kell keringôt járni. Ám attól tartok, semmi ilyesmit nem tanítottak.
+say.nr407_1_belleteyn_village.75;Hát persze, gondolhattam volna – de Marquise grófné etikett kódexe. Soha nem engedne az ember lányának ilyen alantas és közönséges elhajlást.
+say.nr407_1_belleteyn_village.77;Az istenekre,... az a vén boszorka. Tudod, arra sem emlékszem már, mikor hallottam utoljára a nevét...
+say.nr407_1_belleteyn_village.79;Legyen könnyû neki a föld...
+say.nr407_1_belleteyn_village.8;– mondta nekik Meve. –
+say.nr407_1_belleteyn_village.81;Várjunk csak! Honnan ismered Te a de Marquise grófnét?
+say.nr407_1_belleteyn_village.83;Tessék?
+say.nr407_1_belleteyn_village.85;Elôttem nem kell szemérmesnek lenned. Vadembereket, akik az aljnövényzetben ólálkodnak, ritkán tanítanak az udvari etikettre.
+say.nr407_1_belleteyn_village.87;Pfff, hát, ôszintén, nem dereng... Lefogadom, hallottam róla valahol.
+say.nr407_1_belleteyn_village.89;És azt, ahogy beszélsz, ahogy a szavakat forgatod? Azt is csak hallottad valahol?
+say.nr407_1_belleteyn_village.91;Hagyj lógva, Meve.
+say.nr407_1_belleteyn_village.97;Nem titkoltál el már eddig is túl sokat?
+say.nr407_1_belleteyn_village.99;Higyj nekem, ez teljesen más––
+title.nr407_1_belleteyn_village.1;Hála'dás
+title.nr407_1_belleteyn_village.2;Hála'dás
+title.nr407_1_belleteyn_village.3;Hála'dás
+title.nr407_1_belleteyn_village.306;Hála'dás
+title.nr407_1_belleteyn_village.4;Hála'dás
+

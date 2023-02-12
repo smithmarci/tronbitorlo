@@ -1,0 +1,24 @@
+menu.nr412_1_desertion_attempt.32;Lefokozod a dezertôröket, és megvonod az illetményüket.
+menu.nr412_1_desertion_attempt.33;Felkötteted minden harmadik szökevényt.
+say.nr412_1_desertion_attempt.1;A lyriaiak némaságba burkolózva meneteltek, ahhoz is fáradtak voltak, hogy lépést tudjanak tartani a dobok ütemével. Egyszer csak süvöltô szél kélt, és mennydörgés morajlott végig a vidéken.\n
+say.nr412_1_desertion_attempt.17;A vihar egész éjjel tombolt, majd hajnalban végre továbbvonult. Meve elôbukkant a sátrából, hogy kicsavarja átázott kabátját. Reynard közeledett, gondterhelt léptekkel és zord ábrázattal.\n\n
+say.nr412_1_desertion_attempt.19;"Felség... A Tizenegyesek közül néhány ember, úgy egy tucat, szökni próbált az éj leple alatt. Az ôrszemek megállították, megkötözték ôket, és most az Ön ítéletére várnak."
+say.nr412_1_desertion_attempt.20;A vihar egész éjjel tombolt, majd hajnalban végre továbbvonult. Meve elôbukkant a sátrából, hogy kicsavarja átázott kabátját. Egy tiszt közeledett, gondterhelt léptekkel és zord ábrázattal.\n\n
+say.nr412_1_desertion_attempt.22;"Felség... A Tizenegyedik Regimentbôl több ember szökni próbált az éjjel. Az ôrszemek tartóztatták fel ôket, és most az ítéletére várnak. Úgy vélem, szigorú büntetést érdemelnének..."
+say.nr412_1_desertion_attempt.27;Meve felöltötte és összegombolta még mindig nedves zekéjét. Jól tudta, miért próbáltak meg dezertálni az emberei. Hazavágytak a sajátjaikhoz, elvesztették szemük elôl a célt, talán többé nem is hittek a gyôzelemben... Viszont az állandó menetelésnek és harcnak soha nem akaródzott véget érnie.\n\n
+say.nr412_1_desertion_attempt.29;A királynô együttérzett velük. Ô maga is sokat vívódott, folyton kételyek gyötörték. Mégis, tisztában volt vele, hogy a dezertôröket meg kell büntetni. Már csak az volt a kérdés, milyen mértékben.\n\n
+say.nr412_1_desertion_attempt.3;Amint a katonák a szekerekhez rohantak, hogy lepakolják azok rakományát, hirtelen nekiállt szakadni az esô, és az emberek pillanatok alatt bôrig áztak. Késôbb fogvacogva, összekucorodva ültek a szakadt sátrakban, amiknek póznáit heves köhögések reszkettették meg.\n
+say.nr412_1_desertion_attempt.31;Meve belépett a sátorba, amiben a rabok várakoztak. Néhányan a tettük fölött érzett szégyenükben elfordították az arcukat, míg a többiek ráemelték tekintetüket: vöröslô és könnyes szemeket, esdeklô tekinteteket látott.
+say.nr412_1_desertion_attempt.36;"Mind tudjátok, milyen büntetés jár a dezertálásért..."
+say.nr412_1_desertion_attempt.38;– mondta Meve az elôtte álló, bokában és csuklóban megkötözött katonáknak. –
+say.nr412_1_desertion_attempt.40;"Mindegyikôtöket fel kellene lógattatnom. Mégis... ilyen messzire eljutottunk ezen az árulásokkal teli úton, rendkívüli nehézségeket álltunk ki együtt. Ezt figyelembe vettem, amikor a bûnötöket mérlegeltem. Ezennel megfosztattok minden rangotoktól, és egy évnyi illetményetektôl. Most pedig takarodjatok a szemem elôl! Haladéktalanul!"\n\n
+say.nr412_1_desertion_attempt.42;A dezertálók hálát rebegtek, és iparkodva hagyták el a sátrat tartván attól, hogy a királynô esetleg meg találja gondolni magát. Aztán Meve is elindult a szállása felé, ám közben harag és keserûség emésztette legbelül.
+say.nr412_1_desertion_attempt.44;"Tegnap még bajtársak voltunk..."
+say.nr412_1_desertion_attempt.46;– mondta Meve az elôtte álló, bokáján és csuklóján megkötözött katonáknak. –
+say.nr412_1_desertion_attempt.48;"Ma bûnözôkként álltok itt elôttem, akik fölött ítéletet kell mondanom. Mindannyian tudjátok, miképp bánok el a háborús idôkben törvényt szegôkkel: késedelem és kegyelem nélkül. Ôrmester! Hurkot minden harmadik ember nyakába, a többieknek pedig ostorcsapást! Ez parancs!"
+say.nr412_1_desertion_attempt.50;Az ôrmester elvezette a bûnösöket. Meve hallotta, ahogy az ítélet-végrehajtó leszámolja az ostorcsapásokat: egy, két, hár',... egy, {audio=nr412_1_desertion_attempt_p2_deserters_executed}két, hár'... Elfojtott zokogás hangjait hallotta, a meghúzott és nyakra szorított kötél csikorgását, majd... a csöndet. {audio=nr412_1_desertion_attempt_p1_Meve_entered_the_tent}Miközben a sátrához vonult, a királynô nem nézett a katonák holttestei felé, mégis érezte, ahogy azok szelíden himbálóztak a lágy szélben. Csak azt tette, amit tennie kellett.
+say.nr412_1_desertion_attempt.51;"A szentségit!"
+say.nr412_1_desertion_attempt.53;– Meve lecsusszant a nyeregbôl. –
+say.nr412_1_desertion_attempt.54;"Itt tábort verünk! Állítsátok fel a sátrakat, gyorsan, hamar!"\n\n
+title.nr412_1_desertion_attempt.311;Dezertôrök
+

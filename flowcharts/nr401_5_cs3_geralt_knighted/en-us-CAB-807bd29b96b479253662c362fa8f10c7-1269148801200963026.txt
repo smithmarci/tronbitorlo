@@ -1,0 +1,14 @@
+say.nr401_5_cs3_geralt_knighted.11;"Valahogy így alakult."
+say.nr401_5_cs3_geralt_knighted.12;"Avakut!"
+say.nr401_5_cs3_geralt_knighted.14;– gurgulázott a szájában felgyûlt vértôl Meve, majd kiköpött. –
+say.nr401_5_cs3_geralt_knighted.16;"Téjdej le!"
+say.nr401_5_cs3_geralt_knighted.17;A királynô érdemesnek találta Geraltot a legnagyobb elismerésre – a lovagi címre. Bármely másik uralkodó elhalasztotta volna a ceremóniát egy alkalmasabb idôpontig, de nem Meve... Meve semmit sem halogatott.
+say.nr401_5_cs3_geralt_knighted.18;"Odo króf, montya Ön a formulát. Nekem ninty fokam."
+say.nr401_5_cs3_geralt_knighted.19;Példátlan hôsiességedért a harcban, én, Meve, az istenek kegyelmébôl Lyria és Rívia királynôje, ezennel lovaggá ütlek.
+say.nr401_5_cs3_geralt_knighted.20;"Rífiai harcosokkal fállfetve tartottad a hidat, fitész sehonnai Geralt..."
+say.nr401_5_cs3_geralt_knighted.22;"Falahoty íty avakut – ha-ha! Ezért a köfetkeszô predikátumot adományozom neked: Rífiai Geralt."
+say.nr401_5_cs3_geralt_knighted.5;Meve gyôzelmet aratott a Jaruga partján, de keservesen megfizetett érte. Rengeteg emberét elveszítette, maga is csúnyán megsebesült. És ha nem tûnik fel a színen egy bizonyos fehér hajú vaják, jómaga is odaveszett volna. Meve mihamarabb meg akarta ismerni titokzatos megmentôjét, ezért, amint elült a harc pora, a keresésére indult.
+say.nr401_5_cs3_geralt_knighted.7;A tábori orvos sátrában lelt rá, és akkor tudta meg, hogy az nem más volt, mint a Geralt nevezetû vaják. Igen, hangozzék akármennyire is hihetetlenül, több forrásból hallottam a mesét, és mind váltig állították, hogy ez az igazság. Lett légyen akárhogy is, nem törôdve azzal, hogy Geraltnak csöngött a füle egy buzogány csapásától, Meve azonnal a kikérdezésébe fogott.
+say.nr401_5_cs3_geralt_knighted.8;"Te fétted peg a hidat?"
+say.nr401_5_cs3_geralt_knighted.9;– firtatta Meve, nekiszegezve a kérdést. Geralt egy pillanatra azt hitte, hogy oda a hallása, de aztán rájött, hogy a királynô selypít.
+

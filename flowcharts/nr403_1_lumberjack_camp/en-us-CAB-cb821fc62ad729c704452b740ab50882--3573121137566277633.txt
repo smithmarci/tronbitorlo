@@ -1,0 +1,41 @@
+menu.nr403_1_lumberjack_camp.19;Megtámadod a tábort.
+menu.nr403_1_lumberjack_camp.20;Továbbmész.
+menu.nr403_1_lumberjack_camp.4;Megtámadod a tábort.
+menu.nr403_1_lumberjack_camp.5;Továbbmész.
+menu.nr403_1_lumberjack_camp.53;Hagyod, hogy leúsztassák a fát a hajógyárakhoz.
+menu.nr403_1_lumberjack_camp.54;Elrekvirálod a faanyagot.
+menu.nr403_1_lumberjack_camp.888;Fizetsz a fáért, majd magaddal viszed.
+say.nr403_1_lumberjack_camp.1;Angren a tengertôl mérföldek ezreire terül el. A Birodalmi Flotta leginkább mégis innét szerezte be a faanyagot, ugyanis az e földön növô kôris és tölgy ideális a hajókészítéshez. A fûrészárut a Jarugán úsztatták le a cintrai és attréi kikötôkig, ahol éjjel-nappal Nilfgaard hajóhadait építették.
+say.nr403_1_lumberjack_camp.13;A lyriaiak újra az erdôszélen, ama táborhoz közel álltak meg, ahol a favágó gürcöltek. Meve felegyenesedett a nyeregben, és eltöprengett azon, mi tévô legyen...
+say.nr403_1_lumberjack_camp.23;Végül a királynô mégis a továbbhaladás mellett döntött. Nem volt idô ilyesfajta kitérôkre.
+say.nr403_1_lumberjack_camp.25;"A császár egy flottára való rönköt vár"
+say.nr403_1_lumberjack_camp.27;– harsogta a királynô, és kivonta a kardját. –
+say.nr403_1_lumberjack_camp.29;"Mi viszont csak hullákat küldhetünk neki! Alakzatba! Utánam!"\n\n
+say.nr403_1_lumberjack_camp.3;Ezért amikor Meve véget nem érô fejszekopogásra és fûrészsurrogásra lett figyelmes, megálljt parancsolt a hadoszlopnak, és gyorsan elôre küldte a felderítôit.\n\n
+say.nr403_1_lumberjack_camp.305;Visszatérvén azok egy fûrészteleprôl tettek jelentést, amely fölött fekete lobogók lebegtek, rajtuk a fénylô Nagy Napkoronggal. A küldetése szempontjából lényegtelen volt egy fûrésztelep elfoglalása, ám Meve kísértést érzett rá, hogy ott tegyen keresztbe a megszállóknak, ahol csak tud...
+say.nr403_1_lumberjack_camp.306;"Ver'spreiden evellienn! Ratreut!"\n\n
+say.nr403_1_lumberjack_camp.31;Amikor a lyriaiak, kiáltásokkal az ajkukon, rájuk rontottak, a favágók eldobták a fejszéiket. És habár a Fekete ôrséget hasonlóképp sikerült meglepniük, az hamar formációba rendezôdött, és felkészült az összecsapásra.
+say.nr403_1_lumberjack_camp.45;Nilfgaard sorai szétzilálódtak, a katonák hanyatt-homlok menekültek keresztülbucskázva a kivágott fákon és a holttesteken.\n
+say.nr403_1_lumberjack_camp.47;A levegô gyanta és vér szagától volt terhes. Amint a királynô végre lélegzethez jutott, körülnézett. Fák százai hevertek kivágva, sorokba rendezve. Annyi tölgy és kôris hevert ott, hogy télig elláthatta munkával a hajógyárakat.
+say.nr403_1_lumberjack_camp.49;Meve parancsba adta a fûrészáru elrekvirálását, ám a rönkvágók egyike kihallgatásért folyamodott. Egy férfi, akinek olyan volt napcserzette arca, mint a régi bôr, és a haja tele volt fûrészporral.\n
+say.nr403_1_lumberjack_camp.51;"Jó Úrnôm, tudom, hogy nehéz háborút vív Nilfgaarddal. Tudom, hogy megfosztaná ôket a faanyagtól... De akkor, tudja, nem fizetnek ki minket. Addig nem látunk pénzt a munkánkért, amíg a cintrai hajóépítô mûhelyek nem kapnak fát – ezt mondták nekünk a Feketék. Könyörögve kérem, könyörüljön rajtunk...! Mi egyszerû népek vagyunk, itt gályázunk tavasz óta, és mindannyiunknak van családja, akiket etetnie kell. A háborús idôkben bármikor kitörhet az éhínség..."
+say.nr403_1_lumberjack_camp.59;"Megértelek titeket. Keményen dolgoztatok sok-sok héten át, ezért nem volna helyes, ha nem kapnátok érte semmit sem"
+say.nr403_1_lumberjack_camp.61;– mondta Meve. –
+say.nr403_1_lumberjack_camp.63;"Ám ha a birodalom hozzájut a fához, akkor abból hajókat fog építeni, majd Nastrogtól Blavikenig végigfosztogatja a partokat. Városok fognak lángba borulni, százak fognak meghalni – és ezt egész egyszerûen nem engedhetem."\n\n
+say.nr403_1_lumberjack_camp.65;Az öreg fejszés egy szóval sem tiltakozott. A favágók felcihelôdtek, összeszedték a batyuikat, majd továbbálltak. Mind hazatértek, ki-ki a saját falujába, út közben pedig felkészültek arra, hogy közöljék a rossz hírt.
+say.nr403_1_lumberjack_camp.66;Meve a favágók viharvert kezeit nézte – azok koszosak, bütykösek és forradásosak voltak.\n
+say.nr403_1_lumberjack_camp.68;"Legyen hát, ezt a veszteséget el kell könyvelnem"
+say.nr403_1_lumberjack_camp.70;– sóhajtott a királynô. –
+say.nr403_1_lumberjack_camp.72;"Tegyétek, amit kell, hogy hozzájussatok a pénzetekhez. Nekem pedig mihamarabb meg kell nyernem a háborút... Még mielôtt a hajógyárakban nilfgaardi szlúpok készülnek a fáitokból."\n\n
+say.nr403_1_lumberjack_camp.74;A favágók könnyeikkel küzdve köszönték meg a királynônek, Meve mégis rosszkedvûen távozott. A semmiért harcolt és vesztett jó embereket – jutalma csak a tiszta lelkiismerete volt.
+say.nr403_1_lumberjack_camp.76;Mit gondoltatok? Hogy a ti angreni kôriseteknek csak Nilfgaardban örülnek?
+say.nr403_1_lumberjack_camp.78;– mondta Gábor csípôre tett kézzel. –
+say.nr403_1_lumberjack_camp.80;"Több száz tonnányi, kiváló minôségû faárutok van. Amikor a brémafai és keracki hajóácsok ezt meghallják, örömükben a gatyájukba vizelnek, és táncot járnak majd! Élnek kuzinjaim minkét helyen, majd tudtukra adom. Ôk tudni fogják, miképp rendezzék ezt az ügyletet. Már ha a királynô nem bánja, természetesen..."\n\n
+say.nr403_1_lumberjack_camp.84;Gábor meggyôzte ôket. Meve-nek tetszett az ötlet. A kecske is jóllakott, és a káposzta is megmaradt. És a császárnak az az terve, hogy Nilfgaard uralja a tengereket, ekképp dôlt dugába, és sosem kapott új erôre.
+say.nr403_1_lumberjack_camp.891;Meve lenézett a favágók kezeire. Azokat keresztbe-kasul szelték a forradások és hegek, az ujjaik pedig begörbültek a sokévnyi fejszézéstôl.\n
+say.nr403_1_lumberjack_camp.892;"Nem engedhetem, hogy ez a fa eljusson Nilfgaard hajóépítô mûhelyeibe"
+say.nr403_1_lumberjack_camp.893;– mondta a királynô, –
+say.nr403_1_lumberjack_camp.894;"de azt sem hagyhatom, hogy éhezzetek. Magam viszem el a fátokat, és saját zsebbôl fizetlek ki benneteket."
+title.nr403_1_lumberjack_camp.303;Angren aranya
+title.nr403_1_lumberjack_camp.316;Angren aranya
+

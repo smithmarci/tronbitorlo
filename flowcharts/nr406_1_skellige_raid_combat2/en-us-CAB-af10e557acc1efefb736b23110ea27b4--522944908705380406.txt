@@ -1,0 +1,4 @@
+say.nr406_1_skellige_raid_combat2.1;Ha-ha-ha! A halállal jön el a dicsôség!
+say.nr406_1_skellige_raid_combat2.3;Ez... furcsa volt.
+say.nr406_1_skellige_raid_combat2.5;Igen! Végre! Végezzetek velünk!
+

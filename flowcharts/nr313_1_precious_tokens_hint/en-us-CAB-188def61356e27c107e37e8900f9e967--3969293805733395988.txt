@@ -1,0 +1,7 @@
+say.nr313_1_precious_tokens_hint.1;Meve megállt, hogy leszedje a jeget ménje csüdjérôl, amikor Gábor Zigrin ment oda hozzá. A törp a királynô mellé guggolt, gyorsan körülnézett, majd alig hallhatóan suttogni kezdett.\n
+say.nr313_1_precious_tokens_hint.2;"Felség, fél füllel hallottam, amirôl a kovácsmûhelyben a népek diskuráltak... Azt csiripelték a verebek, hogy a Feketecsermely-völgy közeli dombok között, innét dél felé kincs, egy egész vagyon van elrejtve. És senki nem merészkedik arra megkeresni, mert hogy bestiák vették be magukat oda. De Kegyed mögött itt ez a kis seregecske. Talán megpróbálhatnánk. Hátha megéri a kockázatot. Nem?"
+say.nr313_1_precious_tokens_hint.3;A királynô lesöpörte a havat a térdérôl, majd felemelte egyik kezét, hogy leárnyékolja a szemeit a nap ragyogó fénye elôl, aztán a hegyek felé tekintett. Bár nagy volt a kísértés, voltak kétségei a dologgal kapcsolatban. Kezdetnek ott voltak a kavicsos sziklák a talpuk alatt, amik eleve lavinával fenyegettek...\n
+say.nr313_1_precious_tokens_hint.5;"Elgondolkodom rajta"
+say.nr313_1_precious_tokens_hint.6;– válaszolta, mielôtt fellendült a nyeregbe.
+title.nr313_1_precious_tokens_hint.52;Elfeledett kincs
+

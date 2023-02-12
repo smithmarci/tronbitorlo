@@ -1,0 +1,7 @@
+say.nr401_2_caldwell_combat.1;Caldwell! Eljöttem a fejéért!
+say.nr401_2_caldwell_combat.11;A fenébe...! Bárcsak itt volna Reynard és Gascon...
+say.nr401_2_caldwell_combat.3;Senki sem nyúlhat húzzá! A gróf az enyém!
+say.nr401_2_caldwell_combat.5;Tudtam, hogy el fog jönni. Az elbizakodottsága alapján újabb drámai bukást jósolok.
+say.nr401_2_caldwell_combat.7;Az íjászaik nem jelentenek többé gondot.
+say.nr401_2_caldwell_combat.9;Az erôdítésben támadt rést kell kihasználnunk, Felség!
+

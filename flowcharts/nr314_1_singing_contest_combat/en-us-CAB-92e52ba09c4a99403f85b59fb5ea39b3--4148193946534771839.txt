@@ -1,0 +1,8 @@
+say.nr314_1_singing_contest_combat.1;Épségben és egy darabban akarom azt a szállítmányt!
+say.nr314_1_singing_contest_combat.11;A démonokra...
+say.nr314_1_singing_contest_combat.13;Azt mondtam, kell nekünk az a szállítmány!
+say.nr314_1_singing_contest_combat.3;Miénk a rakomány.
+say.nr314_1_singing_contest_combat.5;Óvatosan!! Ha a szakadékba zuhan, nem látjuk semmi hasznát!
+say.nr314_1_singing_contest_combat.7;Aki a szekér közelébe mer lôni, az nekem fog felelni érte!
+say.nr314_1_singing_contest_combat.9;Majdnem elkaptuk ôket!
+

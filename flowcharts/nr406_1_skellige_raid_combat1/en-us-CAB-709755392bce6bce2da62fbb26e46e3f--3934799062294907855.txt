@@ -1,0 +1,4 @@
+say.nr406_1_skellige_raid_combat1.1;Ez egy csapda! Gyülekezô hozzám!
+say.nr406_1_skellige_raid_combat1.3;Ezt miért...?
+say.nr406_1_skellige_raid_combat1.5;Visszavonulás! Hátráljatok!
+

@@ -1,0 +1,43 @@
+menu.nr314_1_singing_contest.3;Utasítod az egységeidet, hogy támadják meg a nilfgaardi konvojt.
+menu.nr314_1_singing_contest.4;Nem foglalkozol a karavánnal.
+say.nr314_1_singing_contest.1;Meve csendben lovagolt, számba véve mindazt, ami a számûzetése során addig történt. Merengésébôl az egyik felderítô kiáltása zökkentette ki.\n
+say.nr314_1_singing_contest.101;Gábor már épp tiltakozásra nyitotta a száját, de a lyriai katonák hahotázása beléfojtotta a szót. Meve megadta a jelet az indulásra. Hamarosan a királynô és kompániája rárontott az ellenség karavánjára, és kezdetét vette a csata...
+say.nr314_1_singing_contest.102;Meve tetteinek híre hamar eljutott Brouver Hoog nagy cimpájú füleibe. És bár nem jött belôlük semmilyen füst, annak ellenére, hogy Gábor késôbb váltig állította az ellenkezôjét, kétség nem férhetett ahhoz, hogy az Elöljáró elsápadt a hír hallatán... Csak a Zigrinek közbenjárása mentette meg a lyriaiakat attól, hogy kipenderítsék ôket a hegyekbôl.
+say.nr314_1_singing_contest.11;"Gábor, bocsáss meg..."
+say.nr314_1_singing_contest.2;"Felség! Ezt látnia kell!"\n
+say.nr314_1_singing_contest.26;A vereségük miatt megtört nilfgaardiak az utat szegélyezô hóba borították a ládákat, aztán sûrû ostorpattintások közepette elviharzottak. Az eséstôl az egyik láda kinyílt, és felfedte faggyúval bekent bôrökbe csavart tartalmát. Gascon eltávolította a bôrt, és a magasba emelte a frissen kovácsolt, fényesre köszörült sihillt. Minden oldalról megvizsgálta, majd a hüvelykujját a penge éléhez nyomta. Azonnal kiserkent a vére.\n
+say.nr314_1_singing_contest.31;A katona komoly arccal mutatott egy, a hóban látható nyomra. A szegecses talpú csizma nyoma túlságosan is ismerôs volt. Meve látta már korábban Lyria poros útjain, és a hamuvá lett Aedirn földjein.\n
+say.nr314_1_singing_contest.32;"Nilfgaardi gyalogok..."
+say.nr314_1_singing_contest.34;– szakította félbe Gascon. –
+say.nr314_1_singing_contest.35;– forrongott Meve.\n
+say.nr314_1_singing_contest.37;"Nemrég járhattak erre"
+say.nr314_1_singing_contest.39;"Egy napja, legfeljebb két napja talán."
+say.nr314_1_singing_contest.40;A felderítôk megtudták, hogy nemrég egy nilfgaardi karaván érkezett Mahakamba erôs fegyveres kísérettel. A megszállók arannyal és ékszerekkel színültig telt ládákat hoztak magukkal, és elcserélték azokat a legkiválóbb mahakami kardokra és lándzsákra. A felderítô egy érmét nyújtott át Meve-nek, olyat, amilyennel a Feketék fizettek a fegyverekért. Az érme hátoldalán pedig egy lyriai sas volt...\n
+say.nr314_1_singing_contest.42;"Az én kincstáramból származó aranyakkal fizetnek..."
+say.nr314_1_singing_contest.420;"O-hó... Éles a nyavalyás..."
+say.nr314_1_singing_contest.421;– mondta elismerôen.\n
+say.nr314_1_singing_contest.422;Ezeket a szavakat hallva Gábor hirtelen nevetésben tört ki.
+say.nr314_1_singing_contest.423;"Téged meg mi csiklandoz ennyire? Ha nem bánod, hogy megkérdem."\n
+say.nr314_1_singing_contest.424;"Bu-hu-u-ha-ha-ha-haa. Úgy tartja a szokás, hogy az elsô szó, ami elhagyja egy harcos száját egy sihill láttán, lesz a penge neve... Tehát, he-he, gratulációm! Elnevezted. Ha-ha-ha-ha-ha-haa."\n
+say.nr314_1_singing_contest.425;Gascon csak állt ott megütközve, ezért Meve elvette tôle a fegyvert.
+say.nr314_1_singing_contest.427;"Én, személy szerint, más nevet választottam volna – olyat, ami kissé magasztosabb... De annak, hogy 'Éles Nyavalyás', kétségkívül megvan a maga bája. És már alig várom, hogy próbát tegyek vele egy nilfgaardi vérten."\n
+say.nr314_1_singing_contest.428;"Egen, de talán ne Mahakamban..."
+say.nr314_1_singing_contest.429;– szólt közbe Gábor. –
+say.nr314_1_singing_contest.431;"Elég szép kis ramazúrit csinált most magának. Amit majd valahogy jóvá kellene tenni... És azt bizony nem lesz könnyû."
+say.nr314_1_singing_contest.44;– szûrte a szót a fogai között a királynô, –
+say.nr314_1_singing_contest.46;"azokért a fegyverekért, amikkel az én embereimet és alattvalóimat öldösik."\n
+say.nr314_1_singing_contest.48;"Még talán üldözôbe vehetjük és levághatjuk ôket"
+say.nr314_1_singing_contest.50;– mondta Reynard, és szemében szikra lobbant. –
+say.nr314_1_singing_contest.52;"És gondoskodhatunk arról, hogy aep Dahy soha ne kaparinthassa meg azokat a fegyvereket."
+say.nr314_1_singing_contest.54;"Megtehetnétek, tudom..."
+say.nr314_1_singing_contest.56;– jegyezte meg Gábor, aki eddig csak hallgatta a beszélgetést. –
+say.nr314_1_singing_contest.58;"De mint arra mindannyian emlékezhettek, Mahakam semleges, és ez minden vendégünk biztonságát szavatolja. Igaz ugyan, hogy a nilfgaardiak hivatalosan már elhagyták a birodalmunkat,... de ha megtámadjuk ôket, alig egy kôhajításnyira a kapuktól, meglátjátok, Brouver füleibôl füst fog kicsapni dühében, a seggébôl meg lángnyelvek."
+say.nr314_1_singing_contest.66;– mondta a királynô, és visszakapaszkodott a nyeregbe. –
+say.nr314_1_singing_contest.68;"De ha magunk ellen fordítjuk Brouvert, merem állítani, sosem szerezzük vissza a földünket a Feketék markából."\n\n
+say.nr314_1_singing_contest.70;A királynô emberei sajnálták, hogy nem vehetnek elégtételt a Feketéken, ám egyikük sem próbálta eltántorítani az elhatározásától... Túl jól ismerték már.
+say.nr314_1_singing_contest.9;"Egyetlen háború kimenetelén sem változtatott még néhány szekérnyi fegyver, függetlenül attól, hogy milyen minôségûek is azok"
+say.nr314_1_singing_contest.97;– mondta a királynô. –
+say.nr314_1_singing_contest.99;"De meg kell támadnunk ezt a karavánt. Meg kell állítanom Nilfgaardot. És, ettôl függetlenül,... igencsak nagy megelégedésemre szolgálna, ha láthatnám Brouvert tüzet okádni."\n\n
+title.nr314_1_singing_contest.114;Fegyverek a Császárságnak
+title.nr314_1_singing_contest.460;Fegyverek a Császárságnak
+

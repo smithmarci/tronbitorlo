@@ -1,0 +1,7 @@
+say.nr412_2_desertion_encouraged.1;Egy nap a szállásmestere érkezett, hogy jelentést tegyen. Sajnos rossz hírt hozott.\n
+say.nr412_2_desertion_encouraged.3;Az elsô felderítôk szürkület tájban értek vissza. Az utolsó három különítmény viszont egyáltalán nem jelentkezett. Meve arra gyanakodott, hogy szörnyek – bestiák vagy nilfgaardiak – áldozatául estek. Késôbb megtudta, hogy az emberei semmilyen tulajdonukat nem hagyták hátra. Mert hogy eddig lágyszívû volt a dezertálókkal szemben, ez a bagázs úgy dönthetett, hogy ôk is próbát tesznek a szökéssel.\n\n
+say.nr412_2_desertion_encouraged.5;Aznap éjjel Meve nyugodtan, mégis álmatlanul feküdt. A vékony takarók alatt fázott, éhes volt,... és dühös.
+say.nr412_2_desertion_encouraged.7;"Felség, a faanyagunk majd' elfogyott. És a falusiak annyit se tudnak nélkülözni, hogy kereskedhetnénk velük..."\n
+say.nr412_2_desertion_encouraged.9;A királynô felderítôk több különítményét küldte ki azzal a céllal, hogy kutassák át a környéket vadászok tábora, méhészek kaptárai, és szénégetôk boksái után... Bárki után, aki hajlandó lenne élelemért cserébe aranyat vagy nyersanyagot eladni nekik.
+title.nr412_2_desertion_encouraged.312;Dezertôrök
+

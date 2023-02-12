@@ -1,0 +1,14 @@
+say.nr401_3_cs2_assassination_attempt.55;Nilfgaard csapatainak kijátszása érdekében Meve Angren legelvadultabb vidékei felé vezette seregét. Arrafelé nem támadhatott rájuk az ellen, ám egészen másfajta veszélyek leselkedtek rájuk ott. Egy nap akkora kiterjedésû és mély ingoványhoz értek, amin átgázolni esélyük sem volt. Ezért hát a királynô hívatta a hadmérnökét, Xaviert, és utasította, hogy tervezzen egy ideiglenes hidat.
+say.nr401_3_cs2_assassination_attempt.57;Az, mire leszállt az éj, már fel is skiccelte a terveket.
+say.nr401_3_cs2_assassination_attempt.59;Elôbb el kell rekesztenünk a vizet. Aztán pedig cölöpöket lefúrnunk az iszapba...
+say.nr401_3_cs2_assassination_attempt.61;Hm. Milyen mélységbe?
+say.nr401_3_cs2_assassination_attempt.63;Leengedtük a függôónt – úgy három ölnyire...
+say.nr401_3_cs2_assassination_attempt.64;Belefeledkezvén a tervekbe Meve észre sem vette, amint Xavier lecsúsztatta a válláról a kötelet. Mire a kötél a torkára szorult, attól tartott, hogy számára talán már késô.
+say.nr401_3_cs2_assassination_attempt.66;Ááárgh!
+say.nr401_3_cs2_assassination_attempt.67;Régóta vártam ezt a pillanatot,... amikor végre kettesben lehetünk.
+say.nr401_3_cs2_assassination_attempt.68;Ghhh...
+say.nr401_3_cs2_assassination_attempt.70;Most meghal, Felség. És Önnel hal Lyria, Rívia és az egész Észak ellenállása. Hael Ker'zaer! Hael––
+say.nr401_3_cs2_assassination_attempt.71;Ami elhalt, az a diadalittas kiáltás volt Xavier torkában. Az utolsó minutumban rontott be Gascon és Reynard a harcos királynô sátrába. És ezzel minden kétséget kizáróan bizonyították hûségüket.
+say.nr401_3_cs2_assassination_attempt.72;Felség? Felség!
+say.nr401_3_cs2_assassination_attempt.73;Nem érkezett felelet... De Reynard hallotta a lélegzetvételét. Meve életben maradt.
+

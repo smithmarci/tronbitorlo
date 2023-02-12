@@ -1,0 +1,33 @@
+menu.nr405_1_sunken_ruins.18;Belépsz a sírkamrába.
+menu.nr405_1_sunken_ruins.19;Magad mögött hagyod a romokat.
+menu.nr405_1_sunken_ruins.22;Belépsz a sírkamrába.
+menu.nr405_1_sunken_ruins.23;Magad mögött hagyod a romokat.
+say.nr405_1_sunken_ruins.1;A felderítôk a menetoszlop élén haladtak, Meve közvetlenül mögöttük. Feladatul kapták, hogy járható utat találjanak a sereg többi részének.{audio=nr405_1_sunken_ruins_scout_finds_statue} Egyikük egy öt öl hosszú póznával próbálta kipuhatolni az elôttük elterülô ingovány mélységét. Hirtelen egy hangos {audio=nr405_1_sunken_ruins_clang}kondulást hallottak.
+say.nr405_1_sunken_ruins.16;Szederbokrok takarásában leltek rá egy hatalmas sír bejáratára. A kapuszárnyak tárva-nyitva álltak. Elôttük, a földön szétszóródva csontok hevertek. Némelyek megsárgultak már a kortól, míg másikak frissek voltak, töröttek, és csócsálás után maradt cafatok lógtak róluk.
+say.nr405_1_sunken_ruins.20;Meve újfent a sírbolt bejáratánál állt, ahol a lecsöppenô vízcseppek által vert visszhangtól eltekintve csend fogadta...
+say.nr405_1_sunken_ruins.26;Meve néhány pillanat múlva megadta a jelet az indulásra. "Felesleges kockázat" – gondolta, – "és azt szeretném elkerülni, Angrenben meg fôleg."
+say.nr405_1_sunken_ruins.28;Meve a sírbolt küszöbén állt, csöndben és morfondírozva. Aztán fáklyát ragadott, majd belépett,... és bûzös vízbe gázolt.{audio=nr405_1_sunken_ruins_soldiers_after_meve} A katonái a sarkában voltak, kivont fegyverrel a kezükben követték. Verejték gyöngyözött a homlokukon.\n\n
+say.nr405_1_sunken_ruins.3;A felderítôk leszálltak a nyeregbôl, majd egy bronzból készült szobrot emeltek ki a láp vizébôl. Amint megtisztították a nyálkás iszaptól és hínártól, a királynô azonnal felismerte a tündék keze munkáját. A szobor rendkívül jó állapotban maradt fenn – egyetlen részletét kivéve. Valaki eltávolította az arcát, egy feketén ásító lyukat hagyva a helyén.\n
+say.nr405_1_sunken_ruins.305;A sírbolt falain falfestmények ábrázolták Angren mocsarait, és az azokban ólálkodó bestiákat. A szörnyûségek legnagyobbika fölé két szó volt felvésve: Gvaern Ichaer.\n
+say.nr405_1_sunken_ruins.33;"A Véres Úrnô..."
+say.nr405_1_sunken_ruins.35;– suttogta Barnabás Beckenbauer.\n
+say.nr405_1_sunken_ruins.37;Egyszer csak egy üvöltés kélt a mélyben, és mennydörgött végig a síron. Meve elfordult a falfestményektôl, csak hogy rettenetô szemek villanását pillantsa meg a sötétben...
+say.nr405_1_sunken_ruins.52;A királynô a fáklyája gyér fényében vette szemügyre a bestia tetemét. Nem tudta megállni, hogy meg ne borzongjon az undortól.\n
+say.nr405_1_sunken_ruins.54;"Talán jobb is"
+say.nr405_1_sunken_ruins.55;– gondolta magában, –
+say.nr405_1_sunken_ruins.57;"hogy a sötétben csaptunk össze vele."
+say.nr405_1_sunken_ruins.59;A folyosó végén egy lezárt ajtót találtak. Még mielôtt bármelyikük közelebb merészkedhetett volna, az egy csattanás kíséretében kitárult.{audio=nr405_1_sunken_ruins_sword_doors} Az ajtón túl egy kör alakú teremre leltek. A kamra tetején tátongó lyukon keresztül fénypászma vetült egy kôemelvényre és az azon heverô kardra.\n
+say.nr405_1_sunken_ruins.61;Meve megszorította a penge markolatát. Simogató melegség járta át a karjait, és kúszott a testébe a vállain át. Megfáradt izmai abbahagyták a remegést, elgémberedett ujjai ellazultak. Megsuhogtatta párszor a nyereményét – a penge csak úgy sziszegett, ahogy keresztülszelte a levegôt. {audio=nr405_1_sunken_ruins_sword_unsheath}Majd beleegyezése jeléül bólintott: a jutalom megérte a kockázatot.
+say.nr405_1_sunken_ruins.64;Barnabás Beckenbauer csillogó tekintettel kérte a királynôt, hadd nézze meg a meztelen pengét. A gnóm a keresztvasat tanulmányozta, amin véseteket fedezett fel.\n
+say.nr405_1_sunken_ruins.66;"Meg tudod mondani, mi van ráírva?"
+say.nr405_1_sunken_ruins.68;– kérdezte Meve.\n
+say.nr405_1_sunken_ruins.70;"Igen, talán. Tisztán érthetôek a szavak. Viszont a jelentés már nem annyira. "Forgass engem, s reményedet ne veszejtsd a vérvörös vizekben."\n
+say.nr405_1_sunken_ruins.72;"Úgy hangzik, mint egy rejtvény,... amit nem szeretnék megfejteni. Tovább kellene mennünk. Méghozzá azonnal."
+say.nr405_1_sunken_ruins.75;"Kutassátok át a környéket"
+say.nr405_1_sunken_ruins.77;– adta ki Meve a parancsot.
+say.nr405_1_sunken_ruins.81;"A levegô mágikus töltéstôl pattog idebent..."
+say.nr405_1_sunken_ruins.82;– suttogta Isbel.\n
+say.nr405_1_sunken_ruins.85;Még Eyck mindig acélos tekintete is zsigeri félelemrôl árulkodott.\n
+title.nr405_1_sunken_ruins.304;A mocsár ôrizôje
+title.nr405_1_sunken_ruins.318;A mocsár ôrizôje
+

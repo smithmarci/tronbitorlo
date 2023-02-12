@@ -1,0 +1,58 @@
+menu.nr313_2_precious_tokens.103;Bemész a barlangba.
+menu.nr313_2_precious_tokens.104;Visszafordulsz.
+menu.nr313_2_precious_tokens.2;Bemész a barlangba.
+menu.nr313_2_precious_tokens.3;Meghátrálsz.
+menu.nr313_2_precious_tokens.44;Akkor hát mihez kezdjek ezzel a sok tantusszal?
+menu.nr313_2_precious_tokens.45;Tehát az átlag törp nem fizet arannyal?
+menu.nr313_2_precious_tokens.80;Aranyra cseréljük a tantuszokat.
+menu.nr313_2_precious_tokens.81;Legyen. Lakomát rendezünk.
+say.nr313_2_precious_tokens.1;A Gábor által hallott pletykák igaznak bizonyultak. A felderítôk azzal a hírekkel érkeztek vissza, hogy ráleltek egy barlangra, aminek a szája elôtt elkorhadt deszkák hevernek – ami annak a jele is lehet, hogy valami nagyon súlyosat csúsztattak be az üregbe,... például aranyakkal teli ládákat. Viszont a mellettük található mancsnyomok alapján úgy vélték, feltehetôleg szörnyek vertek tanyát odabent.\n
+say.nr313_2_precious_tokens.112;A királynô a kincs megszállottja lett, ez mindenki számára nyilvánvalóvá vált, amikor újfent a barlang bejárata elôtt találták magukat...
+say.nr313_2_precious_tokens.19;Miután az utolsó bestia is elhullott, a lyriaiak a kincs keresésére indultak. A katonák bevették magukat az oldaljáratokba, és hanyatt-homlok tûvé tettek minden sarkot a kincs után. Végül egyikük felkiáltott:\n
+say.nr313_2_precious_tokens.21;"Megvan! Megvan a kincs! Épp itt, ni! A kincs! Csillogó holmik!"\n\n
+say.nr313_2_precious_tokens.23;"Rendben, ideje dönteni – bemegyünk, vagy vissza leballagunk"
+say.nr313_2_precious_tokens.249;"Töltsetek újabb kört, ti kedves lyriai kurafik, hahahaha!"\n
+say.nr313_2_precious_tokens.25;– mondta Gascon, és közben összedörzsölte a kezeit egy kis melegség reményében. –
+say.nr313_2_precious_tokens.251;"Mert ôôô egy vidám fick–– ó, elnézést! Egy vidám törp!"
+say.nr313_2_precious_tokens.252;Semmi nem szolgálna nagyobb örömömre, mint ha azt mondhatnám, hogy ez az egész megérte a veszôdséget, és a tantuszok segítségével sikerült felszerelni a sereget a közelgô, Nilfgaarddal való összecsapás elôtt. Ám a hat óriási láda tartalmáért Meve mindössze alig egy kis erszénnyi aranyat kapott cserébe.
+say.nr313_2_precious_tokens.253;Felség,... kötelességemnek érzem emlékeztetni, hogy háborúban állunk Nilfgaarddal, és az utolsó krajcárt is––
+say.nr313_2_precious_tokens.254;...a seregünk fejlesztésére kellene fordítanunk. Tudom. De... csak egyszer élünk, Reynard.
+say.nr313_2_precious_tokens.27;"Kérlek, siessetek! Ez a fagy már rendesen harap."
+say.nr313_2_precious_tokens.29;A királynô vezette ôket – egyik kezében a kardja, a másikban meg fáklya. A táncoló lángok fénye megvilágította a barlang falait, és hosszú árnyékokat vetett. Meve biztos volt abban, hogy akármelyik pillanatban rávetheti magát valami förmedvény. És nagyon is jól érezte...
+say.nr313_2_precious_tokens.31;Jónéhány, acélpántokkal megerôsított láda hevert az egyik üreg fala tövében. Meve lefújta a port a legközelebbi tetejérôl, és nagy nehézségek árán, de felnyitotta azt. Aranyat és ékszereket remélt találni, vagy legalább mahakami acéltömböket. Ehelyett sok ezer, patinától elszínezôdött, reves rézérmét látott, amelyeknek lyuk volt a közepükben...
+say.nr313_2_precious_tokens.32;Mi ez a sok vacak? Valamiféle... tantuszok?
+say.nr313_2_precious_tokens.34;Uhh, úgy van, azok. "Lyukas guldeneknek" nevezzük ôket. Ezek, ööö... mahakami fizetôeszközök. Fogadásokhoz használjuk ôket. Elemózsiát és pálinkát váltunk rajtuk...
+say.nr313_2_precious_tokens.36;És mi a helyzet a fegyverekkel? Páncélzattal? Szerszámokkal?
+say.nr313_2_precious_tokens.38;Dehogy... Azokat csak úgy megkapjuk. A klán biztosítja nekünk. Arra lenne szükségük? Fegyverekre? Most picinykét hülyén érzem magam. Iderángattam az egész sereget a nagy semmiért...
+say.nr313_2_precious_tokens.40;És ezeket a tantuszokat... el lehet cserélni más országok pénzeire? Temeriai orenre vagy novigrádi koronára?
+say.nr313_2_precious_tokens.42;Egen, elméletileg lehetséges,... de nem volna túl bölcs dolog. Szar a váltási ráta. Tudják, az Elöljáró alacsonyan tartja az értékét, ezzel is megnehezítve azt, hogy a törp népség elhagyja Mahakamot.
+say.nr313_2_precious_tokens.48;Hogy van ez? Az átlag törp nem fizet arannyal? Ezt nem mondhatod komolyan.
+say.nr313_2_precious_tokens.5;A királynô arra jutott, hogy a barlangba bemerészkedni túlságosan is kockázatos volna. Ezért kiadta a parancsot a visszavonulásra. Az emberei pedig, felháborodván azon, hogy feleslegesen caplattak ilyen magasba, egészen a völgy aljáig menet zúgolódtak...
+say.nr313_2_precious_tokens.50;Pedig komolyan mondom. Mit nekik az arany? A klán mindent megad, amire szükségük van. Ami élelmet és pálinkát tantuszért kapnak, az meg több mint elég.
+say.nr313_2_precious_tokens.52;Mégis kereskedtek az emberekkel. Aranyat fogadtok el az árutokért. Csak van valami haszna az érméknek. Mire használjátok?
+say.nr313_2_precious_tokens.54;Felhalmozzuk – széfekben, nagy kupacokban. Padlótól plafonig érnek a dukátok, amik már a csülökzabáló Dagread király uralkodása óta gyûlnek ott...
+say.nr313_2_precious_tokens.56;És nem használjátok fel semmire, nem vesztek rajta semmit? Akkor hát igaz, amit a népek beszélnek: ahhoz túlságosan is szeretitek az aranyat, sem hogy megváljatok tôle, szeretitek felhalmozni, mint ahogy a sárkányok is teszik.
+say.nr313_2_precious_tokens.58;Valójában ez színtiszta baromság. Az arany is ugyanolyan fém, mint az összes többi. Csak sárga. A biztonságunk érdekében halmozzuk fel.
+say.nr313_2_precious_tokens.60;A biztonságotokért? Attól tartok, nem tudlak követni...
+say.nr313_2_precious_tokens.62;Pedig egyszerûbb nem is lehetne. Amint az emberek a fejükbe veszik, hogy csak szálka vagyunk a szemükben, jól elköltjük. Az egészet, egyszerre, mint a sicc.
+say.nr313_2_precious_tokens.64;Túlzott pénzkiáramlás, így hívják. Csak napok kérdése, és az arany annyit sem fog érni, mint a fûrészpor. És a nyamvadt bankjaik meg a gazdaságuk... Bummm! Jól odacsapunk neki! Semmi se marad belôle. Gyorsabban dôl majd be az egész, mint a pudvás gerendákkal aládúcolt tárna.
+say.nr313_2_precious_tokens.65;Mit fixíroznak itt engem? Olyan szomszédok mellett, mint az emberek, a törpnek mindig ébernek kell lennie... Mint a birkáknak, ha farkas jár közöttük.
+say.nr313_2_precious_tokens.68;Szóval mi hasznomra lenne ez a rengeteg tantusz?
+say.nr313_2_precious_tokens.7;"Ha már ilyen magasra felhágtunk, ostobaság lenne üres kézzel visszamenni. Kövessetek!"\n\n
+say.nr313_2_precious_tokens.70;El kell cserélnünk mindet. Még ha csak néhány petákot kapunk értük, a semminél az is több. A katonák követelik az illetményüket...
+say.nr313_2_precious_tokens.72;Ajj, milyen huzatos az a kobak! A harcosnak csak az számít, hogy tele legyen a kulacs és a korsó pálinkával. A pénz csak egy eszköz ehhez.
+say.nr313_2_precious_tokens.74;Akkor mit javasolsz?
+say.nr313_2_precious_tokens.76;Ahogy már mondottam volt, a tantuszért élelmet és itókát kapunk. És annyiból, amennyi azokban a ládákban lapul, akkora vigasságot lehetne rendezni, amekkorát nem látott Mahakam azóta, hogy Brouver Hoog felesküdött az elöljárói tisztségre.
+say.nr313_2_precious_tokens.78;A katonák majd addig esznek és isznak, míg ki nem pukkadnak, tivornyáznak, és tüstént megfeledkeznek a fizetségrôl! És ha a helyi törpöket is meghívják a mulatságba, a klánok máris jobb szemmel nézik majd a ténykedéseiket.
+say.nr313_2_precious_tokens.84;Egy vezérnek az emberei hangulatával is törôdnie kell, igaz... Azonban azzal még inkább, hogy miképp vannak felszerelve. Fegyverekkel, pajzsokkal, vértezettel. És az ilyesfajta törôdéshez pénzre van szükség.
+say.nr313_2_precious_tokens.86;Cserélje el a tantuszokat, Reynard! Míg te, Gábor, ha legközelebb kincsekrôl vagy effélékrôl szóló szóbeszédet csípsz el, elôbb gyôzôdj meg a részletekrôl, és csak aztán szólj róla nekem.
+say.nr313_2_precious_tokens.87;Rengeteg munkába telt, míg a megrakodott ládákat lecipelték a hegyrôl. Meve emberei ziháltak és nyögtek, és néhány lépésenként megálltak, hogy megdörzsöljék sajgó kezeiket.\n\n
+say.nr313_2_precious_tokens.88;Fene az állandó megfontoltságba...!
+say.nr313_2_precious_tokens.90;Gábor uram! Fogd a tantuszokat,... és szervezz nekem akkora lakomát, olyan pompásat, hogy még aep Dahy is meghallja a vigadásunkat!
+say.nr313_2_precious_tokens.92;Mert nem volt akkora fogadó, amekkorába Meve serege beférhetett volna, ezért a lakomát egy raktárépületben tartották meg. Sorba rendezett ládák szolgáltak asztalokként és padokként, míg az ablakokat sárkánygyökérbôl és kökörcsinbôl font girlandok díszítették. A törpök hatalmas sörös-, konyakos- és pálinkás hordókat gurítottak be, és amikor ezt a katonák meglátták, olyan örömujjongásban és nevetésben törtek ki, ami hajnalig is kitartott.\n
+say.nr313_2_precious_tokens.94;Jutott elég étel és ital a hágó összes törpjének is, akik egész éjjel Meve embereivel együtt emelték egymásra korsóikat, és énekeltek mindôjük által ismert nótákat. Aki látta ôket, amint egymással osztanak meg történeteket és kártyáznak, nem hitte volna, hogy a hegyek lábán, az erdôkön és a mezôkön túl emberek és törpök – szemükben gyilkos tûzzel – ugranának egymás torkának a legkisebb semmiség miatt...
+title.nr313_2_precious_tokens.1;Elfeledett kincs
+title.nr313_2_precious_tokens.113;Elfeledett kincs
+title.nr313_2_precious_tokens.2;Elfeledett kincs
+title.nr313_2_precious_tokens.454;Elfeledett kincs
+

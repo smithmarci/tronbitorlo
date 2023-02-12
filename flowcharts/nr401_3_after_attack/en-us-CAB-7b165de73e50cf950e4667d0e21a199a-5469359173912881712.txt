@@ -1,0 +1,86 @@
+menu.nr401_3_after_attack.123;És mi van azzal a borzalmas sebével?
+menu.nr401_3_after_attack.124;Hogyan sikerült ezt kideríteniük?
+menu.nr401_3_after_attack.125;Mahakamban megmentette az életemet!
+menu.nr401_3_after_attack.179;Ideje indulnunk.
+menu.nr401_3_after_attack.180;Árulók, árulók mindenütt...
+say.nr401_3_after_attack.1;Meve jó pár órával késôbb tért csak magához. Miután kinyitotta a szemeit, Gascon és Reynard segítettek neki felállni...
+say.nr401_3_after_attack.100;Semmi szükség rá. Csak tegyék a dolgukat.
+say.nr401_3_after_attack.103;Másodszor: a kettejükbe vetett bizalmam súlyosan megcsappant – azt hiszem, ezt mondanom sem kell.
+say.nr401_3_after_attack.105;Mégis, ma minden kétséget kizáróan bizonyították,... hogy bízhatom Önökben. Ezért köszönetem.
+say.nr401_3_after_attack.107;Megtiszteltetés a zászlaja alatt szolgálni, Felség.
+say.nr401_3_after_attack.109;Valószínûleg másképp fogalmaztam volna,... de hasonlóképp vélekedem, mint Reynard.
+say.nr401_3_after_attack.11;Elôször is, köszönettel tartozom...
+say.nr401_3_after_attack.111;Rendben. Most már eleget bizonygattuk egymásnak a kölcsönös csodálatunkat.
+say.nr401_3_after_attack.114;Várnak ránk más ügyek, amikkel foglalkoznunk kell... Remélem, hogy amíg itt feküdtem, a külvilág számára holtan, addig nem a hüvelykujjukkal a fenekükben üldögéltek! Sikerült esetleg kideríteniük, Xavier miért árult el bennünket, és állt össze a birodalmiakkal?
+say.nr401_3_after_attack.116;Mondhatjuk így is,... igen.
+say.nr401_3_after_attack.122;Felség, a gazfickó, aki az életére tört, valójában egy bizonyos Gwalter aep Llwynog volt – egy nilfgaardi kém.
+say.nr401_3_after_attack.130;És hogyan is sikerült mindezt megtudniuk?
+say.nr401_3_after_attack.132;A szerszámosládájában rátaláltunk egy titkos rekeszre – abban pedig levelekre. Habár titkosírással íródtak, sikerült megfejtenünk azokat. A Szürke Lovasnál vannak, ha el kívánná olvasni ôket.
+say.nr401_3_after_attack.136;A disznó...! Egész idô alatt egy birodalmi kém rejtôzött a sorainkban! De vajon miért várt eddig a támadással?
+say.nr401_3_after_attack.138;Nemrég kapta meg rá a parancsot. Egy másik, szintén aep Dahy szignójával ellátottban ez áll: "Gwalter aep Llwynognak. Az elsô adandó alkalommal iktassa ki M-et."
+say.nr401_3_after_attack.140;Becstelen szukafattyak, ideje ennek véget vetni...
+say.nr401_3_after_attack.142;Semmit nem nyersz azzal, Meve, ha felhúzod magad. Semmi értelme. Valójában ez jó hír.
+say.nr401_3_after_attack.144;Az volna?
+say.nr401_3_after_attack.146;Gondolkodj! Aep Dahy-nak volt egy kéme közöttünk. Ismerte a hadmozgásainkat, szemmel tarthatott minket, elsô kézbôl értesült mindenrôl. Tudott a terveinkrôl, hogy kikkel tárgyaltunk és mirôl, ám korábban mégsem rendelte el a megölésedet. Mert nem jelentettél veszélyt.
+say.nr401_3_after_attack.148;Olybá' tûnik, megváltozott a helyzet... Gratulálok! Nilfgaard most már tart tôled.
+say.nr401_3_after_attack.150;És joggal.
+say.nr401_3_after_attack.152;Egy pillanat, ennek nincs semmi értelme... Mahakamban megmentette az életemet. A hídon...
+say.nr401_3_after_attack.154;Megmentette,... mert meg kellett mentenie.
+say.nr401_3_after_attack.156;A megtalált levelek egyikében aep Dahy arra utasította Gwaltert, hogy vigyázzon Hoog elöljáró testi épségére.
+say.nr401_3_after_attack.158;A Scoia'taelt Nilfgaard küldte a hegyekbe, hogy törpöket toborozzanak... De aggódtak amiatt, hogy a parancsnokuk, az a nôsténydémon, rátámadna Brouverre. Ezt aep Dahy el szerette volna kerülni.
+say.nr401_3_after_attack.160;Ez nyilvánvaló. Különben más ragadhatta volna magához a hatalmat, valaki, aki nem semleges a beavatkozást illetôen,... valaki, aki – ne adják az istenek – esetleg még támogatna is engem.
+say.nr401_3_after_attack.163;De... Rosbergben a romok alatt találtunk rá,... a hamu között!
+say.nr401_3_after_attack.165;És épp ez miatt minden gyanú fölött állt.
+say.nr401_3_after_attack.167;Azt gyanítjuk, hogy Gwalter évekkel ezelôtt jelentkezett az aedirniekhez, beszivárgott a seregbe.
+say.nr401_3_after_attack.169;Segédkezett Rosberg védelmében. Aztán, amikor eljött az idô, segédkezett a bukásában is. Robbanást idézett elô, ami lyukat ütött a falon. Sikerült neki,... de ennek ára volt. Súlyos sérülést szenvedett. Ha nem lettek volna a felcsereink, ô már––
+say.nr401_3_after_attack.171;Várjunk...! Tehát nem tündék voltak, akik miatt leomlott a fal, mint ahogy állította?
+say.nr401_3_after_attack.173;Egy mocskos hazugság, amivel tovább szította a fajgyûlölet tüzét... Hogy táplálja a haragot és a viszályt, és zûrzavart keltsen, amitôl Aedirn királysága megremeg és elbukik.
+say.nr401_3_after_attack.175;Ha Rayla tettei alapján ítélnének meg bennünket,... akkor igencsak sikerült neki.
+say.nr401_3_after_attack.177;Sokat hallottam Nilfgaard kémeirôl, Felség... Gyermekkoruk óta gyakorlatoznak, folyamatos kiképzés alatt állnak... Akármit megtesznek a császárért. Az égvilágon bármit.
+say.nr401_3_after_attack.184;Röviden összefoglalva, árulók vesznek körül.
+say.nr401_3_after_attack.186;Felség, neheztel ránk a tetteink miatt, ezt megértem, de––
+say.nr401_3_after_attack.188;Önre. Villemre. A gazfickó Caldwellre. Gasconra. Gáborra. De legfôképp Xavierre.
+say.nr401_3_after_attack.192;Sehogy.
+say.nr401_3_after_attack.194;A Feketék mindent megtesznek majd, hogy elpusztítsanak. Ha nem a csatamezôn, akkor majd titokban, egy orgyilkos villámgyors és éles pengéje által.
+say.nr401_3_after_attack.196;Észak összes birodalma közül Te maradtál Nilfgaard egyedüli ellenfele – az utolsó fenyegetés. A többi uralkodó vagy legyôzetett és rabláncon sínylôdik, vagy fülüket-farkukat behúzva elfogadták a Nilfgaardtól kapott kipárnázott nyakörvet.
+say.nr401_3_after_attack.198;Mi maradt akkor? Az imádság? Elôbb vagy utóbb még Melitele is elfogadja majd Nilfgaard aranyait... Uhh...
+say.nr401_3_after_attack.200;Mondja, hogyan! Hogyan bízhatnék meg eztán bárkiben is?
+say.nr401_3_after_attack.202;Elég a szócséplésbôl. Rendeznünk kell a sorainkat, aztán muszáj továbbmennünk.
+say.nr401_3_after_attack.204;Felség, pihenésre lenne szüksége. Még szédeleg, alig áll a lábán...
+say.nr401_3_after_attack.206;Az épp elég, ha a lovam lépte határozott.
+say.nr401_3_after_attack.208;Meve... Az imént szorították ki belôled a szuszt. Nem most van itt az ideje, hogy a hôst játszd.
+say.nr401_3_after_attack.210;Nem játszom, Gascon. Épp ellenkezôleg. Ez az istenekverte mocsár megrémít. Szeretnék minél elôbb eltûnni innen, és többé vissza se nézni.
+say.nr401_3_after_attack.211;Közel a Jaruga. Elôre küldtem a felderítôket, már biztosítottak egy kompot, amivel lecsoroghatunk egészen Rôtlobindenig.
+say.nr401_3_after_attack.212;Csodálatos. Fújassa meg a kürtöket! Indulunk.
+say.nr401_3_after_attack.3;Csak szépen-lassan, Felség...
+say.nr401_3_after_attack.306;A szukafattya... Még ilyen súlyos sérüléssel is, ennyi fájdalom dacára, egy pillanatra sem esett ki a pantomimes szerepébôl!
+say.nr401_3_after_attack.308;Amint Gwalter számára lehetôség kínálkozott, hogy csatlakozzon hozzánk, hogy a szárnysegédje legyen,... élt vele, és ki is használta.
+say.nr401_3_after_attack.49;Te pedig, Gascon, magyarázattal tartozol. Ha jól emlékszem, számûztelek, úgy volt, hogy vissza sem térsz.
+say.nr401_3_after_attack.5;Óvatosabbnak kellett volna lennem. A fenébe...! Ha maguk ketten nem...
+say.nr401_3_after_attack.51;Meve, számos jó tulajdonságom van, bizony,... de az engedelmesség nem tartozik közéjük.
+say.nr401_3_after_attack.53;Engedtem volna el csak úgy ezt a dolgot? Nem bírtam. Be kellett bizonyítanom Neked, hogy tévedsz, és hogy a Te oldaladon állok.
+say.nr401_3_after_attack.55;Ezért hát követtelek, persze csak tisztes távolból. Egészen addig, amíg meg nem láttam, hogy Reynard beront a sátradba. Biztos voltam benne, hogy valami baj van. Segítenem kellett.
+say.nr401_3_after_attack.57;Felség,... a hadseregben az engedetlenség egy olyan rothadás, amivel nem szabad kesztyûs kézzel bánni. Ám, ebben az esetben, arra kérném Önt, hogy tanúsítson irgalmat.
+say.nr401_3_after_attack.59;Hmm... Legyen így. Ezennel megbocsátok – de el nem feledem.
+say.nr401_3_after_attack.61;Köszönetem,... Felség.
+say.nr401_3_after_attack.64;És Ön, Reynard, tartozik nekem egy magyarázattal. Ha emlékezetem nem csal, számûztem, és úgy volt, hogy nem tér vissza többé.
+say.nr401_3_after_attack.66;Felség... Soha nem tagadtam meg egy parancsát sem, Ön is tudja. Amióta szolgálom, mindig engedelmes voltam, mint egy vadászkutya.
+say.nr401_3_after_attack.68;Mhm. Egészen mostanáig.
+say.nr401_3_after_attack.69;Felség... A hûség úgy kívánta, hogy ezúttal ne engedelmeskedjem. Be kellett bizonyítanom, hogy tévedett, és hogy még mindig bízhat bennem.
+say.nr401_3_after_attack.7;Ne vesztegessünk rá szót, említésre sem érdemes.
+say.nr401_3_after_attack.71;Meve... Nem kedvelem a fickót, mindig is civódtunk, és eztán is fogunk. De még én is beláttam, hogy azok a Villemnek küldött levelek soha nem rossz szándékkal íródtak.
+say.nr401_3_after_attack.73;Ám legyen... Visszafogadom.
+say.nr401_3_after_attack.75;Ezer köszönet, Felség! Esküszöm a––
+say.nr401_3_after_attack.77;Szükségtelen. Csak tegye a dolgát.
+say.nr401_3_after_attack.80;Maguk pedig tartoznak nekem egy magyarázattal. Úgy emlékszem, számûztem mindkettôjüket, parancsba adtam, hogy távozzanak, és tûnjenek a szemem elôl.
+say.nr401_3_after_attack.82;Bocsásson meg nekünk, Felség. Ennek a parancsnak nem engedelmeskedhettünk.
+say.nr401_3_after_attack.84;Túlságosan is közel merészkedtél a Nagy Napkoronghoz, Meve. Kemény harc vár rád – olyan, amit egyedül nem vívhatsz meg.
+say.nr401_3_after_attack.86;De biztosan elveszítek, ameddig árulók vesznek körül. Miképp lehetnék bizonyos abban, hogy nem szônek újabb cselt?
+say.nr401_3_after_attack.88;Felség, Gascon és én hibáztunk. Szégyenletesen nagyot! De... készek vagyunk vezekelni miatta, ha ez a kívánsága.
+say.nr401_3_after_attack.9;Ezzel egyáltalán nem értek egyet. Hosszú beszélgetésnek nézünk elébe.
+say.nr401_3_after_attack.90;Hogyan? Négykézlábra ereszkednek, és könyörögni fognak?
+say.nr401_3_after_attack.92;Nem, Meve. Az életünkkel, a vérünkkel.
+say.nr401_3_after_attack.94;Uhh... Egy szót se többet, vérrôl aztán ne, ebben a mocsárban végképp ne...
+say.nr401_3_after_attack.96;Mindketten hátba szúrtak. Még mindig olyan mérges vagyok, mint egy rozsomák. Ám a hadjárat könyörtelen volt. A segítségükkel talán kevésbé lett volna az, és a legnagyobb kihívás még hátra van... Legyen hát. Visszafogadom mindkettôjüket.
+say.nr401_3_after_attack.98;Köszönjük, Felség! Az istenekre esküszöm––
+

@@ -1,0 +1,4 @@
+say.nr313_2_precious_tokens_combat.1;Utánam! Maradjatok együtt!
+say.nr313_2_precious_tokens_combat.3;A kincsnek a közelben kell lennie. Gyerünk!
+say.nr313_2_precious_tokens_combat.5;Van köztetek olyan, akinek erôs fenntartásai vannak, ha szörnyektôl hemzsegô lyukba kell bemerészkedni? Jól jönne most egy lelki társ.
+

@@ -1,0 +1,14 @@
+say.nr401_3a_ysgith_intro.1;Mert hogy nem látta az Ysgithbe vezetô utat, Meve úgy közlekedett, mint egy vak: pusztán az érintése által tájékozódva. Egyetlen lépése után sem tudhatta, hogy a következôvel kôre lel majd, vagy belezuhan a fekete vízbe. Katonái követték a királynôjüket, libasorban, körültekintôen leutánozva minden mozdulatát.\n\n
+say.nr401_3a_ysgith_intro.11;De Meve szava elakadt. Piócák és kullancsok csüngtek tucatszám a fa ágairól. Egynémelyik már annyira jól volt lakva a vértôl, úgy felpuffadt, hogy a teste áttetszôvé vált, és majd kipukkadt. Meve-nek nehezére esett megállnia, hogy öklendezzen.\n
+say.nr401_3a_ysgith_intro.16;"Ysgith gyümölcsei..."\n
+say.nr401_3a_ysgith_intro.17;A királynô hátrahôkölt, elméjével nehezen tudta befogadni, amit a szemeivel látott, és nem értette, mindez mit jelent.
+say.nr401_3a_ysgith_intro.19;– motyogta, felfogván a parasztok figyelmeztetéseinek jelentését, és megértve, hogy azok miért nem merészkedtek sosem ezekbe a mocsarakba.
+say.nr401_3a_ysgith_intro.299;"Végre..."
+say.nr401_3a_ysgith_intro.3;Mikor már a kimerültség határán egyensúlyoztak, a lyriaiak legnagyobb szerencséjére egy enyhe fuvallat szétoszlatta elôttük a ködöt, és felsejlett egy szárazulat. A királynô megkönnyebbülten sóhajtott egyet.\n
+say.nr401_3a_ysgith_intro.300;A lábait piócák lepték – nyálkás, vértôl dagadó piócák. A fájdalommal és kicsorduló vérével mit sem törôdve kétségbeesetten kezdte letépkedni azokat a lábairól, és közben azt kívánta, bárcsak már megszabadulna tôlük.\n\n
+say.nr401_3a_ysgith_intro.302;"Ááááá!!!"\n
+say.nr401_3a_ysgith_intro.5;Meve lerúgta magáról a csizmáit, hogy kiborítsa belôlük a vizet és a sarat - és azon nyomban felkiáltott.\n
+say.nr401_3a_ysgith_intro.7;Mikor az utolsó élôsködôt is letépte a lábikrájáról, Meve magára kapta a csizmáját, és a sarkával próbálta meg széttaposni a vérszopót. Ám az mégis arrább csúszott. Egy nyírfa törzsén pillantotta meg, amint az, mint valami gyors csiga, kúszott fölfelé.
+say.nr401_3a_ysgith_intro.9;"Mi a kórság––?"\n
+title.nr401_3a_ysgith_intro.298;Ysgith gyümölcsei
+
