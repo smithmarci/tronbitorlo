@@ -1,0 +1,6 @@
+text.nr101_0b_looting_tutorial.1;Utazásaid során különféle nyersanyagokat és hasznos holmikat találsz majd. Fedezd fel a térképet, és figyelj alaposan a környezetedre, hogy fellelhesd ôket!
+text.nr101_0b_looting_tutorial.2;A játék folyamán lehetôséged lesz a hadsereged bôvítésére. Ám ahhoz a következô nyersanyagokra lesz szükséged: <b>aranyra</b>, <b>fára</b> és <b>újoncokra</b>.
+text.nr101_0b_looting_tutorial.3;A játék folyamán lehetôséged lesz a hadsereged bôvítésére. Ám ahhoz a következô nyersanyagokra lesz szükséged: <b>aranyra</b>, <b>fára</b> és <b>újoncokra</b>.
+text.nr101_0b_looting_tutorial.4;Ha nem akarsz lemaradni semmirôl, járd be keresztül-kasul a térképet, és teljesíts mellékküldetéseket.
+text.nr101_0b_looting_tutorial.5;Mialatt az országutat járod, hasznos <b>holmikra</b> és új <b>bajtársakra</b> is lelhetsz, amik és akik segítségedre lesznek majd a csatáid során.
+

@@ -1,0 +1,4 @@
+say.nr101_2b_gc_demo_gpl.1;Mi ez, Reynard? Haramiák csapnak le a királyi adószedôkre? Fényes nappal?
+say.nr101_2b_gc_demo_gpl.3;Keservesen megfizetnek ezért, Felség.
+say.nr101_2b_gc_demo_gpl.5;Úgy legyen! És nem csak ôk. A rothadás elérte Lyriát, Reynard. Nem óvták gondosan a királyságomat.
+

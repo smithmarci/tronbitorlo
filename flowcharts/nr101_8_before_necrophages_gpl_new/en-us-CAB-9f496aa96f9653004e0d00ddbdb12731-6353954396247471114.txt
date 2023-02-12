@@ -1,0 +1,4 @@
+say.nr101_8_before_necrophages_gpl_new.1;Az istenek legyenek kegyelmesek! Mik ezek a dögök?!
+say.nr101_8_before_necrophages_gpl_new.2;Nekrofágok... Idevonzotta ôket a vér szaga.
+say.nr101_8_before_necrophages_gpl_new.3;Hogy efféle ocsmányságok ólálkodjanak a királyságom országútjain, azt nem engedhetem! Támadás!
+

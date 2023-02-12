@@ -1,0 +1,6 @@
+say.nr101_2b_about_bandits_gpl.1;Mit jelentsen ez, Reynard? Haramiák támadnak a királyôre? Az országúton, fényes nappal?
+say.nr101_2b_about_bandits_gpl.3;Nem tudták, kivel kerülnek szembe, Felség... és keservesen megfizettek érte.
+say.nr101_2b_about_bandits_gpl.5;Nem csak ôk lesznek, akik ezért megfizetnek. A rothadás megfertôzte a földjeinket, Reynard. Nem óvták nagy gonddal a királyságomat.
+say.nr101_2b_about_bandits_gpl.7;Néhány napon belül elérjük a fôvárost, Felség. Végre a saját kezébe veheti majd az ügyeket.
+say.nr101_2b_about_bandits_gpl.8;Ó, igen... Nyilvánvalóvá vált, hogy mások kezébe nem bízhatom.
+

@@ -1,0 +1,3 @@
+text.nr101_1b_camp_intro_training_grounds.1;A <b>Gyakorlótér</b> lehetôvé teszi, hogy a <b>csatákra gyakorolj</b> a saját sereged egységei ellenében.
+text.nr101_1b_camp_intro_training_grounds.2;Ezen építmény fejlesztésével új, erôsebb egységeket készíthetsz.
+

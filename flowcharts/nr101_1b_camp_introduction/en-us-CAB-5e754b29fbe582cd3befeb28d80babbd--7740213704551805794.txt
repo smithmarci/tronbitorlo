@@ -1,0 +1,42 @@
+say.nr101_1b_camp_introduction.100;Nos, most, hogy átvettük az irányítást Caldwell gróftól, mindenekelôtt át kell csoportosítanunk az egységeinket. Volnának javaslataim erre vonatkozóan. Amint felállítják a parancsnoki sátrat, ki is fejtem.
+say.nr101_1b_camp_introduction.101;Valamint, nos,... hogy is mondjam,... szóval miközben az embereink legutóbb gyakorlatoztak, felfigyeltem bizonyos hiányosságokra mind a felszerelés, mind képességek tekintetében.
+say.nr101_1b_camp_introduction.102;Végigvenném az egyes alakulatokat, azok formációit, parancsait – ha Felséged is úgy látja jónak. Ezek feltétlen szükségesek. Némely egységeknek további felszerelést biztosítanék az elérhetô erôforrások révén. Felségednek kell eldöntenie, mibôl és mennyit áldoz ezen szükségletekre.
+say.nr101_1b_camp_introduction.104;Értem. Ennyi lenne, Reynard?
+say.nr101_1b_camp_introduction.105;Igen, Felség. Amennyiben a továbbiakban egyelôre nem igényli a jelenlétemet, úgy – engedelmével – visszavonulnék a kantinba.
+say.nr101_1b_camp_introduction.107;Végül felhívnám a figyelmét arra, hogy egy Szürke Lovas érkezett a határmenti régiókból. A kantinban várja Felségedet. Úgy tudom, értesüléseket hozott,... amik csak Felségedre tartoznak.
+say.nr101_1b_camp_introduction.114;Felség, fel kellene állítanunk a tábort. Az embereinket a hosszú menetelés már-már a végsôkig kimerítette. Valamint fontos ügyeket volna jó sürgôsen megvitatnunk – olyan ügyeket, amelyekben Felséged döntéshozatalára is szükség van.
+say.nr101_1b_camp_introduction.99;Minden figyelmem az Öné, Reynard – nincs ellenvetésem a felvetést illetôen. Mondja el, mire gondol, barátom!
+text.nr101_1b_camp_introduction.1;Ahhoz, hogy áttekinthesd a hadsereged, elôször <b>tábort kell verned</b>.
+text.nr101_1b_camp_introduction.10;Táborveréshez kattints a <b>sátor-ikonra</b> a fôképernyô bal szélén.
+text.nr101_1b_camp_introduction.108;Légy üdvözölve a táborodban! Hadjáratod során a táborban érsz el számos kulcsfontosságú játékelemet.
+text.nr101_1b_camp_introduction.109;Kártyákat a parancsnoki sátorban adhatsz hozzá a paklidhoz, vagy vehetsz el belôle. Fontos tudnod, hogy a hadjárat során nem férsz hozzá a többjátékos gyûjteményed lapjaihoz!
+text.nr101_1b_camp_introduction.11;Ezen fejlesztésnek köszönhetôen most már hozzáférsz a <b>régió térképéhez</b>, amit a fôképernyô <b>térkép-ikonjára</b> kattintva nézhetsz meg.
+text.nr101_1b_camp_introduction.110;Új egységek kiképzéséhez építs gyakorlóteret és mûhelyt. A gyakorlóteret és a mûhelyt több alkalommal is fejlesztheted, ezáltal érve el újabb és újabb harci egységeket.
+text.nr101_1b_camp_introduction.111;Beszélj a bajtársaiddal és olvasd el a Szürke Lovasok jelentéseit a kantinban.
+text.nr101_1b_camp_introduction.112;A királynô sátrában tekintheted meg a szerzeményeidet, és változtathatod meg a felszerelésedet.
+text.nr101_1b_camp_introduction.113;A tábor fejlesztése kulcsfontosságú a hadjáratod sikeressége szempontjából. Ne sajnáld rá az erôforrásaidat, és ne feledd, kalandozásaid során bármikor elérheted a fôképernyô bal oldalán található <b>sátor-ikonra</b> kattintva!
+text.nr101_1b_camp_introduction.115;Kattints a <sprite="[PC]" name=Back> gombra a táborveréshez.
+text.nr101_1b_camp_introduction.116;Táborveréshez kattints a <b>sátor-ikonra</b> a fôképernyô bal szélén.
+text.nr101_1b_camp_introduction.12;A <b>mûhely</b> szintén fejleszthetô. Minden egyes fejlesztéssel újabb és erôsebb egységek válnak elérhetôvé számodra.
+text.nr101_1b_camp_introduction.13;Áttekintheted a többi építményhez elérhetô fejlesztéseket, vagy visszatérhetsz a fôképernyôre.
+text.nr101_1b_camp_introduction.14;Térj be a <b>mûhelybe</b>.
+text.nr101_1b_camp_introduction.15;Az <b>elsôdleges feladatodat</b> <b>felkiáltójel</b> jelöli. Annak áttekintéséhez, hogy mi vár Rád legközelebb, <b>nézd át a térképet</b>.
+text.nr101_1b_camp_introduction.16;Az <b>elsôdleges feladatodat</b> <b>felkiáltójel</b> jelöli. Annak áttekintéséhez, hogy mi vár Rád legközelebb, <b>nézd át a térképet</b>.
+text.nr101_1b_camp_introduction.17;Az <b>elsôdleges feladatodat</b> <b>felkiáltójel</b> jelöli. Annak áttekintéséhez, hogy mi vár Rád legközelebb, <b>nézd át a térképet</b> a <sprite="[PS4]" name=RStick> segítségével.
+text.nr101_1b_camp_introduction.18;A hadsereged áttekintéséhez elôbb <b>tábort kell verned</b>.
+text.nr101_1b_camp_introduction.19;Táborveréshez nyomj <sprite="[PS4]" name=Back> gombot.
+text.nr101_1b_camp_introduction.2;Verj tábort a fôképernyô bal szélén található <b>sátor-ikonra</b> kattintva.
+text.nr101_1b_camp_introduction.20;Ne feledd, hogy a <b>térképet</b> a fôképernyô bal szélén az <b>iránytû-ikonra</b> kattintva érheted el.
+text.nr101_1b_camp_introduction.21;Verj tábort a <sprite="[PS4]" name=Back> segítségével.
+text.nr101_1b_camp_introduction.22;Ne feledd, hogy a <b>térképet</b> az <sprite="[PS4]" name=Y> megnyomásával érheted el.
+text.nr101_1b_camp_introduction.23;A hadsereged áttekintéséhez térj be a <b>parancsnoki sátorba</b>.
+text.nr101_1b_camp_introduction.24;A hadsereged áttekintéséhez térj be a <b>parancsnoki sátorba</b>.
+text.nr101_1b_camp_introduction.27;Átnézheted a többi tábori építményt, hogy képbe kerülj azok funkcióival, vagy visszatérhetsz a fôképernyôre, és folytathatod a kalandozásaidat.
+text.nr101_1b_camp_introduction.3;A tábori építmények lehetôvé teszik, hogy a hadjárat szempontjából fontos információkhoz juss, valamint hogy növelhesd a hadsereged.
+text.nr101_1b_camp_introduction.4;A legtöbb tábori építményed fejlesztésére a <b>mûhelyben</b> van lehetôséged. Ezen fejlesztések révén erôsebb egységeket képezhetsz, amik segítségével sikeresebb hadjáratot folytathatsz.
+text.nr101_1b_camp_introduction.5;Térj be a <b>mûhelybe</b>.
+text.nr101_1b_camp_introduction.6;Itt tudsz tábori építményeket építeni, valamint fejleszteni azokat.
+text.nr101_1b_camp_introduction.7;A tábor építményeinek fejlesztéséhez elôbb össze kell gyûjtened a szükséges mennyiségû <b>aranyat</b> és <b>faanyagot</b>.
+text.nr101_1b_camp_introduction.8;A kalandozásaidhoz szükséged lesz a <b>régió térképére</b>. A térkép eléréséhez elôbb fejlesztened kell a <b>királynô sátrát</b>.
+text.nr101_1b_camp_introduction.9;Fejleszd a második szintre a <b>királynô sátrát</b>.
+

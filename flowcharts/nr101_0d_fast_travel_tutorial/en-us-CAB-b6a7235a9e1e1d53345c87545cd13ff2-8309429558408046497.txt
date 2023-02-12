@@ -1,0 +1,3 @@
+text.nr101_0d_fast_travel_tutorial.1;Bármikor megtekintheted a régió térképét és rajta az aktuális küldetéseidet, vagy általa visszatérhetsz korábban már felfedezett és meglátogatott helyszínekre.
+text.nr101_0d_fast_travel_tutorial.2;Az <b>útjelzôk</b> fellelésével elérhetôvé válik a <b>gyorsutazás</b> képesség, amely lehetôvé teszi számodra az útjelzôk közötti közvetlen utazást az adott <b>régió térképén</b>.
+

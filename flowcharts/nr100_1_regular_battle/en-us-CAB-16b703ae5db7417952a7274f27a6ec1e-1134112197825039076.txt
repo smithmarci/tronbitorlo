@@ -1,0 +1,57 @@
+say.nr100_1_regular_battle.1;Köd fényes nappal. Miközben még a hôség is egyre tikkasztóbb. Valamiféle varázslat lenne?
+say.nr100_1_regular_battle.10;Felség! Még több jön!
+say.nr100_1_regular_battle.11;Megtömték a bendôjüket, Asszonyom! Nem lesz ez így jó, ó, nem, egyáltalán nem!
+say.nr100_1_regular_battle.12;Teringettét...! Megerôsödtek, mint egy tinó. És mintha semmitôl se félnének!
+say.nr100_1_regular_battle.13;Bevadultak, Úrnôm. Ez színtiszta vérszomj! A saját túlélésükkel sem törôdnek, semmiféle fájdalmat nem éreznek! Láttam már ilyet korábban...
+say.nr100_1_regular_battle.14;Felség, meg kell hátrálnunk, vissza kell vonulnunk. Nem gyôzhetünk ellenük, legalább minimalizáljuk a veszteségeinket.
+say.nr100_1_regular_battle.15;Felség... Az embereink ok nélkül halnak! Meg kell óvnunk a sereget, hogy egy következô alkalommal majd felülkerekedhessünk!
+say.nr100_1_regular_battle.16;Az istenekre! Még több démon! Csak úgy özönlenek!
+say.nr100_1_regular_battle.17;Királynôm, nem szégyen feladni a harcot, amikor elfordul tôlünk a szerencse.
+say.nr100_1_regular_battle.18;Az istállóját! Legyen hát, ha így kell lennie. Visszavonulunk, és rendezzük sorainkat.
+say.nr100_1_regular_battle.19;Gyôznünk kell! Nem vonulhatunk vissza. Fegyvereket készenlétbe! Támadás!
+say.nr100_1_regular_battle.2;Nem zárhatjuk ki a lehetôségét, Uram. Roppant óvatossággal kell eljárnunk.
+say.nr100_1_regular_battle.20;Oda nézzenek! Még egy borzalom.
+say.nr100_1_regular_battle.21;Pfuj... ez a szag! A sóm! Hol van a repülôsóm?
+say.nr100_1_regular_battle.22;Figyelje! Attól a fortélytól csak még erôsebb lesz!
+say.nr100_1_regular_battle.23;Bátran és buzgón, ti gazfickók, ti jobbágyok! A királynôtökért! Lyriáért!
+say.nr100_1_regular_battle.24;A szörnyeknek esélyük sem volt ellenünk. Miénk a gyôzelem!
+say.nr100_1_regular_battle.25;Hurrá! Éljen soká Meve királynô! Éljen soká Lyria!
+say.nr100_1_regular_battle.3;Reynard! Mi ez? Valamiféle jelenés? Egy striga?
+say.nr100_1_regular_battle.4;Nem tudom biztosan, Felség. Ez az elsô alkalom, hogy ilyen... valamit látok.
+say.nr100_1_regular_battle.5;Én láttam már ilyen hullazabálókat. Elôzô tavasszal feltûntek a birtokomon is – az elhullott juhok tetemei vonzották oda ôket.
+say.nr100_1_regular_battle.6;Az elején még ártalmatlanok... majd, amikor telezabálták magukat, már kevésbé. Akkor aztán jól erôre kapnak.
+say.nr100_1_regular_battle.7;Ijesztônek tûnnek, valóban... De ugyanúgy véreznek, akárcsak mi. Elôre! Vágjátok le a mocskokat!
+say.nr100_1_regular_battle.8;Nálunk az elôny, Felség, ez kétségtelen. Nincs szükségünk további erôsítésre.
+say.nr100_1_regular_battle.9;O-hó, szerencse, hogy sikerült még azelôtt elirtanunk a bestiákat, hogy telezabálhatták volna magukat
+text.nr100_1_regular_battle.1;A soraidat <b>Köd</b> borítja – egyike azon <b>Sor-hatásoknak</b>, amelyekkel találkozni fogsz.
+text.nr100_1_regular_battle.10;Ahogy Meve-nek, úgy minden ellenséges <b>Vezérnek</b> van egyedi <b>Képessége</b>.
+text.nr100_1_regular_battle.11;A <b>Képessége</b> használatával az ellenség <b>Vezére</b> elpusztította a legerôsebb egységedet, és odadobta azt a nekrofágjainak eleség gyanánt, amitôl azok sokkal erôsebbek lettek.
+text.nr100_1_regular_battle.12;A <b>Trófea</b> egy egyedi típusú kártya, amibôl egyszerre <b>csak egy</b> példány lehet a paklidban.
+text.nr100_1_regular_battle.13;A trófea automatikusan megjelenik a csatamezôn <b>a játszma kezdetén</b>.
+text.nr100_1_regular_battle.14;Ahogy Meve-nek, úgy minden ellenséges <b>Vezérnek</b> van egyedi <b>Képessége</b>.
+text.nr100_1_regular_battle.15;A <b>Képessége</b> használatával az ellenség <b>Vezére</b> elpusztította a legerôsebb egységedet, és odadobta azt a nekrofágjainak eleség gyanánt, amitôl azok sokkal erôsebbek lettek.
+text.nr100_1_regular_battle.16;placeholder
+text.nr100_1_regular_battle.17;Ne feledd! Egy forduló elvesztése még nem jelenti azt, hogy vereséget szenvedtél! A harc megnyeréséhez <b>két gyôzelmi pontra</b> van szükség.
+text.nr100_1_regular_battle.18;Azon kártyákat, amelyek a <b>Vezényszó</b> képességgel rendelkeznek, a köröd során bármikor aktiválhatod, de csak miután már elegendô <b>idô eltelt</b> annak kijátszása óta. A kártya alján található <b>ikon</b> jelzi, hogy a képessége mikor válik újfent elérhetôvé.
+text.nr100_1_regular_battle.19;A köröd során <b>tetszôleges számú</b> <b>Vezényszó</b> képességgel rendelkezô kártyát aktiválhatsz. Legtöbbjük csak egyszer lesz újra használható, de némely kártyák Vezényszó képessége egy csata alatt többször is érvényesíthetô.
+text.nr100_1_regular_battle.2;Használd a <b>Szekérsánc</b> képességét.
+text.nr100_1_regular_battle.20;Ahhoz, hogy sikerre vezethesd a hadsereged, meg kell értened a kártyák közötti <b>kölcsönös egymásra hatások</b> mechanizmusait.
+text.nr100_1_regular_battle.21;Kezdésként játszd ki a <b>Szekérsáncot</b> a <b>Közelharci</b> sorra. Ezen kártya képessége minden, utána a vele azonos sorra kijátszott <b>további egység</b> által nô.
+text.nr100_1_regular_battle.22;<b>Reynard képessége</b> lehetôvé teszi mindazon egységek <b>újraaktiválását</b>, amely egységek <b>Vezényszó</b> képessége korábban már felhasználásra került.
+text.nr100_1_regular_battle.23;Ennek eredményeképpen a <b>Szekérsánc</b> képességét újra használhatod.
+text.nr100_1_regular_battle.24;A <b>Trófea</b> a fordulók során mindvégig a csatamezôn marad, ugyanis az a <b>Kitartó</b> státusszal rendelkezik.
+text.nr100_1_regular_battle.25;A <b>Szekérsánc</b> most újra használható. Használd a <b>Képességét</b>!
+text.nr100_1_regular_battle.26;Ahogy Meve-nek, úgy minden ellenséges <b>Vezérnek</b> van egyedi <b>Képessége</b>.
+text.nr100_1_regular_battle.27;Használd a <b>Erôsítô fôzetet</b> egy egységed erejének a megnöveléséhez.
+text.nr100_1_regular_battle.28;Használd a <b>Szekérsánc</b> képességét.
+text.nr100_1_regular_battle.29;Ha egy forduló nem a tetszésednek megfelelôen alakul, abban az esetben lehet, hogy a <b>forduló passzolása</b> a jó megoldás, ami által tartalékolhatod az erôdet a további fordulókra. De ne feledd! Passzolásra csak a <b>köröd kezdetén</b> van lehetôséged, még mielôtt bármilyen kártyát kijátszottál vagy képességet érvényesítettél volna.
+text.nr100_1_regular_battle.3;Játssz ki egy <b>Számszeríjászt</b> a <b>Közelharci</b> sorra annak érdekében, hogy kihasználd a <b>Szekérsánc</b> képességét, amely 1 <b>Páncél</b>-pontot ad az egységnek.
+text.nr100_1_regular_battle.30;A <b>Trófea</b> a fordulók során mindvégig a csatamezôn marad, ugyanis az a <b>Kitartó</b> státusszal rendelkezik. Az ezen státusszal rendelkezô kártyák speciális <b>ikonnal</b> vannak jelölve.
+text.nr100_1_regular_battle.32;A <b>Sor-hatások</b> hatással vannak az adott sorra kijátszott <b>minden kártyára</b>, ami hatásoknak lehet <b>pozitív</b> vagy akár <b>negatív</b> következménye is.
+text.nr100_1_regular_battle.4;Az ellenfelednek elfogytak a kártyái, Te pedig jelentôs elônyre tettél szert vele szemben. A gyôzelmed már biztosított, így akár passzolhatod is a fordulót, vagy a játszma végigjátszásával dicsôbbé is teheted a gyôzelmedet!
+text.nr100_1_regular_battle.5;Játszd ki <b>Reynardot</b> a <b>Közelharci</b> sorra.
+text.nr100_1_regular_battle.6;Használd az <b>Erôsítô fôzetet</b> egy egységed erejének a megnöveléséhez.
+text.nr100_1_regular_battle.7;Passzold most a fordulót, hogy megtartsd az egységeidet a következôre.
+text.nr100_1_regular_battle.8;A <b>Sor-hatások</b> hatással vannak az adott sorra kijátszott <b>minden kártyára</b>, ami hatásoknak lehet akár <b>pozitív</b> vagy <b>negatív</b> következménye is.
+text.nr100_1_regular_battle.9;A késôbbiek folyamán szert teszel majd olyan kártyákra is, amik lehetôséged adnak azonos sor-hatások elérésére.
+

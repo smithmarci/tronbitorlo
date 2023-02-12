@@ -1,0 +1,71 @@
+say.nr102_1_bandit_attack_combat.1;Harci alakzatba! Védjétek a királynôt!
+say.nr102_1_bandit_attack_combat.10;A csatának még nincs vége. Jobb volna tartalékolnunk az erônket, felkészülni egy mindent eldöntô, végsô csapásra.
+say.nr102_1_bandit_attack_combat.11;Hahh! A Bitangok behúzott farokkal menekülnek! Hahaaa!
+say.nr102_1_bandit_attack_combat.12;Majd én megtanítalak benneteket a Korona tiszteletére, kutyák!
+say.nr102_1_bandit_attack_combat.13;Vigyázz! Fedezékbe! Megszórnak bennünket!
+say.nr102_1_bandit_attack_combat.14;Fogadja gratulációmat eme fényes gyôzelemért, Felség. A haramiáknak esélyük sem volt.
+say.nr102_1_bandit_attack_combat.15;Gyôztünk, valóban, de nem sok híja volt, hogy ott nem hagytuk a fogunkat... Nem szabad alábecsülnünk ezeket a Bitangokat.
+say.nr102_1_bandit_attack_combat.2;A föld sói ôk, Felség. A tûzbe is követnék Önt. Csak kérnie kell!
+say.nr102_1_bandit_attack_combat.3;Igeeen! Most már biztosra vehetô a gyôzelmünk! Fújják meg a kürtöket! Ezt a diadalt még sokáig megéneklik majd!
+say.nr102_1_bandit_attack_combat.4;Rátámadni a királynôre? Ez felháborító!
+say.nr102_1_bandit_attack_combat.5;Ha megengedi, kedves grófom – a tapasztalat azt mutatja, jobb megvárni egy csata legvégét.
+say.nr102_1_bandit_attack_combat.6;Felség, az embereink várakoznak. Vezesse Ön a támadást.
+say.nr102_1_bandit_attack_combat.7;Nézzék! Nálunk a helyzeti elôny, és ezt ôk is tudják.
+say.nr102_1_bandit_attack_combat.8;Vigyázva! Lehet, hogy lesz itt néhány csapda!
+say.nr102_1_bandit_attack_combat.9;Úrnôm, kíméletlennek kell lennünk, nem hagyhatjuk, hogy lélegzethez jussanak! Törje meg ôket! Zúzza ôket porrá!
+text.nr102_1_bandit_attack_combat.1;Egy hagyományos csata <b>három fordulóból</b> áll. Aki elsôként nyer meg két fordulót, az az egész csatát megnyeri.
+text.nr102_1_bandit_attack_combat.10;Meve <b>képessége</b> lehetôvé teszi számára, hogy <b>növelje egy egység erejét</b>, és <b>páncélzatot</b> adjon neki. A képességét néhány körönként egyszer használhatja.
+text.nr102_1_bandit_attack_combat.11;Meve <b>képességének</b> használatához elôször jelöld ki ôt, majd jelöld ki az erôsíteni kívánt egységet.
+text.nr102_1_bandit_attack_combat.12;A számszeríjász <b>képessége</b> lehetôvé teszi számára, hogy annyi sebzést okozzon, amennyi <b>a vele azonos sorra kijátszott kártyák száma</b>. A <b>képessége</b> a kijátszása pillanatában érvényesül.
+text.nr102_1_bandit_attack_combat.13;Az ellenfeled kártyáinak szintén van <b>képessége</b>. Ügyelj arra, hogy mindig elolvasd a kártyái leírását, és azoknak tudatában alakítsd a stratégiádat.
+text.nr102_1_bandit_attack_combat.14;Mindegyik <b>vezérnek</b> van saját, egyedi <b>képessége</b>. Hogy megtudd, melyiküknek mi, csak jelöld ki az adott <b>vezért</b>.
+text.nr102_1_bandit_attack_combat.15;Meve <b>képessége</b> lehetôvé teszi számára, hogy <b>egy egység erejét 4-gyel növelje</b>, és <b>1 páncélzat-pontot</b> adjon neki. Ezt a képességét néhány körönként egyszer használhatja.
+text.nr102_1_bandit_attack_combat.16;Meve <b>képességének</b> használatához elôször jelöld ki ôt, majd jelöld ki egy egységedet.
+text.nr102_1_bandit_attack_combat.17;Az a játékos nyeri a fordulót, akinek a forduló végén a legtöbb <b>erô-pontja</b> van. <b>Döntetlen</b> esetén mindkét játékos megkapja a <b>gyôzelem-pontot</b>.
+text.nr102_1_bandit_attack_combat.18;Játssz ki egy kártyát!
+text.nr102_1_bandit_attack_combat.19;Egymás után két fordulóban is gyôzedelmeskedtél, ez pedig azt jelenti, hogy megnyerted a csatát! Gratuláció!
+text.nr102_1_bandit_attack_combat.2;A játszma során a játékosok felváltva játsszák le a köreiket. A saját körödben <b>csak egy kártyát</b> játszhatsz ki, de <b>bármely kártyád képességét</b> érvényesítheted.
+text.nr102_1_bandit_attack_combat.20;Nincs több lehetôséged. Passzold a fordulót!
+text.nr102_1_bandit_attack_combat.21;Játssz ki egy kártyát!
+text.nr102_1_bandit_attack_combat.22;Most használhatod Meve <b>képességét</b>.
+text.nr102_1_bandit_attack_combat.23;Fejezd be a körödet!
+text.nr102_1_bandit_attack_combat.24;A köröd befejezéséhez kattints az érme alakú gombra!
+text.nr102_1_bandit_attack_combat.25;Caldwell gróf <b>képessége</b> lehetôvé teszi számára, hogy a pakliból csatába szólítsa a vele szomszédos <b>kártyák többi példányát</b>. A <b>képessége</b> a kijátszása pillanatában érvényesül.
+text.nr102_1_bandit_attack_combat.26;Játssz ki egy kártyát!
+text.nr102_1_bandit_attack_combat.27;A számszeríjász <b>képessége</b> lehetôvé teszi számára, hogy annyi sebzést okozzon, amennyi <b>a vele azonos sorra kijátszott kártyák száma</b>. A <b>képessége</b> a kijátszása pillanatában érvényesül.
+text.nr102_1_bandit_attack_combat.28;Fejezd be a körödet!
+text.nr102_1_bandit_attack_combat.29;Fejezd be a körödet!
+text.nr102_1_bandit_attack_combat.3;Az a játékos kezdi a fordulót, aki <b>a csatát kezdeményezte</b>. Jelen esetben te vagy az, akit megtámadtak, így az ellenfeled kezdi a fordulót.
+text.nr102_1_bandit_attack_combat.30;Játssz ki egy kártyát!
+text.nr102_1_bandit_attack_combat.31;Használd most a <b>vezéred képességét</b>.
+text.nr102_1_bandit_attack_combat.32;A második és harmadik forduló kezdetén minden játékos <b>három-három kártyát</b> húz a paklijából.
+text.nr102_1_bandit_attack_combat.33;Játssz ki egy kártyát!
+text.nr102_1_bandit_attack_combat.34;Némelyik egység rendelkezik <b>páncélzattal</b>. A páncél elnyel bizonyos mennyiségû <b>sebzést</b> abból, ami az egységet érte.
+text.nr102_1_bandit_attack_combat.35;Meve <b>képességének</b> használatához elôször jelöld ki ôt, majd jelöld ki egy egységedet.
+text.nr102_1_bandit_attack_combat.36;Meve <b>képességének</b> használatához elôször jelöld ki ôt, majd jelöld ki egy egységedet.
+text.nr102_1_bandit_attack_combat.37;Ez itt a <b>csatamezô</b>. A kártyáidat az <b>alsó</b> térfélre játszod ki, <b>ellenfeled</b> pedig a <b>felsôre</b> a sajátjait.
+text.nr102_1_bandit_attack_combat.38;A kijátszott kártyák <b>ereje</b> hozzáadódik a sereged <b>összesített erejéhez</b>.
+text.nr102_1_bandit_attack_combat.39;Egymás után két fordulóban is gyôzedelmeskedtél, ezáltal megnyerted a csatát is! Gratuláció!
+text.nr102_1_bandit_attack_combat.4;A kijátszott kártyák <b>ereje</b> hozzáadódik a sereged <b>összesített erejéhez</b>.
+text.nr102_1_bandit_attack_combat.40;Némelyik egység rendelkezik <b>páncélzattal</b>. A páncél elnyel bizonyos mennyiségû <b>sebzést</b> abból, ami az egységet érte.
+text.nr102_1_bandit_attack_combat.41;A legtöbb kártyának van valamilyen <b>képessége</b>. Ahhoz, hogy megtudd, melyiknek mi, jelöld ki a kártyát, majd olvasd el a <b>rövid leírását</b>. <b>További információt</b> úgy kaphatsz, ha <b>jobb-egérgombbal</b> kattintasz a kártyán.
+text.nr102_1_bandit_attack_combat.42;A második és harmadik forduló kezdetén minden játékos <b>három-három kártyát</b> húz a paklijából.
+text.nr102_1_bandit_attack_combat.43;Az egységek ezen sorok egyikére játszhatók ki: a <b>közelharci</b> vagy a <b>távolsági</b> sorra. De ne feledd! Néhány kártya <b>képessége</b> megváltozhat <b>függôen attól</b>, hogy <b>melyik sorra</b> játszod ki.
+text.nr102_1_bandit_attack_combat.44;A számszeríjász <b>képessége</b> lehetôvé teszi számára, hogy annyi sebzést okozzon, amennyi <b>a vele azonos sorra kijátszott kártyák száma</b>. A <b>képessége</b> a kijátszása pillanatában érvényesül.
+text.nr102_1_bandit_attack_combat.45;Az ellenfeled kártyáinak szintén van <b>képessége</b>. Ügyelj arra, hogy mindig elolvasd a kártyái leírását, és azoknak tudatában alakítsd a stratégiádat.
+text.nr102_1_bandit_attack_combat.46;Játssz ki egy kártyát!
+text.nr102_1_bandit_attack_combat.47;Az a játékos nyeri a fordulót, akinek a forduló végén a legtöbb <b>erô-pontja</b> van. <b>Döntetlen</b> esetén mindkét játékos megkapja a <b>gyôzelem-pontot</b>.
+text.nr102_1_bandit_attack_combat.48;Az a játékos nyeri a <b>fordulót</b>, akinek a forduló végén a <b>legerôsebb a serege</b>.
+text.nr102_1_bandit_attack_combat.49;Ha már <b>minden kártyádat</b> kijátszottad, a <b>kör befejezése</b> gomb <b>passzolás</b> gombra vált. Ha <b>passzolsz</b>, a <b>következô forduló</b> kezdetéig nem fogsz tudni <b>további akciót</b> végrehajtani.
+text.nr102_1_bandit_attack_combat.5;Az a játékos nyeri a <b>fordulót</b>, akinek a forduló végén a <b>legerôsebb a serege</b>.
+text.nr102_1_bandit_attack_combat.50;Egy <b>kör befejezéséhez</b> kattints az érme-gombra!
+text.nr102_1_bandit_attack_combat.51;Egy <b>kör befejezéséhez</b> nyomj <sprite="[PS4]" name=Y> -t!
+text.nr102_1_bandit_attack_combat.52;A köröd befejezéséhez nyomj <sprite="[PS4]" name=Y> -t!
+text.nr102_1_bandit_attack_combat.53;A legtöbb kártyának van valamilyen <b>képessége</b>. Ahhoz, hogy megtudd, melyiknek mi, jelöld ki a kártyát, majd olvasd el a <b>rövid leírását</b>. <b>További információt</b> úgy kaphatsz, ha a kártya kijelölése során <sprite="[PS4]" name=RTrigger> -t nyomsz a kártyán.
+text.nr102_1_bandit_attack_combat.54;A legtöbb kártyának van valamilyen <b>képessége</b>. Ahhoz, hogy megtudd, melyiknek mi, jelöld ki a kártyát, majd olvasd el a <b>rövid leírását</b>. <b>További információt</b> úgy kaphatsz, ha a kártya kijelölése során <sprite="[PC]" name=LStick> -t nyomsz a kártyán.
+text.nr102_1_bandit_attack_combat.55;Nincs több lehetôséged. Passzold a fordulót! Nyomj <sprite="[PS4]" name=Y> -t!
+text.nr102_1_bandit_attack_combat.6;A legtöbb kártyának van valamilyen <b>képessége</b>. Ahhoz, hogy megtudd, melyiknek mi, jelöld ki a kártyát, majd olvasd el a <b>rövid leírását</b>. <b>További információ</b> akkor jelenik meg, ha <b>jobb-egérgombbal</b> kattintasz a kártyán.
+text.nr102_1_bandit_attack_combat.7;Az a játékos kezdi a következô fordulót, aki az elôzôben diadalmaskodott.
+text.nr102_1_bandit_attack_combat.8;A <b>kaszások</b> tulajdonsága a <b>hûség</b>. Ez azt jelenti, hogy a <b>képességük</b> mindannyiszor érvényesül, ahányszor <b>Meve képességét</b> használod.
+text.nr102_1_bandit_attack_combat.9;Mindegyik <b>vezérnek</b> van saját, egyedi <b>képessége</b>. Hogy megtudd, melyiküknek mi, csak jelöld ki az adott <b>vezért</b>.
+

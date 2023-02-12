@@ -1,0 +1,9 @@
+say.nr013_arnjolf_leaves.2;Hé! Leány!
+say.nr013_arnjolf_leaves.3;Nem tudom, Skelligén mi a módi, de a lyriai hadseregben szokás tiszteletet mutatni a királynô iránt.
+say.nr013_arnjolf_leaves.4;Akkor is, ha a királynô egy hazug esküszegô?
+say.nr013_arnjolf_leaves.5;Hogy mondod?
+say.nr013_arnjolf_leaves.6;Azt ígérted nekünk, hogy az oldaladon harcolhatunk és halhatunk becsülettel. Közben pedig a tartalékosok között, a borbélyok és szakácsok társaságában rohadunk.
+say.nr013_arnjolf_leaves.7;Elegünk van! Csatában, az ellenség kardja által akarok meghalni, nem az unalomtól.
+say.nr013_arnjolf_leaves.8;Arnjolf, talán én––
+say.nr013_arnjolf_leaves.9;Legények, fogjátok a cókmókotokat! Indul a vadászat – vérért és dicsôségért! Argh! Argh! Argh!
+

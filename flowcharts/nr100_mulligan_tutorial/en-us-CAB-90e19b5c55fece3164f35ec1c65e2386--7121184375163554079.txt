@@ -1,0 +1,2 @@
+text.nr100_mulligan_tutorial.2;A forduló kezdetén <b>legfeljebb 6 kártyát</b> újrahúzhatsz. Szabadulj meg azoktól a kézben tartott lapjaidtól, amiket nem szeretnél a játszma során kijátszani.
+

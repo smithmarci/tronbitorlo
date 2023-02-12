@@ -1,0 +1,19 @@
+say.nr101_6_cs2_lyria_outro.1;Lyria többé nem volt az övé. Meve-nek menekülnie kellett a fôvárosból, az országából, amilyen gyorsan csak tudott. És mert nem egy aranyozott hintó ablakán keresztül figyelte a mögéje veszô utcákat, már egészen más szemszögbôl látta azokat...
+say.nr101_6_cs2_lyria_outro.10;Gascon fosztogatói készek voltak útjukra engedni a nyilaikat, de az eléjük odalépô királynô útját állta a lövedékeknek...
+say.nr101_6_cs2_lyria_outro.11;Ô meg mit...?!
+say.nr101_6_cs2_lyria_outro.12;Akkor verj vasra, Százados, most!
+say.nr101_6_cs2_lyria_outro.13;Felség? Nekem... nekem parancsom van rá, hogy letartóztassam Felségedet...
+say.nr101_6_cs2_lyria_outro.14;Kérem, értse meg, nekem... nincs más választásom...
+say.nr101_6_cs2_lyria_outro.15;Egyet se félj, megkapod majd érte a jutalmadat. Caldwelltôl, nilfgaardi florinokban.
+say.nr101_6_cs2_lyria_outro.16;A százados lehajtotta a fejét, az orcáját vörösre festette a szégyen.
+say.nr101_6_cs2_lyria_outro.17;Menjen, Felség...! Mentse magát most, hogy aztán visszatérhessen.
+say.nr101_6_cs2_lyria_outro.18;Ne feledd, Gascon: nem szökevény vagyok én! Hanem királynô, akit megfosztottak a koronájától, ami jog szerint megilleti ôt. És még ha az alvilágban is kell leereszkednem, mielôtt visszatérhetnék... Akkor is vissza fogom szerezni!
+say.nr101_6_cs2_lyria_outro.2;Ó...
+say.nr101_6_cs2_lyria_outro.3;Ez az egyedüli út? Biztos ebben? A királynô––
+say.nr101_6_cs2_lyria_outro.4;Egy közönséges szökevény. Szóval jobban teszi, ha befogja az orrát, és nem nyafog.
+say.nr101_6_cs2_lyria_outro.5;Idôbe telt, mire Meve eljutott a kapuig... Amit aztán csukva talált, és, persze, erôs ôrizet alatt.
+say.nr101_6_cs2_lyria_outro.6;Átkozottak legyenek az istenek!
+say.nr101_6_cs2_lyria_outro.7;Nyugodj meg, Felség. Ez nem olyasmi, amit ne tudnánk egy tegeznyi nyíllal megoldani.
+say.nr101_6_cs2_lyria_outro.8;Azok ott a mi embereink...
+say.nr101_6_cs2_lyria_outro.9;Csak voltak azok, Reynard. Csak voltak.
+

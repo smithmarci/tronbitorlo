@@ -1,0 +1,14 @@
+say.nr102_1_bandit_attack.1;"Felség! Útonállók! Amott, a fák vonalában!"\n
+say.nr102_1_bandit_attack.2;"Támadás! Roham!"
+say.nr102_1_bandit_attack.418;Caldwell gróf a menetoszlop élén lovagolt, figyelô tekintetével a útszélt kémlelte, és – éltes kora ellenére – rendkívül éles szemûnek bizonyult...\n
+say.nr102_1_bandit_attack.420;A gróf talpasai, nem rendelkezvén tapasztalattal a királynô kíséretét illetôen, szoros formációban körülvéve a testükkel próbálták védelmezni ôt. {audio=nr102_1_bandit_attack_Meve_attacks}Szinte nyomban félre is penderültek, amikor Meve lovát vágtába ugratva, a kardját suhogtatva és ádáz kiáltást hallatva a haramiákra rontott.\n
+say.nr102_1_bandit_attack.421;– mondta Meve, miközben összefonta karját csillogó mellvértjén.\n
+say.nr102_1_bandit_attack.422;– magyarázta Caldwell, kerülve hûbérura haragos tekintetét.\n
+say.nr102_1_bandit_attack.423;A királynô kísérete megindult, elöl a lovassággal, szorosan mögötte a gyalogsággal és a számszeríjászokkal, majd a menet legvégén a zsiványok láncra vert bandájával.
+say.nr102_1_bandit_attack.7;"Öhöm. Úgy fest, egynémely ügyek irányítása valóban kicsúszott a kezébôl. Hogy finoman fogalmazzak"
+say.nr102_1_bandit_attack.8;"Nagyon felbátorodtak – kétségtelen, hogy az adószedôk és a kúria kifosztása óta. Korábban nem kaptunk értesüléseket az országúton történt rajtaütésekrôl"
+say.nr102_1_bandit_attack.9;"Elég, Caldwell. Helyre kell hoznunk egyet s mást. Gyerünk!"\n\n
+text.nr102_1_bandit_attack.1;A legtöbb interaktív dolog jól észrevehetôen jelölve van a térképeden... De <b>nem mindegyik</b>! Egyes eseményeket nem lehet elôre megjósolni, így jobban teszed, ha felkészülsz minden eshetôségre.
+title.nr102_1_bandit_attack.419;Az út szélén
+title.nr102_1_bandit_attack.434;Az út szélén
+

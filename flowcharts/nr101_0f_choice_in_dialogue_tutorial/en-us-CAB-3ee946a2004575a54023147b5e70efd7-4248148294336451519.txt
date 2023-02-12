@@ -1,0 +1,2 @@
+text.nr101_0f_choice_in_dialogue_tutorial.1;Minden <b>döntésednek</b> következményei lesznek. Némely döntéseknek a hatása azonnali lesz, míg mások azt csak idôvel éreztetik majd. Döntsd megfontoltan!
+

@@ -1,0 +1,24 @@
+menu.nr101_4_dravograd.38;Félek, Dravográdnak magának kell boldogulnia.
+menu.nr101_4_dravograd.39;Rendben. Nyújtsunk segítséget Dravográdnak.
+say.nr101_4_dravograd.1;"Végünk! Esélyünk sincs! Nilfgaard kétszeres túlerôben van! Vagy többen!"\n
+say.nr101_4_dravograd.13;Hallja ezt, Felség?
+say.nr101_4_dravograd.14;A fal áttörve – három helyen is. Négyszáz sebesült, ezernél is többen fedél nélkül a fejük fölött. És mindez semmiség a magtárakhoz képest... Azok mind füstté váltak az ostrom során. Az aratásig pedig még egy örökkévalóság...
+say.nr101_4_dravograd.15;Felség, a háború épp hogy elkezdôdött, tisztában vagyok vele. Minden pénzzel a hadsereget kellene támogatni. Mégis, ha Dravográd lakosait arany nélkül hagyjuk, felüti a fejét az éhínség, és vele minden, ami az ember vesztét okozhatja.
+say.nr101_4_dravograd.17;A nilfgaardiak fejvesztve menekültek, odahagyva a hadigépeiket, pajzsokat és fegyvereket – még a sebesültjeiket is. A védôk ünnepeltek. Fékevesztett kacagás, megkönnyebbült zokogás és énekszó hallatszott mindenünnen. "Harcos királynô!" – kiabálták. – "Meve! Meve! Meve!"
+say.nr101_4_dravograd.2;"Akkor az embereinknek kétszer akkora elszántsággal, kétszer akkora szívvel kell küzdeniük! Lyyyrrriiaaa!!!"\n\n
+say.nr101_4_dravograd.26;A királynô káromkodott egy ízeset. Dravográd ott terült el elôttük, a nilfgaardiak pedig ott özönlöttek körülötte mindenütt – három, talán négy zászlóaljnyi páncélos gyalogság, számszeríjászok, és a lovasság mögöttük. Kôhajítók lövedékeinek zápora ütött lyukakat a falakon, miközben faltörô kosok fordították ki sarkaiból a fôkaput. Avagy a város csupán fertályórányira volt attól, hogy az ellenség kezére kerüljön.\n
+say.nr101_4_dravograd.29;Hallom. Nincs más hang, mi szebben csengene egy uralkodó fülének.
+say.nr101_4_dravograd.32;Mégsem ülhetünk a babérjainkon. Caldwell, mit tud nekem elmondani a városban uralkodó helyzetrôl?
+say.nr101_4_dravograd.40;Túlontúl jól emlékszem az 1258-as nagy aszályra. Éhínséget láttam, olyat, ami a végsôkig elkeseredetté teszi az embert.
+say.nr101_4_dravograd.41;Erôs hadseregre van szükségem. Annak hiányában más városok fognak elesni, még több gabona elégni. És nem csak Dravográdban köszönt be éhínség, hanem egész Lyriában.
+say.nr101_4_dravograd.42;Caldwell, szükségünk van arra az aranyra.
+say.nr101_4_dravograd.43;Látta, milyen állapotok uralkodnak az itteni kaszárnyában. A katonák mezítláb harcoltak, még kapca sem volt rajtuk. Látja, hova akarok kilyukadni?
+say.nr101_4_dravograd.44;Borzasztó nagy szükségem van egy erôs hadseregre, de nem bármi áron. A polgároknak is szükségük van a pénzre, hogy kihúzhassák az aratás végéig. Számolja ki, mennyire, aztán adja át a helyôrség parancsnoknak.
+say.nr101_4_dravograd.45;A csatát megnyertük – már csak egy egész háború áll elôttünk. És Nilfgaard újra le fog csapni, kétségünk se legyen efelôl. Tovább kell mennünk.
+say.nr101_4_dravograd.46;Caldwell, lovagoljon elôre Lyriába. A fiamnak össze kell hívnia a Nemesi Tanácsot – mondja meg neki. Rengeteg mindent kell megbeszélnünk.
+say.nr101_4_dravograd.47;Ahogy parancsolja, Felség.
+say.nr101_4_dravograd.48;Reynard és én megyünk Ön után a sereggel. Felkutatjuk a nilfgaardi lemaradókat és kóbor egységeket, megakadályozandó, hogy újra a fô haderôhöz csatlakozhassanak.
+say.nr101_4_dravograd.49;Meve két tanácsadója meghajolt, és magára hagyta a gondolataival a királynôt, aki éhes is volt, és minden porcikája sajgott a harctól. Mégis, amikor megérezte magán a katonái tekintetét, fürge léptekkel és felszegett állal az istállók irányába indult.
+say.nr101_4_dravograd.50;Felbátorodva vitéz királynôjüktôl és vezérüktôl a lyriaiak a lövedékek és nyílvesszôk záporában egyenesen nekirontottak a nilfgaardiak vonalainak...
+title.nr101_4_dravograd.99;A dravográdi csata
+

@@ -1,0 +1,3 @@
+text.nr101_0c_markers_tutorial.1;A legtöbb interaktív célt egyedi ikon jelöli a térképen. De vigyázz! Egyes helyzetek megjósolhatatlanok, ezáltal nem kerülnek jelölésre.
+text.nr101_0c_markers_tutorial.2;Egy akadály állja el az utadat! Az eltávolításához némi nyersanyag ráfordítására lehet szükség.
+

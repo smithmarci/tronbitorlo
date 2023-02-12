@@ -1,0 +1,4 @@
+say.nr101_3b_invasion_gpl.1;Elôbb a haramiák, most meg ez. Valóban csôstül jön a baj.
+say.nr101_3b_invasion_gpl.3;Hahh! Szöges talpú bakancsokkal tapodják a földjeimet.
+say.nr101_3b_invasion_gpl.4;Nilfgaard ezt még megkeserüli. Esküszöm mindenre, ami áldott és szent.
+

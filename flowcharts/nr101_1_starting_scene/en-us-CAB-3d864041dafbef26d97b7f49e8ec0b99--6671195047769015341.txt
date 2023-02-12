@@ -1,0 +1,20 @@
+menu.nr101_1_starting_scene.61;Kiábrándító.
+menu.nr101_1_starting_scene.62;Üljön le, Caldwell.
+say.nr101_1_starting_scene.2;Legyen üdvözölve, Felség! Örömmel tölt el, hogy ilyen jó egészségben találom. A csúcstalálkozó eredményesen ért véget, remélem!
+say.nr101_1_starting_scene.29;"Spalla Bitangjai", azok a haramiák... Felséged távollétében szándékoztam... Ööö... A helyzet irányítása kicsúszott a kezeink közül, attól tartok.
+say.nr101_1_starting_scene.3;Ennyi elég is lesz a szívélyességbôl, Caldwell. Mondja el, mi történt, mert ôszintén kétlem, csak a puszta hiányom késztette arra, hogy kilovagoljon elénk.
+say.nr101_1_starting_scene.31;Igen, a végén leveleket váltottunk, dokumentumokat írtunk alá. Majd elválik idôvel, hogy mennyit érnek.
+say.nr101_1_starting_scene.5;Valóban, Felség... Való igaz, volna egy körülmény, ami erre ösztönzött. Khm.
+say.nr101_1_starting_scene.70;Mindjárt gondoltam. Nem voltam teljesen biztos abban, hogy bölcsen teszem, ha Önre bízom e feladatot. Jól tudjuk, hogy legalább olyan jó stratéga, mint amilyen pásztorleány én volnék.
+say.nr101_1_starting_scene.72;Nyugalom, Caldwell. Lélegezzen mélyeket!
+say.nr101_1_starting_scene.73;Legközelebb bízom majd a megérzéseimben.
+say.nr101_1_starting_scene.74;Rendben, beszéljen. Mi történt? Mondjon el mindent.
+say.nr101_1_starting_scene.76;Ahogy Felséged meghagyta, a távozása után nem sokkal felkerekedtünk, és a haramiák nyomába eredtünk. Heteken át üldöztük ôket, végül a felderítôk azzal tértek vissza, hogy megtalálták a Bitangok táborát a Lokerenhez közeli erdôben. Vártunk, amíg leszállt az éj, hogy álmukban lephessük meg ôket...
+say.nr101_1_starting_scene.78;Kiderült, hogy ez csak csel volt. A sátrakat üresen találtuk, szalmával kitömött bábuk ülték körül a tábortüzet. Mint hamarosan megtudtuk, míg mi a napkeltét vártuk, a Bitangok elosontak, kikerülték az egységeinket, és elvágtattak Gazdagégetô irányába.
+say.nr101_1_starting_scene.79;Hogy mondja, uram? Az adószedôink ott állomásoznak.
+say.nr101_1_starting_scene.80;És az arany? Az összes...?
+say.nr101_1_starting_scene.81;Ööö, lába kélt, Felség. De megteszek mindent, ami hatalmamban áll, hogy visszaszerezzem – ezennel megfogadom... Már ha ez Felséged óhaja.
+say.nr101_1_starting_scene.83;Ennyi nyeregben eltöltött hét után ennek a Felségnek rendkívül szerény óhajai vannak csupán: egy forró fürdô, és egy, a saját ágyában átaludt éjszaka volna minden. Ám úgy látom, ezeknek még várniuk kell.
+say.nr101_1_starting_scene.85;Személyesen fogok ennek az ügynek a végére járni. Az egységeit, Caldwell, magam fogom vezényelni. Ön pedig... küldjön egy hírnököt Gazdagégetôbe. Készüljenek a királynô fogadására, szellôztessenek ki, porolják le a vázákat. És az embere bizonyosodjon meg arról, hogy így is lesz.
+say.nr101_1_starting_scene.88;Nyilvánvaló volt, hogy Caldwell lóhalálában érkezett. Verejtékcseppek csillogtak a bajuszán, a nyaka kivörösödve és felhorzsolva a kikeményített nyakfodortól.
+say.nr101_1_starting_scene.90;A megérzésem azt súgta, hogy "ne". Mégis, Reynard közbenjárt az Ön érdekében. "Felség, ezek közönséges haramiák, a grófnak pedig számos jól felfegyverzett katona áll a rendelkezésére" – feltételezte.

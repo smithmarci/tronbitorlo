@@ -1,0 +1,6 @@
+say.nr101_5_lyria_combat.1;Gascon...? A fészkes fenébe, most meg hová tûnt...
+say.nr101_5_lyria_combat.3;Ôszintén? Meglehet.
+say.nr101_5_lyria_combat.5;Felség, sietnünk kell! Caldwell mostanra már riadóztatta az egész várost!
+say.nr101_5_lyria_combat.7;Csak nem azt gondoltad, hogy így itt hagylak, ugye?
+say.nr101_5_lyria_combat.9;Felség,... mi a garancia arra, hogy egy alkalmas pillanatban majd nem szúrnak bennünket hátba?
+

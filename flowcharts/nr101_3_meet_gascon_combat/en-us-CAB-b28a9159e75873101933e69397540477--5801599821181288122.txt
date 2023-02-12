@@ -1,0 +1,6 @@
+say.nr101_3_meet_gascon_combat.1;O-hó, pajtások! Mit szólnátok hozzá, ha megdobálnánk labdácskákkal a királynôt!
+say.nr101_3_meet_gascon_combat.3;Nocsak, nocsak – gratulációm.
+say.nr101_3_meet_gascon_combat.5;Aj-jaj-jaj! Hátrább! Valamiféle alkímiai kotyvalék lehet!
+say.nr101_3_meet_gascon_combat.7;Óvatosan, Úrnôm. Harapnak a Bitangok!
+say.nr101_3_meet_gascon_combat.9;Vau! Vau! Vau! Va–úúúúúúú!!!
+

@@ -1,0 +1,53 @@
+menu.nr101_2_peasants_about_gascon.11;Nyugodj meg. Nincs mitôl tartanod.
+menu.nr101_2_peasants_about_gascon.12;Beszélj, azonnal mondj el mindent, máskülönben...
+menu.nr101_2_peasants_about_gascon.57;A férfiakat sorozzák be. A nôket pedig engedjék szabadon.
+menu.nr101_2_peasants_about_gascon.58;Térítse észre ôket az ostorral.
+menu.nr101_2_peasants_about_gascon.59;Hagyja ôket.
+say.nr101_2_peasants_about_gascon.1;Felség. Caldwell gróf.
+say.nr101_2_peasants_about_gascon.15;Nyugodjatok meg, jó népek. Bár a királynôtök vagyok, nem rabszolgák vagytok, hanem az alattvalóim.
+say.nr101_2_peasants_about_gascon.16;Bocsásson meg, Fölséged, nem ehhez vagyok én szokva, nem tudom, hogyan kell.
+say.nr101_2_peasants_about_gascon.17;Badarság. Erôs a markod, határozott a kézfogásod, és én tisztelem a merész jellemet. Hogy hívnak, jóember?
+say.nr101_2_peasants_about_gascon.18;Asszonyom, megesküdtünk az életünkre is,... hogy... áh...
+say.nr101_2_peasants_about_gascon.19;Lyria fôvárosában,... jártál valaha a kastély közelében?
+say.nr101_2_peasants_about_gascon.2;Ôrmester, pihenj. Jelentést!
+say.nr101_2_peasants_about_gascon.20;Van egy tömlöc alatta. És abban a tömlöcben vagy egy különleges cella, amit én csak Cecíliának hívok. Nos, Cecília nem több egy henger alakú lyuknál, ráccsal a nyílásánál.
+say.nr101_2_peasants_about_gascon.21;Így hát Cecília, hogy is mondjam,... elég keskeny, meglehetôsen szûk – amint belecsusszansz, mozdulni is képtelen vagy. Képtelen elfordulni, leguggolni, de még a karodat felemelni is. A rabok, akik eme ribanc ölelésében találják magukat, heteken át ott állnak egy helyben, a saját ürülékükben,... amíg bele nem ôrülnek, vagy fel nem zabálják ôket a férgek.
+say.nr101_2_peasants_about_gascon.22;Meg kell hoznotok egy döntést. Elmondjátok, amit tudni akarok,... vagy életetek végéig Cecília rabjai lesztek.
+say.nr101_2_peasants_about_gascon.25;Ki az, akit a haramiák követnek?
+say.nr101_2_peasants_about_gascon.27;Ôtet, Asszonyom, mán' láttuk. A nevit nem tudjuk, csak aszt a fura megszólítását. Az Ebek Hercege, így híjják.
+say.nr101_2_peasants_about_gascon.28;Te emlékszô', Imogén, hogy mi'nevéhez? Valami Klétönhö', vagy i'llesmihez?
+say.nr101_2_peasants_about_gascon.29;Csendet, fajankók! A királynô szólni kíván! Felség – a parancsa? Mi tévôk legyünk velük?
+say.nr101_2_peasants_about_gascon.30;Asszonyom! Ne légyen haraggal a Herceg iránt. Jó ember a', rézzel fizetett nékünk a vendéglátásér', még ami elemózsia vót nála, aszt is megosztotta vélünk...
+say.nr101_2_peasants_about_gascon.38;Miért is? Ettôl még nem esik le a korona a fejemrôl, sem a címem nem lesz oda, így nem látom semmi akadályát. Vezessenek hozzájuk.
+say.nr101_2_peasants_about_gascon.39;Megoldom én magam is, Caldwell.
+say.nr101_2_peasants_about_gascon.4;Talán kívánja Felséged, ha hívatnánk a hóhért? Olyan gyorsan megköti a hurkot a szemük láttára, hogy tüstént megered majd a nyelvük.
+say.nr101_2_peasants_about_gascon.40;Helmer,... Florenz fia.
+say.nr101_2_peasants_about_gascon.41;Örvendek, Helmer. Meg kell, hogy értsd, ember, szorult helyzetben vagyok, és a segítségedre van szükségem. Ezért kérlek, válaszold meg a kérdéseimet köntörfalazás nélkül és a lehetô legôszintébben.
+say.nr101_2_peasants_about_gascon.42;Meve odanyújtotta a kezét, a királyi gyûrûk megcsillantak az ujjain. A közember pedig – nem ismervén a protokollt, – megszorította határozottan, és úgy megrázta a királynô kezét, mintha vajat köpülne.
+say.nr101_2_peasants_about_gascon.43;Egek. Hamarosan már a nevén szólítjuk egymást.
+say.nr101_2_peasants_about_gascon.44;Ez vérlázító! Ôrök, fogják le!
+say.nr101_2_peasants_about_gascon.45;Láthatjátok, jó népek, mélyen le vagyok sújtva. Ezek a banditák, ezek a "Spalla Bitangjai", ahogy magukat nevezik, meglehetôsen nehéz helyzetbe hoztak.
+say.nr101_2_peasants_about_gascon.46;El vagyok keseredve, és a segítségetekre van szükségem. És... királyi hálám roppant nagylelkû lesz.
+say.nr101_2_peasants_about_gascon.48;Á, nem, Asszonyom... Megmondom az igazat, sose mentem az otthontu' messzire. Legtávolabb is csak... talán...
+say.nr101_2_peasants_about_gascon.49;Kegyelmezzen, Asszonyom! Asztat nem akarjuk! Elmondunk mindent! És még annál is többet!
+say.nr101_2_peasants_about_gascon.5;Én szólok velük elsôként.
+say.nr101_2_peasants_about_gascon.50;Összetereltük a helyi parasztokat a falu fôterére, Felség. Úgy véljük, talán a banditák segítségére voltak. Ám a látogatásunk nem hatotta meg ôket. Egy mukkot, annyit sem szóltak.
+say.nr101_2_peasants_about_gascon.51;Kegyelem, Fölség. Nincs nekünk bûnünk, eccerû népek volnánk mink...
+say.nr101_2_peasants_about_gascon.52;Hamarosan a királynô és a kísérete megérkeztek Gazdagégetôbe. Az itt állomásozó embereiket vigyázzban állva, a szikrázó déli napon fôve találták.
+say.nr101_2_peasants_about_gascon.54;Szavamra,... egy kékvérû, fajtiszta korcs. Merre tartottak ô és a vérebei – elárulta?
+say.nr101_2_peasants_about_gascon.55;Claytonhoz. Lord Claytonhoz. A birtokára, innen délre.
+say.nr101_2_peasants_about_gascon.56;Fújják meg a kürtöket, az emberek fejlôdjenek alakzatba. Indulunk máris.
+say.nr101_2_peasants_about_gascon.6;Felség! Még hogy a királynô leereszkedjen a köznéphez,... Nincs ez így rendjén.
+say.nr101_2_peasants_about_gascon.63;Menedéket adtatok a Korona ellenségeinek. Átallottatok beismerni a tetteiteket. Végül pedig merészeltetek kegyelmet kérni a haramiáknak, ami azt bizonyítja, hogy a legkevésbé sem vagytok tisztában azzal, miféle bûnt követtetek el. Így kénytelen vagyok megértetni ezt veletek. Egy jó erôsen font ostor segítségével.
+say.nr101_2_peasants_about_gascon.64;Ôrmester! Húsz-húsz csapás a férfiaknak, fele ennyi a nôknek.
+say.nr101_2_peasants_about_gascon.65;Az Ebek Hercege jól tartott benneteket, így van erôtök a fegyver forgatásához... És mert pénzt is adott nektek, hát semmi szükség arra, hogy a korona kincstárát megrövidítsétek.
+say.nr101_2_peasants_about_gascon.66;Az istenekre, Asszonyom! Nem jó ez imígyen! Nee!!
+say.nr101_2_peasants_about_gascon.67;Ôrmester! Minden tizenöt vagy annál több nyarat látott férfi azonnal a sorainkba lép. Öt esztendôt leszolgálnak.
+say.nr101_2_peasants_about_gascon.68;Ne, Asszonyom, ne! Nyakunkon az aratás! Ki fog akkó' dó'gozni a fô'deken?!
+say.nr101_2_peasants_about_gascon.69;Hagyják ôket. Közeleg az aratás ideje. Kemény munka az, ki se látnak majd belôle.
+say.nr101_2_peasants_about_gascon.70;Imádkozz, hogy óvja a tiéteket is! Ha még egyszer a fülembe jut, hogy haramiáknak adtok menedéket, hogy hazudtok a tisztjeimnek, visszatérek, és csóvát vetek minden egyes kunyhóra, szántóra és gyümölcsösre. Megértettétek?
+say.nr101_2_peasants_about_gascon.71;Ó, Asszonyom, fogadja köszönetünket, a hálánkat! Imádkozom Melitele Anyához, hogy óvja aszt az áldott jó szívét.
+say.nr101_2_peasants_about_gascon.73;Meve vágtára fogta a lovát, és porfelhôt hagyva maga után megindult Lord Clayton birtoka felé. Útjából úgy rebbentek szét a parasztok, mint a riadt verebek. Gazdagégetô lakói pedig még sokáig emlegették a királyi látogatást, igaz, csakis egymás között, és akkor is csak suttogva.
+say.nr101_2_peasants_about_gascon.9;Mélyen hajoljatok meg az uralkodótok elôtt! Ô királyi fensége, Meve, Lyria és Rívia királynôje!
+text.nr101_2_peasants_about_gascon.1;Az általad hozott <b>döntéseknek</b> következményei lesznek. Némelyiknek azonnal, míg másoknak csak késôbb. Jól válaszd meg ôket!
+

@@ -1,0 +1,16 @@
+text.nr101_1b_camp_intro_command_tent.1;A <b>Parancsnoki sátorban</b> van lehetôséged új egységek kiképzésére, és hadsereg felállítására a rendelkezésedre álló kártyáidból.
+text.nr101_1b_camp_intro_command_tent.10;Add hozzá a <b>Szekérsáncot</b> a paklidhoz!
+text.nr101_1b_camp_intro_command_tent.11;A <b>paklidnak</b> legalább <b>25 kártyából</b> kell állnia, de a lapok összereje semmiképp sem haladhatja meg az <b>újonc-limitet</b>.
+text.nr101_1b_camp_intro_command_tent.12;Add hozzá a <b>Szekérsáncot</b> a paklidhoz úgy, hogy kijelölöd, majd megnyomod az <sprite="[PS4]" name=A> gombot.
+text.nr101_1b_camp_intro_command_tent.13;A <b>paklidnak</b> legalább <b>25 kártyából</b> kell állnia, de a lapok összeereje semmiképp sem haladhatja meg az <b>újonc-limitet</b>. Jelenleg az újonc-limited <b>125 pont</b>.
+text.nr101_1b_camp_intro_command_tent.14;Új kártyák <b>készítéséhez</b> rendelkezned kell egy bizonyos erôforrással: <b>újoncokkal</b>. Újoncokat a <b>sorozó-állomásokon</b> toborozhatsz, amely állomások a térképen <b>sisak-ikonnal</b> jelölôdnek, valamint egyes, a történet szempontjából fontos feladatok végrehajtása után is csatlakoznak a seregedhez regruták.
+text.nr101_1b_camp_intro_command_tent.15;Új kártyák <b>készítéséhez</b> rendelkezned kell egy bizonyos erôforrással: <b>újoncokkal</b>. Újoncokat a <b>sorozó-állomásokon</b> toborozhatsz, amely állomások a térképen <b>sisak-ikonnal</b> jelölôdnek, valamint egyes, a történet szempontjából fontos feladatok végrehajtása után is csatlakoznak a seregedhez regruták.
+text.nr101_1b_camp_intro_command_tent.2;Ezen épület fejlesztésével növelheted a hadsereged <b>újonc-limitjét</b>, ezáltal erôsebb egységeket képezhetsz ki.
+text.nr101_1b_camp_intro_command_tent.3;A jelen pillanatban a <b>paklidban</b> található kártyák a <b>bal oldalon</b> jelennek meg.
+text.nr101_1b_camp_intro_command_tent.4;Az elkészíthetô és a paklidba helyezhetô kártyák foglalják el ezen képernyô legnagyobb hányadát.
+text.nr101_1b_camp_intro_command_tent.5;Új kártyákhoz a <b>Gyakorlótér</b> és a <b>Mûhelyek</b> fejlesztése, valamint bizonyos, a történet szempontjából fontos feladatok végrehajtása által juthatsz.
+text.nr101_1b_camp_intro_command_tent.6;Megtekintheted a kártyáidat, készíthetsz újakat, vagy visszatérhetsz a fôképernyôre, hogy folytasd a kalandozásaidat.
+text.nr101_1b_camp_intro_command_tent.7;A <b>szürke árnyalattal jelölt kártyák</b> elérhetôek, de még nem készítetted el ôket. Elôbb <b>el kell készítened</b> ôket ahhoz, hogy aztán a paklidat gyarapíthasd velük.
+text.nr101_1b_camp_intro_command_tent.8;További nyersanyagokat kaptál azért, hogy készíthess egy <b>Szekérsánc</b> kártyát. Ehhez elôbb jelöld ki a kártyát, nyomj <sprite="[PS4]" name=X>-et, majd hagyd jóvá az <sprite="[PS4]" name=A> megnyomásával.
+text.nr101_1b_camp_intro_command_tent.9;További nyersanyagokat kaptál azért, hogy készíthess egy <b>Szekérsánc</b> kártyát. A kártyán jobb-gombbal kattintva megtekintheted az egységet (Mustra), és elkészítheted a kártyát (Kiképzés). Készíts egyet most!
+

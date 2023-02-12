@@ -1,0 +1,6 @@
+say.nr101_4_dravograd_combat.1;Támadjatok! Takarítsátok el a városból az összes Fekete mocskot!
+say.nr101_4_dravograd_combat.3;Visszavonulnak! Felség, a város a miénk!
+say.nr101_4_dravograd_combat.5;Felség, látom a parancsnokukat! Minden erônkkel rá kell összpontosítanunk!
+say.nr101_4_dravograd_combat.7;Felség! Ott, a láthatáron! Az ellenség erôsítése!
+say.nr101_4_dravograd_combat.9;A foglyok nem szedtek rá bennünket. Szerencse, hogy kelepcébe tudtuk csalni az erôsítésüket.
+

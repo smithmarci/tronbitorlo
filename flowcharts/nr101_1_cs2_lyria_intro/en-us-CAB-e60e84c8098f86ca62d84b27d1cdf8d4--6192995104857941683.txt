@@ -1,0 +1,6 @@
+say.nr101_1_cs2_lyria_intro.1;1267-et írtunk. Már érezni lehetett a háború elôszelét, a mindent átitató szagát. A hatalmas Nilfgaardi Birodalom készen állt, mohó tekintettel méregetve az Északi Királyságokat a Jaruga túlfelérôl.
+say.nr101_1_cs2_lyria_intro.2;Az egyre növekvô fenyegetés árnyékában a királyságok uralkodói egy találkozóra gyûltek össze. Nyilatkozatokat tettek, testvéri segítséget ígértek egymásnak, szövetségeket kovácsoltak. Aztán – jó hiszemben – elváltak egymástól.
+say.nr101_1_cs2_lyria_intro.3;Közöttük volt Meve, Lyria és Rívia testvérkirályságainak királynôje is. Ismerôsen cseng a neve, hm? Trubadúrok által megénekelt szépségérôl hallottatok-e? Bizony. És joggal.
+say.nr101_1_cs2_lyria_intro.4;Figyelemre méltó volt – és nem csak kecses megjelenéséért, hanem állhatatosságáért és bátorságáért is.
+say.nr101_1_cs2_lyria_intro.6;Hol is tartottam? Ó, megvan. Amint a királynô és kísérete a fôvároshoz közeledett, megjelent Caldwell gróf. Meve távollétében a gróf tiszte volt segíteni a királynô fiát, az ifjú Villem herceget a testvérkirályságok igazgatásában.
+

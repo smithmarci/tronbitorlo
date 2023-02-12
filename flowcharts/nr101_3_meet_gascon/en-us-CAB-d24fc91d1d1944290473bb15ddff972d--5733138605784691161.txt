@@ -1,0 +1,31 @@
+menu.nr101_3_meet_gascon.261;Vigyék a szemem elôl.
+menu.nr101_3_meet_gascon.263;Eléggé biztos vagy önmagadban...
+say.nr101_3_meet_gascon.15;Bravó, Felség! Szép húzás!
+say.nr101_3_meet_gascon.16;Ó! Vigyék innen.
+say.nr101_3_meet_gascon.18;Félek, rólad nem mondhatom el ugyanezt. Jobban tetted volna, ha odaveszel egy csatában. Most pedig útnak indulsz Lyria felé, ahol a hóhér vár.
+say.nr101_3_meet_gascon.2;Hangzatos címek mind. Mégis, egyet kifelejtettél: azt, hogy "közönséges gyilkos"!
+say.nr101_3_meet_gascon.23;Felség! Kegyelmetek! Nilfgaard átkelt a Jarugán! Feketék, hordaszámra! Falvak állnak lángokban! A népek lemészárolva!
+say.nr101_3_meet_gascon.25;Dravográd felé vonulnak! És reményük sincs arra, hogy Villem herceg idôben érkezik a megmentésünkre! Segítsen rajtunk! Muszáj segítenie!
+say.nr101_3_meet_gascon.26;Figyelj rám jól, katona! Kerítesz magadnak egy kipihent lovat, visszalovagolsz a parancsnokodhoz, és megmondod neki, hogy a királynô érkezik leverni az ellent.
+say.nr101_3_meet_gascon.267;Eléggé magabiztosnak tûnsz.
+say.nr101_3_meet_gascon.269;Sokan készítették már nekem a hurkot korábban, Felség. Mégis, amint azt Te is láthatod, a nyakam még mindig oly egyenes, mint egy lándzsa.
+say.nr101_3_meet_gascon.271;Az én fenyegetéseim sohasem üresek. És ha a megmenekülésben reménykednél, nos,... még várjuk, ki lesz az elsô, aki kereket old a Lyria vára alatti tömlöcbôl.
+say.nr101_3_meet_gascon.272;Remélem is! Mert másodikként megcselekedni, hát, nem érné meg a veszôdséget.
+say.nr101_3_meet_gascon.29;Úgy a', így szólítanak... És egyéb válogatott módokon – úgy is, mint a Kiebrudaltak Királya, a Tolvajok Fejedelme, a Brigantik Bárója, vagy a Megvezetés Márkija!
+say.nr101_3_meet_gascon.3;Ne izgassa fel magát, Caldwell. Lord Clayton merre van?
+say.nr101_3_meet_gascon.31;Már elnézést, de kikérem magamnak! Mert hogy minden volnék, csak épp közönséges nem!
+say.nr101_3_meet_gascon.32;Csodás! Már amúgy is vágytam látni a székesfôvárost!
+say.nr101_3_meet_gascon.33;Miközben a katonák láncra verték az Ebek Hercegét, hirtelen zûrzavar támadt. Egy futár érkezett lélekszakadva – dôlt róla a verejték, levegô után kapkodott, vér és füst szaga lengte körül. Rettenet ült a szemében.
+say.nr101_3_meet_gascon.34;Miközben az emberei az induláshoz szedelôzködtek, Meve felkapaszkodott a kúria tornyába. A messzi távolban füstoszlopok meredtek az égnek. Ahogy egyre több fekete oszlop jelent meg, egyik a másik után, a királynô tudta, hogy mindegyik egy otthon, egy csûr, egy malom, ami épp lángokban áll. Könnyek gyûltek a szemébe, de ezek a könnyek a harag könnyei voltak.
+say.nr101_3_meet_gascon.35;Hogy meglátogatni titeket? Végezni veletek!
+say.nr101_3_meet_gascon.4;Legnagyobb sajnálatomra, az uram többé már nincs velünk. Magunkra hagyott bennünket, midôn megtagadta tôlünk a vendégszeretetet – ami, mint tudva levô, egy szent szokás, ugyebár. Úgy sejtem, magára haragította az isteneket, ezért pediglen tragikus véget ért – a kútba talált esni, és a nyakát találta szegni.
+say.nr101_3_meet_gascon.47;Ahogy a Clayton-birtok feltûnt a fák mélyzöld háttere elôtt, a királynô és kísérete már tudták, hogy késve érkeztek. Banditák tömege rajzott az udvaron.
+say.nr101_3_meet_gascon.48;Nocsak, ki ez itt?! O-hó, csípjetek meg, pajtások! A királynô személyesen méltóztatott meglátogatni bennünket!
+say.nr101_3_meet_gascon.50;Eleget hallottam. Fegyverbe! Támadás!
+say.nr101_3_meet_gascon.52;Te vagy Spalla Bitangjainak a vezére? Te vagy, akit az Ebek Hercege névvel illetnek?
+say.nr101_3_meet_gascon.53;Nilfgaard?! Istenek, segítsetek...!
+say.nr101_3_meet_gascon.54;Felség, a bocsánatáért esedezem, de... A haderônk nem túl nagy. Elôbb inkább küldjünk erôsítésért, máskülönben...
+say.nr101_3_meet_gascon.55;Reynard, láttam, mire képes Nilfgaard a kôhajítóival. Ha késlekedünk, arra várva, hogy megerôsödjünk, akkor Dravográdban kô kövön nem marad. Azonnal a városhoz kell sietnünk!
+say.nr101_3_meet_gascon.56;Szukafattyak! Ha a háborút keresik, akkor háborút zúdítok rájuk. Reynard! Készüljenek a vágtára!
+say.nr101_3_meet_gascon.57;Dravográd... Az istállóját!
+

@@ -1,0 +1,2 @@
+text.nr100_meve_deck_change.1;A <b>Parancsnoki sátorban</b> megváltoztathatod, hogy Meve milyen fegyvert viseljen, ezáltal megváltoztathatod a <b>Vezéred</b> <b>Képességét</b> is. Ehhez válaszd Meve-et a panel bal-felsô sarkában, és helyezd el nála a paklidban <b>elérhetô Holmi-kártyák</b> egyikét.
+

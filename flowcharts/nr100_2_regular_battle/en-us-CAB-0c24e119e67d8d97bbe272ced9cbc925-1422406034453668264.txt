@@ -1,0 +1,29 @@
+say.nr100_2_regular_battle.1;Leomlik a meredély! Vissza! Mentsétek magatokat!
+say.nr100_2_regular_battle.10;Felség! A dobos! Erôsítésért kell jeleznie! Járjon a keze, mint a motolla!
+say.nr100_2_regular_battle.11;Ön jön, gróf! Mutassa meg, mit ér! Segítsen a rekvirálóknak!
+say.nr100_2_regular_battle.12;Sokkal kevesebben vannak, mint vártam! Hívja a bajtársait, a fene egye meg! Egy-kettô, még mielôtt a kezem ügyébe akad az ostorom!
+say.nr100_2_regular_battle.13;A szekér! Használják a szekeret, most!
+say.nr100_2_regular_battle.14;Eleget szitkozódott, Reynard! Megoldom magam is!
+say.nr100_2_regular_battle.15;Igen, természetesen, Asszonyom. Ha így kívánja.
+say.nr100_2_regular_battle.16;Tyû... Átjutottunk, Reynard. Köszönöm Önnek.
+say.nr100_2_regular_battle.17;Mûködött!
+say.nr100_2_regular_battle.18;A fene egye meg! Nem áll jól a szénánk...
+say.nr100_2_regular_battle.2;Felség! A szekeret használhatnánk fedezék gyanánt! Elôre, mozdítsuk elôre!
+say.nr100_2_regular_battle.3;És most mi legyen?!
+say.nr100_2_regular_battle.4;A dobost a haderô élére, most!
+say.nr100_2_regular_battle.5;A dobost?! Démonokra, hát mi végre?!
+say.nr100_2_regular_battle.6;Hogy lássuk a közelgô veszélyt, legyen az bármi! És hogy erôsítésért jelezzen, ha úgy hozza a szükség!
+say.nr100_2_regular_battle.7;Védjétek a királynôt! A haja szála se görbüljön! Halljátok?!
+say.nr100_2_regular_battle.8;A rekvirálók! Nekik kell elvégezniük a dolog oroszlánrészét. Most megmutathatják, mennyit érnek!
+say.nr100_2_regular_battle.9;Hahaaa!
+text.nr100_2_regular_battle.1;Némely csaták <b>Speciális szabályok</b> szerint zajlanak, ahol a nyers erô még kevés a sikerhez. Ahhoz, hogy gyôzedelmeskedhess, bizonyos <b>meghatározott célokat</b> kell elérned. A térképen az ilyen csatákat egy <b>kirakós-ikon</b> jelöli.
+text.nr100_2_regular_battle.10;Használd a <b>Szekérsánc</b> képességét az utolsó szikladarab megsemmisítéséhez.
+text.nr100_2_regular_battle.11;Játszd ki a <b>Szekérsáncot</b> a <b>Közelharci</b> sorra.
+text.nr100_2_regular_battle.2;Ebben az egyedi feladvány-csatában a cél az, hogy <b>megsemmisíts minden szikladarabot</b>, még mielôtt azok elérnék Meve sorát.
+text.nr100_2_regular_battle.3;A rejtvény megoldásához az egységeidet a <b>megfelelô sorrendben</b> kell kijátszanod. Ezúttal a bajtársaid el fognak látni a tanácsaikkal, ám a következô alkalommal már csak magadra számíthatsz majd!
+text.nr100_2_regular_battle.4;Úgy tûnik, a tanácsadódnak van egy javaslata a rejtvény megoldására. Bölcsen tennéd, ha megfogadnád a tanácsát.
+text.nr100_2_regular_battle.5;Fejezd be a körödet.
+text.nr100_2_regular_battle.6;Játssz ki egy <b>Számszeríjászt</b> a <b>Közelharci</b> sorra, majd támadd meg a Meve-hez legközelebb esô szikladarabot.
+text.nr100_2_regular_battle.7;Játssz ki egy másik <b>Számszeríjászt</b> a <b>Közelharci</b> sorra, majd újfent támadd meg a Meve-hez legközelebbi szikladarabot. Fontos tudnod, hogy a számszeríjász annyi sebzést visz be, amennyi a <b>vele egy sorban lévô egységek száma</b>.
+text.nr100_2_regular_battle.8;Játssz ki ismét egy <b>Számszeríjászt</b> a <b>Közelharci</b> sorra, aztán támadd meg a Meve-hez legközelebb esô szikladarabot. Ezúttal a számszeríjász már önmagában is elegendô sebzést fog bevinni.
+

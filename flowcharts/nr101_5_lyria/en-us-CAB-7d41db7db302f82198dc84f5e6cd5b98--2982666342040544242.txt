@@ -1,0 +1,94 @@
+menu.nr101_5_lyria.167;Ám legyen. Fejezd be a mondandódat.
+menu.nr101_5_lyria.168;Sürgetôbb dolgunk is akad, Villem.
+menu.nr101_5_lyria.208;Caldwell, ne tegye ezt!
+menu.nr101_5_lyria.212;Dugja meg magát, Caldwell.
+menu.nr101_5_lyria.25;Ebben az esetben kérlek, engedj szabadon!
+menu.nr101_5_lyria.26;Inkább meghalok.
+say.nr101_5_lyria.143;Hah! Hihetetlen! Ezt is megértem – hogy lássak valakit méltósággal a földön kúszni. Vérbeli uralkodó vagy, semmi kétség.
+say.nr101_5_lyria.144;Van más lehetôségem?
+say.nr101_5_lyria.145;Hmm, ha úgy vesszük... Néhány Bitang ugyancsak a város tömlöcében sínylôdik. Közös a célunk, hogy úgy mondjam. Egyesítjük erôinket?
+say.nr101_5_lyria.148;Nem csihi-puhi lesz itt. Egy fiú fellázad az anyja ellenében, lyriai lyriainak farkasa...? Tartok tôle, egy vérháború kezdete ez.
+say.nr101_5_lyria.149;Semmiség, Hölgyem. Egy Bitang sem mond nemet, ha kilátás van egy jó kis csihi-puhira.
+say.nr101_5_lyria.150;Nos... már meg is vannak az elsô önkénteseid.
+say.nr101_5_lyria.152;Nem maradt számunkra semmi Lyriában. A búvóhelyeink leleplezôdtek, Caldwell bizonyára vérdíjat fog kitûzni a fejünkre, és nilfgaardiak özönlik el e földeket.
+say.nr101_5_lyria.153;Mindemellett égek a vágytól, hogy a büszke Meve királynôt azzal az banditával lássam vállt vállnak vetve harcolni, akit nem is oly rég még fel kívánt lógattatni...
+say.nr101_5_lyria.154;Ám a börtön elhagyása közben a kompánia nehézségekbe ütközött. Amikor Meve-et nem találták a cellájában a titokban végrehajtandó kivégzésére várva, Caldwell martalócai értesítették a grófot. Aki pedig ôrjáratokat küldött ki nyomban, szerte a városba. {audio=nr101_5_lyria_patrol}A királynô és kompániája épp belefutott egy ilyen ôrjáratba...\n
+say.nr101_5_lyria.156;Hogy érted ezt?
+say.nr101_5_lyria.158;Üdvözöllek itthon, Anyám! Igazán örömmel tölt el, hogy látlak.
+say.nr101_5_lyria.160;Meve kora tavasszal indult el Lyriából egy szerény kísérettel, ami nem volt nagyobb, mint amekkorára szükség lehetett egy, a külhoni uralkodókkal tartott találkozó alkalmával. A fôvárosba pedig már egy egész hadsereg élén tért vissza, ami hadsereg láncra vert haramiák és nilfgaardi foglyok garmadáját húzta maga után.\n\n
+say.nr101_5_lyria.162;Én pedig boldog vagyok. Bár, meg kell hogy mondjam, sokkal boldogabb is lehetnék, ha egy sereg élén láttalak volna vonulni Dravográd megsegítésére.
+say.nr101_5_lyria.163;Villem, megbíztam benned, az ôrizetedre hagytam a királyságot.
+say.nr101_5_lyria.164;Valóban. És én, a bizalomért cserébe, minden erômmel arra törekedtem, hogy a legjobb utat válasszam––
+say.nr101_5_lyria.165;Villem, hagyd el ezt a nyavalyás udvariaskodást – nincs itt rajtunk kívül senki. Fiam, Nilfgaard megszállta a hazánkat. Háborúban állunk, és ilyenkor az uralkodók nem törekednek, sem nem választanak. Ilyenkor az uralkodók pajzsot–kardot ragadnak, és kilovagolnak, hogy megvédjék az alattvalóikat.
+say.nr101_5_lyria.166;Nem hagytad, hogy befejezzem.
+say.nr101_5_lyria.174;Igazad van. Kérlek, mondd el, amit elkezdtél.
+say.nr101_5_lyria.175;Féltem, hogy elhamarkodottan cselekszem, Anyám, és nem akartam akképp tenni. Amikor hírét vettük az inváziónak, az urak összegyûltek a kastélyban. Követelték, hogy hallgassam meg ôket, hogy hallgassam meg a tanácsaikat.
+say.nr101_5_lyria.176;H-ha csak úgy kirohanok a csatamezôre, hogy szembenézzek az ellenséggel, én–– Én ott álltam volna egy kész helyzetben, nem tudván, hogy milyen egyéb lehetôségek állnak a rendelkezésemre.
+say.nr101_5_lyria.177;Egy uralkodó soha nem lehet tisztában az összes lehetôségével. Ennek ellenére mégis döntenie és cselekednie kell.
+say.nr101_5_lyria.178;De nincs idô, hogy erre vesztegessük a szót, Fiam.
+say.nr101_5_lyria.179;Fel kell készülnöm. Találkozunk a Nemesek Tanácsában.
+say.nr101_5_lyria.180;És így is lett, midôn a nemesek a trónteremben összegyûltek. A házfôk a falakra felfüggesztett állatbôröktôl és zerrikániai szôttesektôl körülvéve, feszült csendben álltak, miközben a királynôre vártak. Amikor aztán az uralkodójuk alakja feltûnt a terem ajtajában, alázatos hajbókolásba kezdtek.
+say.nr101_5_lyria.181;Ezernyi ügyet kell átbeszélnünk, ezért remélem, kipihenték magukat. Akárhogy is, nincs kétségem afelôl, hogy ránk virrad, mielôtt még végeznénk.
+say.nr101_5_lyria.182;Elôször is támogatást kell kérnünk, írnunk kell Demavend királynak. Írnok, írd ezt le! "Kedves..."–– Mi? Bácsikám? Kuzin? Teringettét! Újra. "Én, Meve, uralkodója az istenek kegyelmébôl Ríviának és––"
+say.nr101_5_lyria.183;Felséges anyám... A nemesek és jómagam azért jöttünk, hogy egy másik megoldást javasoljunk.
+say.nr101_5_lyria.184;Igen? Ki vele!
+say.nr101_5_lyria.185;El kívánjuk ismerni Nilfgaard fennhatóságát. Hûbéresküt kívánunk tenni a császárnak.
+say.nr101_5_lyria.186;Már megbocsásson, de hogy mondja?!
+say.nr101_5_lyria.187;A Feketék hordái sokszoros számbeli fölényben vannak velünk szemben,... és sokkalta jobban felszereltek, mint a mi katonáink. Egy nyílt összetûzésben szemernyi esélyünk sincs ellenük––
+say.nr101_5_lyria.188;Nem te fogsz kioktatni engem Nilfgaard haderejérôl, Fiam. Minden, amit róluk tudsz, csak akvarelleken láttad. Miközben én szemközt néztem velük Dravográdnál. Szemközt néztem velük,... és szétzúztam ôket!
+say.nr101_5_lyria.189;De Felség – a veszteségek! Azért a múló gyôzelemért – amely most büszkeséggel feszíti keblét, – vajon hány alattvalója adta az életét? Hajtson térdet a császáruk elôtt, és ezrek életét menti meg––
+say.nr101_5_lyria.190;Nem! Soha! Megértette, Caldwell? Soha!
+say.nr101_5_lyria.194;A királynôt egy cellába zárták. Az aranyozott vértet egy egyszerû köntösre cserélte, a seregét pedig patkányok hadára. A nyomorúság mintaképévé lett. Meve ott állt erôtlenül, zárkája ablakának rácsait markolászva, jajveszékelt tehetetlen dühében, és ömlöttek a könnyei. Porba hullt a szabadság az ô szeretett Lyriájában.
+say.nr101_5_lyria.195;Rosszkor jöttem?
+say.nr101_5_lyria.196;Vigyék el a démonok, Caldwell.
+say.nr101_5_lyria.197;Régóta szövögette ezt a tervet, igaz? Hagyta, hogy Spalla Bitangjai dúlják a vidéket, hogy fosztogassanak, mert tudta, hogy kénytelen leszek a körmükre nézni. Így pedig az embereinek elég ideje maradt arra, hogy Lyriát Nilfgaard kezére játsszák.
+say.nr101_5_lyria.199;Most már átlátja az egészet – ez egyértelmû. Utólag, persze, de mégis...
+say.nr101_5_lyria.200;Úgy fest, mégsem az a mihaszna stratéga vagyok, akinek gondolt.
+say.nr101_5_lyria.201;Jaj! Villem... Sikerült a maga oldalára állítania. Hogyan?
+say.nr101_5_lyria.203;A fiú alkalmatlan a korona viselésére. Nincs meg benne sem a kellô bátorság, sem pedig a szellem. Én is tudom, Ön is tudja,... csak ô nem tudja.
+say.nr101_5_lyria.204;Villem államférfinek képzelte magát – elkeseredetten szerette volna bebizonyítani, hogy az is. Én lehetôvé tettem ezt számára. És busásan megjutalmaztak érte, igen – tegnap óta palótagrófi tisztségben vagyok.
+say.nr101_5_lyria.205;Az áldásomra vagy a gratulációmra aztán várhat. Sajnálom, ha csalódást okozok Önnek.
+say.nr101_5_lyria.206;Jól megleszek mindkettô nélkül. Más okból jöttem: hogy elbúcsúzzam Öntôl.
+say.nr101_5_lyria.207;Villem nem kívánja a halálát, még csak fel sem fogta a tette következményét, Kegyed is tudja. Feltehetôleg idôvel el is bizonytalanodik, és akkor majd kiszabadítaná. Ezért amikor felkel a nap, és az ifjú király kilovagol, hogy hûségesküt tegyen aep Dahy tábornoknak,... Ön a pokrócát kötéllé sodorva felakasztja magát.
+say.nr101_5_lyria.21;"A-az Ebek He-hercege?"
+say.nr101_5_lyria.215;Ó, már értem! Azt kívánja, hogy meghajoljak Ön elôtt, a földre vessem magam, és kegyelemért könyörögjek.
+say.nr101_5_lyria.216;Dugjon fel magának egy lándzsát, Caldwell. És semmi szükség rá, hogy a martalócait küldje. Nem fogok sem összeroppanni, sem habozni – önkezemmel vetek véget az életemnek.
+say.nr101_5_lyria.217;Ne tegye ezt, Caldwell. Nem teheti! Eresszen ki, könyörgöm, és ígérem, hogy––
+say.nr101_5_lyria.218;Ég Önnel, Felség. A hátralévô idôt pedig használja fel bölcsen.
+say.nr101_5_lyria.219;Meve-re elkeseredés tört hirtelen, ám – hogy elejét vegye feltoluló könnyeinek, – az ajkába harapott. Nem – nem fogja megadni Caldwellnek az örömöt.
+say.nr101_5_lyria.22;Tekintve a helyzetünket a címek és titulusok értelmüket vesztették, nem gondolod? Akár el is hagyhatjuk ôket. Gascon vagyok.
+say.nr101_5_lyria.220;A reggel a folyosón visszhangzó léptekkel köszöntött be. Meve felkelt a vackáról, és a cellája közepére plántálta magát. Mindenre fel volt készülve. Azaz hogy majdnem mindenre.
+say.nr101_5_lyria.221;Caldwell küldött? Hogy megölj?
+say.nr101_5_lyria.222;Nem, és nem. Tulajdonképpen ezennel szabad vagy.
+say.nr101_5_lyria.223;Hogy is mondjam... Az a gazfickó Caldwell gróf csalinak használta szerény személyemet és a Bitangokat. Amely ármánykodásnak az volt a célja, hogy Kegyed formás hátsó felét lependerítse a trónról.
+say.nr101_5_lyria.224;Megvallom, nem vagyok egy bosszúálló típus. Valójában én szoktam az lenni, aki hamarabb megbocsát. Vegyük csak azt a fenyegetést, miszerint a bitóra küldesz... Már el is felejtettem. De hogy bolondnak nézzenek, azt nem engedhetem.
+say.nr101_5_lyria.24;Így amikor a Bitangok kiszabadítottak, tudtam, mivel bosszanthatom fel a grófot igazán, még mielôtt köddé válok. Azzal, ha kiszabadítalak. Talán mondanom sem kell: egy feltétellel.
+say.nr101_5_lyria.253;...
+say.nr101_5_lyria.254;"Kérdezôsködtem a többi, ugyancsak rabsorsra jutott katona között, és sokan közülük készek lennének harcolni, sôt, akár meghalni az oldalán, Felség."\n
+say.nr101_5_lyria.255;"Ahogy a dolgok állnak, talán lesz is rá lehetôségük... De most már menekülnünk kell, mindannyiunknak."\n
+say.nr101_5_lyria.256;"Teringettét! Nem tudjuk lehagyni ôket. Fegyverbe!"
+say.nr101_5_lyria.258;A város polgárai – köztük a kereskedôk, a kézmûvesek, a papok is – elôtódultak az üdvözlésére. Legidôsebb fia és egyben örököse, Villem herceg szintúgy. A fiú, aki – úgy tûnt, – talán soha nem áll majd készen arra, hogy uralkodjék.
+say.nr101_5_lyria.259;Eh... Úgy tûnik, be kell érnem ennyivel.
+say.nr101_5_lyria.268;Kérned kell azt tôlem, Hölgyem. És udvariasan.
+say.nr101_5_lyria.269;Láttak már efféle nôszemélyt?! Kiszabadítod a börtönébôl, és egy másikba rohan nyomban!
+say.nr101_5_lyria.270;Ott tartják fogva Reynardot... És ha csak egy olyan szövetségesem maradt, aki még nem árult el engem, akkor az ô. Ki kell szabadítanom!
+say.nr101_5_lyria.271;Nos,... úgy tartják, az ellenségem ellensége a barátom.
+say.nr101_5_lyria.30;A királyságomért ennél is többre lennék képes, sokkal többre. Még arra is, hogy meghajoljak egy haramia elôtt.
+say.nr101_5_lyria.31;Akkor hát könyörgöm neked, Gascon, Ebek Hercege: engedj szabadon!
+say.nr101_5_lyria.32;Soha! Akkor inkább ebben a cellában rohadok meg.
+say.nr101_5_lyria.33;Állhatatos, mint mindig... Még a halál torkában is. Le vagyok nyûgözve, elismerem.
+say.nr101_5_lyria.39;Szabad vagy.
+say.nr101_5_lyria.40;És hálás. Most pedig, ha megbocsátasz... El kell jutnom a városi tömlöcbe, de azonnal.
+say.nr101_5_lyria.41;Lassan a testtel, Hölgyem! Fegyvertelenül? Egyedül?
+say.nr101_5_lyria.419;Meve és Villem egymás mellett léptettek a sokaság által körülölelve, arcukon uralkodói mosollyal. Csak aztán lett lehetôségük szabadon és nyíltan szót váltani, hogy elértek a kastély lovardájához...
+say.nr101_5_lyria.50;Köszönet neked, Gascon. Neked és az embereidnek. A segedelmetekért.
+say.nr101_5_lyria.51;Ugyan már. Nekem úgy tûnik, a háború véget ért. A királyságod immár Nilfgaard markában, a seregedet pedig sehol nem látom...
+say.nr101_5_lyria.52;Nem. Aedirnben találok magamnak egy sereget. Demavend király tartozik nekem egy szívességgel. Út közben pedig toborzok magam mellé önkénteseket.
+say.nr101_5_lyria.53;Hahaha,... ôrült vagy! Hogy fogsz embereket találni? Faluról falura lovagolsz, valami hordó tetejérôl szónokolsz majd?
+say.nr101_5_lyria.55;És én bolond lennék, ha elutasítanám a segítô kezet,... függetlenül attól, hogy ki az, aki nyújtja. Ám legyen.
+say.nr101_5_lyria.56;Minô haladó szemlélet, Hölgyem! Kezet rázunk rá? Nem? Akkor csak elôre, az országút vár. Bár elôbb még a várost volna jó elhagynunk ép bôrrel. Kövess.
+say.nr101_5_lyria.61;Akkor összegyûjtök egy új sereget. És vele majd elérem, hogy Caldwellt a bitón lássam, Nilfgaardot pedig visszaûzöm a Jaruga túlfelére.
+say.nr101_5_lyria.62;A királynô elfogadta Gascon ajánlatát. Aztán Gascon és a Bitangok társaságában keresztül osont a városon annak tömlöcéig. Reynard odaadása a királynôje iránt egy pillanatra sem ingott meg. Sosem volt rest, és most sem vesztegette az idejét.\n
+title.nr101_5_lyria.250;Mindenütt jó, de legjobb otthon
+title.nr101_5_lyria.339;Mindenütt jó, de legjobb otthon
+

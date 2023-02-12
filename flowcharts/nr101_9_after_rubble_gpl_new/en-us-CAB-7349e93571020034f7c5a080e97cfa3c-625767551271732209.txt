@@ -1,0 +1,4 @@
+say.nr101_9_after_rubble_gpl_new.1;Mi a démon volt ez?!
+say.nr101_9_after_rubble_gpl_new.2;Leomlott a szentély falazata... Kétség sem férhet hozzá, hogy kárt tett valami a támfalban.
+say.nr101_9_after_rubble_gpl_new.3;Vagy valaki... Nincs itt több dolgunk. Továbbmegyünk.
+

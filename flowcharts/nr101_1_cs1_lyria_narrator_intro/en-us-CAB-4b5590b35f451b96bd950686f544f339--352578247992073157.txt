@@ -1,0 +1,7 @@
+say.nr101_1_cs1_lyria_narrator_intro.1;Hé, ugyan már! Vedd le róla aszt a láncot, no! Szerencsétlen csóka így még enni se tud rendesen.
+say.nr101_1_cs1_lyria_narrator_intro.2;Nem'tom, nem teccik ez nekem... Mi lesz, ha szökni próbál? Egy szakajtó aranyat ér a fickó.
+say.nr101_1_cs1_lyria_narrator_intro.3;Á, baromság! Mán' egy hete húzom magam után, és nem próbá'kozott semmivel. Mér' most próbá'na meg elinalni?
+say.nr101_1_cs1_lyria_narrator_intro.4;Ami aszt illeti, gondó'kottam is rajt', hogy egy illen jó'nevelt és úri fickó, mint ez, vajh' mivel bosszanthatta föl ennyire Zerrikánia királynôjét!
+say.nr101_1_cs1_lyria_narrator_intro.5;Az a nô egy hárpia, hát azzal – királynô és boszorkány egyben! Ejj, de mindkettôbü' is a legrosszabb!
+say.nr101_1_cs1_lyria_narrator_intro.6;Elég mán' belôle. Oszt' mit szó'sz még egy mesketéhez? Míg mink itten üttyük a blattot...
+say.nr101_1_cs1_lyria_narrator_intro.7;Miért is ne. És ha már egy királynôt említettetek...

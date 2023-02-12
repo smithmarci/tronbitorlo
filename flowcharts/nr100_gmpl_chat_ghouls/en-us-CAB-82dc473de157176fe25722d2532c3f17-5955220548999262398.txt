@@ -1,0 +1,3 @@
+say.nr100_gmpl_chat_ghouls.1;Ghúlok... Máris összegyûltek, hogy táplálkozzanak!
+say.nr100_gmpl_chat_ghouls.2;Ghúlok... Úgy jönnek a temetetlen holtakra, mint rothadó húsra a legyek.
+

@@ -1,0 +1,6 @@
+say.nr012_inkeep_onliners.11;Mivel szolgálhatok, Úrnôm? Egy Vizimai Bajnokkal? Vagy egy finom redániai keserûvel?
+say.nr012_inkeep_onliners.14;Ah, alig van itt élet... Nem úgy, mint a Szôrös Medvében.
+say.nr012_inkeep_onliners.17;Úrnôm, van Odrin nevezetû a sorainkban? Tegnap éjjel a fickó elég nagy adósságot halmozott fel nálam, aztán meg szôrén-szálán eltûnt.
+say.nr012_inkeep_onliners.20;Ha beállítana ide egy trubadúr, na, az jót tenne mindnyájunknak! Képzelje csak el! Ha Kökörcsin mester adna elô nekünk valamit...
+say.nr012_inkeep_onliners.8;Dolgoztam egyszer egy kantinban, ahol se húst, se kolbászt nem adtak. Na, a lázadásra se kellett sokáig várni...!
+

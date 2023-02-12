@@ -1,0 +1,3 @@
+text.nr101_0e_messageboard_tutorial.1;A <b>hirdetôtáblák</b> révén tájékozódhatsz arról, hogy mi történik a környéken. Ha rájuk kattintasz, új <b>jelölôk</b> jelennek meg a régió térképén, mutatva, hogy merre találhatóak fontos helyszínek.
+text.nr101_0e_messageboard_tutorial.2;A <b>hirdetôtáblák</b> révén tájékozódhatsz arról, hogy mi történik a környéken. Ha rájuk kattintasz, új <b>jelölôk</b> jelennek meg a régió térképén, mutatva, hogy merre találhatóak fontos helyszínek.
+

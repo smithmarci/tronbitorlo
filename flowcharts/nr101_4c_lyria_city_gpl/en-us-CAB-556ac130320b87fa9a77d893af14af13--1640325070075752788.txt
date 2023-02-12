@@ -1,0 +1,5 @@
+say.nr101_4c_lyria_city_gpl.1;Végre otthon, Felség.
+say.nr101_4c_lyria_city_gpl.3;Ühümm. Attól tartok, nem élvezhetjük ki sokáig.
+say.nr101_4c_lyria_city_gpl.5;Hamarosan szembe kell néznünk a Feketékkel a csatamezôn.
+say.nr101_4c_lyria_city_gpl.6;Mégis, lesz egy kis nyugalmunk talán. Az után a páholás után – ott, Dravográd alatt... A vereség feltehetôen a stratégiájuk újragondolására készteti majd ôket.
+

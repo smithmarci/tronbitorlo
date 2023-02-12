@@ -1,0 +1,34 @@
+menu.nr013_arnjolf_default.10;Miért keresed a halált?
+menu.nr013_arnjolf_default.11;Mit jelent a tetoválásod?
+menu.nr013_arnjolf_default.12;Mihez kezdesz majd a háború után?
+menu.nr013_arnjolf_default.13;Viszlát.
+say.nr013_arnjolf_default.18;Minden jót, Arnjolf.
+say.nr013_arnjolf_default.26;Arnjolf! Keress magatoknak helyet az asztaloknál, igyatok, ismerkedjetek az embereimmel.
+say.nr013_arnjolf_default.27;Hrmph. Azt hiszem, félreértettük egymást, Leány.
+say.nr013_arnjolf_default.28;Nem azért csatlakoztam a seregedhez, hogy összeismerkedjek az embereiddel, hanem hogy rám találjon a jó és méltósággal teli halál.
+say.nr013_arnjolf_default.29;Mielôbb a végzetemhez vezetsz, annál jobb.
+say.nr013_arnjolf_default.30;Ha? Mi az?
+say.nr013_arnjolf_default.31;Nem akarok kíváncsiskodni, de... miért vágyod ennyire a halált?
+say.nr013_arnjolf_default.32;Mert csak a halál moshatja el a bûnöm és szégyenem.
+say.nr013_arnjolf_default.33;Biztos hallottad, miképp neveznek. Arnjolf, az apagyilkos. Egy gúnynév, amit kiérdemeltem. Úgy bizony.
+say.nr013_arnjolf_default.34;Meghalni a saját gyermeked keze által – szörnyû sors. Az enyém is az lesz, ha elveszítem ezt a háborút.
+say.nr013_arnjolf_default.35;És megérdemelted a sorsodat?
+say.nr013_arnjolf_default.36;Tessék? Én... Nem voltam mindig igazságos Villemmel. Sokszor távolságtartó voltam, elhanyagoltam ôt, de––
+say.nr013_arnjolf_default.37;Hahaha! Elhanyagoltad!
+say.nr013_arnjolf_default.38;Figyelj, Leány. Az apám vert engem. Addig ütött, amíg bele nem lilult a bôröm, és véres epét nem hánytam.
+say.nr013_arnjolf_default.39;Csak ivott és ütött, ivott és ütött. Az öcsémet, Ulfot, halálra verte. Anyám önkezével vetett véget a saját életének.
+say.nr013_arnjolf_default.40;Nem találkoztam a fiaddal,... de amennyire már ismerlek, állíthatom, egyetlen rokonod sem érdemli, hogy levágják.
+say.nr013_arnjolf_default.42;Azon tûnôdöm, mit szimbolizál az a tetoválás a fejeden.
+say.nr013_arnjolf_default.43;Nem tetoválás az. Ezeket a rúnákat késsel vágták a bôrömbe.
+say.nr013_arnjolf_default.44;Kevéssé számít, hogyan készült. Mit jelent?
+say.nr013_arnjolf_default.45;"Ide célozz!" – üzenet az ellenség íjászainak.
+say.nr013_arnjolf_default.46;Habár... nem úgy tûnik, mintha el tudnák olvasni. Legalábbis a távolból nem. És amikor közelebb érek,... na, akkor már késô.
+say.nr013_arnjolf_default.48;Közel a háború vége...
+say.nr013_arnjolf_default.49;Sajnos.
+say.nr013_arnjolf_default.50;Sajnos? Miért?
+say.nr013_arnjolf_default.51;Életben maradtam. Megint.
+say.nr013_arnjolf_default.52;Építsd újra a királyságod, Királynô. Élvezd az életed. Én és az embereim,... mi pedig továbbállunk.
+say.nr013_arnjolf_default.53;Arnjolf... Lyriában és Ríviában nem számít a múltatok. Sem a szégyenetek. Maradjatok.
+say.nr013_arnjolf_default.54;És mi lesz azután? Ha eljön az idô, mit mondok majd az ôseimnek?
+say.nr013_arnjolf_default.55;Vágyom az asztaluknál ülni, és a társaságukban inni a mézsört, te Leány. Szóval mennem kell.
+

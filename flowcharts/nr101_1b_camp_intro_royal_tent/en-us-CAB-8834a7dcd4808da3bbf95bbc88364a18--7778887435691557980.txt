@@ -1,0 +1,5 @@
+text.nr101_1b_camp_intro_royal_tent.1;A <b>Királynô sátrában</b> tekintheted át azokat a <b>leveleket</b> és <b>térképeket</b>, amiket eddig kaptál, valamint nézheted meg a fellelt <b>kulcsokat</b> és <b>kártyatöredékeket</b>.
+text.nr101_1b_camp_intro_royal_tent.2;A <b>Királynô sátra</b> a játék fôképernyôjérôl is elérhetô a <b>hátizsák-ikonra</b> kattintva a <b>bal oldalon</b>.
+text.nr101_1b_camp_intro_royal_tent.3;A <b>Királynô sátra</b> a fôképernyôrôl is elérhetô a <b>hátizsák-ikonra</b> kattintva.
+text.nr101_1b_camp_intro_royal_tent.4;A <b>Királynô sátra</b> a fôképernyôrôl is elérhetô a <sprite="[PS4]" name=RBumper> gombot megnyomva.
+

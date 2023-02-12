@@ -1,0 +1,5 @@
+say.nr101_1b_starting_gpl.1;Látja már, Reynard? Úgy vélem, megmondtam elôre, hogy így lesz.
+say.nr101_1b_starting_gpl.3;A fiam a legkevésbé sem állt még készen arra, hogy egy egész országot irányítson.
+say.nr101_1b_starting_gpl.4;Valóban, Villem hercegnek még sokat kell tanulnia.
+say.nr101_1b_starting_gpl.5;Igen. És nagyon kevés idô alatt.
+

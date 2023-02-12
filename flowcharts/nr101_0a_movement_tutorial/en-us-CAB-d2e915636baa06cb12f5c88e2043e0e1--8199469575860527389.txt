@@ -1,0 +1,6 @@
+text.nr101_0a_movement_tutorial.1;Üdvözlünk a Trónbitorló világában! A hadsereged helyzetét Meve királynô avatárja jelöli.
+text.nr101_0a_movement_tutorial.2;Használd a <sprite="[XBOX]" name=LStick> -t a karaktered irányításához.
+text.nr101_0a_movement_tutorial.3;Kattints a <sprite=keycode_LC>-bal a térkép azon pontjára, amelyre a karakteredet mozgatni szeretnéd, vagy kattints és tartsd lenyomva a <sprite=keycode_LC>-t, hogy a karaktered kövesse az egérmutatót.
+text.nr101_0a_movement_tutorial.4;A <sprite="[PC]" name=LStick> használatával irányíthatod a karaktered. Kövesd a <b>kövekbôl rakott utat</b>, hogy eljuss az utazásod következô állomására.
+text.nr101_0a_movement_tutorial.5;Üdvözlünk a <b>Trónbitorló</b> útmutatójában! Mielôtt felkerekednél, javasoljuk, hogy ismerkedj meg a fôbb játékmechanikai elemekkel.
+

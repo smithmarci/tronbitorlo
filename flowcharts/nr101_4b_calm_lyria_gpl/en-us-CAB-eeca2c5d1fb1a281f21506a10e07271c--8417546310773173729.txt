@@ -1,0 +1,4 @@
+say.nr101_4b_calm_lyria_gpl.1;Errefelé még nem látszik nagy károknak nyoma...
+say.nr101_4b_calm_lyria_gpl.3;Úgy tûnik, Nilfgaard még nem indult meg a seregeivel a fôváros ellen. Utunk során feltehetôen csak nyomkeresôkkel és rekvirálókkal fogunk találkozni.
+say.nr101_4b_calm_lyria_gpl.4;Remélem!
+

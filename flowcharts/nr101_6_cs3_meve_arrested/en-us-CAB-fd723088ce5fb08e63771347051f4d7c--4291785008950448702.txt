@@ -1,0 +1,9 @@
+say.nr101_6_cs3_meve_arrested.1;Reméltem, hogy meggyôzhetlek, ám úgy látszik, kudarcot vallottam vele... Mindegy, a kocka már el van vetve. Aláírjuk Nilfgaarddal az egyezményt. Nemes uraink mellettem állnak ebben.
+say.nr101_6_cs3_meve_arrested.2;Meve arcából kifutott a vér, mikor megértette, hogy a fia, aki bevallottan irtózott a politikától, és minduntalan kibújt koronahercegi kötelességei alól, épp az imént szúrta hátba...
+say.nr101_6_cs3_meve_arrested.3;...Az egész udvarral egyetértésben.
+say.nr101_6_cs3_meve_arrested.4;Mit akar ez jelenteni? Nekem árulásnak tûnik! A bitó vár rád!
+say.nr101_6_cs3_meve_arrested.5;Mostantól Villem uralkodik Lyria fölött. És amennyiben nem fogadja el és hagyja jóvá az egyezményt, attól tartok, úgy Öné lesz az öröm, Asszonyom, hogy találkozhat a hóhérral.
+say.nr101_6_cs3_meve_arrested.6;Ne rohanjon ennyire elôre, Caldwell! Anyámnak nem eshet bántódása, a haja szála sem görbülhet. Megértette?
+say.nr101_6_cs3_meve_arrested.7;Zárják a királynôt a toronyba!
+say.nr101_6_cs3_meve_arrested.8;Hatalmasat hibázol, Fiam...
+

@@ -1,0 +1,5 @@
+say.nr101_3c_before_dravograd_gpl.1;Nézzék a palánkokat! A hadigépeket még megszámolni is nehéz volna mind!
+say.nr101_3c_before_dravograd_gpl.3;Fel nem foghatom... Talán Nilfgaard minden erejével Lyria ellen tör?
+say.nr101_3c_before_dravograd_gpl.5;Nem, Felség. Ez csak egyetlen hadseregcsoport.
+say.nr101_3c_before_dravograd_gpl.6;Az istenek óvjanak bennünket...
+
