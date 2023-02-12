@@ -1,0 +1,108 @@
+menu.nr302_2_dragon_lair.2;Belépsz a sárkány barlangjába.
+menu.nr302_2_dragon_lair.3;Meghátrálsz.
+menu.nr302_2_dragon_lair.430;Megölöd a sárkányt.
+menu.nr302_2_dragon_lair.431;Beszélsz Keltullis–szal.
+menu.nr302_2_dragon_lair.48;Belépsz a sárkány barlangjába.
+menu.nr302_2_dragon_lair.49;Meghátrálsz.
+menu.nr302_2_dragon_lair.515;Megölöd a sárkányt.
+menu.nr302_2_dragon_lair.516;Hagyod, hogy Keltullis felgyógyuljon, és elhagyja Mahakamot.
+menu.nr302_2_dragon_lair.549;Meggondolod magad, és meghagyod a sárkány életét.
+menu.nr302_2_dragon_lair.550;Végzel a sérült sárkánnyal.
+say.nr302_2_dragon_lair.1;Keltullis vackát valóban nehéz lett volna eltéveszteni – egy akkora barlangnak, amiben kényelmesen elférhet egy sárkány, hatalmasnak kellett lennie. Az odú szája – egy fekete háromszög, ahol óriási területen hiányzott a hó – már messzi távolból látható volt. Az, hogy a sárkány ide menekült, hamar bizonyossá vált a belôle áradó orrfacsaró kén és... vérszagból.\n
+say.nr302_2_dragon_lair.100;"De semmi nem igazolhatja azt a mészárlást, amit véghez vittél."\n
+say.nr302_2_dragon_lair.101;– mondta Meve.
+say.nr302_2_dragon_lair.22;"Amikor ítéletet kell mondanom az alattvalóim fölött, gyakran nem tudhatom, hogy melyikük követte el a nagyobb bûnt"
+say.nr302_2_dragon_lair.23;– mondta Meve. –
+say.nr302_2_dragon_lair.24;"De mint uralkodónak, ítéletet kell hoznom. Gyakran szigorú ítéletet."\n
+say.nr302_2_dragon_lair.25;"Megértem a fájdalmadat"
+say.nr302_2_dragon_lair.31;"Nos, akkor"
+say.nr302_2_dragon_lair.32;– kérdezte Gascon, – 
+say.nr302_2_dragon_lair.36;"Nem"
+say.nr302_2_dragon_lair.412;– mondta Meve, miközben leszállt a lováról. –
+say.nr302_2_dragon_lair.418;"készen állsz rá, hogy legendás sárkányölô legyen belôled?"
+say.nr302_2_dragon_lair.420;"Berontsunk?"
+say.nr302_2_dragon_lair.421;Keltullis összegömbölyödve feküdt egy gyémántokból és aranyérmékbôl összehordott vackon, amely a vérétôl vöröslött. Látván, hogy milyen erôfeszítések árán volt képes csak felemelni irdatlan nagy fejét, Meve tudta, hogy a sárkány már nem jelent rá veszélyt.
+say.nr302_2_dragon_lair.423;"Jöttél, hogy befejezd, amit... amit a méreg elkezdett?"
+say.nr302_2_dragon_lair.425;– hörögte a bestia rekedten. –
+say.nr302_2_dragon_lair.427;"Ám legyen. Tedd meg hát."\n
+say.nr302_2_dragon_lair.429;Keltullis az oldalára fordult, ezzel felfedve könnyen sebezhetô hasát, és beletörôdôn várta a végzetes csapást.
+say.nr302_2_dragon_lair.43;– mondta a királynô. –
+say.nr302_2_dragon_lair.434;Meve a magasba emelte pallosát, majd irtóztató erôvel lecsapott vele, és kettéhasította a pikkelyes hasat. A szörny elnyújtottan üvöltött, közben csapkodó farkával gyémántokat szórt szerteszét,... majd elkushadt és megdermedt.\n\n
+say.nr302_2_dragon_lair.436;Keltullis, aki az utolsó vörös sárkány volt a Nagy Tenger és a Tüzes Hegyek között, kilehelte a lelkét.
+say.nr302_2_dragon_lair.437;Különös csönd állt be. Senki nem ujjongott, senki sem tapsolt...\n
+say.nr302_2_dragon_lair.439;"Ez..."
+say.nr302_2_dragon_lair.441;– szólalt meg Gascon, aki elsôként törte meg a csendet, –
+say.nr302_2_dragon_lair.443;"...nem volt eposzokba illô."\n
+say.nr302_2_dragon_lair.445;"Mert mit vártál?"
+say.nr302_2_dragon_lair.447;– kérdezte Gábor, és csípôjére tette a kezét. –
+say.nr302_2_dragon_lair.449;"Fanfárokat és tûzijátékot? A hegyek megremegését? Feldobta a talpát, oszt' ennyi. Minek kellett volna még történnie?"\n
+say.nr302_2_dragon_lair.45;"Nem most, és talán soha többé sem."\n\n
+say.nr302_2_dragon_lair.451;"Biztos vagyok benne, Felség"
+say.nr302_2_dragon_lair.453;– jelentette ki Reynard, –
+say.nr302_2_dragon_lair.455;"hogy a poéták a tettet megilletô pátosszal fogják megénekelni ezt a pillanatot."\n
+say.nr302_2_dragon_lair.457;"Bizonyára így lesz"
+say.nr302_2_dragon_lair.459;– felelte a királynô, és eltette a kardját. –
+say.nr302_2_dragon_lair.461;"Mert hogy hazug az összes."
+say.nr302_2_dragon_lair.463;A királynô parancsba adta a katonáknak, hogy szedjék össze a sárkány kincseinek egy részét – de épp csak annyit, amennyivel még nem vonják magukra Brouver Hoog haragját, ám amivel már bôven ellentételezhetik a saját veszteségeiket.\n\n
+say.nr302_2_dragon_lair.465;Így Meve megszerezte a 'sárkányölô' címet,... bár szinte sosem említette aztán.
+say.nr302_2_dragon_lair.466;"Várj..."
+say.nr302_2_dragon_lair.468;– mondta Meve, és leengedte a kardját. –
+say.nr302_2_dragon_lair.47;Meve cinikus megjegyzést várt Gascontól, vagy egy felhúzott szemöldököt legalább. De nem. Az Ebek Hercege megértéssel bólintott. Még ô is tisztában volt vele, hogy bár a sárkány halálos sebet kapott, így is olyan ellenfél volt, amit nem lehetett félvállról venni.
+say.nr302_2_dragon_lair.470;"Milyen méreg?"\n
+say.nr302_2_dragon_lair.472;"Ha, ha..."
+say.nr302_2_dragon_lair.474;– Keltullis göcögött, és közben odaszorította egyik mancsát vérzô oldalához. –
+say.nr302_2_dragon_lair.476;"Tehát nem mondták el Neked? Tetves mumpicok..."\n
+say.nr302_2_dragon_lair.478;"Hékás! Vigyázz a szádra!"
+say.nr302_2_dragon_lair.480;– kiáltotta Gábor. –
+say.nr302_2_dragon_lair.482;"Különben is, én semmit nem tudok az egészrôl!"\n
+say.nr302_2_dragon_lair.484;Keltullis kígyókéhoz hasonló szemeivel bizalmatlanul nézett a lyriaiakra,... aztán belekezdett a meséjébe.
+say.nr302_2_dragon_lair.486;A karaván, amivel Meve találkozott az úton, különbözött a korábbiaktól. Ezúttal a Keltullis-nak szánt húst egy különleges pácban savanyították... Olyanban, ami méreggel volt fûszerezve. És miközben a sárkány összetekeredve fetrengett a fájdalomtól, a Ferenc klánbeli törpök behatoltak a barlangjába,... és összetörték a tojásait.\n
+say.nr302_2_dragon_lair.488;"Tehát, ha jól értem,..."
+say.nr302_2_dragon_lair.490;– szakította félbe Meve, –
+say.nr302_2_dragon_lair.492;"akkor Te nôstény vagy?"\n
+say.nr302_2_dragon_lair.494;"Úgy van. Akárcsak Te."
+say.nr302_2_dragon_lair.496;Mintha csak parancsra tették volna, minden lyriai Gáborra szegezte a tekintetét.\n
+say.nr302_2_dragon_lair.498;"Ne nézzetek így rám! Nem kukkantottunk be a farka alá!"\n
+say.nr302_2_dragon_lair.50;A lyriaiak visszatértek Keltullis barlangjának a szájához. Fájdalmas üvöltések vertek visszhangot az üreg belsejében...\n
+say.nr302_2_dragon_lair.500;"Ha szabad megjegyeznem..."
+say.nr302_2_dragon_lair.502;– szólt közbe Reynard. –
+say.nr302_2_dragon_lair.504;"Ezek a kinyilatkoztatások Keltullis nemét illetôen tagadhatatlanul lenyûgözôek. De engem jobban érdekelne az, hogy a Ferencek miért vetemedtek efféle dicstelen tettre."\n
+say.nr302_2_dragon_lair.506;"Könnyen kitalálható"
+say.nr302_2_dragon_lair.508;– felelte Meve. –
+say.nr302_2_dragon_lair.510;"Attól tartottak, hogy a sárkány hamarosan több hozzájárulást fog követelni, hogy táplálhassa a fiókokat... Ezért a megelôzô csapás mellett döntöttek."\n
+say.nr302_2_dragon_lair.512;A Ferencek szerencsétlenségére túl kis adag mérget kevertek az ételhez. A széttört tojások láttán felbôszülve a sárkány összeszedte minden erejét, és a legközelebbi településhez repült. Azt, hogy mi történt azután, Meve már a saját szemével is láthatta... És most már csak ôrajta múlott, hogy eldöntse, miképp fejezôdik be ez a történet.\n\n
+say.nr302_2_dragon_lair.514;A sárkány több tucat, vagy talán több száz törppel és emberrel végzett... Ám elôbb a törpök provokálták a kegyetlenkedésükkel. Ezért vajon mit érdemelt hát? Halált vagy kegyelmet?
+say.nr302_2_dragon_lair.518;– horkantott a sárkány.
+say.nr302_2_dragon_lair.52;"Nos?"
+say.nr302_2_dragon_lair.520;"Írjak talán panaszlevelet, Hoog elöljárónak címezve? Meggyilkolták a gyermekeimet!"\n
+say.nr302_2_dragon_lair.522;"Én is hasonlóképp cselekedtem volna"
+say.nr302_2_dragon_lair.524;– válaszolta a királynô egy pillanatnyi gondolkodás nélkül. –
+say.nr302_2_dragon_lair.526;"Én is megtorolnám,... még úgy is, hogy tudnám, azáltal büntetés lenne a jussom."\n
+say.nr302_2_dragon_lair.528;A szörny hosszasan nézett Meve szemébe,... aztán lesunyta fejét.\n
+say.nr302_2_dragon_lair.529;"Nincs már több erôm küzdeni... Nincs többé okom harcolni. Tégy, ahogy jónak látod."
+say.nr302_2_dragon_lair.535;A Ferencek üdvrivalgással üdvözölték Keltullis halálának a hírét. Bár a városukból nem maradt több, mint hamu és pislákoló zsarátnok, azonnal ünnepség szervezésébe fogtak, amelynek Meve-et választották díszvendégéül. Ô viszont elutasította a meghívást,... minden magyarázat nélkül.
+say.nr302_2_dragon_lair.539;Eyck, természetesen, mérhetetlenül csalódott volt...\n
+say.nr302_2_dragon_lair.54;– kérdezte Gascon a barlang bejáratára függesztett tekintettel. –
+say.nr302_2_dragon_lair.541;"Felség, könyörgöm... Térjünk vissza nyomban, és vágjuk le azt a förmedvényt, még mielôtt visszanyeri az erejét!"
+say.nr302_2_dragon_lair.544;"Bölcs és nemes tett!"
+say.nr302_2_dragon_lair.546;– rikoltotta Eyck. –
+say.nr302_2_dragon_lair.548;"A gonoszt még csírájában kell elfojtani!"\n
+say.nr302_2_dragon_lair.553;Csak Eyck mormolt el egy hálaimát a bajsza alatt.\n
+say.nr302_2_dragon_lair.68;"Semmit? És mit tettél volna az én helyemben?"
+say.nr302_2_dragon_lair.7;"Apám gyakran mondogatta, hogy addig ne számolgassuk a trófeákat, amíg véget nem ér a vadászat"
+say.nr302_2_dragon_lair.70;A királynô visszatolta a kardját a helyére.\n
+say.nr302_2_dragon_lair.72;"Ez nem az én földem"
+say.nr302_2_dragon_lair.73;– mondta Meve. –
+say.nr302_2_dragon_lair.74;"Sem nem alattvalóim ôk. Nem kell hát a kisebbik rosszat választanom."\n
+say.nr302_2_dragon_lair.76;"Meve..."
+say.nr302_2_dragon_lair.78;– sziszegte Gábor. –
+say.nr302_2_dragon_lair.8;"És ez még inkább igaz, ha sárkányvadászatról van szó. Megsebesült, igen,... de elég csak egy lángköpet, és nem legendák leszünk, hanem hullák. Felejtsétek el a vakmerô hôsködést."
+say.nr302_2_dragon_lair.80;"Brouver tombolni fog––"
+say.nr302_2_dragon_lair.82;"Hadd tomboljon! És te, sárkány... esküdj: amint felgyógyulsz, elhagyod Mahakamot! És soha többé nem térsz vissza."\n
+say.nr302_2_dragon_lair.84;"A szavamat adom... Hálás vagyok."\n
+say.nr302_2_dragon_lair.86;Meve már azon volt, hogy elhagyja a barlangot, amikor a sárkány farka állta el az útját,... odasöpörvén néhány értéktárgyat a királynô lábai elé. Amelyek mindegyikének értéke a lyriai koronaékszerekével vetekedett...
+say.nr302_2_dragon_lair.87;A hír, miszerint Meve megkímélte a törpök tucatjait legyilkoló tûzokádó életét, feldühítette Mahakam lakóit, legfôképp pedig a Ferenceket.\n\n
+say.nr302_2_dragon_lair.89;És amikor a klánok azt mérlegelték, hogy kikergessék–e a lyriaiakat a hegyszorosból, Vavrinek klánfô ellenezte azt – mert nem számított, mi történt késôbb, ô már örök hálájáról biztosította Meve-et...
+say.nr302_2_dragon_lair.9;A lyriaiak beosontak a sárkány odújába. Libasorban haladtak, felemelt pajzsokkal. Az üreg mennyezetérôl alácsüngô denevérek figyelték a lépteiket.\n\n
+title.nr302_2_dragon_lair.406;Drakonida vonzalom
+

@@ -1,0 +1,32 @@
+menu.nr302_0_brides_caravan.41;Elfogadod az aranyat.
+menu.nr302_0_brides_caravan.42;Visszautasítod a fizetséget.
+say.nr302_0_brides_caravan.1;"Ej, te agyatlan tökfilkó, megmondtam, hogy fogd vissza a lovakat, különben kiszakad a kerék!"\n
+say.nr302_0_brides_caravan.10;"Nem tûnnek kereskedôknek."\n
+say.nr302_0_brides_caravan.12;"Nem, valóban nem azok."
+say.nr302_0_brides_caravan.14;– felelte Gábor. –
+say.nr302_0_brides_caravan.16;"Ezek a Ferenc klán törpjei. Ajándékokat visznek a sárkánynak. Emlékszik Keltullis-ra? Amikor itt vert tanyát, a Ferencek majd' egy évszázadig hadakoztak vele. Aztán a tûzokádó belefáradt a harcba, amazok meg rájöttek, hogy a bestia nem megy innen sehová, ezért... alkut kötöttek vele. Az nem zargatja ôket, ôk meg megadják neki, amit akar."\n
+say.nr302_0_brides_caravan.18;"Nocsak, nocsak... És gyakran küldik neki ezeket az ajándékokat?"\n
+say.nr302_0_brides_caravan.20;"Minden héten. Eh, bocsásson meg, szétválasztom a legényeket, még mielôtt kitépik egymás szakállát. Hé, ti ott! Hûtsétek le magatokat!"
+say.nr302_0_brides_caravan.21;Gábornak sikerült ugyan lecsillapítani a veszekedô társai kedélyét,... de a szekér még mindig keresztbe állt az úton, és eltorlaszolta azt az arra haladók elôtt.\n
+say.nr302_0_brides_caravan.23;"Királynô..."
+say.nr302_0_brides_caravan.25;– szólalt meg Xavier. –
+say.nr302_0_brides_caravan.27;"Könnyû lenne megjavítani. Megvannak hozzá a szerszámok és az alkatrészek... Már csak az engedélyére lenne szükség."\n
+say.nr302_0_brides_caravan.29;"Természetesen. Tedd meg, amit lehet."
+say.nr302_0_brides_caravan.3;"Ó, most meg már szakértô is vagy, he? Túlságosan megrakodtad a nyavalyás szekeret, azért törött széjjel!"\n\n
+say.nr302_0_brides_caravan.30;Xavier tényleg gyorsan megoldotta a problémát. A szekér kisvártatva már úgy gurult az úton, mintha új lett volna.\n
+say.nr302_0_brides_caravan.32;"Csípjen meg Felséged!"
+say.nr302_0_brides_caravan.34;– mondta a törpök egyike. –
+say.nr302_0_brides_caravan.36;"Lehet, hogy a mérnökének olyan a fizimiskája, mint egy tál szaftos pörkölt, de érti a mesterségét, az már egyszer biztos!"\n
+say.nr302_0_brides_caravan.38;"Majd átadom neki... Legalábbis egy részét."\n
+say.nr302_0_brides_caravan.4;Egy szekér volt elôttük keresztbe felborulva, rakománya szanaszét az úton. Mögötte még több batár várakozott, egynémelyik aranyakkal, ékszerekkel és más értékekkel megrakodva, míg másikak sok-sok hordó savanyított hús súlyát nyögték. Mindegyik törpnek megvolt a maga elmélete arról, hogy miért történhetett a baleset – és nem gyôztek hangot adni véleményüknek, válogatott szitokszavakkal megfûszerezve azt.
+say.nr302_0_brides_caravan.40;"Én és a legények már indulunk is tovább, de elôbb... fogadja el ezt. Egy kis aranyocska, köszönetünk jeléül."
+say.nr302_0_brides_caravan.45;"Köszönöm"
+say.nr302_0_brides_caravan.47;– mondta Meve, elfogadva a meglepôen súlyos erszényt. –
+say.nr302_0_brides_caravan.49;"Háborús idôkben minden fitying számít."\n\n
+say.nr302_0_brides_caravan.51;"Értékelem a szándékot, de... nem fogadhatok el pénzt a szükséget szenvedô vándorok megsegítéséért. Így kívánja meg a tisztesség."\n
+say.nr302_0_brides_caravan.53;"Hahh! Mostanság kiveszôben van a tisztesség, de... ha ez a kívánsága... Ég velük!"\n\n
+say.nr302_0_brides_caravan.58;A törp búcsúzásképp meghajolt, majd lerázta a havat a szakálláról, és csatlakozott a karavánhoz. Rövidesen a karaván eltûnt egy kanyarulat mögött...
+say.nr302_0_brides_caravan.6;"Különös egy karaván ez"
+say.nr302_0_brides_caravan.8;– vélekedett Meve. –
+title.nr302_0_brides_caravan.59;Drakonida vonzalom
+

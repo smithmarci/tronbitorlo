@@ -1,0 +1,5 @@
+say.nr301_3a_haunted_valley_entrance_gpl.1;A Feketecsermely-völgy...
+say.nr301_3a_haunted_valley_entrance_gpl.3;Nagyon szép.
+say.nr301_3a_haunted_valley_entrance_gpl.5;Úgy biza'!... És átkozottul veszedelmes. Tartsátok a kezetek ügyében a fegyvereiteket.
+say.nr301_3a_haunted_valley_entrance_gpl.6;Miféle hely ez?
+

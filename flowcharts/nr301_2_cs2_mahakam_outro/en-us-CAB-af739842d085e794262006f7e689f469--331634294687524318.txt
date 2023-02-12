@@ -1,0 +1,10 @@
+say.nr301_2_cs2_mahakam_outro.1;Meve küszködött, hízelgett, gyôzködött,... és megszerezte a törpök támogatását. Jelentôsen megerôsödve hagyta el Mahakamot. Ennek ellenére a királynô nem volt jó hangulatban.
+say.nr301_2_cs2_mahakam_outro.10;A királynô tudta, végül meg fogja tudni az áruló kilétét. Ha kell, addig sanyargatja majd a másik köpönyegforgatót, Caldwell grófot, amíg az ki nem nyögi a nevet. A láncokban senyvedô Caldwell gondolatára, és arra, hogy hamarosan a bakó pengéje alá küldheti,... Meve egészen felélénkült.
+say.nr301_2_cs2_mahakam_outro.12;"Nyergeljék fel a lovakat! Én vezetem a sereget."
+say.nr301_2_cs2_mahakam_outro.14;A diplomácia, az elôkészületek és az egyezkedések ideje lejárt. Meve végre rátámadhatott az ellenségre. És már alig várta, hogy megtehesse.
+say.nr301_2_cs2_mahakam_outro.3;Mert hogy áruló volt a soraikban, egy farkas a lyriaiak között, valaki, aki tudatta az ellennel a királynô minden egyes tervét, lépését – ez mostanra már nyilvánvalóvá vált. Ettôl a pillanattól fogva Meve-nek jól meg kellett gondolnia minden egyes kimondott szót... Még azokat is, amiket a legközelebbi tanácsadói elôtt ejtett ki.
+say.nr301_2_cs2_mahakam_outro.5;"Felség, meg kell terveznünk a továbbiakat. A nyugati átjárónak menjünk, Angrenbe, vagy––"
+say.nr301_2_cs2_mahakam_outro.6;"Ne most."
+say.nr301_2_cs2_mahakam_outro.7;"Akkor mikor? Mindjárt itt a hajnal, és még azt sem tudjuk, merre––"
+say.nr301_2_cs2_mahakam_outro.9;"Nem ismétlem el még egyszer!"
+

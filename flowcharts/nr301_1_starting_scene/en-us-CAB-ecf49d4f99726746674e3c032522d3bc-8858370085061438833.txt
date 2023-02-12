@@ -1,0 +1,70 @@
+menu.nr301_1_starting_scene.107;A Te fajtádnak mindig akad hely a seregemben.
+menu.nr301_1_starting_scene.108;Eljött az ideje, hogy visszatérj Demavendhez.
+menu.nr301_1_starting_scene.17;Rayla, hálás vagyok...
+menu.nr301_1_starting_scene.18;A gyûrû miképp jutott Demavendhez?
+menu.nr301_1_starting_scene.19;Azt hittem, gyûlölöd a másfajúakat.
+menu.nr301_1_starting_scene.82;Nem kedvelsz engem különösebben, igaz?
+menu.nr301_1_starting_scene.83;Jó utat, Rayla.
+say.nr301_1_starting_scene.1;Én... láttam–– Ott... repült... egy sárkány––?
+say.nr301_1_starting_scene.10;Részemrôl az öröm. És, mint már mondtam, hálás vagyok a vendéglátásért, de most nincs idôm lakomázni. Az uralkodóddal kell beszélnem... rögvest.
+say.nr301_1_starting_scene.100;Ám legyen, Rayla. Ha neked úgy jó, mártózz meg benne a fejed búbjáig.
+say.nr301_1_starting_scene.102;Meve és Rayla összeszorított ajkakkal, összeszûkült szemekkel méregették egymást még utoljára. Majd a harcos meghajolt – olyan stílusban, amit egyesek túlságosan is udvariasnak mondanának –, aztán sarkon fordult, és ellovagolt lefelé a domboldalon. Meve addig követte a tekintetével, amíg a másik nô el nem tûnt egy nagyobb hóbucka takarásában, majd erôsen megsarkantyúzta a lovát, és elvágtatott az ellenkezô irányba...
+say.nr301_1_starting_scene.103;Akkor az istenek kísérjenek utadon, Rayla.
+say.nr301_1_starting_scene.105;Önt is, Felség.
+say.nr301_1_starting_scene.11;Embereket nem szoktunk csak úgy beengedni Mahakamba – és jó okkal. Ezért akiket átengedünk a második kapun, azoknak bekötjük a szemét,... de csak miután megváltak a fegyvereiktôl az elsô kapunál.
+say.nr301_1_starting_scene.111;Elégedett vagyok, Rayla. Olyan idôket élünk, amikben nem utasíthatjuk el a segítséget,... különösen a Tiédet nem.
+say.nr301_1_starting_scene.113;Megtisztel, Felség.
+say.nr301_1_starting_scene.115;Induljunk hát. Rendkívül kíváncsi lettem erre a Brouver Hoog nevû elöljáróra.
+say.nr301_1_starting_scene.116;Demavend az uralkodód. Vissza kell térned. Bocsáss meg.
+say.nr301_1_starting_scene.118;A királyom a redániai udvarban keresett magának menedéket. Addig nem fog kilovagolni onnan, amíg be nem köszönt a tavasz. Ezáltal a kardomra sem lesz szüksége, és––
+say.nr301_1_starting_scene.120;Ez egyáltalán nem számít.
+say.nr301_1_starting_scene.122;Legyen. Az istenek vigyázzák a lépteit, Felség.
+say.nr301_1_starting_scene.124;Rayla egy szót sem szólt, mialatt magához vette a cókmókját, és ellovagolt lefelé a domboldalon. Meve addig követte a tekintetével, amíg a másik nô el nem tûnt egy nagyobb hóbucka takarásában, majd a sereg folytatta a menetelést, a királynô pedig meggkönnyebbülést érzett, bár azt maga sem tudta, miért.
+say.nr301_1_starting_scene.13;Ám Felségednél van az Ólomgyûrû, ami bizonyítja, hogy megbízható, és jó szándékkal viseltetik. Ezáltal bizonyosak lehetünk abban, hogy magunk közül valóként bánhatunk Kegyeddel...
+say.nr301_1_starting_scene.131;Meve és Rayla összeszorított ajkakkal, összeszûkült szemekkel méregették egymást még utoljára. Majd a harcos meghajolt – olyan stílusban, amit egyesek túlságosan is udvariasnak mondanának –, aztán sarkon fordult, és ellovagolt lefelé a domboldalon. Meve addig követte a tekintetével, amíg a másik nô el nem tûnt egy nagyobb hóbucka takarásában, majd erôsen megsarkantyúzta a lovát, és elvágtatott az ellenkezô irányba...
+say.nr301_1_starting_scene.14;Az Elöljáró épp a hágóban tartózkodik, megnézi a nyáját. Jöjjenek, nem látom okát, miért ne diskurálhatnának vele máris.
+say.nr301_1_starting_scene.15;Habár a lyriai gyalogok jó két lábnyival magasodtak a törp fölé, amaz feltûnô könnyedséggel haladt a derékmagasságig érô hóban, miközben a mögötte lábalók meg-megcsúsztak és elbotlottak a jég borította köveken. Meve és Rayla a menet végén haladtak,... hogy egymás közt beszélhessenek.
+say.nr301_1_starting_scene.2;Nem, köszönöm. Ám értékelem a gesztust, jó uram.
+say.nr301_1_starting_scene.25;De mégis,... hogy jutott a gyûrû egyáltalán Demavend birtokába?
+say.nr301_1_starting_scene.260;Megáll a szátokban a kanál ettôl csodától, igaz? Van abban valami elszomorító, hogy a kihalás szélén állnak.
+say.nr301_1_starting_scene.261;Nem kellene inkább a honfitársaid sorsa miatt aggódnod? Az a kreatúra lángba borítja egész Mahakamot...
+say.nr301_1_starting_scene.27;Az Elöljáró személyesen adta át neki. Sok évvel ezelôtt – van talán egy évtizede is már, vagy több.
+say.nr301_1_starting_scene.29;Miért?
+say.nr301_1_starting_scene.3;Ôfelsége birtokában van Demavend pecsétgyûrûje. A király maga adta neki.
+say.nr301_1_starting_scene.31;Ó, bizonyára Ön is hallotta a történetet, Felség. Hivatalosan Temeriai Foltest Mahakam uralkodója. Úgy gondolta, ezáltal jogot formálhat arra, hogy megadóztassa minden hûbérbirtokát,... ezért el is küldte az adószedôit.
+say.nr301_1_starting_scene.33;Nos, a törpök úgy érezték, megkopasztották ôket, ezért ôk is megkopasztották az adószedôket – egy darab szôr nem maradt rajtuk. Aztán söröshordóba tették, és legurították ôket a hegyoldalon.
+say.nr301_1_starting_scene.35;Egek...! Foltest bizonyára szörnyû haragra gerjedt.
+say.nr301_1_starting_scene.37;Úgy van, izzott a dühe – azon nyomban össze is állított egy bûntetés-végrehajtó expedíciót. Már majdnem útnak indultak, mikor Demavendnek sikerült róla lebeszélnie Foltestet. Az Elöljáró akkor adta neki a gyûrût, a hálája jeléül.
+say.nr301_1_starting_scene.39;Most már világos. Demavend megakadályozta, hogy Mahakam népét lemészárolják.
+say.nr301_1_starting_scene.4;Hmm... Ne vegye sértésnek, de... Brouver Hoog elöljáró egy amolyan remeteféle... már ahogy az emberek neveznék. Még koronás fôkkel sem találkozik. De talán lehetne... Úgy értem, ha írna egy levelet––
+say.nr301_1_starting_scene.41;Felség... Demavend elejét vette egy mészárlásnak, ez igaz. De Foltest és a temeriaiak lemészárlásának, nem a törpökének. Hamarosan megláthatja Mahakam erôdítéseit. Ember ezt a helyet be nem veszi. Soha.
+say.nr301_1_starting_scene.43;És a klánfôk hálája? Nem igazán értem, mibôl fakadt.
+say.nr301_1_starting_scene.45;Hogy a törpök eltaposták volna a temeriaiak seregét? Nem kétséges. De ha így tettek volna, mi jött volna azután? Megtorlás minden Temeriában élô másfajú ellen. Brouver tudta ezt. Szóval Demavend végeredményben megmentette ôket...
+say.nr301_1_starting_scene.47;Rendkívül elôrelátó az Elöljáró...
+say.nr301_1_starting_scene.49;És ravasz, mint a róka. Ezért amikor majd vele beszél, óvakodjon tôle, és fontolja meg jól minden egyes szavát.
+say.nr301_1_starting_scene.5;Áhhá, nos, így már egészen másképp áll a helyzet.
+say.nr301_1_starting_scene.51;Azt hittem, nem állhatod a másfajúakat.
+say.nr301_1_starting_scene.53;Nem érdekelnek különösebben... mindaddig, amíg a saját birodalmukban maradnak, és nem próbálnak szerencsét másutt.
+say.nr301_1_starting_scene.55;Csak azokat vetem meg, akik elárasztják a városainkat,... alázattal próbálnak meg beférkôzni a céheinkbe, tisztséghez jutni az intézményeinkben vagy a hadseregben.
+say.nr301_1_starting_scene.57;Mégis, néhányuk megtalálja a helyét közöttünk, és nagyszerûen beilleszkedik...
+say.nr301_1_starting_scene.59;Az sosem tartós. Ôk különböznek tôlünk, furcsák. A széthúzás elkerülhetetlen. És akkor mindig akad egy közöttük, aki hátbaszúrja az embereket.
+say.nr301_1_starting_scene.60;Rayla, a segítséged igazán gyümölcsözônek bizonyult.
+say.nr301_1_starting_scene.64;Parancsokat kaptam. Csak teljesítettem ôket.
+say.nr301_1_starting_scene.7;Hogy mi? Keltullis? Neeem,... Itt él már évszázadok óta. Ártalmatlan – többnyire. És most, Felség, egy kóstolást...?
+say.nr301_1_starting_scene.72;Értem... És mihez kezdesz ezután?
+say.nr301_1_starting_scene.74;Itt szétválnak útjaink. Most hazatérek, ahol minden bizonnyal új parancsok várnak.
+say.nr301_1_starting_scene.75;Demavend a redániai udvarba menekült, ahol majd behúzza fülét-farkát, és ki sem dugja az orrát egészen rügyfakadásig. Te is tudod, hogy így lesz. Nem maradnál inkább a seregemben? Harcolni a Feketék ellen?
+say.nr301_1_starting_scene.76;Nem, Felség.
+say.nr301_1_starting_scene.77;Felség, megtiszteltetés olyasvalaki oldalán küzdeni, aki oly bátor, mint Kegyed. Olyasfajta megtiszteltetés, amirôl nem mondanék le egykönnyen.
+say.nr301_1_starting_scene.79;Az volt a feladatom, hogy Demavend király parancsára vezessem el Mahakamba. Arra vonatkozóan, hogy azt követôen mik a teendôim, nem kaptam utasítást.
+say.nr301_1_starting_scene.8;Ó, erre igazán semmi szükség. Csak Gábor, Felség. Örvendek, hogy megismerhetem.
+say.nr301_1_starting_scene.81;Így, amíg egy parancsokat tartalmazó sürgöny nem érkezik, Felségedet szolgálom, Felséged parancsnoksága alatt.
+say.nr301_1_starting_scene.86;Nem rajongsz értem igazán, ugye?
+say.nr301_1_starting_scene.88;Nem ugyanabból az alomból valók vagyunk, Felség, így nem az én dolgom, hogy––
+say.nr301_1_starting_scene.9;Gábor egy igazi elôkelôség – Mahakam legjelentôsebb klánjainak egyikébôl, a Zigrinekébôl. De nem is ô lenne a kalauzunk, ha nem így volna. Ô az igazán fontos vendégek idegenvezetôje.
+say.nr301_1_starting_scene.90;Teszek a pedigrére és a rangra. Szívbôl kell szólnunk egymással, csak mint két nô, ellenségeskedés nélkül. Mondd hát el, miért! Tettem talán valami olyat, amit helytelenítesz?
+say.nr301_1_starting_scene.92;Arról van szó inkább, hogy mit nem tett.
+say.nr301_1_starting_scene.94;Aedirnben... Túlságosan is elnézô volt azokkal a tündékkel. Mindig kész megbocsátani, kész az irgalomra...
+say.nr301_1_starting_scene.96;Mit kellett volna tennem? Hagynom kellett volna, hogy megtisztítsd az erdôt az összes másfajútól?
+say.nr301_1_starting_scene.98;Gonoszság ellen csak gonoszsággal lehet küzdeni. A vér vért kíván.
+

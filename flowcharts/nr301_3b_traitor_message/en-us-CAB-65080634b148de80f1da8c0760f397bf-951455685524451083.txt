@@ -1,0 +1,23 @@
+menu.nr301_3b_traitor_message.17;Találtak egyéb más nyomot?
+menu.nr301_3b_traitor_message.18;Kivallatták a hírvivôt?
+say.nr301_3b_traitor_message.1;Meve megfordult a közeledô lódobogás hangjára, és Reynardot látta, amint nyaktörô sebességgel száguld feléje ziháló-prüszkölô lován.
+say.nr301_3b_traitor_message.13;Az ajánlatát tekintse elfogadottnak. Terelje Meve-et és seregét az elôre megbeszélt helyre. Várni fogjuk az érkezésüket. A jutalma a megbeszéltek szerinti lesz. Hael Ker'zaer.
+say.nr301_3b_traitor_message.15;Feltételezem, az iraton nem olvasható semmilyen név.
+say.nr301_3b_traitor_message.16;Valóban nem, Felség.
+say.nr301_3b_traitor_message.21;Kikérdezték a futárt?
+say.nr301_3b_traitor_message.23;Természetesen, Felség. Habár nem tudta megmondani, kinek voltak címezve a levelek. Egy elôre megbeszélt helyen kellett hagynia ôket.
+say.nr301_3b_traitor_message.24;Egy áruló... Számíthattunk ilyesmire. Nilfgaard már megmutatta, hogy csak a maga által felállított szabályok szerint hajlandó játszani. És mert hogy a csatamezôn, nyílt terepen nem sikerült rám csapást mérniük, más módokon próbálkoznak elérni céljukat...
+say.nr301_3b_traitor_message.25;Ha jól sejtem, a történteknek már híre ment a seregben.
+say.nr301_3b_traitor_message.27;Így van, Felség. Túl sok szemtanúja volt az esetnek ahhoz, sem hogy titokban lehetett volna tartani.
+say.nr301_3b_traitor_message.28;Akkor feltételezhetjük, hogy a sorainkban megbúvó áruló is értesült róla, és megpróbálja majd megkaparintani a tekercset. És ez lesz számára a zsákutca.
+say.nr301_3b_traitor_message.3;Rossz híreket hozok, Felség...
+say.nr301_3b_traitor_message.30;Vannak egyéb nyomok vagy bizonyítékok?
+say.nr301_3b_traitor_message.32;Félek, nincsenek, Felség. Nyitva kell tartanunk a szemünket, várva, hogy az események kibontakozzanak. Ébernek kell lennünk,... és elôvigyázatosnak, ha új ismeretségeket szándékoznánk kötni.
+say.nr301_3b_traitor_message.34;Rendben. Nyitott szemmel, felfokozott figyelemmel... Az Öné különösképp legyen az, Reynard.
+say.nr301_3b_traitor_message.36;Természetesen, Úrnôm.
+say.nr301_3b_traitor_message.5;Nyilván. Az örömhír sosem érkezik ilyen lélekszakadva.
+say.nr301_3b_traitor_message.6;A felderítôink elfogták a nilfgaardiak egy futárt. Az az éj leple alatt és álruhában utazott.
+say.nr301_3b_traitor_message.7;Amikor rájött, hogy nem menekülhet, megpróbálta megsemmisíteni a nála lévô leveleket... Némelyiket azonban sikerült megkaparintanunk.
+say.nr301_3b_traitor_message.8;És van bennük valami érdekes?
+say.nr301_3b_traitor_message.9;Attól tartok, van. Felség, ezt hallania kell...
+

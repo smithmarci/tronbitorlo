@@ -1,0 +1,5 @@
+say.nr301_2_meet_brouver_combat.1;Ne csak álljatok, mint a bányában megszorult viheder! Munkára!
+say.nr301_2_meet_brouver_combat.3;Jól van, lesz mit megmagyaráznotok.
+say.nr301_2_meet_brouver_combat.5;Vigyázzatok! Felénk gurul!
+say.nr301_2_meet_brouver_combat.7;Felség, legyen óvatos!
+

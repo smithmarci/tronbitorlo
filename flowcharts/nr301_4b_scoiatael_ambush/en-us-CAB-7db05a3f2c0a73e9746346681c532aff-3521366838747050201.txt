@@ -1,0 +1,47 @@
+menu.nr301_4b_scoiatael_ambush.78;Bánom, ami a Mállóerdôben történt. Ami a tündékkel történt.
+menu.nr301_4b_scoiatael_ambush.79;Eldain egy bûnözô elem volt.
+say.nr301_4b_scoiatael_ambush.1;A törpök rengeteg területen adták bizonyságát újító gondolkodásuknak, vegyük csak a kohászatot, a mérnöki teljesítményeiket, vagy az építészetüket... Ám volt egyetlen egy terület, amit elhanyagoltak, minden más kárára. Ez pedig a névadás területe volt. Ezért például a Mahakam-hegyszorost Karbonheggyel összekötô hidat egész egyszerûen csak Hosszúhídnak hívták.\n\n
+say.nr301_4b_scoiatael_ambush.101;Én aztán nem. A fejedre estél talán, tünde? He? Ha harcolni akarsz az emberekkel, hát menj, és csináld! De ne itt, a fenébe is! Idióták józan eszére nem hathatsz. Mahakam semleges – az volt, és az is marad!
+say.nr301_4b_scoiatael_ambush.103;Nem lehetsz semleges. A dhoine–oknak vagy az ellensége vagy, vagy az ölebük!
+say.nr301_4b_scoiatael_ambush.105;Mahakam túl sokáig aludt, túl sokáig volt tétlen. Ezért is csaptunk le rá a szívében. Hogy csatába szólítsunk benneteket, szólítsuk a testvéreinket, akiket te, Elöljáró, túlságosan is sokáig tartottál elzárva a világtól.
+say.nr301_4b_scoiatael_ambush.107;Úgy van, elzártam ôket! És milyen jól tettem! Háborúsdit akartok játszani, ti agyalágyultak? Talán a Pontárt is kényszerítenétek, hogy forrás iránt folyjon eztán? Megpróbálhatjátok. Szép próbálkozás lenne, én azt mondom! Menjetek, és gyilkoljatok vagy haljatok, ha úgy tetszik! Bánom is én. De az istenek verjenek meg, hagyjatok minket békében!
+say.nr301_4b_scoiatael_ambush.109;Eh... Meg kellene hogy öljelek. A két kezemmel. El kellene vágnom a torkodat, csak hogy megszabadítsalak a szenvedésedtôl. Ezt akarod, igaz-e? Meghalni! Ostoba halált halni!
+say.nr301_4b_scoiatael_ambush.111;Nos, nem adom ezt meg neked. De nem ám! Ehelyett bezáratlak majd egy toronyba. És ott felejtelek három évszázadra, hátha közben sikerül agyat növesztened magadnak!
+say.nr301_4b_scoiatael_ambush.114;Brouver Hoog a megláncolt tünde után bámult, miközben azt elvezették az ôrök. Meve arra számított, hogy az Elöljáró folytatja majd az ô szapulását és a káromkodást. Ám ehelyett a törp csak állt némán. És vénséges szemeibôl, amiket félig eltakartak a bozótoshoz hasonlóan sûrû szemöldökei, nem harag sugárzott, hanem a legmélyebb bánat.\n\n
+say.nr301_4b_scoiatael_ambush.116;A törp mérnökök gyors javítást végeztek az épp hogy darabjaira nem hulló híd felépítményén.
+say.nr301_4b_scoiatael_ambush.2;A királynô és kísérete Karbonhegyhez közeledett, amikor Meve egy kiáltást hallott. Xavier volt az:\n
+say.nr301_4b_scoiatael_ambush.3;Mint Meve megállapíthatta, valóban találó volt az elnevezés. Amikor egy szusszanásnyira megállt félúton a mély szakadék fölé kifeszített átkelôn, a királynô nem látta a híd egyik végét sem, mert hogy azok sûrû felhôkbe burkolóztak.\n
+say.nr301_4b_scoiatael_ambush.31;"Megááállj! Netovááább!"\n\n
+say.nr301_4b_scoiatael_ambush.32;Meve hirtelen megrántotta a kantárt, mire a kancája nyeríteni, curükkolni és ágaskodni kezdett, ezzel valamelyest a katonái fölé emelve a királynôt. És akkor meglátta, ahogy a híd utolsó pillére összeroskad. A menet legelején lábaló törpök már nem tudtak idôben megállni,... és sikolyok közepette a mélybe zuhantak.\n
+say.nr301_4b_scoiatael_ambush.4;A királynô azon küzdött, hogy lenyugtassa megriadt lovát, amikor megérezte, hogy valami {audio=nr301_4b_scoiatael_ambush_guards_down}elsuhan a füle mellett. Egyszer csak a menetoszlop legvégén, a semmibôl tûnt elô a Mókusok egy csapata. Még mielôtt bárki reagálhatott volna, a tünde íjászok végeztek a utóvéddel. A híd kövein arccal elôre bukva katonák feküdtek, hátukból nyílvesszôk meredtek.\n
+say.nr301_4b_scoiatael_ambush.412;"Aesper aen rhena!"\n
+say.nr301_4b_scoiatael_ambush.413;"Mit jelentsen ez, az istenek verjék meg!?"
+say.nr301_4b_scoiatael_ambush.414;– harsogta Brouver. –
+say.nr301_4b_scoiatael_ambush.416;"Hívjátok a mérnököket! Most!"
+say.nr301_4b_scoiatael_ambush.417;"Bámulatos..."
+say.nr301_4b_scoiatael_ambush.419;– suttogta a királynô. –
+say.nr301_4b_scoiatael_ambush.42;A lyriaiak és a törpök közös erôvel a Scoia’tael fölé kerekedtek, és legyôzték ôket. A partizánok meggyengítették a híd ívét, ezzel halálos csapdává változtatva az átkelôt. Ha Xavier, aki az utolsó pillanatban vette észre a meggyengült szerkezetet, nem kiált rájuk, mindannyian a szakadékba zuhantak volna...\n\n
+say.nr301_4b_scoiatael_ambush.421;"Úgy érzem magam, mintha a felhôk közt járnék..."
+say.nr301_4b_scoiatael_ambush.44;A lyriaiaknak sikerült elfognia a különítmény vezérét. Az csak állt ott felszegett fejjel, és amikor Meve a szemeibe nézett, amaz nem kerülte a tekintetét.
+say.nr301_4b_scoiatael_ambush.45;Mi a neved, tünde?
+say.nr301_4b_scoiatael_ambush.47;A'báeth me aep aerse, dh’oine.
+say.nr301_4b_scoiatael_ambush.49;Azt mondta,...
+say.nr301_4b_scoiatael_ambush.5;Meve csapdába esett. Egyik irányban ott tátongott a szakadék, a másikban pedig ott állt az ádáz ellenfele. Nem volt más választása, mint megvetni a lábát és harcolni.
+say.nr301_4b_scoiatael_ambush.51;Köszönöm, Reynard, pontosan értettem, amit mondott.
+say.nr301_4b_scoiatael_ambush.53;"Csókold meg a valagamat"? Tényleg ez a legtöbb, ami tôled telt?
+say.nr301_4b_scoiatael_ambush.55;Mondd meg nekik, hogy oldozzanak el, és szíves–örömest megmutatom, mennyi is telik tôlem. 
+say.nr301_4b_scoiatael_ambush.57;A csatamezôn megvolt rá minden lehetôséged. Tehát nem árulod el, miképp neveznek? Legyen, nekem aztán egyre megy. Engem inkább az érdekel, hogy hogyan kerültetek ide,... hogy ki küldött titeket.
+say.nr301_4b_scoiatael_ambush.59;Senki sem küldött. Magam határoztam úgy, hogy végzek veled... És azáltal megbosszulom Eldaint.
+say.nr301_4b_scoiatael_ambush.71;Emlékszel ôrá? A tündére, akitôl megtagadtad a temetést, akit csak úgy otthagytál rohadni azon a tisztáson?
+say.nr301_4b_scoiatael_ambush.76;Tünde vér szárad a kezeden. A Mállóerdô tündéinek vére.
+say.nr301_4b_scoiatael_ambush.83;Bánom, ami a Mállóerdôben történt. Nem kívántam azoknak a tündéknek a halálát. De nem hagytak számomra más választást.
+say.nr301_4b_scoiatael_ambush.85;Milyen választást hagytál volna egy gyilkosnak, aki betört az otthonodba?
+say.nr301_4b_scoiatael_ambush.87;Ó... Tudod, irigyellek. Csak feketén és fehéren látni a világot. Bizonyára leegyszerûsíti a dolgokat.
+say.nr301_4b_scoiatael_ambush.89;Eldain egy bûnözô volt. Azt kapta, amit megérdemelt.
+say.nr301_4b_scoiatael_ambush.91;Bûnözônek nevezed. Akkor minek neveznéd azokat az embereket, akik a pogromok alatt legyilkolták és lemészárolták a fajtámat? Minek neveznéd Fekete Raylát, aki az oldaladon harcolt?
+say.nr301_4b_scoiatael_ambush.95;Nem merészelj összehasonlítani kettônket!
+say.nr301_4b_scoiatael_ambush.99;Elég. Hallottam mindent, amit hallani akartam...
+title.nr301_4b_scoiatael_ambush.1;Hosszúhíd
+title.nr301_4b_scoiatael_ambush.404;Hosszúhíd
+title.nr301_4b_scoiatael_ambush.772;Hosszúhíd
+

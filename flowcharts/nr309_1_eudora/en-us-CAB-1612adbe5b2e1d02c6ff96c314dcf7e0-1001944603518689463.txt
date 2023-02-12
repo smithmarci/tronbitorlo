@@ -1,0 +1,34 @@
+menu.nr309_1_eudora.6;Elfogadod Eudóra ajánlatát.
+menu.nr309_1_eudora.7;Visszautasítod Eudóra ajánlatát.
+say.nr309_1_eudora.1;A királynônek egy szokatlanul túldíszített, csillogó bronzcserepes, szikrázó hegyikristály ablaktáblás épületen akadt meg a szeme. Egy nagyon befolyásos klán, a Breckenriggs-ek klánja élt itt, magyarázta Gábor.\n
+say.nr309_1_eudora.15;"Figyelj, a lehetô legjobbakat kívánom Neked és Zoltárnak..."\n
+say.nr309_1_eudora.22;"Hm... úgy gondolom, érdemes a házra fogadnunk. Rendben, áll az alku."\n
+say.nr309_1_eudora.24;Szerencsére Gasconnak sikerült észrevétlenül kicseleznie az ôröket, így a törpök sosem jöttek rá, ki tört be a levéltárba. A megegyezés szerint Meve átadta Eudórának az ellopott dokumentumot...\n
+say.nr309_1_eudora.25;"Jó, ha tudod, hogy az apuskám csökönyösebb, mint egy öszvér, de én meggyôzhetem, hogy segítsen Neked,... egy ici-pici kis szívességért cserébe."\n
+say.nr309_1_eudora.26;"Mm–hmm. És mi lenne az?"
+say.nr309_1_eudora.28;"Szeretném, ha ellopnál valamit a klán levéltárából – a 'Historiae Mahakamorum'-ot. Tudod, az apám nem engedi, hogy az én cukorfalatom, Zoltán eljegyezzen engem... Azt mondja, a Kódex szigorúan megtiltja, hogy hozzámenjek egy olyan törphöz, aki elhagyta Mahakamot. De volt már ilyesmire példa! Egy, a miénkhez hasonló eset, amirôl abban az iratban tesznek említést. Ha meg tudnám mutatni apuskának, akkor kénytelen lenne megmásítani a döntését."\n\n
+say.nr309_1_eudora.29;Meve-nek megesett rajta a szíve, és szeretett volna segíteni neki, különösen az Eudóra által ajánlott szívességért cserébe... De tisztában volt azzal is, hogy ha a betörés balul sül el, abból akkora botrány kerekedne, amit Brouver Hoog egyhamar nem felejtene el.
+say.nr309_1_eudora.3;Ivor, a klán feje, pazar lakomára invitálta Meve-et, ám amikor a királynô a Mahakam határainak tôszomszédságában dúló háborúra terelte a szót, a törp azonnal témát váltott. Az épületben körülnézve Meve hamar megértette, miért: a falakat nilfgaardi szôttesek és falikárpitok – kétségkívül baráti birodalmi követek ajándékai – borították.\n\n
+say.nr309_1_eudora.31;"Ööö, Zoltánnak"
+say.nr309_1_eudora.33;– javította ki Eudóra.\n
+say.nr309_1_eudora.35;"Igen, persze. Zoltánnak. Akárhogy is, ez túl kockázatos. Sokat nyernék a klánod támogatása által,... de ha kudarcot vallunk a küldetés során, azzal még többet veszíthetek."\n\n
+say.nr309_1_eudora.37;Eudóra vállat vont, és visszatért a hálószobájába. Meve rövid megszakítás után folytatta útját, és közben azon morfondírozott, vajon a törp végül megtalálja-e a módját, hogy egybekelhessen szeretett Zoltánjával...
+say.nr309_1_eudora.39;Aztán kezet ráztak, ezzel megpecsételve az alkut. És Meve-nek az ajkába kellett harapnia, hogy nehogy felkiáltson, ugyanis a törpleánynak olyan kézszorítása volt, mint egy jól megtermett kovácsnak. Miközben Meve visszatért a kompániájához, a sajgó kezét dörzsölgette. Aztán elôadta a tanácsadóinak Eudóra ajánlatát. Gascon azon nyomban jelentkezett a feladatra.\n
+say.nr309_1_eudora.41;"A tolvajlás erôs oldalam. A törpök észre se fogják venni, hogy bárminek is lába kelt volna."
+say.nr309_1_eudora.42;Gascon az éj leple alatt osont be a levéltárba. Épp csak hogy a köpönyegébe rejtette az iratot, a lépcsô irányából felhangzó törp csizmák kopogása ütötte meg a fülét.\n
+say.nr309_1_eudora.420;Meve, meggyôzôdve arról, hogy csak az idejét vesztegette, már épp távozni készült, amikor valaki megragadta a vállát, és berántotta egy lesötétített szobába.\n
+say.nr309_1_eudora.421;"Be tudnál mutatni nekik?"
+say.nr309_1_eudora.422;– kérdezte Meve. –
+say.nr309_1_eudora.424;"Talán meggyôzhetném ôket, hogy közbenjárjanak az érdekemben Brouvernél..."
+say.nr309_1_eudora.425;"Ahh!"
+say.nr309_1_eudora.427;"A kutyafáját"
+say.nr309_1_eudora.429;– káromkodta el magát Gascon. –
+say.nr309_1_eudora.431;"Nem hagyhatom, hogy elkapjanak!"
+say.nr309_1_eudora.44;És Eudóra is megcselekedte, amit ígért. Hamarosan a királynô fülébe jutott, hogy a klánok tanácskozásra gyûltek, és Ivor valóban szót emelt az érdekében. Csak remélhette, hogy a Breckenriggs-ek véneinek sikerült Brouver Hoogot is az ügye mellé állítaniuk...
+say.nr309_1_eudora.45;"Hahh!"
+say.nr309_1_eudora.47;– kiáltotta a törp, közben diadalittasan emelve a magasba a tekercset. –
+say.nr309_1_eudora.49;"Apuska most már semmit nem tehet, amivel megakadályozhatná, hogy fogadalmat tegyünk! Hahh! Tüstént írnom kell Zoltánnak! Köszönöm, millió köszönet!"
+say.nr309_1_eudora.5;Mint az elrablójáról kiderült,... egy fiatal törp volt az, egy nô, hálóingben. Úgy mutatkozott be, mint Ivor lánya, Eudóra Breckenriggs, ráadásul nyíltan bevallotta, hogy kihallgatta a Meve és az apja között a vacsoraasztalnál folytatott beszélgetést.\n
+title.nr309_1_eudora.414;A jegyes
+title.nr309_1_eudora.437;A jegyes
+

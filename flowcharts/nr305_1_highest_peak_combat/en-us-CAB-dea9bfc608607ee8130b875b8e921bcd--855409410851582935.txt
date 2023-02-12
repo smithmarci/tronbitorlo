@@ -1,0 +1,4 @@
+say.nr305_1_highest_peak_combat.1;Nézzetek felfelé, legények! Ezek egyenest felénk szállnak!
+say.nr305_1_highest_peak_combat.3;Ejtsük meg azokat a méréseket, és tûnjünk el errôl a helyrôl...
+say.nr305_1_highest_peak_combat.5;Meglehetôsen ügyes kis szerkentyû ez! Egy gnóm keze munkája, természetesen.
+

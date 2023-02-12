@@ -1,0 +1,7 @@
+say.nr301_3_boros_reach_combat.1;Blááá... ez a bûz elviselhetetlen...
+say.nr301_3_boros_reach_combat.11;Szeretném tudatni, hogy mi, gnómok, nem vagyunk valami fürgék... Még mielôtt valaki rövidre szeretné zárni ezt a dolgot.
+say.nr301_3_boros_reach_combat.3;Erre! Utánam!
+say.nr301_3_boros_reach_combat.5;Á, a szentségit... Kikelnek! A helyet hamarosan ellepik a kis dögök!
+say.nr301_3_boros_reach_combat.7;Nem! A bombák csak rontanának a helyzeten!
+say.nr301_3_boros_reach_combat.9;...még ha az árnyak völgyében járok is, nem félek a gonosztól.
+

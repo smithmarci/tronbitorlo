@@ -1,0 +1,9 @@
+say.nr301_1_cs1_mahakam_intro.1;Fekete Rayla veszélyes meredélyeken futó ösvényeken vezette a királynôt és kompániáját Mahakamba, a törpök birodalmába. Ahol a hófödte hegycsúcsokon kívül más is várt rájuk...
+say.nr301_1_cs1_mahakam_intro.3;"Rayla! Kik ezek az idegenek?"
+say.nr301_1_cs1_mahakam_intro.4;"Gábor, bemutatom Neked Meve-et, Lyria és Rívia királynôjét..."
+say.nr301_1_cs1_mahakam_intro.5;"Áhhá! Egy királynô...? Teringettét! Akkor hát––"
+say.nr301_1_cs1_mahakam_intro.6;Egy hatalmas árny borította be az eget. A törpben bennszakadt a köszöntés, ahogy mindannyian az égbolton Karbonhegy felé tovasuhanó sárkányra emelték a tekintetüket. 
+say.nr301_1_cs1_mahakam_intro.7;A törp volt az, aki aztán megtörte a csendet. Mert hogy számára már ismerôs volt ez a merôben szokatlan látvány.
+say.nr301_1_cs1_mahakam_intro.8;"És akkor most talán üljünk is le, mielôtt kihûl a fôzelék."
+say.nr301_1_cs1_mahakam_intro.9;"Keltullis. Nem kell úgy remegni, mint a kocsonya – nem esz meg bennünket."
+

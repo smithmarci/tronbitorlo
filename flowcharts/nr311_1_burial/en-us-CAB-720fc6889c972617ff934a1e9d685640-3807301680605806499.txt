@@ -1,0 +1,23 @@
+menu.nr311_1_burial.5;Közbeavatkozol – védelmedbe veszed munkafelügyelôt.
+menu.nr311_1_burial.6;Nem teszel semmit.
+say.nr311_1_burial.1;Szomorú látvány tárult Meve szeme elé: olyan bányászok tömeges temetését látta, akiket tragikus körülmények következtében ért a halál. Ólomkoporsóik még a havon hevertek, azokon komlóból font koszorúk.\n\n
+say.nr311_1_burial.17;Meve úgy döntött, nem avatkozik közbe. Nem tudhatta, milyen mahakami törvények vonatkoznak az ilyesféle helyzetekre, és abban sem lehetett bizonyos, hogy valósak-e a munkafelügyelô ellen felhozott vádak. Ezért hát megnógatta a lovát, és seregével gyorsan maga mögött hagyta a temetôt és a felfordulást.
+say.nr311_1_burial.19;Valamit tenni kellett, és gyorsan – ez nyilvánvaló volt Meve számára. Megsarkantyúzta a lovát, és belovagolt a temetôbe, átnyomakodva a sokaságon, aztán megállt a munkafelügyelô elôtt, lovával védve ôt a további hajigálások ellen.\n
+say.nr311_1_burial.26;A királynônek sikerült megóvnia a munkafelügyelôt a lincseléstôl,... de súlyos árat fizetett érte. Sok lyriai komoly sérülésekkel került ki az összecsapásból. A gyásznép soraiban a veszteségek sokkal nagyobbak voltak. A sírásók most már fürgébben ásták az új sírokat, ugyanis a kiömlött vér felmelegítette a korábban még fagyott földet, így az könnyebben engedett az ásóiknak.
+say.nr311_1_burial.27;"Tartani a napi kvótát, bármi áron, mi?"\n
+say.nr311_1_burial.29;"Vér tapad a kezeidhez, kurafi!"\n\n
+say.nr311_1_burial.3;"Te tudtad! Te tudtad, hogy kipárolgásokat éreztek! De mégis arra utasítottad ôket, hogy ássanak – mígnem aztán a képükbe robbant!"\n
+say.nr311_1_burial.30;Az egyik gyászoló felkapott egy darab fagyott rögöt, és a munkafelügyelô felé hajította. Vér fröccsent a sebbôl, ami a törp homlokán nyílt. Az elsô földdarabot egy másik követte, majd egy kô, aztán egy tégla... Meve rájött, hogy ha nem avatkozik közbe, a munkafelügyelôt halálra kövezik.
+say.nr311_1_burial.31;"Fékezzétek magatokat! Csendet! Nem dönthettek itt és most a bûnössége felôl, mert azt––\n
+say.nr311_1_burial.32;Még mielôtt Meve befejezhette volna a védôbeszédét, a tömegbôl egy nagy követ hajítottak feléje, ami úgy eltalálta a mellkasán, hogy majd' kifordult a nyeregbôl. Ezt látva a lyriai kíséret leengedte a lándzsáit, kardot rántott, és megrohamozta a feldühödött gyásznépet...
+say.nr311_1_burial.33;Amikor aztán vége lett, látva, mi történt, a munkafelügyelô térdre rogyott, és a kezébe temette az arcát.\n
+say.nr311_1_burial.35;"Jól... jól mondták. A bányászok miattam haltak meg, az egész az én hibám. Most pedig... a rokonaik..."\n
+say.nr311_1_burial.37;Habár a törpök vénjei megköszönték Meve-nek, hogy közbelépett, és megelôzte a munkafelügyelô törvénytelen meglincselését, a királynô keserû szájízzel távozott a temetôbôl.
+say.nr311_1_burial.40;"G'ynnau croenn!"
+say.nr311_1_burial.42;– kiáltotta Isbel. Széttárt kezeibôl sugárzó fény tört elô, ami elvakított törpöt és lyriait egyaránt. –
+say.nr311_1_burial.422;A gyásznép arra várt, hogy a sírásók végezzenek az ásással. Ami nehezen ment, mert hogy fagyott volt a föld. Ahogy a csákányok és ásók kopácsolása és surrogása folytatódott, a halott bányászok munkafelügyelôje felkecmergett egy nagyobb sziklatömbre, hogy beszédet mondjon. Azonban dühös bekiabálások és fújolások akadályozták meg benne.
+say.nr311_1_burial.44;"Meggárgyultatok talán, mindannyian, egyszerre?! Nem volt elég a szerencsétlenségbôl?! Tegyétek le a fegyvert! Azonnal!"
+say.nr311_1_burial.46;– Talán Isbel varázsigéjének ereje, vagy a varázslónô kisugárzása volt rájuk nagyobb hatással – nehéz lenne megmondani. Akárhogy is, mindkét félben azonnal lelohadt a harci hév. Meve megkönnyebbülten sóhajtott fel, tudva, hogy Isbel közbelépése nélkül vér öntözte volna a temetô földjét...
+title.nr311_1_burial.416;Vér és könnyek
+title.nr311_1_burial.445;Vér és könnyek
+

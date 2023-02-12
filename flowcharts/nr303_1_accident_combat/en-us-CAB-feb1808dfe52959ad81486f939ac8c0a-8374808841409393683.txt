@@ -1,0 +1,7 @@
+say.nr303_1_accident_combat.1;Óvatosan! Senki ne akarjon hôsködni.
+say.nr303_1_accident_combat.11;Az Ön oldalán, Felség!
+say.nr303_1_accident_combat.3;Uh... Ez közel volt.
+say.nr303_1_accident_combat.5;Uh, csúszós idefent... És bitang hosszú az út lefelé.
+say.nr303_1_accident_combat.7;Meve! A sziklapárkány peremére kell szorítanunk ôket!
+say.nr303_1_accident_combat.9;Jó utat!
+

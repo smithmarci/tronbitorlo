@@ -1,0 +1,26 @@
+menu.nr312_1_haunted_valley.39;Segítesz a törp telepeseknek.
+menu.nr312_1_haunted_valley.4;Segítesz a törp telepeseknek.
+menu.nr312_1_haunted_valley.40;Kivonulsz a településrôl.
+menu.nr312_1_haunted_valley.5;Megtagadod a segítséget a törpöktôl.
+say.nr312_1_haunted_valley.1;Sötét fellegek gyülekeztek a horizonton, és orkán erejû fuvallat tépázta a lobogóikat...\n
+say.nr312_1_haunted_valley.10;"Minek vagyunk épp szemtanúi? Miért örülnek ennyire egy hóviharnak?"
+say.nr312_1_haunted_valley.12;– kérdezte Meve, miközben a fejébe húzta a csuklyáját.\n
+say.nr312_1_haunted_valley.14;"Nos, a vihar jó okot szolgáltat nekik arra, hogy egy újabb nappal elhalasszák az expedíciójukat"
+say.nr312_1_haunted_valley.16;– felelte Gábor. –
+say.nr312_1_haunted_valley.18;"Mert hogy sorhúzás révén arra választották ki ôket, hogy telepesekként új otthont és falut alapítsanak Feketecsermely-völgyben. Eddig hét expedíció indult el oda,... és egyik sem maradt életben egy esztendônél hosszabb ideig. Az a völgy el van átkozva – e felôl semmi kétség."
+say.nr312_1_haunted_valley.19;A történet felkeltette Meve érdeklôdését, ezért elindult, hogy szóba elegyedjen a telepesek vezetôjével. Aki aztán csak megerôsíteni tudta Gábor állításait. Eddig sok korábbi telepest földeltek el maguk. Mindegyikük rendellenesen sovány, fakó bôrû és idejekorán ôsz volt – mintha valamiféle lidérc szívta volna ki belôlük az életerôt.\n\n
+say.nr312_1_haunted_valley.21;– mondta Meve büszkeséggel a hangjában. –
+say.nr312_1_haunted_valley.23;"De átkokkal és lidércekkel szemben nem tudnának megvédeni bennünket. Sajnálom, nem segíthetek nektek."\n\n
+say.nr312_1_haunted_valley.25;A törp lehorgasztotta a fejét, és bólintott egyet, mint aki csak azt a választ kapta, amit remélt...
+say.nr312_1_haunted_valley.27;– mondta Meve, –
+say.nr312_1_haunted_valley.29;"de nem hagylak cserben titeket. Veletek menetelünk Feketecsermely-völgybe, és gondoskodunk róla, hogy épségben megérkezzetek... Aztán mi továbbmegyünk."\n\n
+say.nr312_1_haunted_valley.3;A lyriaiak nemsokára megérkeztek Zsámolytetôre. A városka fôtere tele volt népekkel. Több tucatnyi törp álldogált ott kisebb-nagyobb csoportokban, hatalmas zsákokkal és szütyôkkel. Amikor aztán nagy pelyhekben nekiállt esni a hó, a törpök örömujjongásban törtek ki. Könnypatakok csorogtak az arcukon, de Meve nem tudta volna megmondani, hogy valami váratlan esemény idézte elô, vagy az erôs szél csalt könnyeket a szemükbe.
+say.nr312_1_haunted_valley.31;A törp elviharzott, hogy bejelentse a jó hírt telepes társainak. Mire a hóvihar elült, készen álltak az indulásra...
+say.nr312_1_haunted_valley.32;Miután a törp végzett az elbeszéléssel, erôsen megmarkolta a királynô kezét, és jutalmat ígérve azért könyörgött, hogy Meve és a lyriai hadsereg kísérjék el az expedíciót a Feketecsermely-völgybe.\n
+say.nr312_1_haunted_valley.46;Meve meglepôdve látta, hogy a telepesek még nem indultak el Zsámolytetôbôl. Haboztak nekiindulni egy olyan völgy felé, ami a közvélekedés szerint el volt átkozva. A királynô azon kezdett tûnôdni, hogy vajon ne legyen-e a segítségükre...
+say.nr312_1_haunted_valley.52;"A nemjóját, vihar közeleg...! Gábor! Mutasd az utat a legközelebbi településig! Fedezéket kell találnunk!"\n\n
+say.nr312_1_haunted_valley.53;"Nincs messze innét, alig néhány mérföldnyire, a fôúton észak felé haladva... Sokkal könnyebben tennénk meg az utat, ha lenne velünk egy sereg is, csak úgy, vész esetére."
+say.nr312_1_haunted_valley.8;"Az embereimnek nincs párja a csatamezôn."
+say.nr312_1_haunted_valley.9;"Nem tudom, mennyi haszna lesz a kardjainknak átkok és jelenések ellenében,"
+title.nr312_1_haunted_valley.47;Feketecsermely-völgy
+

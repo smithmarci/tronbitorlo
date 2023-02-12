@@ -1,0 +1,92 @@
+menu.nr310_1_thing.1;Megállj! Esetleg megválthatnám a szabadságát?!
+menu.nr310_1_thing.12;Közbeavatkozol a gnóm érdekében.
+menu.nr310_1_thing.13;Nem lépsz közbe.
+menu.nr310_1_thing.2;Nos... Legalább megpróbáltam.
+menu.nr310_1_thing.39;A büntetés kegyetlen és szokatlan, nem arányos az elkövetett bûntettel.
+menu.nr310_1_thing.40;Megválthatnám a szabadságát?
+menu.nr310_1_thing.92;El tudnád ismételni nekem pontosan, milyen szabályt szegett meg?
+menu.nr310_1_thing.94;Tedd, amit tenned kell, amit a törvény elôír.
+say.nr310_1_thing.1;Nos,... legalább megpróbáltam. Tedd, amit tenned kell, törp uram!
+say.nr310_1_thing.10;"Ez itt egy kivégzés."
+say.nr310_1_thing.101;Nem, dehogy! Nem kell! Egyáltalán nem!
+say.nr310_1_thing.103;Hahh! Végre, egy ember, aki nem akarja nekünk megmondani, hogyan éljünk! Príma egy némber vagy te... Már nem úgy értve. Ha akarod, megadhatod a hordónak a kezdôrúgást. Hm?
+say.nr310_1_thing.105;Hogy mondod, kérlek? Nem,... határozottan nem szeretném.
+say.nr310_1_thing.108;Most pedig kifelé a hordóból, te kis szarcsimbók!
+say.nr310_1_thing.11;Egy szôrös fej bukkant elô a hordóból. A hosszú, hegyes orr és fülek kétséget sem hagytak a felôl, hogy egy gnómhoz tartoznak. Egy olyan teremtményhez, amit Meve most látott életében elôször.\n\n
+say.nr310_1_thing.111;Ennek az ember nôszemélynek van feje, ráadásul egy elég tágas. Nos? Van válaszod számomra?
+say.nr310_1_thing.113;Öhömm. A törvény kimondja: “Fütyörészni a bányában a legsúlyosabb kihágás. Kövesse el bármely törp eme vétséget, azon nyomban hordóba dugjátok, és a mondott hordót a hegyoldalon legurítsátok."
+say.nr310_1_thing.115;"Bármely... törp." A helyzet egyértelmû. Ha az érzékszerveim nem csalnak, a vádlott egy gnóm.
+say.nr310_1_thing.117;Hm? Ööö, úgy van, az! De a törvényt nem kell... szó szerint venni. Azt... értelmezni kell. Hogy mi járt valójában törpôsök fejében, azt csak a tudósok tudnák megmondani.
+say.nr310_1_thing.119;Nem kell ide semmiféle tudós. Ahhoz, hogy törp legyél, törpnek kell lenned. Nem pedig nyomorult gnómnak.
+say.nr310_1_thing.12;Úgy tûnik, nem vagy hajlandó kegyelmet adni – senkinek, lefogadom... Mégis, eladni hajlandó lennél-e?
+say.nr310_1_thing.121;Tehát... én...? Ha jól értem, szabadon távozhatok?
+say.nr310_1_thing.123;Ajj... Rendben! Takarodj kifelé a hordóból, meg a szemem elôl is, te szôrös nudlinyújtogató!
+say.nr310_1_thing.126;Meve. Lyria és Rívia királynôje.
+say.nr310_1_thing.128;Egy ki-királynô? Tehenek a kukoricásban! Megtisztelô! Felség, hódolatom...
+say.nr310_1_thing.13;Na, végre! Szíves örömest.
+say.nr310_1_thing.130;Nem szükséges. A protokoll az udvarba való, nem azon kívülre. Feltalálónak mondod magad, igazam van?
+say.nr310_1_thing.132;Határozottan. Bár, az igazat megvallva, a törpök nem találtak semmilyen leleményességet a munkásságomban... Úgy fest, megelôzöm a koromat.
+say.nr310_1_thing.133;Tûzcsóva az ember tenyerébôl... Gondolod, hogy ennek lesz valaha divatja?
+say.nr310_1_thing.135;Ó, nem, dehogy, az csak egy kis málôr volt, semmi több... Tudja, véletlenül felcseréltem a higanyt a salétrommal. A fiolák ott álltak egymás mellett, tudja, és...
+say.nr310_1_thing.137;Nem érdekelnek a részletek. Viszont egy dolog igazán érdekelne. Tudnál készíteni olyan bombát, ami a kívánt pillanatban robban? Például az ellenségeim lába alatt, amikor rálépnek?
+say.nr310_1_thing.139;Hogy–– Természetesen tudnék! Hehh, az könnyû!
+say.nr310_1_thing.14;Ne! Neee!
+say.nr310_1_thing.141;Tehát... ki szeretnéd mutatni a hálád irányomban? Akkor csatlakozol a seregemhez, és segítesz legyôzni Nilfgaardot.
+say.nr310_1_thing.143;Le-legyôzni Nilfgaardot? Óóó... Színtiszta nagyravágyás, az bizony. De ha Felséged nem lenne, én most egy hordó roncsai között lennék, széttört csontokkal, a szakadék alján. A tartozásom fejében megteszem, amire kér.
+say.nr310_1_thing.145;Így – a lyriai évkönyvek szerint – elôször csatlakozott gnóm a hadsereghez. És bár Barnabás Beckenbauer termetére nézve parányi volt, az újonc bebizonyította, hogy megérte az árát... sokszorosan is.
+say.nr310_1_thing.17;A királynô nyeregbe szállt, és a térdével ösztökélte ménjét a minél gyorsabb távozásra. Nemsokára hangos, egyre távolodó sikolyt hallott, a szétreccsenô fa hangjait, száz törp örömujjongását,... majd a nagy csöndet.
+say.nr310_1_thing.2;Megállj! Várj!
+say.nr310_1_thing.20;Úgy lett, ahogy a törpök akarták. A hordó legördült a sziklaszirten, benne a szerencsétlen gnómmal. A különös kivégzés helyszínétôl távolodó lyriaiakban erôs elhatározás élt aziránt, hogy semmi olyat ne tegyenek, amivel a vendéglátóikat megsérthetnék...
+say.nr310_1_thing.22;Meve, figyelmen kívül hagyva Gábor tiltakozását, lecsusszant a nyeregbôl, és felkaptatott a rámpán.
+say.nr310_1_thing.24;Óóó! Az isteneknek hála!
+say.nr310_1_thing.26;Héka'! Ez nem megengedett... Teringettét, hé! Mit gondó'sz, mi' csiná'sz?
+say.nr310_1_thing.28;Azt hiszem, egészen nyilvánvaló – megakadályozok egy kivégzést.
+say.nr310_1_thing.3;Meve hunyorított, hogy jobban ki tudja venni a jelenetet. Több tucat törp gyülekezett egy szakadék fölé kiálló sziklaszirten. Mindannyian egy rámpa irányába fordultak, amely rámpának a tetején... egy hordó állt.\n
+say.nr310_1_thing.30;Ho-hó, némber, nincs jogod ahhoz! Megvolt mán az ítélkezés! A büntetés ki lett szabva!
+say.nr310_1_thing.31;Valóban. Egy felettébb kegyetlen büntetés. Olyan, ami elgondolkodtat, vajon mi a vádlott vétke, amivel ezt kiérdemelte.
+say.nr310_1_thing.32;Ha-haa! Jobb vóna azt kérdeni, hogy mit nem csiná't a férge!
+say.nr310_1_thing.33;Idejött ez a házaló a szekerével, azon mindenféle bigyóval meg kütyüvel. Házról házra járt, az egekig magasztalta a portékáját. Aztán mit adott el nekünk?
+say.nr310_1_thing.34;Bombát, ami még a kézben fölrobbant! Szakállnövesztô tonikot, amitôl lángra kapott a képünk! Zenélô dobozt a gyerkôcöknek – amit aztán ha egyszer felkurbliztál, onnantól baszott elkussolni!
+say.nr310_1_thing.35;Csak meg kellett volna lazítani a csavart a hátulján, és––
+say.nr310_1_thing.36;Pofa lapos, te svihák! De ez mind nem számít, mer' megbocsátottunk vó'na, ha nem szegi meg a szent törvényeinket és szokásainkat!
+say.nr310_1_thing.37;És melyikeket? Ha nem bánod, hogy megkérdem.
+say.nr310_1_thing.38;Betette a lábát a kovácsmûhelybe, sityakkal a fején! Nem átallott a szájával tartani a szögeket! És gyümölcsszirupot öntött a sörébe! Ráadásul málnát – pfajj!
+say.nr310_1_thing.4;A kecske rúgja meg! Mi a fenét akarsz még?
+say.nr310_1_thing.419;Hmm... Talán hagynunk kellene, hogy az Elöljáró bogozza ki ezt a csomót...
+say.nr310_1_thing.420;Úgy van. Mert hát mindannyian tudjuk, mennyire szereti Hoog, ha ilyen ügyekkel zargatják.
+say.nr310_1_thing.43;Tényleg megölnétek,... csak mert fütyörészett? Ez nevetséges!
+say.nr310_1_thing.44;Neked talán az! De a mi földünkön vagy, ahol a mi törvényeik uralkodnak. És idegeneknek nincs beleszólása!
+say.nr310_1_thing.45;Pontosan!
+say.nr310_1_thing.47;Várj egy percet! Pontosan mit is mond a Törpôsök Kódexe? Melyik passzusát szegte meg?
+say.nr310_1_thing.5;"Miért gyûltek itt össze ennyien?"
+say.nr310_1_thing.50;Mi a––? Ho–– Honnan a–– Egy némber, aki ráadásul ember, honnan tudhat a Törvénykönyvünkrôl?
+say.nr310_1_thing.6;"Dehogy"
+say.nr310_1_thing.61;A ti földetek, a ti törvényeitek, nem kívánom vitatni egyiket sem. De talán volna más megoldás? Váltságdíjért kiválthatnám?
+say.nr310_1_thing.62;Hajlandó vagyok a szaván fogni. Ez elég számodra?
+say.nr310_1_thing.63;Ó! Megéri! Ô meg! Megéri!
+say.nr310_1_thing.64;Hm... A törvény megenged ilyesmit... De nem látom, miért is érné meg neked ez a trágyakupac.
+say.nr310_1_thing.65;Legyen. De csak hogy tisztázzuk: se áruvisszaküldés, se pénzvisszatérítés!
+say.nr310_1_thing.67;Úrnôm... Nem is tudom, hogyan hálálhatnám meg...
+say.nr310_1_thing.68;Hm? Ah, igen, természetesen, milyen buta is vagyok... Barnabás, Barnabás Beckenbauer. A barátaimnak Bibi.
+say.nr310_1_thing.69;Ezt még megbeszéljük. Talán elôbb bemutatkozhatnánk?
+say.nr310_1_thing.7;"Talán valamilyen ünnepnap van?"\n
+say.nr310_1_thing.72;"Segítsééég! Mentsetek meeeg!!"
+say.nr310_1_thing.74;– visította a gnóm. –
+say.nr310_1_thing.75;– vakkantotta oda neki a mellette álló törp, aki aztán visszaszuszakolta a gnómot a hordóba, majd rárakta annak fedelét. –
+say.nr310_1_thing.76;"Meg akarnak ölni, a szakadékba akarnak dobni."\n
+say.nr310_1_thing.77;"Befogod a pofád!"
+say.nr310_1_thing.8;– kérdezte a királynô. –
+say.nr310_1_thing.80;"A bûneid már önmagukban olyan súlyosak, hogy ennél nem úszhatod meg kevesebbel!"\n\n
+say.nr310_1_thing.81;A többi, körülöttük tolongó törp egyetértôen bólogatott. Ketten megfogták a hordót, az oldalára fektették, majd felemelték, hogy aztán a szakadékba vessék, nem is törôdve a belôle hallatszódó dörömböléssel...
+say.nr310_1_thing.82;Azt is csak egyszer! És alig néhány cseppnyit!
+say.nr310_1_thing.84;Felesleges magyaráznod a gazságaidat, csirkefogó! Kár szájalnod!
+say.nr310_1_thing.86;És nem ezek vó'tak a legrosszabbak! A legfôbb bûntettét a végére tartogatta: lement a bányába,... és fütyörészett!
+say.nr310_1_thing.88;O-hó, ó-ha, úgy van, ez tényleg rossz! Azt nem kellett volna!
+say.nr310_1_thing.9;– válaszolta Gábor komoran. –
+say.nr310_1_thing.90;Pedig azt csiná'ta! Fütyörészett! A szájával! És melléje még dudorászott is – zümmögô harmóniában! Mind hallottuk, a tárna teljes hosszában! És a Vének meghagyták, hogy a büntetése: halál! Halál... hordógurítás által!
+say.nr310_1_thing.95;Ne izgasd fel magad, talán találhatunk más megoldást––
+say.nr310_1_thing.97;Elég ebbôl a szájtépésbôl! Komák, szegezzétek rá a fedelet, aztán adjuk meg neki a kezdô löketet!
+say.nr310_1_thing.99;A törvényeiteket nem értem,... de, mint vendégnek, el kell fogadnom ôket.
+title.nr310_1_thing.1;Hordógurítás általi halál
+title.nr310_1_thing.415;Hordógurítás általi halál
+

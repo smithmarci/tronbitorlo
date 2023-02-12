@@ -1,0 +1,65 @@
+menu.nr301_3c_gabor_confession.1;Senki sem vizsgálódott?
+menu.nr301_3c_gabor_confession.100;De mégis, hogy csinálták?
+menu.nr301_3c_gabor_confession.317;Megfontolás tárgyává teszem.
+menu.nr301_3c_gabor_confession.318;Van bôr a képeden.
+menu.nr301_3c_gabor_confession.47;Gascon, próbára teszed a türelmemet.
+menu.nr301_3c_gabor_confession.48;Elismerem... Nem csak a csökönyössége miatt emlékeztetett egy öszvérre.
+menu.nr301_3c_gabor_confession.99;Tényleg nem tudtad volna elejét venni a mészárlásnak?
+say.nr301_3c_gabor_confession.279;Ajjaj... Ahogy Dezmond király mondta egyszer, miután a gatyájába rottyantott egy böcsületeset: ezt se söpörhetjük a szônyeg alá.
+say.nr301_3c_gabor_confession.280;Ezért, hogy megállítsuk ôket, a klánom... megcselekedte a megbocsáthatatlant. A Zigrinek vénei megláttak egy kínálkozó lehetôséget, és...
+say.nr301_3c_gabor_confession.281;Ez a két hely volt a Fuchs-ok, az ôsellenségeink otthona. Évszázadok óta szálka voltak a szemünkben: mindenbe beleütötték az orrukat, elvettek bármit, és akkor, amikor csak akarták... Az Elöljáró meg fikarcnyit se törôdött az egésszel.
+say.nr301_3c_gabor_confession.282;Mi–– Miért? Mi az, amit el akartak rejteni mindenki elôl?
+say.nr301_3c_gabor_confession.283;Az volt a feladatom, hogy biztosítsam, elpusztítja Borófenéket és a Davor–vájatot, hogy semmi nyomuk ne maradjon.
+say.nr301_3c_gabor_confession.284;Hát jó, szóval, ahh... Igaz... Félrevezettem Kegyedet. A klán vénjeinek parancsára.
+say.nr301_3c_gabor_confession.285;Ha azt hiszed, helye van most a tréfálkozásnak, akkor súlyos tévedésben leledzel. Igencsak kedvem lenne hívatni a hóhért.
+say.nr301_3c_gabor_confession.288;Hogy én...?! Én a kisujjamat se emeltem rájuk. Valójában még próbáltam is megfékezni a klánbelijeimet!
+say.nr301_3c_gabor_confession.289;Az istenekre... Tehát te vagy a felelôs azoknak a törpöknek a haláláért...?
+say.nr301_3c_gabor_confession.293;Senki sem maradt életben közülük... Ami azt jelenti, hogy az egész klánt lemészároltátok. Mégis hogyan?
+say.nr301_3c_gabor_confession.294;Királynô, biztos benne, hogy...?
+say.nr301_3c_gabor_confession.295;Kurafik!
+say.nr301_3c_gabor_confession.296;Miután végeztek a várost védô csekély számú ôrséggel, ôk... befûtöttek nekik, majd eltorlaszolták a kapukat. Amazoknak... esélyük sem volt...
+say.nr301_3c_gabor_confession.297;A túlélôk Borófenékre húzódtak vissza a tél elôl. A véneink pedig úgy gondolták, hogy nem kínálkozik még egy olyan alkalom.
+say.nr301_3c_gabor_confession.298;A Fuchs–ok keményen harcoltak, véres csatát vívtak azért, hogy távol tartsák a dögöket a Davor–vájattól. Majd' minden fejszét forgatni képes törpjük odaveszett közben.
+say.nr301_3c_gabor_confession.299;Az éhínség elôcsalta a bestiákat az odúikból. A szorosban hömpölygött a mocskok árja, és elragadtak bárkit, akit a falakon kívül értek.
+say.nr301_3c_gabor_confession.300;Sok évvel ezelôtt rettentô tél csapott le ránk. Csontroppantó fagyok, vakító fehér hóviharok, lavinák,... amik az utazást az öngyilkosság egy igazán fájdalmas válfajává változtatták.
+say.nr301_3c_gabor_confession.301;...
+say.nr301_3c_gabor_confession.302;Az vagyok, és jobban teszed, ha elmondasz mindent, nem megfeledkezve a legapróbb részletrôl sem.
+say.nr301_3c_gabor_confession.305;Hogy lehet az, hogy ez idáig nem derült fény az igazságra?
+say.nr301_3c_gabor_confession.306;Visszataszító.
+say.nr301_3c_gabor_confession.307;Úgy van... De a véneink aggódni kezdtek amiatt, hogy Brouver talán megneszelt valamit. Ezért akarták, hogy Felséged megsemmisítse a tettünk összes bizonyítékát.
+say.nr301_3c_gabor_confession.308;Kitaláltátok a mesét a rémségekrôl, amiket a Fuchs-ok ébresztettek fel azáltal, hogy túl mélyre találtak ásni. Egy igazán lebilincselô mese, aminek ráadásul még tanulsága is van.
+say.nr301_3c_gabor_confession.309;A Zigrinek, kik onnan visszatértek, többé már nem azok voltak, akik régen. Ha látta volna a tekintetüket, amikor megfogadtatták velünk, hogy a sírig hallgatunk a történtekrôl... Aztán...
+say.nr301_3c_gabor_confession.310;Amint az egésznek vége lett, a törpjeink kinyitották a kapukat. Ám még mielôtt rágyújthattak volna a pipájukra, bestiák hordái özönlöttek elô a szurdokból – odavonzotta ôket a halott hús szaga...
+say.nr301_3c_gabor_confession.312;Azt állítod, hogy nem volt részed benne... Ám nem is tettél semmit annak érdekében, hogy megakadályozd.
+say.nr301_3c_gabor_confession.313;Meve... Királynô... Könyörögve kérem,... az Elöljáró nem tudhatja meg az igazat! Nekem is turhát kell köpnöm, ha arra gondolok, amit a véneink tettek, de ha felfedi a történteket, azzal csak még több fájdalmat és halált hoz ránk.
+say.nr301_3c_gabor_confession.314;Hogy ô? A bûnösöket? Nem ismeri Brouvert... Megbüntette volna az egész klánt: minden nôt, gyereket... Kivétel nélkül!
+say.nr301_3c_gabor_confession.315;Talán ha tájékoztattad volna az Elöljárót. Akkor megbüntették volna a bûnösöket.
+say.nr301_3c_gabor_confession.316;Mit kellett volna tennem? A vének döntöttek, egy törp se hallgatott volna énrám!
+say.nr301_3c_gabor_confession.322;Nem mondom, van bôr a képeden, hogy kérni mersz, miután hazudtál nekem...
+say.nr301_3c_gabor_confession.323;Csak szerettem volna, ha tudja, mi forog kockán. De... tegyen, ahogy jónak látja. Mint mindig.
+say.nr301_3c_gabor_confession.324;Át kell gondolnom, mi lenne a helyes. Addig is,... Gascon, gondoskodj róla, hogy Gábor a vendégünk maradjon.
+say.nr301_3c_gabor_confession.325;Mindenképp. Azonnal szólni fogok, ha már csak a tekintetével menekülôút után találna kutatni.
+say.nr301_3c_gabor_confession.37;Ahogy Meve a Hosszúhídhoz közeledett, utasításba adta a trombitásnak, hogy jelentse be az érkezésüket, aztán visszatért a sátrába, hogy felfrissítse magát. Gascon már odabent várt rá...
+say.nr301_3c_gabor_confession.39;Nem emlékszem, hogy hívattalak volna.
+say.nr301_3c_gabor_confession.41;Ebben az esetben el kell mondanom, hogy nincs okod az aggodalomra – semmi baja az emlékezôkészségednek. Nem hivatalos ügyben érkeztem, hanem csak úgy, úgymond diskurálni egyet.
+say.nr301_3c_gabor_confession.43;Hmmm. Akkor javaslom, távozz, csak úgy. Tiszta öltözetet kell felvennem. Hamarosan találkozom az Elöljáróval, és szeretném, ha közben nem lóverejtéktôl bûzlenék.
+say.nr301_3c_gabor_confession.45;Kétlem, hogy számára bármiféle különbséget jelentene ez. Higgy nekem, tudom, hogy mirôl beszélek. Mikor legutóbb találkoztunk vele, volt szerencsém széliránnyal szemben állni. És nem csak a tekintete volt szúrós.
+say.nr301_3c_gabor_confession.51;Gascon, kezdem elveszíteni a türelmemet. Vagy bökd ki tüstént, miért jöttél, vagy kikísértetlek az ôreimmel.
+say.nr301_3c_gabor_confession.53;Ahh... Egy csöpp humorérzéknek se semmi jele...
+say.nr301_3c_gabor_confession.55;A leheletét érezhetted akkor. Olyan átható volt a szaga, hogy azt hittem, menten elájulok.
+say.nr301_3c_gabor_confession.57;Pedig még a repülôsónál is hatásosabb lett volna, már ha magadhoz kellett volna téríteni––
+say.nr301_3c_gabor_confession.59;Gascon! Kérlek! Ahh... Mostantól rémálmaim lesznek...
+say.nr301_3c_gabor_confession.61;Ám nem ma éjjel. Félô, hogy egyáltalán nem fogsz tudni aludni. Ugyanis...
+say.nr301_3c_gabor_confession.66;Volna itt valami, amirôl tudnod kell... És mindenképpen még azelôtt, mielôtt Brouverrel találkoznál.
+say.nr301_3c_gabor_confession.70;A helyeken, ahonnan elirtottuk a szörnyeket, nos, én kutakodtam egy kicsit. Észrevettem valami különöset. Van tipped rá, mi lehet az?
+say.nr301_3c_gabor_confession.72;Nincs. A monumentális törp építészetre gondolsz talán?
+say.nr301_3c_gabor_confession.74;Csontokra, drága Meve. Törp csontokra. Találd ki, mit találtam rajtuk!
+say.nr301_3c_gabor_confession.76;Várj, ne segíts! Harapásnyomokat?
+say.nr301_3c_gabor_confession.78;Természetesen. Végtére is, a szörnyetegek tisztára csócsálták azokat... Ami által azonban véletlenül más jelek is észrevehetôvé váltak. Olyanok, amiket fejszék és kardok csinálnak. Hogy biztosra menjek, megmutattam a csontokat a seborvosainknak,... akik megerôsítették a feltételezésemet.
+say.nr301_3c_gabor_confession.79;Miszerint? Az egész klán, a Fuchs-ok...
+say.nr301_3c_gabor_confession.81;Nem a mélységekbôl elôtörô szörnyhordáknak estek áldozatul. A bestiák csupán csak felfalták a tetemeket, aztán beköltöztek az üresen maradt otthonokba.
+say.nr301_3c_gabor_confession.83;Mármost, megosztottam a felfedezéseimet Gáborral,... és találd ki, erre mit csinált! Bepánikolt. Nekiállt fészkelôdni és sületlenségeket hadoválni... A jobb karomat tenném rá, hogy rejteget elôlünk valamit.
+say.nr301_3c_gabor_confession.89;A francba...! Már az elejétôl fogva túlontúl készségesnek mutatkozott aziránt, hogy segíthessen nekünk. Már akkor gyanúsnak kellett volna lennie.
+say.nr301_3c_gabor_confession.91;Rögtön érte is küldetek... És köszönöm, Gascon! Nem felejtem el ezt neked.
+say.nr301_3c_gabor_confession.93;Gábor hamarosan a királynô színe elôtt állt. Az elején még megpróbálta kitérô válaszaival elmismásolni a dolgot, ám ahogy a királynô célirányos kérdéseivel egyik kifogását a másik után semmisítette meg, nem volt más választása, mint hogy színt valljon.
+

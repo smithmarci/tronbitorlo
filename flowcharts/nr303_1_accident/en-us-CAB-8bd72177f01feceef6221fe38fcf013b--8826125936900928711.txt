@@ -1,0 +1,48 @@
+menu.nr303_1_accident.45;Megtámadod a barbegazikat.
+menu.nr303_1_accident.46;Folytatod az utadat.
+say.nr303_1_accident.1;A lyriaiak egy keskeny, szélfútta ösvényen haladtak a sziklapárkány mentén. Egyik oldalukon hóborította sziklagörgeteg, a másikon pedig sok száz láb mély szakadék.\n
+say.nr303_1_accident.10;"Tessék?"\n
+say.nr303_1_accident.12;"Gondolkodj! Olyan magas legyen, mint egy átlagos törp, vagy mint egy ember? Vagy' húsz esztendeje folyik a vita! Egyik részrôl ott van a––"
+say.nr303_1_accident.14;Gábor nem fejezhette be az eszmefuttatását. Ugyanis félbeszakította egy barbegazi, ami a sziklákról vetette rájuk magát.\n
+say.nr303_1_accident.16;"Íjászok, lôjetek! A hasukra célozzatok!"\n
+say.nr303_1_accident.18;Meve katonái hamar elintézték a magányosan támadó szörnyet,... de a csatazaj megrémisztette a szekerek elé bekötött lovakat.\n
+say.nr303_1_accident.20;"Hé, nyugalom! Nyugi, a fenébe!!"
+say.nr303_1_accident.22;A kocsis megpróbálta megzabolázni az állatokat, de nem járt sikerrel – azok magukkal rántották a szakadékba, a kocsin utazó katonákkal együtt. Egy sziklakiszögellésen értek földet, több tucat lábnyival lejjebb. Hamarosan pedig barbegazik özönlöttek rájuk mindenhonnan...
+say.nr303_1_accident.24;"Látta valamelyikôtök, hova zuhantak? Maradt közülük bárki is életben?"
+say.nr303_1_accident.26;– kérdezte Meve kihajolva a párkány szélén.\n
+say.nr303_1_accident.28;"Én jobban aggódnék a szállítmány miatt"
+say.nr303_1_accident.3;"Legalább építhettek volna ide valami korlátot"
+say.nr303_1_accident.30;– felelte Gascon. –
+say.nr303_1_accident.32;"Több láda arany is volt velük."\n
+say.nr303_1_accident.34;"A francba... Nem tudunk lejutni oda. Túl meredek, és a hó meg csak egyre esik."\n
+say.nr303_1_accident.36;"Leereszkedhetnénk egyesével,... de kizárólag páncél, pajzs vagy fegyverek nélkül, máskülönben elpattana a kötél."\n
+say.nr303_1_accident.38;"És a barbegazik?"
+say.nr303_1_accident.40;– kérdezte a királynô homlokráncolva. –
+say.nr303_1_accident.42;"Tôrökkel nem tudunk végezni velük, ahhoz túl vastag a páncélzatuk."\n
+say.nr303_1_accident.44;"Meg kell próbálnunk,... vagy folytatnunk kell az utunk."
+say.nr303_1_accident.5;– nyavalygott Gascon, miközben leverte a havat a kalpagjáról.\n
+say.nr303_1_accident.58;"Még csak azt sem tudjuk, hogy bárki is túlélte-e a zuhanást..."
+say.nr303_1_accident.6;"Voltak rá tervek"
+say.nr303_1_accident.60;– mondta Meve, és ellépett a peremtôl. –
+say.nr303_1_accident.62;"És az arany... nem ér meg ekkora kockázatot."\n
+say.nr303_1_accident.64;"Meve, Meve..."
+say.nr303_1_accident.66;– mondta Gascon egy fejcsóválás kíséretében. –
+say.nr303_1_accident.68;"Az arany minden kockázatot megér."\n
+say.nr303_1_accident.7;– közölte Gábor. –
+say.nr303_1_accident.70;"Egy tolvajnak, valóban. De nem egy királynônek. Eldöntetett. Továbbmegyünk."\n\n
+say.nr303_1_accident.72;A lyriaiak folytatták a menetelést, még nagyobb elôvigyázatossággal botorkálva elôre a jeges köveken...
+say.nr303_1_accident.73;Megfosztva kardjától és pajzsától Meve-nek esélye sem volt, hogy akár egyetlen csapást is kiálljon. Ezért táncba kezdett a fagyott felszínû havon, ügyesen kerülve el a barbegazik villámgyors támadásait, és közben maga is be-bevitt egy-egy jól irányzott találatot, leginkább a szörnyek szemeire, füleire és állára célozva.
+say.nr303_1_accident.74;"Csak egyszer élünk..."
+say.nr303_1_accident.76;– sóhajtotta Meve. –
+say.nr303_1_accident.78;"Gascon! Keríts néhány önkéntest, és lássunk hozzá!"\n\n
+say.nr303_1_accident.8;"Csak azt kell még eldönteni, hogy milyen magas legyen."\n
+say.nr303_1_accident.80;Kis idô múlva a királynô már a kötélen ereszkedett alá, egyenesen a barbegazik csattogó pofája felé, és nem volt rajta más páncél, csak egy gyapjúing...
+say.nr303_1_accident.82;Amikor az utolsó förmedvény is élettelenül hanyatlott a földre, Meve odasétált a szétzúzódott szekérhez. A korábban rajta utazó katonák tele voltak horzsolásokkal, zúzódásokkal, és fagyás okozta más sérülésekkel,... de legalább éltek.\n
+say.nr303_1_accident.84;"Felség, már biztosra vettük, hogy hátrahagy bennünket."\n
+say.nr303_1_accident.86;"Egy jó uralkodó nem hagyja sorsára a népét."\n
+say.nr303_1_accident.88;"Sem pedig az aranyát"
+say.nr303_1_accident.90;– fûzte hozzá Gascon, miközben kötelet erôsített az egyik kincsesláda köré.
+say.nr303_1_accident.91;Hamarosan mindannyian biztonságban álltak az ösvényen. A csodálat, amit Meve a katonái szemében látott, már magában elég jutalom volt a nehéz küzdelemért.
+title.nr303_1_accident.560;A peremen
+title.nr303_1_accident.96;A peremen
+

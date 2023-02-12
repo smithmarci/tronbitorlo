@@ -1,0 +1,42 @@
+menu.nr307_1_avalanche.29;Folytasd...
+menu.nr307_1_avalanche.30;Nem szándékosan? Micsoda ostobaság!
+say.nr307_1_avalanche.1;A lyriaiak felhágtak a Mahakam-hegység legmagasabb, gyalog még megközelíthetô pontjára. Hó ropogott a talpuk alatt, a hideg levegô csípte a tüdejüket, és a szél minduntalan bele-belekapott a köpönyegükbe.\n
+say.nr307_1_avalanche.10;"Ne csak álljatok ott! Gyerünk, a sziklák mögé! Gyorsan! Szaporán!"
+say.nr307_1_avalanche.11;Meve követte a törp tekintetét,... és rémületében felkiáltott. A hegyoldalt borító hó megindult egy lejtôn, jeges hóport görgetve maga elôtt. Még mielôtt egyáltalán reagálhatott volna, a fehér zuhatag ledöntötte a lábáról, térdre rogyasztotta, átcsapott fölötte, betemette, és a földnek passzírozta. Nem érzett ezután mást, csak mindent beborító hideget – és jeges félelemet.
+say.nr307_1_avalanche.13;Meve túlélte. A lyriaiak megmentésére sietô törpök még idôben kiásták a hó alól. Ám jó néhány katonája nem volt ilyen szerencsés... A királynô meglátta a lilára fagyott holttesteiket. Mellettük döglött lovak és szétzúzott szekerek hevertek. A veszteségeik óriásiak voltak.\n\n
+say.nr307_1_avalanche.15;Meve megtörölte az orcáját. A könnyei égették elfagyott bôrét.
+say.nr307_1_avalanche.16;Elmondom majd, ha itt lesz az ideje. Elôbb... egy forró italra van szükséged, és finom ételre...
+say.nr307_1_avalanche.18;Nem, Gábor. Meg kell tudom, hogy mi a nyavalya történt itt.
+say.nr307_1_avalanche.19;Nos, egy lavina, az történt...
+say.nr307_1_avalanche.21;Persze, hogy lavina volt, nem vagyok ostoba. De mi okozta? Mi volt az a hang?
+say.nr307_1_avalanche.23;Á, hogy az... Jelzôkürtök. A mieink.
+say.nr307_1_avalanche.25;Szóval ti hoztátok ránk ezt a veszedelmet? Ti, törpök?
+say.nr307_1_avalanche.27;Nos, meglehet... De, köhömm, nem szándékosan!
+say.nr307_1_avalanche.279;Gábor jó ideig eldiskurált a segítségükre érkezô mahakami gárda járôreivel... Zord volt az ábrázata.
+say.nr307_1_avalanche.280;Mi az? Mit tudtál meg?
+say.nr307_1_avalanche.3;"Ahh..."
+say.nr307_1_avalanche.33;Fölöttébb kíváncsi volnék rá, miképp szólaltat meg valaki egy kürtöt anélkül, hogy tudatában lenne annak. Ritka látványosság lehet.
+say.nr307_1_avalanche.35;Meve, hagyd, hogy megmagyarázzam...!
+say.nr307_1_avalanche.36;Hagyom. És melegen ajánlom, hogy a magyarázat ne egy satnya mentegetôzésnek hangozzék!
+say.nr307_1_avalanche.38;Fejtsd ki! De röviden.
+say.nr307_1_avalanche.4;– Meve letörölte a verejtéket a homlokáról, majd Reynardhoz fordult. –
+say.nr307_1_avalanche.43;Tudnod kell, hogy... gyakorta tisztogatjuk a hegyeinket, mint ahogy az emberek is lesöprik a havat a háztetôikrôl – máskülönben az egész hóbelevanc a nyakunkba szakadhat.
+say.nr307_1_avalanche.45;Amikor a hó már elég mély, megszólaltatjuk a kürtöket, hogy irányított hócsuszamlást idézzünk elô. Aztán már csak egy kis söprögetés, és az utak újra biztonságosak.
+say.nr307_1_avalanche.47;Ez mind rendjén is volna. De miért pont akkor döntöttetek a takarítás mellett, amikor épp erre haladtunk át?!
+say.nr307_1_avalanche.49;Ezen magam is csodálkozom. A menetrend szerinti következô hótakarítás csak egy hét múlva lett volna esedékes. De valaki kérvényezte, hogy az útvonal a szokásosnál elôbb legyen letisztítva.
+say.nr307_1_avalanche.51;Kicsoda?
+say.nr307_1_avalanche.53;Meve, elmondom, de elôbb ígérd meg––
+say.nr307_1_avalanche.54;KICSODA?!
+say.nr307_1_avalanche.56;Ööö... Owain aep Clenwog. A nilfgaardi követ.
+say.nr307_1_avalanche.6;"Ott, a szikláknál! Ott majd––"
+say.nr307_1_avalanche.71;Azt gondolom, ez volt a bosszú azért, amiért megtámadtátok a karavánt...
+say.nr307_1_avalanche.75;Valahonnan biztosan megneszelte, hogy erre fogunk elhaladni...
+say.nr307_1_avalanche.77;A szukafattya...! Reynard! Reynard!!
+say.nr307_1_avalanche.79;Várjon, várjon...! Megértem, hogy most egy pöttyet zabos vagy, meg is van rá az okod... De sosem fogod tudni bebizonyítani, hogy Owain ártani akart Neked. A sunyi menyét gondoskodott róla, hogy a mancsai tiszták maradjanak.
+say.nr307_1_avalanche.8;A mondandója többi része egy hatalmas robbanásba veszett – az egész hegy rázkódni kezdett egy mély, robajló moraj kíséretében. A hang visszaverôdött a sziklákról, egyre csak erôsödött, annyira, hogy már fájni kezdett tôle a fülük. A lyriaiak zavartan kapkodták körbe a fejüket. Csak kevesen hallották meg Gábor figyelmeztetését:\n
+say.nr307_1_avalanche.81;Nincsenek efféle skrupulusaim. Felkutatom, és megölöm.
+say.nr307_1_avalanche.83;És aztán? Milyen mesét adsz elô Brouvernek?
+say.nr307_1_avalanche.85;Meve, joggal vagy teljesen pipa, de az istenek szerelmére – ez egyszer engedd el. Különben anélkül fogsz távozni Mahakamból, hogy lópikulát se kaptál.
+say.nr307_1_avalanche.87;Kisvártatva a felderítôk jelentették, hogy a baleset helyszínétôl északra látták táborozni Owaint. Meve-nek el kellett döntenie, mennyit hajlandó kockáztatni ahhoz, hogy bosszút álljon a nilfgaardi követen...
+title.nr307_1_avalanche.88;Fehér halál
+

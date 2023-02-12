@@ -1,0 +1,10 @@
+say.nr304_1_gold_rush_combat.1;Kik vagytok? Dobjátok el a fegyvereiteket!
+say.nr304_1_gold_rush_combat.11;Ó, bocsánat, Meve. Összetévesztettelek Reynarddal.
+say.nr304_1_gold_rush_combat.13;Hallottatok valamit? Mi lehetett az?
+say.nr304_1_gold_rush_combat.15;Reynard! Gyôzelemre állunk? Az égvilágon semmi se látok!
+say.nr304_1_gold_rush_combat.17;A gnómérzékeim azt súgják,... hmm... azok határozottan nem szellemek!
+say.nr304_1_gold_rush_combat.3;Állj! Elég! Megadjuk magunkat!
+say.nr304_1_gold_rush_combat.5;Nem úgy van az, ti dobjátok el a tieteket!
+say.nr304_1_gold_rush_combat.7;Használjátok a lámpásokat! Az is több, mint a semmi!
+say.nr304_1_gold_rush_combat.9;Ki fogott meg...?
+

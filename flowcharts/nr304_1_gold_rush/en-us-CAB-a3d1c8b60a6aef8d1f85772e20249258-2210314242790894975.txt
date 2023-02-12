@@ -1,0 +1,53 @@
+menu.nr304_1_gold_rush.2;Megnézed, mi folyik a bányában.
+menu.nr304_1_gold_rush.3;Nem avatkozol közbe.
+menu.nr304_1_gold_rush.65;Hagyod távozni a ríveket.
+menu.nr304_1_gold_rush.66;Átadod a ríveket a törpöknek.
+menu.nr304_1_gold_rush.90;Megnézed, mi folyik a bányában.
+menu.nr304_1_gold_rush.91;Nem avatkozol közbe.
+say.nr304_1_gold_rush.1;Egy bánya mellett elhaladtukban Meve a tárna bejáratánál tömörülô törpök csoportjára lett figyelmes. Dér lepte a szakállukat és bajszukat, ami arra engedett következtetni, hogy ott álldogáltak már egy ideje. A királynô hívatta Gábort, és megkérte, hogy derítse ki, mi lehet az oka ennek az ülôsztrájknak. A törp nem sokkal késôbb vissza is tért, és egészen különös dologról számolt be.\n
+say.nr304_1_gold_rush.10;"A munkavezetô azt kívánja, hogy abbamaradjon a kopogás"
+say.nr304_1_gold_rush.100;"Fösvények módjára ôrzik a kincsüket, és fikarcnyit sem törôdnek mások szenvedésével. Látják, hogy mi ott lent a völgyekben éhezünk,... és kisujjukat sem mozdítják értünk.
+say.nr304_1_gold_rush.12;"Ha a törpök hagynák oda a hegyeket, hogy a ríviai termôföldekrôl lopjanak,"
+say.nr304_1_gold_rush.13;"Egy olyan tárnába leereszkedni, ami bármelyik pillanatban beomolhat, nem a legragyogóbb ötlet"
+say.nr304_1_gold_rush.14;– jelentette ki Gábor, és vállon veregette Reynardot. –
+say.nr304_1_gold_rush.15;"Arra várnak, hogy abbamaradjon a kopogás."
+say.nr304_1_gold_rush.16;Meve arckifejezését látva Gábor nekilátott elmagyarázni a dolgot:\n
+say.nr304_1_gold_rush.17;"Á, igen! A mi bányászaink is hisznek ebben a babonában"
+say.nr304_1_gold_rush.19;– vetette közbe Reynard. –
+say.nr304_1_gold_rush.21;"Azt mondják, hogy a kopogás egy kincstárnokgnómtól ered, egy afféle bányaszellemtôl."
+say.nr304_1_gold_rush.23;"Tisztelettel, de a bányászaik agyalágyultak"
+say.nr304_1_gold_rush.24;"A kopogás azt jelenti, hogy a kôzetformációban felgyülemlett rugalmas potenciális energia hirtelen felszabadul. Más szóval, bányarengés néven ismerhetik. Csak annyi a különbség, hogy ez általában lezajlik egy-két napon belül... Most viszont a legények már két hete várakoznak. A munkavezetô elvesztette a türelmét. Le akar küldeni valakit a tárnába, hogy megnézzék, mi lehet a gond, de... nos, a törvény megtiltja, hogy bármi ilyesmit csináljunk."
+say.nr304_1_gold_rush.26;– mondta Meve, mielôtt parancsba adta az embereinek, hogy folytassák a menetelést. A törp bányászok úgy ültek ott tovább mozdulatlanul, mint a szobrok, és hallgatták a mélybôl jövô kopogást...
+say.nr304_1_gold_rush.29;– sóhajtott fel a királynô, és leszállt a nyeregbôl. –
+say.nr304_1_gold_rush.31;"Akkor legyen. Majd én lemegyek, és megnézem, mi a gond."\n\n
+say.nr304_1_gold_rush.33;A tárna túl szûk volt ahhoz, hogy egy egész hadsereg elférjen benne, így hát Meve egy kisebb különítménnyel hatolt be, bányászlámpákkal a kezükben, és a torkukban dobogó szívvel. Az ütemes kopogás a hegy mélye felôl jött, és ahogy a hang a járatok falán visszaverôdve megsokszorozódott és összefolyt, az nyugtalanító volt.
+say.nr304_1_gold_rush.35;Hamarosan a csapat megérkezett egy olyan helyhez, ami a kopogás forrásának tûnt. Gábor a kövekre tapasztotta az egyik fülét, és csöndben hosszasan hallgatózott,... {audio=nr304_1_gold_rush_gabor}majd minden erejével lesújtott a falra. A fal egy hatalmas roppanás után leomlott, ezzel átjárót kínálva egy másik folyosóra,... amibôl aztán... számos ellenfél ugrott elô!
+say.nr304_1_gold_rush.415;"A törvényeink értelmében törp nem mehet be olyan bányába, amibôl kopogás hallatszódik ki. Kötelesek vagyunk megvárni, amíg abbamarad a zajongás."\n
+say.nr304_1_gold_rush.419;– magyarázta az egyik rív. –
+say.nr304_1_gold_rush.420;A foglyok hitetlenkedve tekintgettek egymásra, mintha csak szellemet látnának. Végül egyiküknek sikerült valami válaszfélét kinyögnie:\n
+say.nr304_1_gold_rush.421;"De... Úrnôm! Kegyed a királynônk! Arra esküdött fel, hogy megvédelmez bennünket!"\n
+say.nr304_1_gold_rush.422;"A vésztôl, igen. De nem a kijáró büntetéstôl."\n\n
+say.nr304_1_gold_rush.423;A foglyok elmondása szerint a királyságuk nilfgaardi megszállása után borzasztó éhínség ütötte fel fejét. Néhány elkeseredett lakos aztán egészen Mahakam hegyeiig is elment, hogy élelmet találjon, majd kockázatos bányászatba fogott értékes ásványok után... anélkül, hogy a törpöket is megkérdezte volna, mi a véleményük errôl.\n
+say.nr304_1_gold_rush.50;Mindkét fél meg volt lepôdve, mind a fáklyák gyér fényében, már-már négykézlábra ereszkedve küzdöttek. Végül a királynô került ki gyôztesen az összecsapásból, és amint el tudta tenni a kardját, megkérdezte az újdonsült foglyoktól azt, ami már mindenkit foglalkoztatott.\n
+say.nr304_1_gold_rush.52;"Ki a démonok vagytok?"\n
+say.nr304_1_gold_rush.53;Meve azonnal megismerte az akcentust. A férfiak Ríviából valók voltak. De vajon mit csináltak az otthonuktól ilyen távol?
+say.nr304_1_gold_rush.55;"Hogy aztán mit tegyenek velük? Kényszermunkára ítéljék, vagy azon nyomban felkössék ôket?"
+say.nr304_1_gold_rush.56;– kérdezte Reynard felemelve általában nyugodt hangját. –
+say.nr304_1_gold_rush.58;"Ezek az Ön alattvalói, Királynô. Szemet vetettek a szomszédaik tulajdonára, igaz,... de csak mert nekik maguknak semmijük nincs."
+say.nr304_1_gold_rush.6;"Ha ily módon adósommá tehetem a barátaidat..."
+say.nr304_1_gold_rush.60;"Meve... Ez kemény dió, tudom"
+say.nr304_1_gold_rush.62;– mondta Gábor. –
+say.nr304_1_gold_rush.64;"De ne ámítsuk magunkat. Ezek a férfiak tolvajok, és át kell adni ôket a mahakami gárdának."\n
+say.nr304_1_gold_rush.68;Meve nehéz szívvel adta át a ríveket a mahakami gárdának. Vajon mi lett a sorsuk? Nem tudnék biztosat mondani. Ám többé senki nem látta ôket.
+say.nr304_1_gold_rush.70;– mondta a királynô, –
+say.nr304_1_gold_rush.72;"és így is lett. Ami pedig titeket illet... Térjetek haza Ríviába. És mondjátok el mindenkinek, hogy a királynôjük hamarosan visszatér. Egy hadsereg élén."\n\n
+say.nr304_1_gold_rush.74;A hálás rívek hamar összeszedték a szerszámaikat, és maguk mögött hagyták a hegyeket. Meve–nek nem volt kétsége afelôl, hogy Brouver Hoog hamarosan tudomást szerez az incidensrôl, és nem lesz elragadtatva a döntésétôl. De inkább vállalta, hogy szembenéz a haragos Elöljáróval, semmint hogy az alattvalóit törp börtönbe küldje... és ezzel, vélhetôen, a halálukba.
+say.nr304_1_gold_rush.92;Mialatt Meve távol volt, semmi nem változott. A törpök továbbra is a bánya bejárata elôtt várták, hogy abbamaradjon a föld alól felhallatszó kopogás...
+say.nr304_1_gold_rush.93;Sajnos a ríviaiak túl közel ástak már meglévô járatokhoz, így amikor Gábor ledöntötte a köztük és a törpök között lévô falat, meg voltak arról gyôzôdve, hogy szörnyek támadtak rájuk, ezért önvédelembôl maguk elé kapták a fegyvereiket.\n
+say.nr304_1_gold_rush.94;"én a saját törvényeink szerint mondanék fölöttük ítéletet. Tetszik vagy sem, Brouver Hoognak is megvan ugyanehhez a joga."\n
+say.nr304_1_gold_rush.96;– mondta a királynô némi mérlegelés után, –
+say.nr304_1_gold_rush.97;"Felség,... mi a... mi Felséged alattvalói vagyunk..."\n\n
+say.nr304_1_gold_rush.98;"Hisz tudja jól, milyenek, Királynôm..."
+title.nr304_1_gold_rush.409;Kísértet-járta bánya
+title.nr304_1_gold_rush.567;Kísértet-járta bánya
+

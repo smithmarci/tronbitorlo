@@ -1,0 +1,5 @@
+say.nr215_1_megascope_combat.1;Adhart!
+say.nr215_1_megascope_combat.5;A varázslót! Végezzetek a varázslóval!
+say.nr215_1_megascope_combat.6;Asszonyom, ha megtörjük a varázsló igéjét, a gólemek ereje semmivé foszlik.
+say.nr215_1_megascope_combat.7;Felség! Sikerült!
+

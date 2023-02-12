@@ -1,0 +1,7 @@
+say.nr311_1_burial_combat.1;Vissza! Senki másnak nem kell meghalnia!
+say.nr311_1_burial_combat.11;Aú... Ennek rossz vége lesz... Mint Rotbert bácsi születésnapjának...
+say.nr311_1_burial_combat.3;Attól tartok, ez mindenki, Felség...
+say.nr311_1_burial_combat.5;Ne avatkozzatok közbe! Ez nem a ti ügyetek!
+say.nr311_1_burial_combat.7;Hé, koboldszar, most elégedett vagy önmagaddal?!
+say.nr311_1_burial_combat.9;A trágyába,... csak nem hagyják abba!
+

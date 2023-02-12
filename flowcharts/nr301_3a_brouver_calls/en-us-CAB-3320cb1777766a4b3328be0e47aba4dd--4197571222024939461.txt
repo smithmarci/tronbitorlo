@@ -1,0 +1,13 @@
+say.nr301_3a_brouver_calls.12;Miután biztonságos távolban tudták maguk mögött a szörnyek elpusztított fészkét, Meve elrendelte a tábor felállítását. Aztán ételért és italért szalajtotta a szállásmestert. A katonák tábortüzeket gyújtottak, és félretették a fegyvereiket. Hamarosan vidám zeneszó és ének hangjai töltötték be a tábort.\n\n
+say.nr301_3a_brouver_calls.14;"Felség..."
+say.nr301_3a_brouver_calls.16;– hallotta Meve a háta mögül Reynard hangját. –
+say.nr301_3a_brouver_calls.18;"Az Elöljáró egyik küldönce az."\n
+say.nr301_3a_brouver_calls.20;A királynô megfordult, és egy gazdagon díszített zekét és arannyal szegett csákót viselô törpöt látott maga elôtt. Megpróbálta elnyomni az elôtörni készülô nevetését, és egy mosoly kíséretében büszkén felszegte az állát, várva a hálát és a Nilfgaard ellen vívott küzdelemhez felajánlott segítséget.
+say.nr301_3a_brouver_calls.21;"Úrnôm, merész tetteinek híre felkeltette az Elöljáró figyelmét..."
+say.nr301_3a_brouver_calls.23;– közölte kimért hangon a törp. –
+say.nr301_3a_brouver_calls.25;"Meglehetôsen haragos, és magyarázatot követel."\n
+say.nr301_3a_brouver_calls.27;"Haragos? De miért? Én és az embereim a segítségetekre voltunk!"\n
+say.nr301_3a_brouver_calls.29;"Hoog elöljáró a Hosszúhídnál várja. Bölcsen tenné, ha nem várakoztatná meg."\n\n
+say.nr301_3a_brouver_calls.30;És azzal azonnal elillant a királynô ünneplés iránti lelkesedése. Megvárta, amíg kihunynak a tüzek, elhal az ének az ajkakon, majd kiadta a parancsot a vonulásra.
+title.nr301_3a_brouver_calls.275;Az Elöljáró hívása
+

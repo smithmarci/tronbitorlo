@@ -1,0 +1,49 @@
+menu.nr307_2_punishment.25;Megtámadod a nilfgaardiakat.
+menu.nr307_2_punishment.26;Megtámadod a nilfgaardiakat.
+menu.nr307_2_punishment.31;Lemondasz a bosszúról.
+menu.nr307_2_punishment.32;Nem támadsz.
+say.nr307_2_punishment.1;"Ott, Úrnôm"
+say.nr307_2_punishment.10;"A szukafattyak..."
+say.nr307_2_punishment.100;Csend állt be,... amit végül az egyik felderítô tört meg.\n
+say.nr307_2_punishment.11;– sziszegte Meve. –
+say.nr307_2_punishment.12;Meve lesöpörte a havat a nadrágjáról, és felegyenesedett.\n
+say.nr307_2_punishment.13;"Bosszút fogunk állni a bajtársainkért. De nem itt, hanem Lyria és Rívia mezejein."\n\n
+say.nr307_2_punishment.14;"Úrnôm,... mi a parancsa? Támadjunk?"
+say.nr307_2_punishment.15;A lyriaiak elnehezült léptekkel folytatták a menetelést, útjuk a nilfgaardiak által leomlasztott havon vezetett keresztül...
+say.nr307_2_punishment.2;"De Úrnôm! Ôk––"\n
+say.nr307_2_punishment.3;– suttogta az egyik felderítô. –
+say.nr307_2_punishment.33;Meve visszatért Owain aep Clenwog táborához. A királynôt majd' felemésztette a bosszúvágy...
+say.nr307_2_punishment.34;"Nem"
+say.nr307_2_punishment.36;– mondta a királynô hosszas mérlegelés után.\n
+say.nr307_2_punishment.38;"Várjatok a jelemre!"\n
+say.nr307_2_punishment.4;"Tisztában vagyok vele, mit tettek. És ezt soha nem feledem, sem meg nem bocsátom"
+say.nr307_2_punishment.40;A királynô kilépett a sziklák takarásából, tölcsért formált a kezébôl, és odakiáltott:\n
+say.nr307_2_punishment.42;"Owain!!! Owain aep Clenwog!"\n\n
+say.nr307_2_punishment.44;Azon nyomban elhalt a nevetés a nilfgaardiak táborában. Néhány pillanattal késôbb egy pazar ruházatot viselô férfi lépett ki a szekereik elé. Sûrû szaftot törölt le az ajkairól, majd eltúlzottan teátrális mozdulattal meghajolt.
+say.nr307_2_punishment.46;"Királynô,... fogadja részvétem. Az a lavina, ahh... Az események mily' váratlan fordulata."\n
+say.nr307_2_punishment.48;"A hegyek kiszámíthatatlanok"
+say.nr307_2_punishment.5;"Az ösvény bal oldalán."\n
+say.nr307_2_punishment.50;– mondta Meve egy vállrándítás kíséretében. –
+say.nr307_2_punishment.52;"Akármelyik pillanatban történhetnek balesetek."\n
+say.nr307_2_punishment.54;"Ó, valóban?"\n
+say.nr307_2_punishment.56;"Ühüm. Akár a mostaniban is."
+say.nr307_2_punishment.58;Meve a követ felé lendült, két kézzel ragadta torkon, majd minden erejével a sziklák felé taszajtotta. A nilfgaardi feje a köveknek csapódott, és a koponyája egy gyomorforgató hang kíséretében reccsent szét. Aztán a földre zuhant, végül még megvonaglott néhányszor.
+say.nr307_2_punishment.6;– mondta Meve, és a felderítôje vállára tette a kezét. –
+say.nr307_2_punishment.60;"Támadás!"
+say.nr307_2_punishment.62;– harsogta Meve. –
+say.nr307_2_punishment.64;"Ne ejtsetek foglyokat!"
+say.nr307_2_punishment.7;Meve hunyorgott. A nilfgaardiak egy sziklakiszögellés alatt találtak menedékre a szakadó hó elôl. Sülô hús illatát és nevetés visszhangjait hozta a szél a tábortüzük felôl. A Feketéknek volt okuk az ünneplésre – épp az imént sikerült megtizedelniük Meve seregét úgy, hogy még csak ki sem kellett vonniuk a kardjukat.
+say.nr307_2_punishment.70;Meve az Owain aep Clenwog táborában lévô nilfgaardiak közül egynek sem kegyelmezett. Mindannyian osztoztak a vezetôjük sorsában.\n\n
+say.nr307_2_punishment.76;A királynô addig járta a kihalt tábort, amíg rá nem lelt a nilfgaardiak által ételmaradék-gyûjtônek használt lyriai sisakra. A köpenye szélével tisztára törölte, és magával vitte. Késôbb azt hallottam, hogy midôn a királynô visszaszerezte a koronáját, a sisak a ríviai kastély egyik legmegbecsültebb dísze lett...
+say.nr307_2_punishment.78;És a törpök? Ahogy az várható volt, felháborodtak Meve-nek a nilfgaardi követ ellen elkövetett nyílt támadásán. Brouver Hoog azonnal összehívta a Vének tanácsát, ahol aztán sokáig tanácskoztak azon, hogy mi tévôk is legyenek a lyriaiakkal.
+say.nr307_2_punishment.8;Meve tekintete megakadt valami máson is: egy fémedényen, amibe a nilfgaardiak a tisztára rágott csontokat hajigálták. Az edény furcsamód ismerôsnek tûnt a számára... Kellett hozzá egy pillanat, mire rájött, hogy amaz egy felfordított lyriai sisak volt, amit az egyik embere hóborította sírjából kapartak elô.\n
+say.nr307_2_punishment.9;"De azzal, ha megsértjük a törpök törvényeit, csak a nilfgaardiak kezére játszanánk, elveszítve a szövetségeseinket – és velük az esélyünket a gyôzelemre."\n
+say.nr307_2_punishment.92;A vének, felbôszülvén azon, hogy a királynô újfent semmibe vette az általuk vallott semlegesség elvét, súlyos pénzbüntetést szabtak ki rá, valamint megfenyegették, miszerint egy ehhez hasonló újabb kihágás a törp királyságok területérôl élethosszig tartó kitiltást von maga után...
+say.nr307_2_punishment.94;Ahogy hallottam, csak a Zigrinek erôs támogatása óvta meg a királynôt a kemény büntetéstôl...
+say.nr307_2_punishment.96;"Meve, utoljára kérlek: gondolkozz hideg fejjel"
+say.nr307_2_punishment.97;– súgta oda neki Gábor. –
+say.nr307_2_punishment.98;"Bosszút akarsz? Megértem én. De gondolj arra, mi lesz az ára! Ha Owainnek csak egy haja szála is meggörbül, Brouver soha nem fog megbocsátani Neked. És búcsút inthetsz a remélt segítségnek."\n
+say.nr307_2_punishment.99;"Ezért megfizetnek..."
+title.nr307_2_punishment.107;Fehér halál
+title.nr307_2_punishment.95;Fehér halál
+

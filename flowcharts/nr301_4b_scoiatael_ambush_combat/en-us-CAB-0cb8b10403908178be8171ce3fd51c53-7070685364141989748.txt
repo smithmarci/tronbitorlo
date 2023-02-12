@@ -1,0 +1,7 @@
+say.nr301_4b_scoiatael_ambush_combat.1;Végre, Rhena, az enyém vagy...
+say.nr301_4b_scoiatael_ambush_combat.11;Felismerem a színeiket... Ezek Eldain tündéi.
+say.nr301_4b_scoiatael_ambush_combat.3;Nem! Bloede rhena! Meg kell halnia!
+say.nr301_4b_scoiatael_ambush_combat.5;Azt hiszitek, ti szarcsimbókok, hogy bármit megtehettek?! Ez itt Mahakam!
+say.nr301_4b_scoiatael_ambush_combat.7;Csapdába estünk, Felség! De megpróbálhatjuk keresztülverekedni magunkat.
+say.nr301_4b_scoiatael_ambush_combat.9;Áááá!!!
+

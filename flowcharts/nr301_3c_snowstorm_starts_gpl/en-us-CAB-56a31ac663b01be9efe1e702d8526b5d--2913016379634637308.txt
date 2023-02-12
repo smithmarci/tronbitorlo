@@ -1,0 +1,6 @@
+say.nr301_3c_snowstorm_starts_gpl.1;Hamarosan elér minket a hóvihar... Felség, talán tanácsos volna tábort vernünk, és megvárnunk, amíg kitisztul az idô...
+say.nr301_3c_snowstorm_starts_gpl.5;Míg mi itt fel s alá nyargalászunk segítségért könyörögve,... addig Nilfgaard egyre erôsebb lesz.
+say.nr301_3c_snowstorm_starts_gpl.7;Erôsítést kell szereznünk, amilyen gyorsan csak lehet,... és fel kell szabadítanunk az otthonunkat.
+say.nr301_3c_snowstorm_starts_gpl.8;Jó ötlet... Kár, hogy egy hétbe is beletelhet.
+say.nr301_3c_snowstorm_starts_gpl.9;Akkor továbbmegyünk. Nincs vesztegetni való idônk.
+

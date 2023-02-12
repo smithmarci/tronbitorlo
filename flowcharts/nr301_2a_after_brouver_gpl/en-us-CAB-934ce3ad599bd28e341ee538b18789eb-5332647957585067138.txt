@@ -1,0 +1,7 @@
+say.nr301_2a_after_brouver_gpl.1;Valamiért úgy érzem, az Elöljáró nem rajong különösebben a vendégekért.
+say.nr301_2a_after_brouver_gpl.10;Aztán a klánoknak végül szinte kényszeríteniük kellett Brouvert, hogy legalább a kereskedôket és a követeket beengedje... De addig húzta-halasztotta a döntést, ameddig csak tudta.
+say.nr301_2a_after_brouver_gpl.3;Hogy nem rajong? Az nem kifejezés! Egyenesen gyûlöli ôket, izzó gyûlölettel.
+say.nr301_2a_after_brouver_gpl.5;De Felséged szerencsésnek érezheti magát.
+say.nr301_2a_after_brouver_gpl.7;Miért is?
+say.nr301_2a_after_brouver_gpl.9;Beengedte. Vagy talán nem? Mahakam sok-sok éven át teljesen el volt zárva a külvilágtól.
+

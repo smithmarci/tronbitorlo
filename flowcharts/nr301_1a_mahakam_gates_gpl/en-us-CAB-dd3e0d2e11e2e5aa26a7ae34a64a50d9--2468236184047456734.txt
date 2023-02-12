@@ -1,0 +1,4 @@
+say.nr301_1a_mahakam_gates_gpl.1;Szívbôl jövô üdvözlet Kegyednek.
+say.nr301_1a_mahakam_gates_gpl.2;Minô megtiszteltetés... Még a számszeríjászok is tisztelegnek nekünk – felajzott íjakkal.
+say.nr301_1a_mahakam_gates_gpl.4;Ó, hát az, nos... Egy unciányi elôvigyázatosság jó adag slamasztikától óvja meg a törpöt.
+

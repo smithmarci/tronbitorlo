@@ -1,0 +1,44 @@
+menu.nr301_3_balog_depths.77;Utasítod az embereidet, hogy támadjanak.
+menu.nr301_3_balog_depths.79;Megtámadod a szörnyeket.
+menu.nr301_3_balog_depths.81;Utasítod az embereidet, hogy vonuljanak vissza.
+menu.nr301_3_balog_depths.82;Visszavonulsz.
+say.nr301_3_balog_depths.1;Meve serege közeledett a Davor–vájathoz. Nehéz volt nem észrevenni a szörnyek dúlását. Számtalan mancs és karom nyoma borította a vérfoltos havat. Tisztára csócsált csontok hevertek szétszórva a sziklák között. Gascon felemelt egyet a földrôl.\n
+say.nr301_3_balog_depths.101;És ezen kiáltás kíséretében a királynô megsarkantyúzta lovát, megragadott egy lobogót, magasra emelve azt a feje fölé, és megrohanta a szörnyek rémisztô hordáját.
+say.nr301_3_balog_depths.102;És valóban, hamarosan szkáldok zengték dalukat e csatáról. Merthogy aznap egyetlen karom, egyetlen agyar sem szakíthatta át a lyriaiak pajzsfalát. És semmilyen pikkely nem védhette meg a bestiákat a lyriaiak nyilaitól és pengéitôl.\n
+say.nr301_3_balog_depths.104;Végül a szörnyek az eliszkolás mellett döntöttek, ám Meve elvágta elôlük a menekülésük útját. Emberek alkotta tömör fal szorította egyre közelebb a szörnyeket a Davor-vájat pereméhez. {audio=nr301_3_balog_depths_beasts_falling}A minden oldalról taszajtott rémségek meg-megcsúsztak a meredély szélén, majd borzalmas visítások közepette zuhantak alá a mélységbe.
+say.nr301_3_balog_depths.106;Hamarosan csend borult rájuk. A királynô a szakadék szélén álldogált nehezen lélegezve és a kardjára támaszkodva. A bánya mélyébôl morgás és nyöszörgés hallatszott.\n
+say.nr301_3_balog_depths.107;"Most pedig árasszuk el ezt az átkozott lyukat..."
+say.nr301_3_balog_depths.109;– sziszegte Gábor, –
+say.nr301_3_balog_depths.111;"még mielôtt újabb mocskok másznának elô belôle."
+say.nr301_3_balog_depths.113;A gát falán jeges vízsugár tört át és zúdult alá a bányába, elárasztva a gödröt. És ahol egykor a Davor–vájat tátongott, most a Davor–tó terült el.\n\n
+say.nr301_3_balog_depths.2;"Egy bánya, a külszíni fajtából"
+say.nr301_3_balog_depths.276;"Üres belül"
+say.nr301_3_balog_depths.278;– mondta. –
+say.nr301_3_balog_depths.280;"Valami kiszívta belôle a velôt."
+say.nr301_3_balog_depths.281;"Mi ez? Egy kráter? Egy kiszáradt tó?"
+say.nr301_3_balog_depths.285;Meve kimerülten és a bestiák vérétôl mocskosan tért vissza a hegyszorosba. Ám, mindezek ellenére, rendkívül elégedetten. Egy lépéssel közelebb jutott ahhoz, hogy megszerezze a törpök támogatását a Nilfgaard ellen vívott háborúhoz...
+say.nr301_3_balog_depths.3;– magyarázta Gábor. –
+say.nr301_3_balog_depths.4;"Kincseket, gyémántot bányásztunk ki innét. Egészen addig, amíg odalent bele nem botlottunk a szörnyekbe."\n
+say.nr301_3_balog_depths.5;"Amott van egy gát. A mögött meg egy tó. Ha át tudnánk törni a gát falát, a kiáramló vízzel eláraszthatnánk a vájatot is, az alagutakat is. Csak elôbb meg kellene kerülnünk a bányát – ugyanis a túlfelén visz az út a tóhoz."\n\n
+say.nr301_3_balog_depths.50;Meve katonái érdektelenséget színleltek a hátborzongató kép láttán. Masíroztak tovább, lépteik ritmusa jottányit sem változott, és nóta kélt az ajkukon. Ám a hangjukból kiérezhetô halovány remegésbôl Meve tudta, minden erejükkel azon vannak, hogy legyôzzék félelmüket.
+say.nr301_3_balog_depths.51;Kisvártatva megszólalt a parancsnoki kürt, jelt adva a megállásra. A királynô a menetoszlop élére vágtatott, és egy hatalmas, földbe vágott lyuk peremén találta magát. Aminek egyáltalán nem látta az alját. Meve rövidre fogta a gyeplôt, nehogy lova akár csak egy lépést is tegyen elôre.\n
+say.nr301_3_balog_depths.52;"Hogyan tovább?"\n
+say.nr301_3_balog_depths.6;Meve hunyorított, és a messzeséget fürkészte. Valóban látott ott egy gátat. És annak a lábánál bestiák raja kavargott. A katonák fegyvereiket készenlétben tartva figyelték királynôjüket, annak utasításaira várva. A királynô pedig tudta, hogy a félelmük ellenére egy szavára csatába rohannának.
+say.nr301_3_balog_depths.64;A lyriaiak újfent a Davor-vájat néven ismert mélység szélén álltak.\n
+say.nr301_3_balog_depths.70;"Felség,"
+say.nr301_3_balog_depths.71;– szólította meg Reynard. –
+say.nr301_3_balog_depths.73;"Várjuk a parancsát a támadásra!"
+say.nr301_3_balog_depths.733;"Harcoljatok! Ne lankadjatok! Mutassuk meg ezeknek a mocskoknak, hogy nekik van félnivalójuk tôlünk!"
+say.nr301_3_balog_depths.734;– kiáltotta a királynô.\n\n
+say.nr301_3_balog_depths.85;"Nem készültünk fel arra, hogy efféle szörnyûségekkel megküzdjünk"
+say.nr301_3_balog_depths.87;– mondta a királynô. –
+say.nr301_3_balog_depths.89;"Visszavonulunk, hogy megerôsödjünk. Hogy aztán visszatérhessünk, és gyôzedelmeskedhessünk."\n\n
+say.nr301_3_balog_depths.91;A lyriaiak hátrébb léptek a Davor–vájat peremétôl, és Meve nem tudta nem észrevenni megkönnyebbült sóhajaikat...
+say.nr301_3_balog_depths.92;"Gábor!"
+say.nr301_3_balog_depths.94;– próbálta túlkiabálni a kavargó szelet Meve. –
+say.nr301_3_balog_depths.96;"Vannak nálatok dalnokok itt Mahakamban?"\n
+say.nr301_3_balog_depths.98;"Természetesen, Felség!"\n
+say.nr301_3_balog_depths.99;"Akkor ma adjunk nekik jó okot a dalszerzésre! A bátorság témájára! A hôsiességére! Lyriára!!! Gyía!!\n\n
+title.nr301_3_balog_depths.273;Davor-vájat
+title.nr301_3_balog_depths.319;Davor-vájat
+

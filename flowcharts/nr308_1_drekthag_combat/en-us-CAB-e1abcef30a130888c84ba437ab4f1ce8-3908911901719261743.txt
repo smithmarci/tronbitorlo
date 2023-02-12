@@ -1,0 +1,5 @@
+say.nr308_1_drekthag_combat.1;Scoia'tael!!! Ne hagyjátok ôket megszökni!
+say.nr308_1_drekthag_combat.3;Rendben, elég! Gyôztetek...
+say.nr308_1_drekthag_combat.5;A Scoia'tael egy járvány – megfertôz mindenkit, akihez elér.
+say.nr308_1_drekthag_combat.7;Annyira fiatalok... Nem csoda, hogy könnyen befolyásolhatóak voltak.
+

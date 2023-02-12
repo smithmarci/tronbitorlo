@@ -1,0 +1,9 @@
+say.nr302_1_dragon_brides_combat.1;Mögém! Ne szóródjatok szét!
+say.nr302_1_dragon_brides_combat.11;Felség, a sárkány sebezhetô! Most kell lecsapnunk!
+say.nr302_1_dragon_brides_combat.13;Felség! Hullanak az embereink!
+say.nr302_1_dragon_brides_combat.15;Az áldóját, ez hihetetlen! Látjátok azokat a szárnyakat?!
+say.nr302_1_dragon_brides_combat.3;A sárkány megsebesült! El akar repülni!
+say.nr302_1_dragon_brides_combat.5;Kifulladt a féreg,... de legyetek óvatosak – még mindig ôrjöngô dühvel válaszol a csapásainkra!
+say.nr302_1_dragon_brides_combat.7;Yarpen megölt egy sárkányt... Lehetséges végezni velük...
+say.nr302_1_dragon_brides_combat.9;Ááá, a szarba...! Most meg már tombol! Vigyázzatok!
+

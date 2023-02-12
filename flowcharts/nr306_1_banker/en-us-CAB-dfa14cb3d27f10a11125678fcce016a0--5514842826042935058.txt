@@ -1,0 +1,54 @@
+menu.nr306_1_banker.117;Segítesz Murkónak visszaszerezni az örökségét.
+menu.nr306_1_banker.118;Cserbenhagyod a törpöt.
+menu.nr306_1_banker.2;Segítesz Murkónak visszaszerezni az örökségét.
+menu.nr306_1_banker.26;Hagyod, hogy Murkó Vidmar fogja a kincset, és távozzon.
+menu.nr306_1_banker.27;Megtartod magadnak a kincseket.
+menu.nr306_1_banker.4;Cserbenhagyod a törpöt.
+menu.nr306_1_banker.79;Visszaszolgáltatod a kincset az Elöljárónak.
+say.nr306_1_banker.1;A láthatárt kémlelve Meve egy sötét alakzatra lett figyelmes a vakítóan fehér hótakaró elôterében. Az alakzat egy ledôlt és darabjaira hullott toronynak bizonyult. Körülötte további építmények romjai hevertek, bazaltból faragott tömbök állták az örök fagy ostromát.\n
+say.nr306_1_banker.101;"A Nilfgaard ellen vívott háborúhoz erôforrásokra van szükségem. És ezért az ügyért ezennel lefoglalom ezt a kincset."\n\n
+say.nr306_1_banker.103;Mindazok, akik a földalatti teremben összesereglettek, csöndben fogadták a királynô döntését. Gábor csak megcsóválta a fejét, Murkó pedig a lyriai gyalogosok között utat törve magának nekivágott a hegyeknek az emberek királyságai felé.
+say.nr306_1_banker.119;A visszatérô lyriaiak láttán Murkó ábrázatán fültôl-fülig-vigyor jelent meg. Remélte, hogy a királynô meggondolta magát, és végül mégiscsak a segítségére lesz...
+say.nr306_1_banker.23;Amint az öldöklésnek vége lett, Murkó Vidmar odaszaladt egy emelvényen álló ládához, közben meg-megcsusszanva a most már vértôl iszamós padlón. Amikor a törp felnyitotta a tetejét, a ládából drágakövek gurultak szerteszét...\n
+say.nr306_1_banker.25;"Ez volna az örökséged?"
+say.nr306_1_banker.30;"Amikor még csak egy tizenkét nyarat látott kis fruska voltam, az anyám megkövetelte, hogy egy rózsaszín krinolinban menjek a bálba. Úgy néztem ki benne, mint egy habcsók."
+say.nr306_1_banker.32;"Együttérzek veled, Murkó..."
+say.nr306_1_banker.34;"Ezek itt a Vidmar klán egykor volt otthonának romjai"
+say.nr306_1_banker.36;– mondta Gábor, próbálva túlkiabálni a szelet. –
+say.nr306_1_banker.38;"Gazdagok voltak, ez volt a székhelyük mindaddig, amíg egy rengés aztán porba nem döntötte az egészet. Régen törpök százai éltek itt, de most... már egy lélek sem!"
+say.nr306_1_banker.41;"Ááááá! Segítsééég!!! Mentsetek meeeg!!"\n
+say.nr306_1_banker.43;Az állítással ellentétben volt valaki a romok között – és az említett valaki nyilvánvalóan bajban volt. Meve utasította az embereit, hogy kutassák fel a szerencsétlenül járt egyént. Hamarosan vissza is tértek, és egy vacogó fogú törpöt kísértek. Egy összedôlt épületben találtak rá, ahol az a ghúlok elôl keresett menedéket. A megjelenése alapján ítélve a törp az elmúlt hét jó részét ott tölthette.
+say.nr306_1_banker.45;"Murkó Vidmar a nevem"
+say.nr306_1_banker.47;– mondta a törp, és közben összeborzolódott haját lapogatta, ami – úgy tûnt – a szélrózsa minden irányába áll. –
+say.nr306_1_banker.49;"A családi örökségemet jöttem megkeresni. Elveszett a rengés és az azt követô káosz közepette. Tudom, melyik teremben kellene keresnem, de... nos, szörnyek vertek tanyát benne. Egymagam nem tudom elzavarni ôket. De a hozzátok hasonló bátor harcosok bizonyára levágnák ôket egy pillanat alatt. Szóval... segítetek?"
+say.nr306_1_banker.51;– válaszolta Meve. –
+say.nr306_1_banker.53;"És én nem tartozom ahhoz a nagy tiszteletnek örvendô céhhez. Bocsáss meg."\n\n
+say.nr306_1_banker.55;Murkó Vidmar nekikeseredett ugyan, de a királynô döntése ellenére nem volt hajlandó feladni. A veszélyre fittyet hányva az elhagyatott, romos településen maradt, és várta a következô arra tévedôt, hátha az majd a segítségére lesz...
+say.nr306_1_banker.57;– mondta a királynô, –
+say.nr306_1_banker.59;"így hát nagyon is jól tudom, hogy mit érzel. Segítek neked megszerezni az örökségedet – mondjuk úgy, hogy ez valamiféle hóbort nálam."\n\n
+say.nr306_1_banker.60;Murkó Vidmar arca azon nyomban felderült. Bár egy hetet töltött magát elbarikádozva és száraz lepényen tengôdve, és már fagyott hó lepte a szakállát, fürgén a menet elején termett, és a földalatti termek felé vezette a lyriai katonákat. Ígéretéhez híven bestiák hada várt rájuk...
+say.nr306_1_banker.62;– kérdezte a királynô meglepôdve. –
+say.nr306_1_banker.64;"Azt gondoltam, talán egy pipáról van szó, ami még a nagyapádé volt."
+say.nr306_1_banker.66;"Nekem úgy tûnik, hogy Murkó testvér nem volt egészen ôszinte velünk. Nem örökség ez, nem családi ajándékok. Ezek a Vidmar klán kincsei. Azt gondoltuk, hogy örökre nyomuk veszett!"\n\n
+say.nr306_1_banker.68;Mikor látta, hogy nincs más kiút, Murkó bevallotta, hogy nem a családja iránt tisztelet sarkallta erre az expedícióra. A törp azt tervezte, hogy végleg elhagyja Mahakamot, és új életet kezd az emberek között. Ám ezt nem kívánta jókora kezdôtôke nélkül megcselekedni.
+say.nr306_1_banker.69;"Nem bírom ki itt egy pillanattal sem tovább. Minden egyes nap ugyanolyan! Felkelünk az elsô kakasszóra, kétsoros oszlopba fejlôdve masírozunk a latrinákig, parancsra szarunk, hajnalhasadtától napnyugtáig a bányában dolgozunk, aztán megyünk haza aludni"
+say.nr306_1_banker.7;"Úgy tûnik, ehhez a munkához egy vajákra lenne szükség..."
+say.nr306_1_banker.71;– panaszolta Murkó. –
+say.nr306_1_banker.73;"Ha szeretnék magamnak egy asszonykát? Kérelmet kell benyújtanom – három példányban! Meg akarnám kurtítani a szakállamat? A klánfônek kell jóváhagynia! Írót akarnék a gombalevesembe keverni tejszín helyett? A klántanácsnak kell vitára bocsátania. Hogy a viharba' ne háborodna meg itt a törp?"
+say.nr306_1_banker.75;"Megértem a fickót, nehéz lenne vitatkozni vele..."
+say.nr306_1_banker.76;– mondta Gábor együttérzôn. –
+say.nr306_1_banker.78;"De kötelességemnek érzem emlékeztetni Kegyedet arra, hogy amit Murkó készül megtenni,... nos, arra törvényeink vannak. A kincs az Elöljárót illeti meg, nem pedig Murkót – ez az egyik. A másik meg, hogy ha bármelyik törp el akarja hagyni Mahakamot, akkor nem vihet magával mást, mint a gatyáját, a csajkáját, meg a zekéjét. Röviden ennyi... Mielôtt döntene, jól gondolja át, Felség."
+say.nr306_1_banker.82;– Meve-et megmosolyogtatta az emlék. –
+say.nr306_1_banker.84;"Ezért szalagokra vagdostam a szoknyát, és megszöktem a hálószobám ablakán át."\n
+say.nr306_1_banker.86;"De ennek mi köze van––"\n
+say.nr306_1_banker.88;"Csak annyit szerettem volna ezzel mondani, Gábor, hogy megértem ôt. És meglehet, hogy a törvényeitekbe ütközik, én mégis hagyni fogom, hogy magához vegye a kincseket, és távozzon."\n\n
+say.nr306_1_banker.9;"Jómagam is elvesztettem az otthonomat, az ingóságaimat..."
+say.nr306_1_banker.90;Murkó Vidmarnak könnyek szöktek a szemébe, miközben köszönetet mondott a királynônek. {audio= nr306_1_banker_Vidmar_takes_sack}Aztán a hátára kapta a ládát, jól meggörnyedt annak súlya alatt, és elkacsázott az emberlakta vidékek irányába.
+say.nr306_1_banker.92;– mondta Meve. –
+say.nr306_1_banker.94;"De koronás fô lévén el kell hogy utasítsam a kérésed. A nemzetem érdekei úgy kívánják, hogy a Hoog elöljáróval ápolt kapcsolatomat tartsam mindenekelôtt a legfontosabbnak. Azzal pedig, ha téged segítelek, eme kapcsolat kárára cselekszem. Vissza fogom szolgáltatni neki a kincseket, muszáj... Ám Te tégy, ahogy szeretnél."\n\n
+say.nr306_1_banker.96;Murkó Vidmar káromkodott egyet a bajsza alatt, majd utat tört magának a lyriai gyalogosok között, és nekivágott a hegyeknek, az emberek királyságai felé.
+say.nr306_1_banker.97;"Az államérdek idônként úgy kívánja, hogy az uralkodó hagyja figyelmen kívül a törvényeket,... és a másoknak tett ígéreteket"
+say.nr306_1_banker.99;– mondta Meve, és közben egy hangos csattanás kíséretében lecsukta a láda tetejét.
+title.nr306_1_banker.411;A Vidmar Ház bukása
+title.nr306_1_banker.427;A Vidmar Ház bukása
+

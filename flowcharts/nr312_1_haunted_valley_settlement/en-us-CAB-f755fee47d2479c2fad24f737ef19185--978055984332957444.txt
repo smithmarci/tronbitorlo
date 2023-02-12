@@ -1,0 +1,23 @@
+say.nr312_1_haunted_valley_settlement.1;Feketecsermely-völgy – már a név maga baljóslatúan hangzott. Hallatán Meve ködbe burkolózó hasadékokat, pókháló-borította elaggott, kiszáradt fákat és denevérek rajait képzelte maga elé.\n\n
+say.nr312_1_haunted_valley_settlement.10;A törpök feltûrték a zekéjük ujját, és hozzáláttak a kunyhók megjavításának. Kalapálás, favágás és fûrészelés zaja töltötte meg a völgyet, ami mellé a törpök véget nem érô danászása társult.\n\n
+say.nr312_1_haunted_valley_settlement.20;A törpök feltûrték a zekéjük ujját, és már nekiláttak volna a kunyhók megjavításának, amikor egyszer csak valaki felkiáltott.\n
+say.nr312_1_haunted_valley_settlement.30;A szempillantás múlva a romok közül felhangzó vérfagyasztó üvöltés kétségkívül igazolta a királynô feltételezését...
+say.nr312_1_haunted_valley_settlement.32;A gyôzelmüket követôen a törpökben újra feléledt a remény. Vajon az imént leölt szörnyek végezhettek a korábbi telepesekkel? Talán végre megtört az átok, ami a Feketecsermely-völgyön ült.\n
+say.nr312_1_haunted_valley_settlement.33;Meve lelke szárnyalt, miközben elhagyta a Feketecsermely-völgyet. Annál nagyobb volt a megdöbbenése, amikor megtudta, hogy a Vének egy újabb, a völgybe indítandó expedícióra szólították fel a törpöket. Úgy tûnt, hogy a Meve által elkísért telepesek osztoztak elôdeik sorsában. Ám hogy mi végzett mindannyiukkal, az sohasem derült ki...
+say.nr312_1_haunted_valley_settlement.34;"Megááállj! Van itt valami! Valami kipárolgás!"\n
+say.nr312_1_haunted_valley_settlement.36;Felettébb ismerôs ez a hang, gondolta Meve. Ugyanis a hang Barnabásé, a megmentett feltalálóé volt. A gnóm a menet élére küzdötte magát, lábujjhegyre állt, az égnek emelte az orrát, és úgy kezdett el szimatolni, mint valami vadászkutya, amelyik a vad szagát kutatja. Minden kérdezôsködést figyelmen kívül hagyva Barnabás leült a patak partjára, a vízbe merített egy üveglombikot, megtöltötte, aztán a napfény felé tartva azt a nyelve hegyét a vízbe mártotta, majd pedig egy különös papírdarabot is, amit foltozott kabátja valamelyik zsebének a legmélyérôl kerített elô.
+say.nr312_1_haunted_valley_settlement.37;Végre Barnabás felegyenesedett, leporolta az ülepét, és közölte a megállapításait:\n
+say.nr312_1_haunted_valley_settlement.39;"Nos, kellô bizonyossággal kijelenthetjük, tudjuk, mi okozta a telepesek vesztét. Nem szörnyek, de nem ám – azok csak késôbb érkeztek, idevonzották ôket a friss sírok. Hanem a víz volt az! Ó, forgassátok csak a szemeteket és gúnyolódjatok, amennyit akartok! Aztán nézzetek a vízbe: sehol egy hal! Mindet földalatti gôzök és kipárolgások mérgezték meg!"
+say.nr312_1_haunted_valley_settlement.40;A törpök tanakodtak, tépelôdtek, morfondíroztak, és alig egy hajszál választotta el ôket attól, hogy feladják a völgyet, ezúttal örökre. Aztán Barnabás a szütyôjébe túrt, és elôbányászott belôle egy saját maga által tákolt szerkezetet, amit "aquapurifikátornak" nevezett el – egy víztisztítót, jelentsen is az akármit.\n
+say.nr312_1_haunted_valley_settlement.41;Meve szívében mély megelégedéssel hagyta maga mögött a Feketecsermely-völgyet. A törpök magasztalták a bátorságáért, a ravaszságáért és a bölcsességéért – Gábor pedig biztosította, hogy ez a dícséret minden bizonnyal eljut majd Hoog elöljáró nagy cimpájú füleibe is...
+say.nr312_1_haunted_valley_settlement.419;Ehelyett egy lágyan csörgedezô patakot, és a völgy lankáit beborító sáfránymezôket látott. Csak egy falucska elhagyatott és düledezô viskói, valamint az azon túl a láthatárig nyújtózó temetô tanúskodtak a völgy kegyetlen múltjáról.
+say.nr312_1_haunted_valley_settlement.42;"A falu túlságosan is csendes – ne hagyjátok magatokat megtéveszteni"
+say.nr312_1_haunted_valley_settlement.420;"Ezen a szívószálon keresztül kell felszívni a vizet,... aztán minden gond nélkül iható is!"\n\n
+say.nr312_1_haunted_valley_settlement.43;– mondta a királynô. –
+say.nr312_1_haunted_valley_settlement.45;"Reynard! Néhány ember kutassa át a környéket az élet bármiféle jele után."\n\n
+say.nr312_1_haunted_valley_settlement.46;"Köszönjük, Felség!"
+say.nr312_1_haunted_valley_settlement.48;– mondta a telepesek vezetôje, majd ledobta a válláról a szütyôjét. –
+say.nr312_1_haunted_valley_settlement.50;"Új reményt adott nekünk,... és új otthont."
+title.nr312_1_haunted_valley_settlement.449;Feketecsermely-völgy
+title.nr312_1_haunted_valley_settlement.51;Feketecsermely-völgy
+

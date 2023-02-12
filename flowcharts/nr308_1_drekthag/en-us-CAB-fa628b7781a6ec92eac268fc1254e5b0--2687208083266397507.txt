@@ -1,0 +1,69 @@
+menu.nr308_1_drekthag.118;Az eltûnt törpök keresésére indulsz.
+menu.nr308_1_drekthag.119;Megtagadod a segítséget.
+menu.nr308_1_drekthag.35;Felszólítod Raylát, hogy hagyja el a seregedet.
+menu.nr308_1_drekthag.36;Hagyod, hogy Rayla a sereggel maradjon.
+menu.nr308_1_drekthag.4;Az eltûnt törpök keresésére indulsz.
+menu.nr308_1_drekthag.5;Megtagadod a segítséget.
+say.nr308_1_drekthag.1;A királynô meghallotta az egyik felderítô kürtjének hangját. Három kürtszót: két rövidet és egy hosszút...
+say.nr308_1_drekthag.100;"Te ma átlépted ezt a határt. Azon nyomban elhagyod a sorainkat,... és soha többé nem akarlak látni."\n\n
+say.nr308_1_drekthag.1017;"Felség... Ön is tudja, milyen ritkán avatkozom bele az ügyeibe"
+say.nr308_1_drekthag.102;Rayla nem felelt semmit. Csupán csak meghajolt, aztán elindult lefelé a domboldalon. De még azután is, hogy távozott, sokáig jól látható, vöröslô nyomvonal maradt utána – egy törpök vére rajzolta nyom, ami a páncéljáról csöpögött a hóra...
+say.nr308_1_drekthag.1020;– szólalt meg Isbel. –
+say.nr308_1_drekthag.1021;"Mégis, ezúttal nem hallgathatok. Ennek a nônek mennie kell."
+say.nr308_1_drekthag.104;– mondta a királynô. –
+say.nr308_1_drekthag.106;"Természetesen meg fogom büntetni,... de nem ûzhetem el ôt."\n\n
+say.nr308_1_drekthag.108;Reynard már épp szólásra nyitotta a száját, de amikor meglátta Rayla megvetô mosolyát, inkább sarkon fordult, és szó nélkül elviharzott. Késôbb látták a kantinban, amint egymagában iszogatott, és a korsója fenekét bámulta merôn...
+say.nr308_1_drekthag.109;A visszaútjuk során a lyriaiak mindvégig hallgatásba burkolóztak. Amint észrevették a lesütött tekinteteket és a búskomor arcokat, a gyermekeiket hazaváró törpök az otthonaikba zárkóztak, és hátrahagyták az elemózsiával teli kosarakat a hóban. Senki nem tett fel kérdéseket Meve-nek. Szerencséjére, mert hogy a királynô maga sem tudta, mit válaszoljon.
+say.nr308_1_drekthag.110;– kérdezte Gábort.\n
+say.nr308_1_drekthag.124;A visszatérô lyriaiakat látva a mahakami gárda kapitánya elmosolyodott. Remélte, hogy Meve meggondolta magát, és ezúttal hajlandó lesz segíteni.
+say.nr308_1_drekthag.2;Meve törpök egy csoportjára lett figyelmes. Több tucatnyian voltak, sokak kezében szárazkolbászokkal, puha perecekkel és habos sörökkel teli kosarak.\n
+say.nr308_1_drekthag.22;Amint a harcnak vége lett, a foglyokat a királynô elé vitték. Kivétel nélkül mind törpök voltak... És mindannyian ifjú törpöknek tûntek.\n
+say.nr308_1_drekthag.27;A visszaúton Meve egyszer csak kiáltásokat hallott. Odasietett, hogy megnézze, mi okozta a felfordulást. Amikor megpillantotta a vértôl mocskos Fekete Raylát, a legrosszabbtól tartott. Reynard csak megerôsíteni tudta a feltételezését.\n
+say.nr308_1_drekthag.3;"Mi ez a gyülekezés?"
+say.nr308_1_drekthag.39;"Rayla... Van egy nagyon vékony határvonal, ami elválasztja a katonát, a harcost azoktól, akik gyilkosságot követnek el"
+say.nr308_1_drekthag.41;"Sem elfogadni, sem megbocsátani nem tudom, amit Rayla tett... Ám háború dúl, és ô a legjobb harcosok egyike, aki a parancsnokságom alatt szolgál"
+say.nr308_1_drekthag.418;A szüleik azon aggódtak, hogy valami szerencsétlenség érhette ôket. A mahakami gárda már ôrjáratokat küldött ki a közeli völgyek határáig. Azok azzal a hírrel tértek vissza, hogy bár nem láttak semmi megszokottól eltérôt, a hegység lábainál élô embernépek nem bizonyultak túl beszédesnek, amikor ôket faggatták az ifjoncokról.
+say.nr308_1_drekthag.419;"A határidô a holnapi nap reggele,... és vagy negyven drekthagjáró még mindig nem tért vissza."\n\n
+say.nr308_1_drekthag.420;Meve arra számított, hogy útonállók vagy bestiák ellen kell majd küzdenie,... ám a seregére törô harcosok sisakját mókusfarkak díszítették. Scoia’taelek!
+say.nr308_1_drekthag.421;"Rajtaütés!"\n
+say.nr308_1_drekthag.422;"A rejtély megoldódott..."
+say.nr308_1_drekthag.424;– morogta Meve.\n\n
+say.nr308_1_drekthag.426;"Élve kerültek elô, és csak ez a lényeg"
+say.nr308_1_drekthag.428;– mondta a vörös loboncú gárdakapitány, aki jutalomképpen egy erszényt nyújtott oda Meve-nek. –
+say.nr308_1_drekthag.429;"És, mire kiszabadulnak, talán a fajok közötti háborúskodásnak is vége szakad. Mit gondol, Királynô?"\n
+say.nr308_1_drekthag.430;Meve válasz gyanánt csak megvonta a vállát. Talán nem volt véleménye a dologgal kapcsolatban,... vagy egyszerûen csak jobbnak látta, ha nem mondja ki hangosan.
+say.nr308_1_drekthag.46;Bár sebesülten és láncokra verve, de a törp szülôk visszakapták a gyermekeiket. Brouver Hoog, akinek a Scoia’taellel szembeni megvetése nem ismert határokat, súlyos büntetést kért az ifjakra, amiért azok hagyták, hogy megfertôzzék ôket a lázadók ideái.
+say.nr308_1_drekthag.51;"Hogy ezek a népek? A szülei azoknak az ifjainknak, akik ma visszatérnek a drekthagról."
+say.nr308_1_drekthag.52;Gábor magyarázatba fogott, miszerint a drekthag egy olyan út, amire a helyi törpök indulnak, amikor elérik a felnôttkort. Az egy esztendeig tartó zarándoklat során a fiatalok megízlelik az otthonukon kívüli életet. Ám ha nem sikerül visszaérniük a kiszabott határidôre, akkor megfosztatnak mindazon elôjogoktól és kiváltságoktól, amik minden mahakami lakost megilletnek.\n
+say.nr308_1_drekthag.54;"Tudja, az utóbbi években a fiatalok egyre izgágábbak – részint a szigorú törvényeink miatt"
+say.nr308_1_drekthag.56;– tette hozzá. –
+say.nr308_1_drekthag.57;"Ezért elküldjük ôket, hogy megtudják, milyen az élet az alacsonyabban fekvô vidékeken. Amint a saját bôrükön tapasztalják meg, hogy milyen az emberek között élni, amikor visszatérnek, már nem igazán panaszkodnak."
+say.nr308_1_drekthag.59;Eddig csak kevés törp döntött úgy, hogy végleg a völgyekben marad... Ám ebben az esztendôben nem egészen ez volt a helyzet.\n
+say.nr308_1_drekthag.6;"Ha az ôreid, akik úgy ismerik ezeket a hegyeket, mint a saját tenyerüket, nem találtak rájuk"
+say.nr308_1_drekthag.61;A gárdakapitány, egy tûzvörös szakállú törp, {audio=nr308_1_drekthag_captain}levette a sisakját, letörölte a verejtéket a homlokáról, majd megszólította a királynôt:\n
+say.nr308_1_drekthag.63;"Felség, meg kell találnunk az ifjoncainkat. Esetleg hajlandó volna lemenni a völgyekbe, és kérdezôsködni egy kicsit? Az embernépek Önnek talán hajlandóak lennének elmondani, ha láttak valami szokatlant mostanság. Természetesen nem ellentételezés nélkül kérjük!"
+say.nr308_1_drekthag.65;– mondta Meve, –
+say.nr308_1_drekthag.66;"akkor ôszintén kétlem, hogy mi több sikerrel járnánk. Bocsáss meg, de nem tehetem."\n\n
+say.nr308_1_drekthag.67;A királynô csak ennyit mondott, aztán ellovagolt, nyomában a továbbmenetelô sereggel. A törp szülôk pedig ott maradtak, és továbbra is a távoli völgyeket kémlelték.
+say.nr308_1_drekthag.69;– Meve erôsen rászorította a tenyerét a kapitány összekulcsolt ujjaira. –
+say.nr308_1_drekthag.71;"És számomra sem ismeretlen a fájdalom, ami azt követte. Megteszek mindent, ami hatalmamban áll, annak érdekében, hogy legalább benneteket megkíméljelek ettôl."\n\n
+say.nr308_1_drekthag.73;Meve a törp szülôk reménykedô tekintetei és búcsúja kíséretében lovagolt el.
+say.nr308_1_drekthag.74;A királynô elôre küldött egy felderítôt. Nem sokkal késôbb {audio=nr308_1_drekthag_scout}meghallotta a kürtszót. Három jelzés: két rövid, egy hosszú...\n
+say.nr308_1_drekthag.75;Valójában ôk voltak az eltûnt drekthagjárók. Akik ahelyett, hogy hazatértek volna, beálltak a gerillákhoz küzdeni a másfajúak jogaiért. De vajon mi késztethette ôket ilyen drasztikus lépésre?
+say.nr308_1_drekthag.76;"Alig gyôztem kivárni, hogy betöltsem az ötvenet. Nagyon szerettem volna látni az emberek városait, Vizimát, Tretogort, Novigrádot..."
+say.nr308_1_drekthag.78;– kezdett rá a törp foglyok egyike, aki közben egy kötést szorított az egyik vérzô sebére. –
+say.nr308_1_drekthag.8;"Mondhatjuk, hogy magam is elveszítettem egy fiúgyermekemet..."
+say.nr308_1_drekthag.80;"És tudja, milyen fogadtatás várt rám ott? Leköpdöstek, gúnyneveken szólítottak. Gettókat láttam, mészárlásokat... Ezek után hogyan térhettem volna vissza a bányákba? Harcolnunk kell, amíg még tudunk, mielôtt az emberek levágnak bennünket az utolsó szálig. És ugyanezt kell mondanunk a többieknek is... Harcba kell szólítanunk Mahakamot!"
+say.nr308_1_drekthag.81;Meve katonái azt várták, hogy a királynôjük ellentmondjon neki, hogy hazugsággal vádolja meg a törpöt. Ám a királynô nem tehetett úgy, mint aki nem érti meg, a törp miért fogott fegyvert. Anélkül, hogy tovább firtatta volna a kérdést, megparancsolta, hogy adják át a foglyokat azok rokonainak és a véneknek, hogy majd azok ítéljenek fölöttük.
+say.nr308_1_drekthag.82;Végül a drekthagjárókat ötven esztendônyi, kôfejtôben letöltendô kényszermunkára ítélték. Az Elöljáró úgy vélte, hogy fél évszázadnyi csákánylóbálás kellôképp lehûti majd a forrófejû gerilla-aspiránsokat.\n
+say.nr308_1_drekthag.85;"Észrevétlenül osont fel a szekérre, arra, amelyiken a foglyok utaztak. Aztán elvágta a torkukat, egyikét a másik után."\n
+say.nr308_1_drekthag.86;"Negyven törpnek? Egyes egyedül?"\n
+say.nr308_1_drekthag.88;"Meg voltak láncolva. Nem tudták megvédeni magukat."
+say.nr308_1_drekthag.90;Rayla nem mondott semmit a maga védelmében. Valójában büszke volt a tettére.\n
+say.nr308_1_drekthag.92;"A Scoia’tael nem volt jelen Mahakamban... ezidáig. Nem tettünk volna szívességet senkinek azzal, ha visszaviszünk egy szekérnyi feldühödött, mókusfarkat viselô ifjoncot. Csak a Scoia'taelnek. A sebeiket mutogatva az igaznak hitt ügyük mártírjaiként tetszeleghettek volna, és arra ösztönözték volna a klánokat, hogy háborút hirdessenek az emberek ellen... Mindezt még csírájában kellett elfojtani."
+say.nr308_1_drekthag.94;Meve látta, amint Reynard arcát elönti a vér. Amikor végre megszólalt, érezhetô volt, hogy alig bírja türtôztetni, és csak nagy nehézségek árán tudja visszafogni magát:\n
+say.nr308_1_drekthag.96;"Felség... Számûznie kell, el kell ûznünk magunktól. Ez nem egy hétköznapi fegyelemsértés. Ez egy súlyos bûntett."\n
+say.nr308_1_drekthag.98;– mondta Meve. –
+title.nr308_1_drekthag.413;Drekthagjárók
+title.nr308_1_drekthag.437;Drekthagjárók
+

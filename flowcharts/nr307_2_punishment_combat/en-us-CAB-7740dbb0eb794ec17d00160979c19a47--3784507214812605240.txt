@@ -1,0 +1,4 @@
+say.nr307_2_punishment_combat.1;Dhith'en cuan aen Lyrian!
+say.nr307_2_punishment_combat.3;Ne kegyelmezzetek senkinek!
+say.nr307_2_punishment_combat.5;Nem kellett volna ezt tennünk.
+

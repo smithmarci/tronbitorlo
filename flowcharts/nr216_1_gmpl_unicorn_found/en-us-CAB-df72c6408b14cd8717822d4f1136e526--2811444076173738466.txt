@@ -1,0 +1,3 @@
+say.nr216_1_gmpl_unicorn_found.2;Egy kitömött unikornis... Különös. Mi a parancsa, Felség? Magunkkal vigyük?
+say.nr216_1_gmpl_unicorn_found.3;Elképzelésem sincs afelôl, hogy mihez kezdene bárki is egy ilyen dologgal. Továbbmegyünk.
+

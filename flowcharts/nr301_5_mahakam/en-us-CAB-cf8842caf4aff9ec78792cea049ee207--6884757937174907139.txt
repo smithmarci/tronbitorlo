@@ -1,0 +1,150 @@
+menu.nr301_5_mahakam.131;Nem leszek senki eszköze – sem Elöljáró uramé, sem senki másé.
+menu.nr301_5_mahakam.132;Bizonyára kieszelt valami tervet.
+menu.nr301_5_mahakam.234;Ki van zárva.
+menu.nr301_5_mahakam.235;Legyen hát. Beleegyezem.
+menu.nr301_5_mahakam.303;Számodra talán így tûnhet, de vannak szövetségeseim, nem is kevesen.
+menu.nr301_5_mahakam.304;Még egyedül szembeszállni is jobb, mint Nilfgaard oldalán.
+menu.nr301_5_mahakam.803;Honnan tudtad, hogy itt vagyok?
+menu.nr301_5_mahakam.804;Hallottál arról, hogy a nilfgaardiak megpróbáltak megölni?
+say.nr301_5_mahakam.116;A lyriaiak bemerészkedtek Karbonhegy mélyébe. Meve felfelé tekintgetve léptetett, megcsodálta a mûvészien faragott, arannyal futtatott mennyezetet és falakat, a bazaltból kifaragott, gigászi méretû dombormûveket. De nem most volt itt az ideje az álmélkodásnak. Brouver Hoog hívatta kihallgatásra.
+say.nr301_5_mahakam.117;Köszönetemet szeretném kifejezni a meghívásért, Elöljáró...
+say.nr301_5_mahakam.119;A meghívásért? Érdekes szóhasználat, Leány! Bezsonglôrködted magad ide! Sok-sok esztendôt megéltem már, de még egy olyan csökönyös némberrel, mint Te, nem találkoztam.
+say.nr301_5_mahakam.121;Tisztelettel, de mintha bagoly beszélgetne verébbel.
+say.nr301_5_mahakam.123;Hah! Az már szent igaz, hogy nem egykönnyen másítom meg a döntésemet. De... néhanapján megesik.
+say.nr301_5_mahakam.125;Egyáltalán nem érdekelnek az emberek csip-csup kis háborúi. Amikbôl annyi volt már, mint égen a csillag. Nem telik el úgy év, hogy valami kielégítetlen kiskirály neki ne menne egy másik országának. A rühes kutya is kevésbé izgága, mint ti vagytok!
+say.nr301_5_mahakam.127;Ezért is szándékoztalak üres kézzel szélnek ereszteni ma reggel – függetlenül attól, amit a klánok vénei mondanak. Rívia, Rímia,... Ki nem szarja le? De az reggel volt. Még az elôtt, hogy az az együgyû némber és a kutyuskái ránk támadtak volna.
+say.nr301_5_mahakam.129;Nilfgaard támogatja a Scoia’taelt – ez köztudott. Nilfgaard kihasználja ôket. Ám én sem vagyok jobb, mert én meg Meve királynôt szándékozom kihasználni.
+say.nr301_5_mahakam.136;Nem leszek senki eszköze, Brouver. Semmi másért nem küzdök, csak a saját földjeimért, Lyriáért és Ríviáért.
+say.nr301_5_mahakam.138;Ó, ne aggódj... Felôlem akár a déli ültetvények kényszermunkásainak szabadságáért is küzdhetsz. Engem az sem érdekel. A támogatásom feltétel nélküli.
+say.nr301_5_mahakam.140;Akkor mégis mi hasznomat venné, ha szabad megtudnom? Van valami terve?
+say.nr301_5_mahakam.142;Úgy ám! Törpökhöz leginkább illô – azaz egyszerû, de ravasz.
+say.nr301_5_mahakam.146;Szeretnél Nilfgaard orrára koppintani? Ha felhergeled a törpjeimet, és megtámadod velük a Scoia'taelt, azt megkeserülöd. Értem? Azt szeretném, ha anélkül figyelmeztetnéd a Feketéket, hogy háborút hirdetnél ellenük. Eddig világos?
+say.nr301_5_mahakam.148;Ezért tehát, amikor majd kimasírozol innét, a kapun túl ott vár rád egy törp gyalogsági különítmény. A hivatalos változat szerint önkéntesek, akik az akaratom ellenére csatlakoztak hozzád.
+say.nr301_5_mahakam.150;És legközelebb, amikor Nilfgaarddal találkozol, ôket állítod elôre. Azt akarom, hogy a Feketék foga beletörjön a pajzsainkba, hogy megízleljék a fejszéink élét... Ezután, merem állítani, kétszer is meggondolják majd, hogy a hegyeink közé küldjék a Scoia'taelt.
+say.nr301_5_mahakam.152;Én... nem... Köszönet, Elöljáró! Újra él bennem a remény, hogy egy napon visszakaphatom majd az otthonom.
+say.nr301_5_mahakam.174;Ôszintén? A helyedben nem reménykednék túlságosan. Figyeltelek. Naiv vagy, hagyod, hogy elragadjon az indulat, olyan dolgokba ütöd bele az orrodat, amik nem tartoznak rád, nem tiszteled a hagyományainkat. De,... hogy gyôzöl-e vagy sem, számomra teljesen mindegy.
+say.nr301_5_mahakam.176;Akkor csak azt remélem, hogy talán még meglephetem.
+say.nr301_5_mahakam.178;A hit hegyeket mozgat meg, úgy igaz... Ám nem sokat tehet a határokkal szemben. Beismerem, árgus szemekkel figyeltem minden lépésedet, és bizony merész vagy, te Leány. De hogy ez elegendô volna-e Nilfgaarddal szemben? Ki tudhatja?
+say.nr301_5_mahakam.180;Meglátjuk. Hamarosan megtudjuk.
+say.nr301_5_mahakam.182;Hah... Egy héttel ennek elôtte még jól kiröhögtelek volna. De teringettét, merész egy nôszemély vagy Te. És van hozzá sütnivalód! Így magad mellé édesgetni a klánokat... Nem kis teljesítmény.
+say.nr301_5_mahakam.184;Úgy lesz, majd meglátja. Még mielôtt véget ér az év. Szavamat adom.
+say.nr301_5_mahakam.193;Indulnék is azonnal. Szóval ha megengedi,...
+say.nr301_5_mahakam.195;No-no, nem engedem meg! "Azonnal"... Milyen dolog ez? A törvényeink világosan kimondják: "A vendéget csak pazar lakoma és dínom-dánom után eresszétek szélnek!". Ez az emberekre is vonatkozik.
+say.nr301_5_mahakam.197;És Brouver, ahogy Brouver szokta volt, ragaszkodott hozzá. Így hát a királynô elfogadta a meghívást – de ahogy ô szokta volt: egy feltétellel. Miszerint a lakoma, a helyi szokással ellentétben, csak egy éjen, és ne egy héten át tartson.
+say.nr301_5_mahakam.203;Minden klán képviseltette magát a mulatságon – egy kivételével, természetesen. Mert hogy a Zigrinek nem voltak jelen. Ugyanis addigra ôk már megkapták a büntetésüket: az egész klánjukat számûzték Mahakamból. Közülük csak egyetlen egy törppel tettek kivételt. Gáborral, akinek még napnyugta elôtt a fejét vették.
+say.nr301_5_mahakam.211;Meve épp visszafelé tartott a kompániájához, amikor nem más toppant elé, mint Gábor.
+say.nr301_5_mahakam.213;Minek köszönhetem ezt a megtiszteltetést? Tán csak nem a Zigrinek akarnak újra kihasználni, megoldani valamely problémájukat az én segítségemmel?
+say.nr301_5_mahakam.217;Meglehet, de ha így is van, az nem az én dolgom.
+say.nr301_5_mahakam.219;Hm? Miért is?
+say.nr301_5_mahakam.221;Mert úgy döntöttem, elhagyom Mahakamot. Örökre.
+say.nr301_5_mahakam.223;Mhm. És hová indulsz majd?
+say.nr301_5_mahakam.225;Még nem nem tudom. Oda, ahová Felséged vezet.
+say.nr301_5_mahakam.227;Már megbocsáss, de hogy mondod?
+say.nr301_5_mahakam.229;Felség, Meve... Elárultam a bizalmadat, átvertelek és megtévesztettelek. Ennek ellenére, mindent kockára téve, mégis megôrizted a titkomat. Szavakkal el sem tudom mondani, hogy mennyire hálás vagyok... Az adósod vagyok. Leköteleztél.
+say.nr301_5_mahakam.231;Kérlek, engedd, hogy valamit törleszthessek belôle! Engedd, hogy az oldaladon harcoljak! A fejszém és az életem a Tiéd.
+say.nr301_5_mahakam.236;A becsület olyan erény, Gábor, amit csak egyszer veszíthetünk el. És te elvesztetted a tiédet. Ezért hát nincs számodra hely a seregemben.
+say.nr301_5_mahakam.238;Felség, meg kell értened, én csak a Vének parancsára––
+say.nr301_5_mahakam.240;Nekem nem "kell" semmit sem tennem. És ez az utolsó szavam.
+say.nr301_5_mahakam.242;Gábor még szeretett volna mondani valamit, ám végül az ajkába harapott, és szó nélkül odébbállt. Hogy hová? Ezt bizony én sem tudhatom...
+say.nr301_5_mahakam.244;Gábor, én nem vagyok egy bosszúálló fajta––
+say.nr301_5_mahakam.246;Ó, köszönöm, Meve!
+say.nr301_5_mahakam.248;És nem vagyok bolond sem. Csatlakozhatsz a sorainkhoz, ebbe beleegyezem, de ha még egyszer hazudsz nekem, akár csak a legkisebb semmiséget illetôen is, nem leszek elnézô. Érthetô voltam?
+say.nr301_5_mahakam.250;Gábor eme nyílt fenyegetés hallatán csak bólintott, miszerint megértette. Meve feléje nyújtotta a kezét, jelezve a törpnek, hogy illendô volna a behódolása jeléül megcsókolnia azt. Ehelyett amaz egyszerûen csak mindkét karjával átkarolta a derekát, és jól megszorongatta.
+say.nr301_5_mahakam.255;Amikor a nap végre lenyugodott a hegyek mögött, a földalatti város megtelt élettel, harsonák, dudák és kürtök hangjával. A törpök odahagyták otthonaikat, és a fôtéren gyûltek össze, ahol aztán önfeledt táncba kezdtek, közben pedig a szegecses talpú bakancsaik szikrákat szórtak a köveken. A mindig zsémbes Hoog elöljáró azon az éjszakán szívélyes házigazdának bizonyult.\n
+say.nr301_5_mahakam.257;Egyszer csak egy hírhozó érkezett. Brouver a füléhez emelte a nyakában lógó, rézbôl készült hallókürtöt, és szemöldökét összevonva hallgatta az üzenetet.\n
+say.nr301_5_mahakam.258;Meve... Vársz talán valakit?
+say.nr301_5_mahakam.260;Mire gondol?
+say.nr301_5_mahakam.262;A hírnök azt mondja, egy küldöttség érkezett Karbonhegybe... Lyriából és Ríviából. Nilfgaardi kísérettel.
+say.nr301_5_mahakam.264;Hogy merészelik...? Árulók... Ki a vezetôjük?
+say.nr301_5_mahakam.266;Hm, jobb lesz, ha leülsz...
+say.nr301_5_mahakam.268;Ki vezeti a küldöttséget?!
+say.nr301_5_mahakam.270;A fiad, Villem, attól tartok.
+say.nr301_5_mahakam.272;Villem...
+say.nr301_5_mahakam.274;Mahakam továbbra is semleges marad, már a civakodásotokat illetôen - bízom benne, hogy szükségtelen volt erre emlékeztetnem Téged. Szóval nem akarok sem perpatvart, sem dulakodást, de legfôképp vérontást nem. Tulajdonképp, leginkább annak örülnék, ha––
+say.nr301_5_mahakam.276;Beszélni óhajtok vele.
+say.nr301_5_mahakam.278;Megtiltanám, de... mint már mondtam, sose láttam makacsabb némbert. Akkor hát legyen, jártassátok a szátokat. De ne feledd: el a kezekkel a fegyverektôl!
+say.nr301_5_mahakam.282;Meve lobogókat látott, a fekete nilfgaardi zászlók tengerében csak egyetlen egyet, amin a lyriai sas díszelgett. Tehetetlen dühében a keze ökölbe szorult. Aztán a fia és ellenlábasa, Villem lépett elô a birodalmi talpasok sorai mögül.
+say.nr301_5_mahakam.284;Nahát... Elnézésedet kellene kérnem – úgy tûnik, lemaradtam a koronázási ceremóniáról. Gratulálok, Fiam! Ki tette fel a fejedre a koronát? Aep Dahy tábornok?
+say.nr301_5_mahakam.286;Caldwell gróf.
+say.nr301_5_mahakam.288;Ó, igen. A mi jó öreg államférfiúnk.
+say.nr301_5_mahakam.290;Mi az oka, hogy épp ide jöttél? Hogy fegyvereket szerezz Nilfgaardnak?
+say.nr301_5_mahakam.292;Hivatalosan: igen. Nem hivatalosan viszont szerettem volna beszélni... Veled.
+say.nr301_5_mahakam.294;Eljutottak hozzád értesülések a külvilágban történtekrôl? Aedirn hamuvá és porrá lett, Vizimir király megöletett, s káosz uralja Redániát. Foltest egyezséget kötni volt kénytelen, vazallusai árulták el hirtelen, Henselt hasonlóképp járt...
+say.nr301_5_mahakam.296;Ennek a limericknek... lesz vajon tanulsága is?
+say.nr301_5_mahakam.298;Csak ugyanaz, mint ennek az egész háborúnak. Anyám, könyörgöm, lásd be Te is...! Nilfgaard gyôzelme elkerülhetetlen. Add meg magad most, és én kegyes leszek. Mert késôbb már... túl késô lesz.
+say.nr301_5_mahakam.300;Nem lesz olyan, hogy "késôbb". Visszaverjük ôket, a lándzsáink hegyével ûzzük vissza ôket Délre!
+say.nr301_5_mahakam.301;Ez alatt a "mi" alatt, Anyám, kiket is értesz? Magadra maradtál.
+say.nr301_5_mahakam.308;Többeknek valóban ekképp tûnhet. Mégis, vannak szövetségeseim, régóta hûségesek és újak egyaránt.
+say.nr301_5_mahakam.310;És hol vannak, Anyám? Zerrikániában? Mert hogy itt, Északon egy sem maradt. A harc véget ért.
+say.nr301_5_mahakam.312;A nilfgaardi barátaid hamarosan megtudják, hogy ez nem így van. Majd amikor az, amit a pökhendiségük miatt nem vesznek észre, jól fenéken billenti ôket!
+say.nr301_5_mahakam.314;Szóval továbbra is ellenállsz? Mégis, miért?
+say.nr301_5_mahakam.316;A szabadságunkért. A függetlenségünkért!
+say.nr301_5_mahakam.318;Érdekes. Meg mertem volna rá esküdni, hogy a sértett önérzeted és büszkeséged miatti bosszúhadjárat ez.
+say.nr301_5_mahakam.320;Inkább állok egymagam szemben Nilfgaarddal, mint annak oldalán. A megszállók oldalán, ahogy Te teszed!
+say.nr301_5_mahakam.322;Anyám,... azzal, hogy fejet hajtottam a Birodalomnak, alattvalóink ezreinek az életét mentettem meg.
+say.nr301_5_mahakam.324;Ezáltal pedig elvesztetted a becsületünket!
+say.nr301_5_mahakam.326;A népek, akiknek a kunyhói porig égtek, vajmi kevéssé törôdnek a mi becsületünkkel. Tényleg ezt hiszed?
+say.nr301_5_mahakam.331;Mikor megkoronáztak – és azzal, hogy nevetsz ezen, még kevésbé lesz igaz –, megesküdtem, hogy csak az alattvalóim jóléte és boldogulása fog lebegni a szemem elôtt. És egy olyan háborúból, amit csak elveszíthetünk, ôk semmit nem nyernek.
+say.nr301_5_mahakam.332;És a rabszolgaságból talán igen? Te is jól tudod, hogy a Feketék láncra verik a parasztokat! Mint a marhákat!
+say.nr301_5_mahakam.334;Elítélendô, egyetértek, de...
+say.nr301_5_mahakam.336;És az áttelepítések? A kényszermunka? A kegyetlen törvények, amik a legkisebb ellenszegülést is halállal büntetik? Ezektôl is csak jobb lesz nekik? Nos? Válaszolj nekem!
+say.nr301_5_mahakam.338;Látom, nem tántoríthatlak el, Anyám. Kár, ám megnyugvást lelek abban, hogy legalább megpróbáltam. És most... Viszlát!
+say.nr301_5_mahakam.340;Ó, nem! Én leszek az, aki eldönti, mikor ér véget ez a beszélgetés, nem pedig Te.
+say.nr301_5_mahakam.342;Ah. Van még valami, amit meg kellene vitatnunk?
+say.nr301_5_mahakam.344;Természetesen. Honnan tudtad, hogy itt találsz engem?
+say.nr301_5_mahakam.346;Én... Eljutottak hozzám nilfgaardi jelentések, amik arról szóltak, hogy láttak Téged a hegyszorosban.
+say.nr301_5_mahakam.348;Vörös lettél, mint a cékla, Fiam. Mint mindig, amikor hazugságon érnek.
+say.nr301_5_mahakam.350;Lyria innét kétheti útra van. Még ha az érkezésemkor értesültél volna az ittlétemrôl, mi már rég továbbállunk Mahakamból, mire összeállítod a csapatot, és elmasírozol vele egészen idáig.
+say.nr301_5_mahakam.352;Nem... Téged elôre figyelmeztettek az eltervezett utunkról. Ami csak egyet jelenthet: hogy áruló van a seregemben. Már megint.
+say.nr301_5_mahakam.354;Takarodj a szemem elôl, Villem. És imádkozz azért, hogy ha újra szembekerülünk egymással, az semleges területen legyen.
+say.nr301_5_mahakam.357;Meve viaskodott önmagával, nehogy a fia után forduljon, és vessen rá egy utolsó pillantást. A fiú megváltozott, amióta utoljára találkoztak. Férfiasabb lett. És jól állt neki a korona.
+say.nr301_5_mahakam.359;A tanácsadói kérdôn néztek rá, azon morfondírozva, hogy vajon mirôl beszélgettek Brouverrel... De Meve úgy határozott, hogy megtartja magának a részleteket. Egyikük a nilfgaardiak nyakörvét viselte. Amíg rá nem jön, melyikük az, ébernek kellett maradnia.
+say.nr301_5_mahakam.361;A lakomának vége, Reynard. Meg kell fontolnunk, mi legyen a következô lépés.
+say.nr301_5_mahakam.363;Gondolkoztam rajta, Felség. A seregünk immár elég erôs ahhoz, hogy rajtaüthessünk az ellenségen, de még mindig nem vagyunk elegen ahhoz, hogy nyílt színen vehessük fel velük a harcot.
+say.nr301_5_mahakam.364;Mit javasol, hol üssünk rajtunk?
+say.nr301_5_mahakam.365;Angrenre gondoltam. Elôször is, fákkal sûrûn benôtt, mocsaras terület – rejtôzködéshez tökéletes. Másodszor, amaz föld stratégiai fontosságú, ugyanis Angren a fô forrása a nilfgaardi flottákhoz szükséges építôanyagnak.
+say.nr301_5_mahakam.366;Nem elég jó, attól tartok. Olyan gyôzelemre lenne szükségünk, ami jelképes, ott kell lecsapnunk, ahol az a legjobban fáj nekik, és Angren––
+say.nr301_5_mahakam.368;...nemrég üdvözölhetett egy új kormányzót Caldwell gróf személyében. Ez lett volna a harmadik érvem. Természetesen ha Felséged úgy kívánja, felkészültem rá, hogy alternatívát javasoljak eme––
+say.nr301_5_mahakam.369;Szükségtelen. Pirkadatkor indulunk.
+say.nr301_5_mahakam.413;Ki tudhatja... Talán pont te vagy az, aki visszazavarhatja Nilfgaardot a Jaruga túlfelére.
+say.nr301_5_mahakam.416;És ezért igazán hálás vagyok. De most... szeretnék nyomban elindulni. Ha megengedi...
+say.nr301_5_mahakam.417;Menj, vágtass! Már most, ha tudsz! Minél elôbb hagyod el a hegyeinket, annál jobb.
+say.nr301_5_mahakam.418;Meve válaszát meg sem várva Brouver már hátat is fordított neki. A királynô búcsúszó nélkül távozott,... bár volt, ami még kikívánkozott volna belôle.
+say.nr301_5_mahakam.443;A lyriaiak csöndben szedelôzködtek... Ugyan segítséget kaptak a törpöktôl, de kevesebbet, mint amekkorában reménykedtek  – és azt is csak nagy vonakodás árán.\n\n
+say.nr301_5_mahakam.450;Sok gyalog megrémült, amikor megtudták, hogy milyen sorsra jutott Gábor – mert megpróbálta eltüntetni a klánja által elkövetett bûncselekmény nyomait, a törpöt lefejezték. És hogy mi lett a többi Zigrinnel? Ôket örökre számûzték Mahakamból.
+say.nr301_5_mahakam.451;"Igyunk! Nehogy kiszáradjunk a torkunk!"
+say.nr301_5_mahakam.452;Meve nem számított arra, hogy az üzenet közvetlenül is érinteni fogja...
+say.nr301_5_mahakam.453;"Mi az? Beszélj!"\n
+say.nr301_5_mahakam.454;A lyriaiak készen álltak arra, hogy maguk mögött hagyják Mahakamot,... amikor meghallották a parancsnoki kürt zengését, ami Brouver Hoog érkezését jelezte.\n
+say.nr301_5_mahakam.458;A királynô visszatért a bankett terembe.
+say.nr301_5_mahakam.459;A királynô visszatért a seregéhez.
+say.nr301_5_mahakam.460;Meve, amikor meglátta a keserû fintort az arcán, tudta, hogy nem jók a hírek. De amit hallott, az a legvadabb elképzeléseit is fölülmúlta.
+say.nr301_5_mahakam.462;"Most meg vajon mit akarhat?"\n
+say.nr301_5_mahakam.465;Búcsúzni jött? Semmi szükség rá, igazán.
+say.nr301_5_mahakam.467;Azért jöttem, mert van egy égetô kérdésem.
+say.nr301_5_mahakam.471;Ideje továbbállnunk... De melyik irányba?
+say.nr301_5_mahakam.472;Ôszintén kétlem. Csak annyi regrutát adok melléd, amennyinek láttán a Birodalmiak majd elgondolkodnak,... de egy törppel se többet.
+say.nr301_5_mahakam.473;A lehetetlenre vállalkozol,... de azt erôforrások nélkül el nem érheted. Gondom lesz rá, hogy megkapj mindent, amire szükséged lehet.
+say.nr301_5_mahakam.474;Én... a halálom napjáig az adósa leszek.
+say.nr301_5_mahakam.476;Ccö! Azaz még úgy tizenöt évig? Ne izgasd magad miatta.
+say.nr301_5_mahakam.797;Tehát mit javasol?
+say.nr301_5_mahakam.798;Ezt a háborút egymagunkban nem nyerhetjük meg, még a törpökkel az oldalunkon sem... Ám ha sikerülne kivívnunk egy gyôzelmet, egy kicsit, de jelképeset, azzal megmutathatjuk az Észak többi népének, hogy még nincs veszve minden.
+say.nr301_5_mahakam.799;Ezért, feltételezem, mélyen a frontvonal mögött fogunk támadni, valahol, ahol nem futhatunk bele a fôbb birodalmi haderôkbe...
+say.nr301_5_mahakam.806;Talán eljutott hozzád a híre, hogy a nilfgaardiak megpróbáltak végezni velem.
+say.nr301_5_mahakam.807;Tessék? Nem... Csak valami lavináról hallottam...
+say.nr301_5_mahakam.808;Akkora hócsuszamlás még egy birodalmi küldöttnek is nem kis erôfeszítésébe kerülhetett.
+say.nr301_5_mahakam.809;Soha nem egyeztem volna bele efféle alávaló gazságba.
+say.nr301_5_mahakam.810;Hiszek neked.
+say.nr301_5_mahakam.811;Nagyon örülök ennek, mindenek ellenére...
+say.nr301_5_mahakam.812;Hiszek neked, mert biztos vagyok abban, hogy a nilgaardiak soha nem kérték volna ki a véleményedet.
+say.nr301_5_mahakam.813;Gondolkodj el rajta, Fiam... Vajon a szövetségesük vagy, vagy csak egy eszköz a kezükben? Soha nem lehetsz benne bizonyos igazán.
+say.nr301_5_mahakam.814;Lyria és Rívia királya vagyok. Az alattvalóim érdekében kész vagyok a legfájdalmasabb engedménytételre is.
+say.nr301_5_mahakam.815;Távozhatok most már? Vagy van még valami?
+title.nr301_5_mahakam.1;Karbonhegy
+title.nr301_5_mahakam.2;Karbonhegy
+title.nr301_5_mahakam.3;Karbonhegy
+title.nr301_5_mahakam.819;Karbonhegy
+title.nr301_5_mahakam.820;Karbonhegy
+title.nr301_5_mahakam.821;Karbonhegy
+title.nr301_5_mahakam.822;Karbonhegy
+

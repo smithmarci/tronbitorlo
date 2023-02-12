@@ -1,0 +1,8 @@
+say.nr309_1_eudora_combat.1;Utánam... és halkan.
+say.nr309_1_eudora_combat.11;Csak még egy kicsit...
+say.nr309_1_eudora_combat.13;Egyszerû, mint az egyszer-egy.
+say.nr309_1_eudora_combat.3;Sima ügy.
+say.nr309_1_eudora_combat.5;Hahh? Ki jár ott?
+say.nr309_1_eudora_combat.7;Micsoda egy pöcs... ez közel volt.
+say.nr309_1_eudora_combat.9;Megállni! Ki van ott?!
+

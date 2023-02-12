@@ -1,0 +1,79 @@
+menu.nr302_1_dragon_brides.107;Elismerem, az már másfelé billenti a mérleget...
+menu.nr302_1_dragon_brides.108;Ó, nem! Egy küzdelem is épp elegendô volt a sárkány ellen.
+menu.nr302_1_dragon_brides.28;Segítesz megküzdeni a sárkánnyal.
+menu.nr302_1_dragon_brides.29;Folytatod az utadat.
+say.nr302_1_dragon_brides.1;Füstoszlop emelkedett a hegyek fölött, égett szag és pernye töltötte be a levegôt.\n
+say.nr302_1_dragon_brides.101;Ami történt, megtörtént. Gondolnunk kell a jövôre is. A féreg épp a sebeit nyalogatja, azelôtt kell végezni vele, hogy újra erôre kapna.
+say.nr302_1_dragon_brides.103;Ami azt jelenti, hogy nincs sok idônk – olyan gyorsan gyógyul, mint egy alkimista pincsije... És a legközelebbi helyôrség mérföldekre van. Mire ideérnek, a sárkány már újra a levegôben lesz.
+say.nr302_1_dragon_brides.105;Úgy van,... ezért is gondoltam,... köhömmm... hogy talán Felséged esetleg...
+say.nr302_1_dragon_brides.11;– mondta Meve kurtán. –
+say.nr302_1_dragon_brides.112;Ó, nem. Egyszer már megküzdöttünk a sárkánnyal, az több volt, mint elég, köszönjük.
+say.nr302_1_dragon_brides.114;Nem lenne túl nagy küzdelem... A saját szemeddel is láthattad: úgy ereszt, mint egy lyukas hólyag. Csak meg kellene adni neki a kegyelemdöfést.
+say.nr302_1_dragon_brides.116;Akkor miért nem adja meg neki maga?
+say.nr302_1_dragon_brides.118;Meve... Nézz körül! Mindent hamu borít, egy törp se maradt, akinek ne nézne ki úgy az irhája, mint az odakozmált zabkása... Egyszerûen nem hagyhatom ôket itt.
+say.nr302_1_dragon_brides.119;Ehh... Nem is tudom. Gondolkodnom kell rajta.
+say.nr302_1_dragon_brides.121;Gondolj... a kincsekre is!
+say.nr302_1_dragon_brides.122;Elismerem, ez elég nagy súllyal esik a latba. Ráadásul a sárkány súlyosan megsebesült.
+say.nr302_1_dragon_brides.124;És akkor még finoman fogalmaztál! Úgy dôlt belôle a vér, mint bor a lyukas tömlôbôl. Már csak meg kellene neki adni... a kegyelemdöfést.
+say.nr302_1_dragon_brides.126;Rendben... Majd én megteszem.
+say.nr302_1_dragon_brides.128;Biztos voltam benne, hogy jobb belátásra térsz!
+say.nr302_1_dragon_brides.13;"Túlságosan is jól ismerem ezt a szagot. Egész Aedirn ettôl szaglott... Ez az égô otthonok bûze."\n
+say.nr302_1_dragon_brides.130;Beza', Vavrinek, Vavrinek... A hölgy virágoskertet csinált volna az alfeledbôl...
+say.nr302_1_dragon_brides.132;Úgy van, a Királynô nagy szívességet tesz nekünk,... olyat, amibôl mindketten profitálhatunk.
+say.nr302_1_dragon_brides.136;Tudom, hogy kifáradtál a küzdelemben, és nem akarsz további veszteségeket kockáztatni, ésígytovább, ésígytovább,... de ne feledd: a bestia aranyakból és ékkövekbôl rakott ágyon szundít.
+say.nr302_1_dragon_brides.138;Szóval,... merre is van Keltullis odúja?
+say.nr302_1_dragon_brides.140;Innen északra, egy hatalmas üregben... El sem téveszthetitek.
+say.nr302_1_dragon_brides.142;Meve búcsút intett Vavrineknek, és útnak indult. És hogy az útja egyenest a tûzokádó fészkéhez vitt-e, kérditek? Pszt! Nos, ne rontsuk el elôre a meglepetést...
+say.nr302_1_dragon_brides.15;A lyriaiak megszaporázták a léptüket. Hamarosan egy lángokban álló település képe tárult a szemük elé... És egy mennydörgô, felbôszült sárkányé fölötte.\n
+say.nr302_1_dragon_brides.17;"Ez a ti Keltullis–otok?"
+say.nr302_1_dragon_brides.19;– kérdezte Gascon, közben kezével kitakarva a lángokban álló település izzó fényeit. –
+say.nr302_1_dragon_brides.21;"Igazad volt: teljességgel ártalmatlan."\n
+say.nr302_1_dragon_brides.23;"Fene se tudja, mi üthetett belé..."
+say.nr302_1_dragon_brides.25;– mondta a törp, és az övén függô fejszéje után kapott. –
+say.nr302_1_dragon_brides.26;"Királynô! A segítségükre kell sietnünk!"\n
+say.nr302_1_dragon_brides.3;"Tûz?"
+say.nr302_1_dragon_brides.32;"Nem, Gábor."
+say.nr302_1_dragon_brides.34;– rázta a fejét Meve. –
+say.nr302_1_dragon_brides.36;"Továbbmegyünk."\n
+say.nr302_1_dragon_brides.38;A törp hitetlenkedve nézett a királynôre.\n
+say.nr302_1_dragon_brides.40;"Meve,... porig fog égni a város!"\n
+say.nr302_1_dragon_brides.419;Tessék? Bizonyára tréfál!
+say.nr302_1_dragon_brides.42;"És azt kívánod tán, hogy mi is együtt égjünk vele? Nem küldöm a biztos halálba az embereimet. Ehhez a munkához egy vaják kellene, vagy egy varázsló,... nem egy hétköznapi gyalogos hadosztály."\n
+say.nr302_1_dragon_brides.420;Jog szerint az egész Brouveré, természetesen, de ha csak aprócska összegnek kélne lába,... azt nem venné észre.
+say.nr302_1_dragon_brides.423;"Gyôzd le a félelmeidet, Törp uram!"
+say.nr302_1_dragon_brides.425;– kiáltotta Eyck. Meve válaszát meg sem várva leengedte a lándzsáját, és elvágtatott, egyenest a lángoló városka irányába. –
+say.nr302_1_dragon_brides.427;"Utánam! Vágjátok le a férget!"
+say.nr302_1_dragon_brides.430;"Ha nem sietünk, Eyckbôl csak kormos páncél marad."\n
+say.nr302_1_dragon_brides.432;És Deneslei Eyck, a híres-neves szörnyölô? Ô pedig nem hitt a szemének. Hogy tétlenül nézze, amint egy sárkány házakat rombol porig, és közben legyilkol egy egész várost? Ó, nem. Egy kóbor lovag soha nem tehet ilyet.
+say.nr302_1_dragon_brides.44;Gábor nem felelt semmit tiltakozásképp... Valójában nem szólalt meg egyáltalán. Visszalovagolt a menet végére, és közben némán mozgó ajkakkal trágárságokkal teletûzdelt tirádát szavalt.
+say.nr302_1_dragon_brides.45;"Reynard!"
+say.nr302_1_dragon_brides.47;– szólt Meve. –
+say.nr302_1_dragon_brides.49;"Mondja meg az embereknek, hogy nedvesítsék be a köpenyeiket a tûz ellen! Amint végeztek, indulunk."
+say.nr302_1_dragon_brides.5;– kérdezte Gábor, majd mélyet szippantott. –
+say.nr302_1_dragon_brides.50;"Felség, ôk csak egyszerû katonák. Egy sárkány elleni küzdelemhez..."\n
+say.nr302_1_dragon_brides.52;"Tudom. De segítenünk kell,... vagy legalább meg kell próbálnunk."
+say.nr302_1_dragon_brides.54;Míg Reynard kiadta a parancsokat, Meve Gáborhoz fordult.\n
+say.nr302_1_dragon_brides.56;"Ennek a sárkánynak... van bármilyen gyenge pontja?"\n
+say.nr302_1_dragon_brides.58;"Félek, nincsen"
+say.nr302_1_dragon_brides.60;– mondta komoran a törp. –
+say.nr302_1_dragon_brides.61;"Csak a nyers hús iránti rajongása."\n
+say.nr302_1_dragon_brides.62;Meve bólintott, majd kiszáradt torokkal nyelt egyet. Érezte, amint verejték csurog végig a tarkóján.
+say.nr302_1_dragon_brides.64;Meve elfojtotta feltörni készülô félelmét, kiadta a parancsot a támadásra, és a katonái bevágtáztak a lángoló városba. {audio=nr302_1_dragon_brides_Keltulus_attacks}Közelrôl Keltullis még iszonytatóbban festett – hatalmas mérete ellenére hihetetlen fürgeséggel mozgott, mint a gyík, amikor beszalad a kövek közé. Mancsának egyetlen lendítésével három törp nyakát törte, majd egy erôs harapással kettétépett egy negyediket. Azután pedig... a lyriaiak felé fordította a tekintetét.\n
+say.nr302_1_dragon_brides.66;"Több is van belôletek?"
+say.nr302_1_dragon_brides.68;– mondta, és véres pofáját rettenetes vigyorra húzta. –
+say.nr302_1_dragon_brides.7;"Talán villám csaphatott néhány kiszáradt fába..."\n
+say.nr302_1_dragon_brides.70;"Helyes."
+say.nr302_1_dragon_brides.81;Aznap sok lyriai veszett oda. Vagy a sárkány mindent elemésztô tüze végzett velük, vagy a hússzaggató karmainak estek áldozatul. De az áldozatuk nem volt hiábavaló. A törpök segítségével képesek voltak súlyosan megsebezni, és menekülésre kényszeríteni Keltullis-t. A sérült bestia fájdalmas üvöltése végigzengett az egész völgyön...
+say.nr302_1_dragon_brides.83;Úgy van, üvölts, te aljas féreg! Sose kellett volna ránk támadnod, nem igaz? Átkozott tüzes gyík...
+say.nr302_1_dragon_brides.85;Meve,... ez itt Vavrinek, a város vénje és a Ferencek klánfôje.
+say.nr302_1_dragon_brides.87;Üdvözletem,... és részvétem.
+say.nr302_1_dragon_brides.89;Ehh... nem történt semmi. Ha Te nem vagy, kô kövön nem maradt volna.
+say.nr302_1_dragon_brides.9;"Nem"
+say.nr302_1_dragon_brides.90;Hogy ôszinte legyek,... amikor meghallottam, hogy valami ember-királynô jött Mahakamba segítséget kérni, azt mondtam, hogy elôbb nôjön sáfrány a valagamból, mint hogy igennel szavazzak rá.
+say.nr302_1_dragon_brides.91;Utána aztán féltem is volna bekukkantani a gatyámba, de... meggondoltam magam. Azután, amit ma láttam, amit értünk tettél,... Tiéd a támogatásom, és a Ferencek örök hálája.
+say.nr302_1_dragon_brides.93;Köszönöm! A nilfgaardi veszedelemmel szembenézve ez nagyon sokat jelent nekem.
+say.nr302_1_dragon_brides.95;Bocsássatok meg, amiért félbeszakítom ezt a csodálatos, szemeket könnybe lábasztó fajok közötti megbékélést, de nem bírom tovább magamban tartani! Vavrinek, mi a démonszar történt? Miért támadt rátok Keltullis?
+say.nr302_1_dragon_brides.97;Én is csak annyit tudok, amennyit te, azaz lópikulát! Csak fölénk röppent, aztán elkezdett tüzet köpködni! Egy szemvillanás alatt lángba borult a fél település!
+say.nr302_1_dragon_brides.99;A kecske seggét...! Háromszáz esztendeig jó szomszédságban éltünk vele...
+title.nr302_1_dragon_brides.407;Drakonida vonzalom
+

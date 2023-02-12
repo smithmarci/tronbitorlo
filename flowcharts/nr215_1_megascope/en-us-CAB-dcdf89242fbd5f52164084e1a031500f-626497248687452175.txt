@@ -1,0 +1,72 @@
+menu.nr215_1_megascope.72;Igen, hallottam már a nevét.
+menu.nr215_1_megascope.73;Nem, nem mondhatnám.
+menu.nr215_1_megascope.94;Látni akartam az embert, aki másokat mészárol le Aedirnben.
+menu.nr215_1_megascope.95;Hogy elmondjam, sosem adom meg magam.
+menu.nr215_1_megascope.96;Kíváncsi voltam csupán, ez volt az oka.
+say.nr215_1_megascope.10;Még mielôtt bárki válaszolhatott volna, az elôôrs egyik felderítôje rémülten kiáltott fel. Egy pillanattal késôbb kettéhasadt fák dôltek a földre körülöttük, és egy harminc láb magas kôóriás trappolt elô az erdôbôl.\n
+say.nr215_1_megascope.100;Nemkívánatos elemek...? Élô, lélegzô emberekrôl beszél!
+say.nr215_1_megascope.101;Ha történelmi távlatokból szemlélné ezt a háborút, figyelembe venné a nagyobb, földrajzi kontextusát is... Áh! Felejtse el. Amúgy is felfoghatatlan az Ön számára.
+say.nr215_1_megascope.103;Hogy elmondjam, soha nem fogom megadni magam. Hogy az utolsó leheletemig küzdeni fogok.
+say.nr215_1_megascope.104;Ne legyen kétsége afelôl, hogy hamarosan eljön az is. Pontosan akkor, amikor én azt úgy kívánom.
+say.nr215_1_megascope.105;Mit akar ez jelenteni?
+say.nr215_1_megascope.107;Csak kíváncsi voltam. Érdekelt, kivel diskurált a varázsló.
+say.nr215_1_megascope.108;Kíváncsi... Milyen érdekes. Önök északiak mily egyszerûek... Mint a parányi agyú szarkák, amik mindent a fészkükre cipelnek, ami csillog...
+say.nr215_1_megascope.109;Most, hogy kielégítettem a kíváncsiságát, engedje meg, hogy visszatérjek a feladataimhoz.
+say.nr215_1_megascope.11;"Az istenekre..."
+say.nr215_1_megascope.111;Ég Önnel, Felség... Vagy inkább a viszontlátásra. Mert hogy viszontlátjuk még egymást, errôl biztosíthatom.
+say.nr215_1_megascope.113;Csönd hullt a sátorra. A királynô a még mindig lángoló csatamezô fényeitôl hunyorogva hagyta el azt... És megfogadta magának, hogy ha legközelebb újra találkozik Ardal aep Dahy fôkancellárral, amaz már egy fejjel alacsonyabb lesz.
+say.nr215_1_megascope.12; – suttogta a királynô. – 
+say.nr215_1_megascope.13;"Ez meg micsoda?!"\n
+say.nr215_1_megascope.15;"Egy gólem..."
+say.nr215_1_megascope.17;"Ezt nem tudom megerôsíteni, Felség..."
+say.nr215_1_megascope.21; – súgta vissza neki Isbel. – 
+say.nr215_1_megascope.22;"A nilfgaardi varázslók elôszeretettel használt szolgája."
+say.nr215_1_megascope.23; – mondta Reynard. – 
+say.nr215_1_megascope.24;"De valóban úgy tûnik, hogy az ellenségünk oldalán harcol."
+say.nr215_1_megascope.25;Mintha csak meg akarnák erôsíteni a varázslónô állítását, nehéz fekete páncélba öltözött katonák masíroztak elô az óriás háta mögül. A vezérük, azonban, könnyû tunikát viselt,... és az ökleit különös, kéken derengô fény vette körbe.\n
+say.nr215_1_megascope.26;"Dhith'en cuan aen Lyrien!"
+say.nr215_1_megascope.27; – kiáltotta, kiadva a parancsot a támadásra. – 
+say.nr215_1_megascope.28;"Gloir aen Ard Feain!"
+say.nr215_1_megascope.4;Meve lova hátrálni kezdett, és lesunyta a füleit, láthatóan minden ok nélkül. Bízva az állat ösztöneiben Meve leugrott a nyeregbôl,... és remegést érzett a talpa alatt. A rezgés kezdetben gyenge volt, szinte alig érezhetô,... aztán egyre erôsebb és erôsebb lett.\n
+say.nr215_1_megascope.40;A nyilak süvítô zápora ellen pajzsát maga elé emelô Meve utat tört magának egészen a támadást vezetô nilfgaardi varázslóig. Közelharcban a varázsigevetésnek nem sok haszna van egy jól meglendített pallos ellenében.\n
+say.nr215_1_megascope.41;"Híí–áááh!"
+say.nr215_1_megascope.42; – rikoltotta Meve, miközben lesújtott a kardjával. A pengéje nyaktól lefelé keresztülszelte a mágust, aki aztán a saját vérében fuldokolva a földre zuhant.\n
+say.nr215_1_megascope.43;"Ti'lsoë eveigh..."
+say.nr215_1_megascope.44;– próbálta amaz még kipréselni magából az utolsó szavakat. Aztán a kezei körül játszó kék derengés kihunyt,... és a kôóriás hatalmas robaj kíséretében a földre rogyott, majd szilánkokra hasadt.\n\n
+say.nr215_1_megascope.47;Amikor a csata pora is elült, a királynô utasította az embereit, hogy kutassák át a nilfgaardi tábort. A varázsló sátrában aztán egy ritka instrumentumra leltek, amivel nagy távolságokba volt lehetséges üzeneteket váltani. Egy megaszkópra. A réz foglalatokban ülô kristályok még melegek voltak,... ami azt jelentette, hogy nemrégiben beszélgetést folytattak az eszköz segítségével. Már csak az volt az égetô kérdés, hogy kivel.\n
+say.nr215_1_megascope.48;"Isbel!"
+say.nr215_1_megascope.5;"Mi történik?!"
+say.nr215_1_megascope.50;– kiáltotta a királynô. A varázslónô szolgálatkészen lépett közelebb. –
+say.nr215_1_megascope.51;"Tudod aktiválni ezt az eszközt?"\n
+say.nr215_1_megascope.52;"Igen, Felség... De biztos benne, hogy...?"\n
+say.nr215_1_megascope.53;"Igen. Láss munkához!"\n
+say.nr215_1_megascope.54;Isbel bólintott, aztán nekilátott, hogy beállítsa a mágikus szerkezetet...
+say.nr215_1_megascope.56;Csak egy mód volt rá, hogy kiderítsék. Meve utasításba adta az embereinek, hogy hozzák elébe a varázsló segédjét – akinek aztán megparancsolta, hogy hozza mûködésbe a szerkezetet. A fogoly letörölte homlokáról a verejtéket, majd eltekert emezt, beállított amazt, és nekiállt bíbelôdni a számtalan tárcsával...
+say.nr215_1_megascope.6;– kiabálta Meve. –
+say.nr215_1_megascope.62;Végül valami kattant, vibráló fény jelent meg,... és Meve szemei elôtt feltûntek egy nilfgaardi tábornok körvonalai.
+say.nr215_1_megascope.63;N'ess aedragh a me, Albrich. Areir aep tho.
+say.nr215_1_megascope.64;A Közös nyelven, ha kérhetem. Nem beszélem az Ön nyelvét.
+say.nr215_1_megascope.65;Ó? Megbocsásson, azt hittem, valaki mással beszélek...
+say.nr215_1_megascope.66;Örülök, hogy jó egészségnek örvendve láthatom, Királynô... Vagy volt királynô. Úgy hiszem, ez volna a megfelelôbb titulus.
+say.nr215_1_megascope.67;Ahelyett, hogy az én címemet firtatjuk, inkább árulja el az Önét.
+say.nr215_1_megascope.68;Természetesen. Hol is hagytam a modoromat... Ardal aep Dahy herceg, fôkancellár, a "Kelet" Hadseregcsoport fôparancsnoka.
+say.nr215_1_megascope.69;Úgy vélem, már volt szerencséje hallani rólam.
+say.nr215_1_megascope.7;"Miért reng a föld?"\n
+say.nr215_1_megascope.74;Így van. Ön az a gyáva alak, aki ahelyett, hogy maga nézett volna velem szembe, árulókat küld, hogy elvégezzék helyette a piszkos munkát.
+say.nr215_1_megascope.75;Amit Kegyed gyávaságnak hív, én diplomáciának nevezem. És el kell ismernie, ez a diplomácia eddig egészen sikeres volt.
+say.nr215_1_megascope.76;Elôbb Lyria, aztán Rosberg és Alsó-Aedirn... Mind veszteségek nélkül jutott a kezünkre...
+say.nr215_1_megascope.77;Élvezze ki a helyzetét, amíg lehet. A könnyû gyôzelmek rendszerint rövid életûek.
+say.nr215_1_megascope.78;Így gondolja? Attól tartok, kellemetlen meglepetésekben lesz még része.
+say.nr215_1_megascope.79;Nem, ez az elsô alkalom, hogy ezt a nevet hallom: Ardal... Ardal mi is?
+say.nr215_1_megascope.80;Úgy látom, ritka rossz a névmemóriája. Esetleg megkérdezhetné a fiát – ô már meglehetôsen jól ismer engem.
+say.nr215_1_megascope.81;Maga kurafi...
+say.nr215_1_megascope.82;Cc, hova gondoltam... Nem ápolnak jó viszonyt mostanság, ugyebár?
+say.nr215_1_megascope.83;Micsoda tragikus történet... De egyet se féljen! Hamarosan véget ér.
+say.nr215_1_megascope.87;Ez fenyegetés akar lenni?
+say.nr215_1_megascope.88;Nem. Csupán csak egy megérzés.
+say.nr215_1_megascope.89;De elég ebbôl. Miért hozta mûködésbe a megaszkópot? Mit akar?
+say.nr215_1_megascope.97;Látni akartam azt az embert, aki másokat mészároltat le Aedirnben. A férfit, aki nôk, gyermekek és idôsek ezreinek a haláláért felelôs.
+say.nr215_1_megascope.99;Akkor eme vágya ezennel teljesült. Én adtam parancsot arra, hogy megtisztítsák e földeket a nemkívánatos elemektôl, és hogy elôkészítsék azt a telepeseink számára...
+title.nr215_1_megascope.2;Magasröptû diskurzus
+title.nr215_1_megascope.460;Magasröptû diskurzus
+

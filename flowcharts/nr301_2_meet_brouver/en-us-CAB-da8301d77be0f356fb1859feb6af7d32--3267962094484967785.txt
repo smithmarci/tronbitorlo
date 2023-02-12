@@ -1,0 +1,86 @@
+menu.nr301_2_meet_brouver.115;Nem, Reynard. Vesztettünk.
+menu.nr301_2_meet_brouver.116;Igen. Fogunk. Muszáj.
+menu.nr301_2_meet_brouver.141;Mit nem mondasz! Csupa fül vagyok.
+menu.nr301_2_meet_brouver.142;Segíteni akarsz? Miért?
+menu.nr301_2_meet_brouver.179;Elégséges volna?
+menu.nr301_2_meet_brouver.180;Miért nem foglalkozik Brouver az üggyel?
+menu.nr301_2_meet_brouver.69;Nem szoktam ahhoz, hogy félbeszakítanak.
+menu.nr301_2_meet_brouver.70;Hallgasd meg a kérésemet, könyörögve kérlek!
+say.nr301_2_meet_brouver.1;Nos? Mit szeretnél mondani?
+say.nr301_2_meet_brouver.101;Ez meg ki a démon?!
+say.nr301_2_meet_brouver.103;Reynard Odo gróf.
+say.nr301_2_meet_brouver.105;Ho-hó, Odó, Lodó, Bodó! Pff – he-he-he! Most pedig figyeljetek jól, mindannyian. Nem kértünk senki segítségébôl. És tudjátok, miért? Mert nekem még megvan a méltóságom. Nem úgy, mint egyeseknek!
+say.nr301_2_meet_brouver.111;Legények és leányok, kész a Tavaszi Nagytakarítás! Vége a szörnyek garázdálkodásának! Karbonhegy hazavár minket! Kövessetek!
+say.nr301_2_meet_brouver.114;Felség... Egyet se féljen! Találunk másik megoldást.
+say.nr301_2_meet_brouver.119;Megoldjuk majd, valóban. Bár átkozott legyek, ha tudom, hogyan. Nem maradt más, akihez fordulhatnánk, sem más ország, ahová menekülhetnénk.
+say.nr301_2_meet_brouver.121;Tanácskozzunk, Felség, vegyük számba a lehetôségeinket. Ott van még Redánia, Temeria––
+say.nr301_2_meet_brouver.123;Nem, Reynard. Vesztettünk. Nem maradt más, akihez fordulhatnánk, sem más ország, ahová menekülhetnénk...
+say.nr301_2_meet_brouver.125;Nem egészen, Felség... Ott van még nekünk Redánia, Temeria... Erôs királyságok, amik még a segítségünkre lehetnek.
+say.nr301_2_meet_brouver.127;És talán udvarról udvarra kellene vándorolnunk, a tenyerünket nyújtva, mint holmiféle koldusok teszik a szentélyek lépcsôin? Reynard, nehezen tudnám elképzelni... És, ôszintén szólva, elegem van a mega––
+say.nr301_2_meet_brouver.131;Felség... Ha félrevonulhatnánk egy röpke pillanatra. Egy kis fecsegésre.
+say.nr301_2_meet_brouver.133;Reynard, kérem, bocsásson meg...
+say.nr301_2_meet_brouver.135;Tudom, hogy az Elöljáró nem tett túl jó elsô benyomást...
+say.nr301_2_meet_brouver.137;Hahh. És a második? Vajon jobb lehet ennél?
+say.nr301_2_meet_brouver.139;Hmm... Hogy megmondjam az ôszintét: nem. Én másképp próbálnék rá hatni. Nincs még minden veszve, higgye el! Brouver makacs, mint egy öszvér, semmi kétség, de egy ösztökélhetô öszvér ô. És én éppenséggel tudom is, miképp...
+say.nr301_2_meet_brouver.147;Önzetlen segíteni-akarás? Nem hiszem, hogy létezne. Így hát mielôtt nekiállnál azt ecsetelni, hogy miképp lennél a segítségemre, légy oly kedves, és áruld el, miért is tennéd... Kéretlenül, ne feledd, ráadásul az Elöljáró kívánsága ellenére.
+say.nr301_2_meet_brouver.149;Hogy a kérdésére kérdéssel feleljek. Tudja Felséged, Brouver Hoog mikor sétált le utoljára a hegyekbôl?
+say.nr301_2_meet_brouver.151;Nem tudom. Sambouk király idejében talán?
+say.nr301_2_meet_brouver.153;Leginkább semmikor. Hoog itt született, és itt is fog meghalni. Mint a legtöbb mahakami törp.
+say.nr301_2_meet_brouver.155;Míg én gyakori látogató vagyok az emberek országaiban. Jártam már küldöttségben királyi udvarokban, kereskedôcéheknél, színi társulatoknál... És van szemem ahhoz, hogy lássam, miféle szarságok mennek az emberek között.
+say.nr301_2_meet_brouver.157;Nilfgaard étvágya kielégíthetetlen. A Feketék addig meg nem állnak, amíg az egész Kontinensre rá nem tenyerelnek, a déli Ofírtôl egészen északon a Sárkány-hegységig.
+say.nr301_2_meet_brouver.161;Az istenek óvjanak minket attól, hogy satujukba fogják az Északi Királyságokat. Mert akkor aztán mindenütt a Feketék hordái rajzanak majd. Irányításuk alá vonják a kereskedelmi utakat, az ellátmányok útvonalait, talán még a kerülôutakat is. És akkor ôk döntenek majd az árakról... brrr. Rajtunk, törpökön még sosem volt póráz, nem hogy hám.
+say.nr301_2_meet_brouver.162;Szóval, röviden, mind jobban járunk, ha a Feketéket a Jaruga túlpartján tudjuk. És én láttam Felségedet... Láttam már csatában. Szúrni és vágni is tud, ha kell. És a megfelelô támogatással visszaûzheti ôket oda, ahonnan jöttek, tudom.
+say.nr301_2_meet_brouver.164;Rendben, csupa fül vagyok. Mit kell tennünk azért, hogy Brouver Hoog segítsen nekünk?
+say.nr301_2_meet_brouver.166;Hmm... Kezdésnek ott lennének a szörnyek, amiknek a jelenléte sokkal nagyobb nyûg mindannyiunknak, mint azt bármelyikünk is bevallaná.
+say.nr301_2_meet_brouver.168;Mert hát az arany utáni véget nem érô keresés közben mélyre ástunk, túlságosan is mélyre... Olyan hasadékokig hatoltunk le, ahol a szörnyek teremnek,... vagy születnek. Ki tudná azt megmondani.
+say.nr301_2_meet_brouver.170;Amint egy kicsit melegebbre fordul az idô, elôrajzanak, hogy táplálkozzanak. És évrôl évre egyre több van belôlük. Aminek az imént a szemtanúja lehetett, az a Tavaszi Nagytakarítás – vagy most már inkább csak tavaszi karbantartás. A romlás forrásáig már nem merészkedünk.
+say.nr301_2_meet_brouver.172;Minden tavasszal levágunk közülük annyit, hogy normálisan élhessünk, kereskedhessünk, bányászhassunk. De a felsôbb völgyekben, a csúcsok között akadnak járatok, ahol volna még mit elkalapálni. Annyi, hogy már egész telepeket kellett kiürítenünk.
+say.nr301_2_meet_brouver.174;Még mindig nem látom, mindez miképp függ össze velem és Brouverrel...
+say.nr301_2_meet_brouver.176;Felség, vágja le a bestiákat mind, az utolsó szálig,... és akkor majd elnyeri a klánok szívét. Mindôjükét. A klánok támogatásával a háta mögött az Elöljárónak már nem lesz választása. Oda kell majd figyelnie Felségedre, komolyan kell majd vennie.
+say.nr301_2_meet_brouver.178;Két hely van, ahonnan a szörnyek nagy számban rajzanak elô. Ott a Davor-vájat, és egy Borófenék nevezetû elhagyatott település. Pusztítsa el ezeket a helyeket, döntse be a járatokat, és a gond letudva.
+say.nr301_2_meet_brouver.183;Hmm... Úgy fested le, mintha olyan egyszerû volna. Brouver Hoog miért nem foglalkozott érdemben ezzel az egésszel?
+say.nr301_2_meet_brouver.185;Hú... Egy valamit meg kell tanulnia rólunk, Mahakam törpjeirôl: ha szokásokról, hagyományokról, törvényekrôl van szó, megszállottak vagyunk. És ez háromszorosan is igaz Brouverre.
+say.nr301_2_meet_brouver.187;Az klánfôknek hetekbe telik, mire bármit is átgondolnak. És akkor még csak olyan dologról beszélek, mint hogy viselhessünk-e hózentrógert, vagy inkább betiltsák, mert hogy túlságosan is kilátszana.
+say.nr301_2_meet_brouver.189;Van egy törvénykönyvünk – a Törpôsök Kódexe. Az egyik tanítása kimondja, hogy "Ami járatot megnyitottál, sose zárd le azt". Ezért hát egy épeszû törp sem fog másként cselekedni. De Felséged...
+say.nr301_2_meet_brouver.19;Ô itt Brouver Hoog, az Elöljárónk.
+say.nr301_2_meet_brouver.191;Kegyed kívülálló. Nem vonatkoznak rá a törvényeink. Úgymond szabad keze van amaz járatok lezárásában, amelyekbôl a bestiák elôbújnak. Döntse be, árassza el ôket, mit tudom én. De egyszer s mindenkorra oldja meg a problémánkat.
+say.nr301_2_meet_brouver.194;És ennyi... elégséges volna?
+say.nr301_2_meet_brouver.196;Úgy vélem, hogy igen. Ah, de, de, de... ha talál más módot arra, hogy megnyerje a klánok vagy Brouver szívét, akkor tegyen úgy. Baj nem származhat belôle.
+say.nr301_2_meet_brouver.198;Hmm... Mindez meglehetôsen fáradságosnak hangzik, mégis... Mégis inkább ezt választanám, mint hogy várjak egy holdtöltényit, és közben kihallgatásért folyamodjak, amikor is elôbb csak üdvözölnének, aztán egy újabb holdtöltével késôbb csak rendreutasítanának.
+say.nr301_2_meet_brouver.20;Meve, Lyria és Rívia királynôje, valamint a tanácsadói és a kísérete.
+say.nr301_2_meet_brouver.200;Hálás vagyok, Gábor. Fogódzót adtál nekem. Ám legyen... Gondolkodjunk el a lehetôségeken, lássuk, mit lehetne tenni.
+say.nr301_2_meet_brouver.202;...
+say.nr301_2_meet_brouver.21;És kik volnának a vendégeink, Gábor?
+say.nr301_2_meet_brouver.22;Üdvözletem, Elöljáró. Azért jöttem,––
+say.nr301_2_meet_brouver.28;Valamiért bizonyosan jöttél. Az elsô tippem az arany lenne, a második pedig a vérontás. Nos? Mit akarsz? Lehet, hogy benne vagyok már a korban, de még nem hülyültem meg. Ti, embernépek... Bizonyosan nehéz idôk járnak felettetek, ha eszetekbe jutottunk!
+say.nr301_2_meet_brouver.29;Fegyver van náluk! Gábor! Mi a nyavalyáért hoztad ôket így ide? És miért nem látok zsákot a fejükbe húzva?
+say.nr301_2_meet_brouver.46;Meve lassan léptetett lován, rácsodálkozva a környezetére, fülével a hangok kakofóniáját kagylózva: a csúcsok között a szél süvítô fütyülését, a fagyott havon gördülô szekérkerekek nyiszorgását,... és a szörnyek bömbölését.\n
+say.nr301_2_meet_brouver.47;Ahogy a lándzsákkal átdöfött shaelmaarok hörgése elcsendesedett, a mahakami talpasok serege kettévált. Egy törp lépett elô, aki olyan ôsz volt, mint a sarki rókák, és olyan ráncos, mint az aszaltszilva. Nehézkesen járt, és egy harci fejszére támaszkodott, aminek mindkét éle vértôl volt iszamós...
+say.nr301_2_meet_brouver.48;Céllal érkeztem, nem tagadom. De hallgass meg, és látni fogod,––
+say.nr301_2_meet_brouver.49;Nála van az Ólomgyûrû, Elöljáró.
+say.nr301_2_meet_brouver.50;Egy király ajándéka––
+say.nr301_2_meet_brouver.51;Demavendtôl, Te leány, ezt magamtól is tudom. De bízz csak meg egy férfiban, adj neki valami értékeset,... és úgy adja majd tovább, mint kurva a nemi bajt. Legalább el nem zálogosította! Pfaj, a kurafi!
+say.nr301_2_meet_brouver.54;"Mi a–– ? Találgatni sem merek..."\n
+say.nr301_2_meet_brouver.55;"Hmm..."
+say.nr301_2_meet_brouver.56;– Gábor megdörzsölte az állát. –
+say.nr301_2_meet_brouver.58;"Egy jégtroll, vagy a barbegazik egyike."
+say.nr301_2_meet_brouver.59;"Jámbor bestiák ezek? Mint például a sárkány?"\n
+say.nr301_2_meet_brouver.60;"Hm! Hogy életveszélyesek-e? Meghiszem azt! Ádáz törpszomorítók mind. A tavalyi Tavaszi Nagytakarításkor majdnem elvesztettem az egyik karomat!"
+say.nr301_2_meet_brouver.62;A királynô szemöldöke magasba szaladt a ki nem mondott kérdés jeleként.\n
+say.nr301_2_meet_brouver.63;"Ó! Persze! Nincsenek tisztában a kontextussal. Minden tavasszal, amikor a hó olvadásnak indul, jó hordányi mocsok a felszínre tör. Ekkor Brouver Hoog minden törpöt Tavaszi Nagytakarításra szólít fel. Ilyenkor eltakarítjuk a mocsok nagyját, így hát... az év hátralevô részében viszonylag nyugtunk van tôlük."\n\n
+say.nr301_2_meet_brouver.64;Meve a szeme sarkából észrevette, amint egy sötét alak elcikázik a sziklahalmok között. Nyugodt mozdulattal elôvonta kardját, majd megsuhogtatta néhányszor, hogy bemelegítse elgémberedett karját.\n
+say.nr301_2_meet_brouver.66;"Úgy tûnik, a mi fajtánk lesz a segítségetekre ebben a tisztogatásban... Lyriaiak! Fegyvert készenlétbe! Készüljetek a harcra!"
+say.nr301_2_meet_brouver.71;Félbeszakítottál. Mint királynô, nem szoktam hozzá, hogy félbeszakítanak.
+say.nr301_2_meet_brouver.73;Vagy úgy. Én azt hallottam, nemrégiben megfosztottak a koronádtól. Annyira már nem vagy királynô. Ne vedd nagyon a szívedre, ilyen dolgok velünk is megesnek errefelé!
+say.nr301_2_meet_brouver.75;Ôfelségét gyalázatos módon elárulták, való igaz, ám a testvérkirályságok egyesített trónja ôt illeti meg a törvények––
+say.nr301_2_meet_brouver.77;Törvények–kötvények, szarságok és önkények! Jól tudom, mennyire tartjátok ti, embernépek a saját törvényeiteket. Az évek során számos egyezséget, paktumot aláírtunk... És mielôtt akár csak pár esztendô eltelhetett volna, már telibe is szartátok az összeset!
+say.nr301_2_meet_brouver.78;Hosszú utat tettem meg, hogy találkozhassam Veled. Hallgass meg, könyörögve kérlek!
+say.nr301_2_meet_brouver.80;Uhh. Ha ragaszkodsz hozzá... Fogj bele! Ki vele.
+say.nr301_2_meet_brouver.82;Nilfgaard lerohanta a királyságomat, lerohanta Aedirnt is. A Feketék Mahakam kapujában vannak. Elôbb vagy utóbb a Te birodalmad is a martalékukul esik. Cselekednünk kell, közösen kell fellépnünk velük szemben, amíg még van idônk.
+say.nr301_2_meet_brouver.84;Idô... Mit tudsz te az idôrôl, Leány? Hány nyarat láttál? Negyvenet, legfeljebb? Ha törpök között nôttél volna fel, ennyi idôsen még mindig csak a babáiddal játszanál.
+say.nr301_2_meet_brouver.86;Négyszáz nyár elmúltának voltam szemtanúja. Kétszáz esztendeje vagyok elöljáró. És tudod, mit tanultam meg ennyi idô alatt? Hogy sosem járunk jól azzal, ha beleártjuk magunkat az idióta játszmáitokba.
+say.nr301_2_meet_brouver.91;Namármost, egy átlagos napon egyszerûen csak kiebrudalnálak benneteket az én szeretett földemrôl... De nálad van az Ólomgyûrû, ami feljogosít a vendégszeretetünkre. Mahakamban pedig a törvény és a jog szent.
+say.nr301_2_meet_brouver.93;Itt maradhattok a hegyszorosban, ha úgy kívánjátok. Az ifjú Zigrin majd kalauzotok lesz. És ha megunnátok a hegyek klímáját,... nos, tudjátok, merre van a kijárat. Búcsúzom.
+say.nr301_2_meet_brouver.99;Elöljáró uram, tisztelettel... A segítségedre siettünk, együtt irtottuk a szörnyeket Veled, mégis,––
+title.nr301_2_meet_brouver.272;Tavaszi nagytakarítás
+

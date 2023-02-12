@@ -1,0 +1,7 @@
+say.nr301_3_balrog_depths_combat.1;Kiváló munka!
+say.nr301_3_balrog_depths_combat.11;Felség! Minden oldalról szörnyek közelítenek felénk!
+say.nr301_3_balrog_depths_combat.3;Arra van az út lefelé... Át kell törnünk, hogy megsemmisíthessük a gátat.
+say.nr301_3_balrog_depths_combat.5;Meg kell gyengítenünk az építményt! Adjatok bele apait–anyait!
+say.nr301_3_balrog_depths_combat.7;Kitûnô! A gát mindjárt átszakad!
+say.nr301_3_balrog_depths_combat.9;Sikerült! Nézzetek, mint vergôdnek a mocskok!
+

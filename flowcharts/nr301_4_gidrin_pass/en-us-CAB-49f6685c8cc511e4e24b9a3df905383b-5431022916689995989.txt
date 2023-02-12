@@ -1,0 +1,28 @@
+menu.nr301_4_gidrin_pass.112;El sem tudom mondani, mennyire sajnálom.
+menu.nr301_4_gidrin_pass.113;Kérdezze a Zigrineket.
+say.nr301_4_gidrin_pass.185;Brouver összefont karokkal úgy állt a híd mellett, mint egy szobor. Meve felsóhajtott. Nem táplált túl sok reményt azt illetôen, hogy kellemes beszélgetésben lesz része.
+say.nr301_4_gidrin_pass.187;Elöljáró uram...
+say.nr301_4_gidrin_pass.189;Csak semmi uramozás és felségemezés, te Leány. Telibetúrt emberek! Mindig azon vannak, hogy mindent megjavítsanak, aztán rendszerint még jobban elbarmolják!
+say.nr301_4_gidrin_pass.191;Most dicsôségesnek gondolod magad, ugye? Meve, a Szörnyölô! A törpök védelmezôje, a démon vigyen el!
+say.nr301_4_gidrin_pass.193;Mit gondolsz? Miért nem sajátkezûleg irtottam el azokat a dögöket, he? Gyerünk! Áruld el nekem!
+say.nr301_4_gidrin_pass.195;Mert...
+say.nr301_4_gidrin_pass.197;Mert ÉN nem akartam. Mert valami nem klappolt, a fenébe is! Ezért úgy döntöttem, mindaddig nem pusztítom el a szörnyfészkeket és a bizonyítékokat, amíg ki nem derítem, ki a felelôs!
+say.nr301_4_gidrin_pass.199;Ennyi esztendôn át csak halogatta? Miközben az alattvalói halódtak?
+say.nr301_4_gidrin_pass.201;Nincs szükségem rá, hogy a magadfélék kioktassanak! Igazságot kell szolgáltatni, és nincs az az ár, ami kevés lenne ezért! Pedig olyan közel voltam... Jó nyomon jártam...
+say.nr301_4_gidrin_pass.203;És most... az egész ment a pörköltbe! Elárasztottad a Davor-vájatot, bedöntötted Borófenéket. Így sohasem fogom megtudni, ki végzett a Fuchs-okkal. Érted?! Soha!!
+say.nr301_4_gidrin_pass.205;Ôszintén sajnálom. Nem tudhattam...
+say.nr301_4_gidrin_pass.206;Persze, hogy nem! Emberek! Elôbb elbaszarintják, aztán meg megkérdik, hogy hogyan is mûködött! Ajj...
+say.nr301_4_gidrin_pass.208;Legszívesebben jól megcibálnám a varkocsodat, és közben a kapukon túlra rúgdalnálak... De nem tehetem, mert a klánok hálásak Neked. Bolondok, bolondok... Bolond mind!
+say.nr301_4_gidrin_pass.210;Kényszerítenek rá, hogy engedélyezzem Neked a kihallgatást – amolyan hivatalosat, szem- és fültanúkkal, meg minden. Karbonhegy tövében.
+say.nr301_4_gidrin_pass.212;Gyerünk hát! Ideje indulnunk. De úgy megszorongatlak majd, hogy azt fogod kívánni, bár el se hagytad volna a nilfgaardiak tömlöcét!
+say.nr301_4_gidrin_pass.214;Brouver nagy sebbel-lobbal indult neki, és közben végig szitkozódott a bajsza alatt. A királynô vett egy mély levegôt, fejben elszámolt ötig,... aztán elindult a törp után.
+say.nr301_4_gidrin_pass.216;Nem lennék én ebben olyan biztos.
+say.nr301_4_gidrin_pass.218;Biztos mi a jó francban?
+say.nr301_4_gidrin_pass.220;Abban, hogy soha nem fogja megtudni az igazságot. Mert hogy alig az érkezésünk elôtt tudtam meg azt. A Zigrinek mészárolták le a Fuchs-okat.
+say.nr301_4_gidrin_pass.222;A Zi–Zigrinek? De... várj, várj csak... Ej, ez mennyi mindent megmagyarázna. Ahh, az álnok kígyók! Férgek! Zsiványok! De majd én jól megmutatom nekik...!
+say.nr301_4_gidrin_pass.224;Rendben. Meg kell hogy mondjam, több szorult abba a csinos kis fejedbe, mint amire számítottam. De aztán nehogy azt gondold, hogy majd egy új barátság kezdetére fogunk koccintani!
+say.nr301_4_gidrin_pass.226;Ha a segítségünket reméled, meg kell felelned a kérdéseinkre - az én kérdéseimre! Sokra! És nem lesznek könnyûek ám! Szóval még ne vigyorogj így rám!
+say.nr301_4_gidrin_pass.228;Ó, nem merészelnék ilyesmit.
+say.nr301_4_gidrin_pass.230;Jobban is teszed! Rendben. Ideje mennünk!
+say.nr301_4_gidrin_pass.232;Brouver elindult nagy sebbel-lobbal, sem Meve-vel, sem senki mással nem törôdve. Az elöljáró testôrei meg a nyomába. Utánuk következtek a lyriaiak, majd a menetoszlop legvégén Gábor Zigrin - láncra verve.
+

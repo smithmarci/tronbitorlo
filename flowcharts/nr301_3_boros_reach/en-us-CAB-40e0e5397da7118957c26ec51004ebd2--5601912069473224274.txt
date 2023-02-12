@@ -1,0 +1,40 @@
+menu.nr301_3_boros_reach.37;A földalatti városba vezényled a sereged.
+menu.nr301_3_boros_reach.38;Visszafordulsz.
+menu.nr301_3_boros_reach.40;A földalatti városba vezényled a sereged.
+menu.nr301_3_boros_reach.42;Visszafordulsz.
+say.nr301_3_boros_reach.1;Meve hunyorított, és a távolba kémlelt. Úgy tûnt számára, mintha a látóhatáron feltûnô hegycsúcsokat fekete foltok pöttyöznék. Ahogy közelebb értek, jött rá, hogy tömör sziklába vájt törp otthonok ablakait látja.\n\n
+say.nr301_3_boros_reach.13;Bár megsérült, Meve közelebb ment a shaelmaarhoz, ami még vonaglott a földön. Aztán keresztülszúrta kardját a teremtmény szívén, és végzett vele. Ám ezzel minden erôtartalékát felélte, már nem maradt ahhoz ereje, hogy kihúzza pengéjét a kitinszerû páncél lemezei közül.\n
+say.nr301_3_boros_reach.17;A lyriaiak egy hatalmas csarnokhoz értek, amely terem egykor a klánok gyülekezôhelyéül szolgált. A kôülôkéket ragacsos nyálka lepte, körülöttük pedig mindenütt rovarszerû lények lárvái. A kristálycsillárokról pedig a legkülönfélébb méretû denevérek csüngtek alá.\n\n
+say.nr301_3_boros_reach.18;Meve emberei hûen követték a törp utasításait, és nem sokkal késôbb a hegyet erôteljes robbanás rázta meg. Sok száz mázsás kôtömbök zúdultak alá, és zárták el az alagutakat. Azt mondják, az otthonok ablaknyílásaiból elôtörô por– és füstoszlopot még Aldersbergbôl is látni lehetett...
+say.nr301_3_boros_reach.19;"Ez egy raktár. Bôven lesz benne a bányászfelszerelésekbôl és kellékekbôl"
+say.nr301_3_boros_reach.2;"A büszkeségünk volt egykor"
+say.nr301_3_boros_reach.20;– mondta átszellemülten. –
+say.nr301_3_boros_reach.21;– sóhajtotta Gábor. –
+say.nr301_3_boros_reach.22;"Akad itt néhány hordóval alkímiai keverékekbôl is. Szerencsénk, hogy sehol nem látni nyomát páralecsapódásnak, szóval talán nem nedvesedtek be. Csak annyit kell tennünk, hogy kigörgetjük ôket a folyosókra, és jól alájuk gyújtunk... És benggg!!! Örökre lezárjuk a szörnyek elôl a szurdokba vezetô utat."\n\n
+say.nr301_3_boros_reach.276;Gascon régi, viharvert csontok között tallózott – minden bizonnyal azt remélte, talál majd valami értékeset. Gábor viszont egy bezárt ajtónál ténykedett, és úgy küzdött vele, mintha az valamiféle öldöklô bestia volna. Az ajtó végül egy nyekergés kíséretében megadta magát, és a törp gyôzelemittasan a levegôbe bokszolt.
+say.nr301_3_boros_reach.281;A királynô fülelt, és csöpögô víz hangját hallotta, a távolból pedig fém súrlódását, és valami ahhoz hasonlatosat, mint amikor kitinpáncél vásik el a köveken.\n
+say.nr301_3_boros_reach.3;"Borófenék! A sziklába vájt város! Alagutak mérföldek százai hosszan, acélöntödék, kovácsmûhelyek és kohók tucatszámra... Most pedig a szörnyek otthona. A föld alól özönlenek elô, szövik a hálóikat, rakják a fészkeiket, költik az utódaikat. És amikor megkorran a gyomruk, akkor aztán leözönlenek a hegyszorosba."
+say.nr301_3_boros_reach.43;Meve visszatért Borófenékre, újra megállt a kapujában, majd döntött.\n
+say.nr301_3_boros_reach.45;"Adja ki a parancsot, Felség,..."
+say.nr301_3_boros_reach.47;– mondta Reynard, – 
+say.nr301_3_boros_reach.48;"és nyomban megrohanjuk a várost."
+say.nr301_3_boros_reach.49;"Tudom jól"
+say.nr301_3_boros_reach.51;– felelte Meve. –
+say.nr301_3_boros_reach.53;"Mégsem hagyhatja el a számat. Ez egy elátkozott hely... Nem akaródzik betennem ide a lábamat. Most nem. Még nem. Visszafordulunk."
+say.nr301_3_boros_reach.57;"Vajon elég erôsek vagyunk ahhoz, hogy megtisztítsuk ezt a helyet ettôl a dögvésztôl?"
+say.nr301_3_boros_reach.59;– kérdezte a királynô.
+say.nr301_3_boros_reach.61;"Hogy az egészet? Esélytelen! Talán még egy seregnyi vaják se tudná. De ha át tudnánk verekedni magunkat az alsóbb szintekre vezetô folyosókon, aztán beomlasztanánk azokat a járatokat, az már elegendô volna. Bôven elég zerrikániai gyúpor–keverék van odabent ahhoz, hogy megoldjuk ezt a problémát, egyszer s mindenkorra."
+say.nr301_3_boros_reach.63;Meve a földalatti város kapujában állt. Az irdatlan méretû, bronzból öntött kapuszárnyak a földön feküdtek, úgy feltekeredve, akár a papírtekercsek. A feketén ásító ablaknyílásokból rohadó hús és penész szagát hozta feléje a huzat.\n\n
+say.nr301_3_boros_reach.65;"A katonák a parancsára várnak, Felség"
+say.nr301_3_boros_reach.66;– jegyezte meg Reynard halkan, mintha attól tartott volna, hogy felébreszti az üregekben szunnyadó rémségeket.
+say.nr301_3_boros_reach.67;"Emlékszik, mit mondtam a menekülésünk közben, még Lyriában?"
+say.nr301_3_boros_reach.69;– kérdezte Meve Reynardhoz fordulva.\n
+say.nr301_3_boros_reach.71;"Esküvel fogadta, hogy visszaszerzi a koronáját,... még akkor is, ha ahhoz az alvilágba kell alászállnia."\n
+say.nr301_3_boros_reach.73;"Ideje beteljesíteni azt az esküt."\n\n
+say.nr301_3_boros_reach.74;A királynô mély levegôt vett, és felemelt karddal lépett egyet elôre, felkészülve a csapásra és a hárításra egyaránt. Néhány pillanattal késôbb volt aztán karmoknak suhogása, fogaknak csattogása, ahogy Borófenék lakói a váratlan vendégek fogadására siettek.
+say.nr301_3_boros_reach.75;"A szörnyek majdnem elragadtak..."
+say.nr301_3_boros_reach.77;– suttogta. –
+say.nr301_3_boros_reach.78;"Ez közel volt."
+title.nr301_3_boros_reach.274;Borófenék
+title.nr301_3_boros_reach.320;Borófenék
+

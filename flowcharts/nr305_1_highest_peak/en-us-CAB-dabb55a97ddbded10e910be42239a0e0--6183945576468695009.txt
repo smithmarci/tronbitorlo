@@ -1,0 +1,49 @@
+menu.nr305_1_highest_peak.23;Közlöd a valós adatokat.
+menu.nr305_1_highest_peak.24;Megmásítod a mért eredményt.
+menu.nr305_1_highest_peak.3;Segítesz rendezni a vitát.
+menu.nr305_1_highest_peak.4;Nem avatkozol bele.
+menu.nr305_1_highest_peak.72;Segítesz rendezni a vitát.
+menu.nr305_1_highest_peak.73;Nem avatkozol bele.
+say.nr305_1_highest_peak.1;Colstok bányásztelepülés mellett elhaladtában Meve küzdelem zajaira lett figyelmes.\n
+say.nr305_1_highest_peak.1019;– mondta a törp csalódottan. Aztán kisvártatva még hozzátette:\n
+say.nr305_1_highest_peak.1020;"Habár... csak Te láttad, mit mutatott a mérômûszer, Királynô. Talán, esetleg, ööö, újrakalibrálhatnád az eredményeket egy kicsinység?"\n
+say.nr305_1_highest_peak.2;Azonban akiket törpöket látott, nem shaelmaarok vagy barbegazik ellen küzdöttek. Ó, nem. Hanem egymás ellen. Szerencsére még nem fegyverekkel estek egymásnak, de tekintve, hogy a törpök keze akkora, mint a péklapát, ez nem feltétlenül jelentette azt, hogy ne történhetne haláleset.\n
+say.nr305_1_highest_peak.22;A lyriaiaknak sikerült visszaverniük a szörnyeket, és eljutni a csúcsokig. Ott aztán Meve utasította az embereit, hogy végezzék el a méréseket. Miközben várakozott, a Mahakam-hegység vonulatainak lélegzetelállító szépségében gyönyörködött.
+say.nr305_1_highest_peak.27;"Hazudni egyszerû volna, igaz"
+say.nr305_1_highest_peak.29;"Mindegy, milyen eredményt mondok, a törpök egyik fele mindenképp elégedetlen lesz"
+say.nr305_1_highest_peak.30;"Ho-hó, legények!"
+say.nr305_1_highest_peak.31;– harsogta Gábor Zigrin. –
+say.nr305_1_highest_peak.33;"Mi ez az ostobaság? Nyughassatok, a fene essen belétek!"\n\n
+say.nr305_1_highest_peak.34;Gábor közbeavatkozása hatásosnak bizonyult. A törpök onnantól már csak szópárbajt vívtak egymással. Meve, aki számára nem volt ismeretlen a barakkokban használt zsargon, a törpök káromkodásai hallatán mégis elvörösödött.
+say.nr305_1_highest_peak.36;Az obszcén mocskolódásokból a lényeget kihámozva Meve arra a következtetésre jutott, hogy az összezördülés apropója egy régóta húzódó vita egy bizonyos hegy magasságával kapcsolatban – pontosabban ama hegynek két csúcsát illetôen. Az egyik hegycsúcs a Dahlberg klán területéhez tartozott, míg a másik a Hoogok földjére esett. Egyik is, másik is úgy gondolta, hogy az ô csúcsuk a magasabb, és minden, annak ellentmondó mérési eredmény csakis koholmány lehet.\n
+say.nr305_1_highest_peak.37;"Királynô..."
+say.nr305_1_highest_peak.39;– fogott bele a mondandójába Gábor, és közben idegesen rágta a szakállát, –
+say.nr305_1_highest_peak.40;"...azt kérdik, hogy Te, mint pártatlan és tisztességes nôszemély, nem rendeznéd-e ezt az idióta torzsalkodást egyszer s mindenkorra..."
+say.nr305_1_highest_peak.41;– mondta a királynô, és finoman meghajolt. –
+say.nr305_1_highest_peak.43;"Mégis, jelen pillanatban sürgetôbb ügyek kívánják meg a figyelmemet. Bocsássatok meg, de vissza kell hogy utasítsam e felkérést."
+say.nr305_1_highest_peak.44;A törpök egyként sóhajtottak fel, majd eltûntek az otthonaikban. Ám a királynô biztos volt abban, hogy a rendezetlen vita miatt a Hoogok és a Dahlbergek újra és újra egymás torkának majd.
+say.nr305_1_highest_peak.45;Amikor alig hogy félútig értek az elsôhöz menet, egy hosszan elnyúló üvöltést hallottak – olyat, amitôl még a sziklákon megtapadt hó is leszakadt és alázúdult. Anélkül, hogy megvárta volna a felderítôket visszaérni a jelentéseikkel, Meve kivonta a kardját.
+say.nr305_1_highest_peak.46;A törp szerkezet minden kétséget kizáróan megmutatta: a Dahlberg klán területén található csúcs két lábnyival magasabb, mint a Hoogok területén lévô. Gábor érezhetôen elégedetlen volt a végeredménnyel:\n
+say.nr305_1_highest_peak.48;"Hogy a kecske rúgja meg... Azt reméltem, bebizonyosodik, hogy Brouver klánjának van igaza. Megelégedéssel töltötte volna el, ha a Dahlbergek alulmaradnak egy–két karóhossznyival. Ráadásul, valószínûleg, Brouver is sokkal készségesebb lett volna a segítséget illetôen"
+say.nr305_1_highest_peak.50;– mondta Meve. –
+say.nr305_1_highest_peak.52;"Ám e tettet elfeledni már annál nehezebb. Nem, Gábor. Az igazat fogjuk mondani."\n
+say.nr305_1_highest_peak.54;A királynô hangszíne világossá tette, hogy a döntése megmásíthatatlan. Gábor elengedte a kérdést, és a csapat elkezdte a levonulást a hegyrôl.
+say.nr305_1_highest_peak.55;Mindkét klán törpjei visszafojtott lélegzettel várták az expedíció visszatértét és a jelentést. Alig hogy Meve kinyilatkoztatta az eredményt, a Dahlbergek máris söröhordókat gurítottak a térre, és ünnepelni kezdtek. A Hoogok, természetesen, csalódottak voltak, de elfogadták a Meve által közölt eredményt. Végtére is, megbíztak benne.
+say.nr305_1_highest_peak.57;– mondta a királynô némi gondolkodás után, –
+say.nr305_1_highest_peak.59;"ezért, ha tévednénk egy keveset a mérésekkel kapcsolatban, abból nagy baj nem lehet... Viszont az abból származó elônyre szükségünk van."
+say.nr305_1_highest_peak.61;Gábor az egyetértése jeleként csak bólintott. A királynô kiadta a vonatkozó parancsokat, majd a menet élére ment, és levonultak a hegyrôl.
+say.nr305_1_highest_peak.62;Mindkét klán törpjei visszafojtott lélegzettel várták az expedíció visszatértét és a jelentést. Alig hogy Meve kinyilatkoztatta volna az eredményt, a Hoogok máris söröshordókat gurítottak a térre, és ünnepelni kezdtek. A Dahlbergek, természetesen, csalódottak voltak, de elfogadták a Meve által közölt eredményt. Végtére is, megbíztak benne.
+say.nr305_1_highest_peak.65;Arra számítván, hogy szörnyek hada özönlik a törpökre, a királynô vágtára fogta a lovát, és a megmentésükre sietett. A varkocsa úgy lobogott a szélben, mint egy zászló, tisztán mutatva az embereinek, hogy melyik irányba támadjanak.
+say.nr305_1_highest_peak.66;"Hej-hó! Uzsgyi bele a csetepatéba, legények!"\n\n
+say.nr305_1_highest_peak.7;Meve tudta jól, hogy az ilyen ôsi viták könnyen vérontásba torkollhatnak, ezért úgy döntött, a segítségükre lesz. A két klán képviselôi egy különös, magasságmérésre szolgáló szerkezetet adtak át neki. Innentôl nem volt más hátra, mint hogy a királynô feltûrje a kabátja ujját, és megmérje a csúcsokat.
+say.nr305_1_highest_peak.757;"Ez alávaló és nemtelen!"
+say.nr305_1_highest_peak.758;– rikoltotta tiltakozva Eyck. –
+say.nr305_1_highest_peak.759;"Egy lovag soha nem mocskolná be a becsületét efféle hazugsággal!"
+say.nr305_1_highest_peak.82;Meve legutóbbi ittjárta óta a Hoogok és Dahlbergek közötti vita még jobban elmérgesedett. A torzsalkodó klánok újfent segítséget kértek a vita rendezéséhez.
+say.nr305_1_highest_peak.9;"A belém vetett bizalmatokért hálás vagyok Nektek"
+title.nr305_1_highest_peak.1;Iker-csúcsok
+title.nr305_1_highest_peak.2;Iker-csúcsok
+title.nr305_1_highest_peak.3;Iker-csúcsok
+title.nr305_1_highest_peak.410;Iker-csúcsok
+title.nr305_1_highest_peak.421;Iker-csúcsok
+
