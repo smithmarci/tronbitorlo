@@ -1,5 +1,5 @@
 say.nr101_1c_vista_gpl.1;Ó... Imádom ezt a látványt.
-say.nr101_1c_vista_gpl.2;Igen... Lyria – egész Észak ékköve! A dombjaival és völgyeivel... Szépsége a királynôjééhez fogható!
+say.nr101_1c_vista_gpl.2;Igen... Lyria, egész Észak ékköve! A dombjaival és völgyeivel... Szépsége semmihez sem fogható – csak a királynôjééhez!
 say.nr101_1c_vista_gpl.3;Verjünk itt tábort. A katonáinknak pihenésre van szüksége, ki is jár nekik belôle.
 say.nr101_1c_vista_gpl.4;Három heti lovaglás után? Azért vannak kétségeim efelôl, grófom.
 
