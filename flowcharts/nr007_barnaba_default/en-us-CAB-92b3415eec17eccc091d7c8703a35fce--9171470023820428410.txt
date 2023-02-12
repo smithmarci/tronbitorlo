@@ -1,0 +1,73 @@
+menu.nr007_barnaba_default.106;Kiállta már a próbákat egyáltalán? Magad is kipróbáltad?
+menu.nr007_barnaba_default.107;Másról szerettelek volna kérdezni.
+menu.nr007_barnaba_default.237;Volna kedved egy kis gwenthez?
+menu.nr007_barnaba_default.239;Merre visz az utad?
+menu.nr007_barnaba_default.93;Most búcsúzom.
+menu.nr007_barnaba_default.95;Mesélj magadról egy kicsit.
+menu.nr007_barnaba_default.96;Min dolgozol épp?
+menu.nr007_barnaba_default.98;Mik a terveid a továbbiakra nézvést?
+menu.nr007_barnaba_default.99;Hogy jössz ki a többiekkel?
+say.nr007_barnaba_default.108;Éltem egy rövid ideig Novigrádban is, de nem érintett meg túlságosan.
+say.nr007_barnaba_default.109;Ahogy parancsolja, Felség. Ám ha egyszer mindenképp megcsodálná, a prototípusa még mindig itt van valahol a ládám fenekén.
+say.nr007_barnaba_default.110;Nem felejtem el. De az istenekre, kérlek, váltsunk témát.
+say.nr007_barnaba_default.234;Lenne kedved játszani néhány kör gwentet?
+say.nr007_barnaba_default.236;Ó! Örömmel! Voltaképp nagyon is szívesen!
+say.nr007_barnaba_default.25;Felség! Engedje meg, hogy kifejezzem örök hálámat––
+say.nr007_barnaba_default.26;Én, ööö... N–nos, nos, természetesen, hehh! Miben lehetek a segítségére?
+say.nr007_barnaba_default.27;Szívesen, Barnabás, de kérlek,... Semmi szükség a formalitásokra, amikor négyszemközt társalgunk.
+say.nr007_barnaba_default.28;Segíthetek valamiben? Bármiben... Rengeteg ötletem van!
+say.nr007_barnaba_default.29;Szeretném tudni... Azaz hogy tudnom kell, kivel utazom együtt. Kérlek, mesélj magadról!
+say.nr007_barnaba_default.30;Például olyan bombák építésével, amik felrobbannak az ember kezében?
+say.nr007_barnaba_default.31;Az meglehetôsen hosszú idô. Tán nem érezted magad otthon a Délen?
+say.nr007_barnaba_default.32;Miért nem kezded a legelejérôl? Talán elmesélhetnéd, hogy honnan származol.
+say.nr007_barnaba_default.33;Magamról? Huhh. Hmm... Meglehetôsen szívélyes kapcsolatot ápolok a törpökkel, hehh, mint ahogy látta is... De, ööö... Van valami, amirôl kimondottan tudni szeretne?
+say.nr007_barnaba_default.34;Ó! Igaz, igaz. Á, izé, nos, ööö... A távoli Délen születtem, Tir Tochairben. Az anyám mosónô volt, az apám pedig páncélkészítô.
+say.nr007_barnaba_default.35;Amint megláttam a negyvenedik telemet, odahagytam a családomat, a rokonságomat. Szóval most úgy vagy' húsz esztendeje járhatom a világot?
+say.nr007_barnaba_default.36;Nem volt az nekem való! Nem, semmi esetre sem! A világ tele van rejtélyekkel és felfedezésre váró csodákkal – és megannyi lehetôséggel, hogy jobbá formáljuk!
+say.nr007_barnaba_default.37;Ó, ezt így nem mondanám. Ám ha maradok, az apám nyomdokába kellett volna lépnem, pengét penge után, páncélt páncél után kovácsolnom... Már abba is beleszédülök, ha csak rá gondolok.
+say.nr007_barnaba_default.38;Ahh...! Ahogy azok a szakállas figurák mondják: "Mahakam sem egy nap alatt épült!" Hehh! Mellesleg, senki sem sérült meg komolyabban a meghibásodás miatt. Mindenesetre, nem sokan...
+say.nr007_barnaba_default.39;Van olyan találmányod, amin jelenleg is dolgozol? Olyan, ami már majdnem kész van?
+say.nr007_barnaba_default.40;O-hó! Mily kedves, mily csodás, hogy megkérdezte! Tudja, én... Én mindig is csodálattal adóztam a lég dolgai iránt. Vegyük például a madarakat: a szárnyuk, a csontozatuk, tudja,... Tökéletes a szerkezetük, az aerodinamikájuk, a... a tollazatuk! Röviden: úgy hiszem, tudnék repülni.
+say.nr007_barnaba_default.41;Tessék?
+say.nr007_barnaba_default.42;Igen! Így van, repülni tanulok! Repülni. Repkedni! Jól hallotta. Én, Barnabás Beckenbauer, leszek az elsô gnóm – ó, miket is beszélek?! – az elsô emlôs, aki letépi magáról a föld láncait, és a felhôk közé szárnyal!
+say.nr007_barnaba_default.43;Hm... De a denevérek nem––?
+say.nr007_barnaba_default.44;Ugyan-ugyan! Részletkérdés... Nem most van itt az ideje a nagyvonalúskodásnak! Nem! A lényeg, hogy rendkívül elôrehaladott állapotban vannak az elôkészületek, és meglehetôsen bizakodó vagyok a szerkezetet és a kilátásaimat illetôen. Kiszámítottam a röppályákat, a rá ható erôket – minden klappol. Már csak néhány próbát kell végrehajtani kint, terepen.
+say.nr007_barnaba_default.45;Nos, akkor sok szerencsét kívánok hozzá! Bár megkérnélek rá, hogy közben a táborban próbálj meg semmiben és senkiben nem kárt tenni itt.
+say.nr007_barnaba_default.46;Ugyan, egyet se féljen, Felség! Bár, merô véletlenségbôl,... nem látott errefelé heverni egy kis barna dobozt? Igazából felejtse is el, hogy megkérdeztem. Biztos vagyok abban, hogy nem fog felrobbanni, mielôtt megtalálom.
+say.nr007_barnaba_default.47;Voltak önkénteseid,... vagy magad próbáltad ki a szerkezetet?
+say.nr007_barnaba_default.48;Nekem a földön kell maradnom, természetesen. Különben ki végezné el a méréseket? Szerencsére Mahakam nem szenved hiányt az izgalmakat keresôkbôl, azokból, akik égnek a vágytól, hogy nevüket bevéshessék az évkönyvekbe.
+say.nr007_barnaba_default.49;Az elsô prototípusom az "Égignyaló" volt, így neveztem el. Ó, Felség! Bárcsak látta volna a szépségét! Négyszáz és ötven lábnyira is elrepült!
+say.nr007_barnaba_default.50;Igazán? Valóban le vagyok nyûgözve... A bátor önkéntes bizonyára hírnevet szerzett magának ezáltal. Biztos vagyok benne, hogy azóta minden törpasszony szeme megakad rajta.
+say.nr007_barnaba_default.51;Ó, dehogy. Meghalt. A leszállás... kissé rázósra sikeredett. És épp arra ôgyelgett egy medve, segítség pedig nem volt a közelben... Akárhogy is, meghalt, ám elôtte még megesküdött, hogy nem bánt meg semmit! Bátor fickó volt – habár kicsit együgyû.
+say.nr007_barnaba_default.52;Öhömm... Értem. Mielôtt legközelebb megkérdeznéd, kipróbálnám-e valamely találmányodat, kérlek, emlékeztess majd erre a megható történetre.
+say.nr007_barnaba_default.53;Barnabás, te sokfelé jártál már. Gondolom, számos csodát láttál. Feltételezem, mielôtt Mahakamba vetett a sors, rengeteg különös tájat bebarangoltál.
+say.nr007_barnaba_default.54;Ah, Kovirt – igen! Mettinát – szintén! Nazairt – kétségtelen! Zerrikániát – az istenekre, igen... és még a Korath-sivatagot is! Ahol annyi csodálatos szépséget lehet felfedezni. Habár... kissé forró, ó, borzasztóan forró ott a talaj! Rettenetes egy hely lehet az a répatermesztéshez – már ha egyszer arra adná valaki a fejét.
+say.nr007_barnaba_default.55;Miért nem?
+say.nr007_barnaba_default.56;A pátriárka egy hajthatatlan ember. Kiátkozott. Az egyik találmányomat szentségtelennek, hitványnak bélyegezte, ésatöbbi, ésatöbbi. Úgy határozott, hogy máglyán égessenek el engem, és a masinámat is. Képzelheti, volt közöttünk némi véleménykülönbség ebben a kérdésben.
+say.nr007_barnaba_default.57;Hm, lehet, bánni fogom, ha megkérdem... De mondd, mi is volt az a szerkezet pontosan?
+say.nr007_barnaba_default.58;O-hó! Tudtam én, hogy érdekelni fogja! Önnek meglehetôsen kíváncsi az elméje, Királynôm – olyanok vagyunk mi, mint a borsó meg a héja! Eléggé ügyes kis szerkentyû volt az. Egy tehetôs özvegynek készült, akit a férje hiányában gyötörtek – úgymond – bizonyos kielégítetlen szükségletek.
+say.nr007_barnaba_default.59;Itt hagyd abban. Éreztem, hogy megbánom, ha rákérdezek.
+say.nr007_barnaba_default.60;Tudja, volt rajta egy különleges kis tekerentyû, amit ha elforgattak, akkor––
+say.nr007_barnaba_default.61;Barnabás, nem! Elég!
+say.nr007_barnaba_default.62;Utaztál valaha együtt hadsereggel?
+say.nr007_barnaba_default.63;Ôszintén szólva, nem mondhatnám. Felségedé az elsô e tekintetben. És, hadd áruljam el, korántsem olyan unalmas, mint vártam. A bajtársai igazán lenyûgözôek.
+say.nr007_barnaba_default.64;Valóban? Melyikükre gondolsz, ha szabad megkérdeznem?
+say.nr007_barnaba_default.65;Hmm... Lássuk csak...
+say.nr007_barnaba_default.76;Nos, Rayla – egy elbûvölô leányzó, nagyon kedves! Amikor megkérdeztem, hogy segítségemre volna-e az "Égignyaló II" tesztelésében, tüstént felajánlotta, hogy majd jól letaszajt az elsô közelünkbe esô sziklacsúcsról!
+say.nr007_barnaba_default.77;Aztán ott van az a korosodó nô... Isbel, jól mondom? Ó, Felség, az egy igazi holdkóros! Tudta róla, hogy úgy hiszi, a világ gömb alakú? GÖMB ALAKÚ! Mint egy dinnye! Hahaha!
+say.nr007_barnaba_default.78;Hmm... ééés maradjon közöttünk, de a hallgatag csókától, Xaviertôl,... bevallom, állandóan rám tör a frász. Lehet, hogy csak az ábrázata miatt van, ami mindig egy csizma talpára ragadt marcipánbevonatra emlékeztet.
+say.nr007_barnaba_default.79;Ki van még? Ö-ö... Ó! Jut eszembe! Ha elfogad egy tanácsot: sose kártyázzon Gasconnal. Becsvágyó egy maskara az, és lódító... Leginkább adósságokról, amikkel állítólag én tartozom neki!
+say.nr007_barnaba_default.80;És az a Reynard fickó! Hogy micsoda mókamester az! Folyton csak tréfálkozik.
+say.nr007_barnaba_default.81;Hogy mondod?
+say.nr007_barnaba_default.82;Minden nap rám vakkant, hogy "Vigyázzállásba!", ráadásul tökéletes fapofával! Múltkor meg arról faggatott, – hehehe! –, szóval arról, hogy szolgáltam-e a gnóm hadseregben, hahaha...! De tényleg. Nem találok szavakat arra az emberre.
+say.nr007_barnaba_default.83;Igazán színes jellemrajzok ezek, Barnabás. Köszönöm!
+say.nr007_barnaba_default.84;Hosszú utat tettünk meg együtt, Barnabás. Vannak terveid a jövôre nézvést?
+say.nr007_barnaba_default.85;Hmm... Lehet, hogy a háborút megnyertük, de még rengeteg a tennivalóm. Annyi talány megválaszolatlan, oly sok találmány elkészületlen maradt.
+say.nr007_barnaba_default.86;Esetleg dolgozhatnál az udvaromnál, és folytathatnád ott a munkád.
+say.nr007_barnaba_default.87;Tudom, hogy jól kijövünk egymással, Felség, de az ottani élet nem volna nekem való. Azé a világ, aki élheti. Mellesleg, amikor Niedamir király udvarában tartózkodtam, nem épp kellemes emlékekkel lettem gazdagabb...
+say.nr007_barnaba_default.88;Hm, ha belegondolok, kíváncsi volnék, vajon sikerült-e eloltaniuk azt a tüzet...
+say.nr007_barnaba_default.89;Barnabás, megértem. Ám ha mégis meggondolnád magad, tudod, hol találsz.
+say.nr007_barnaba_default.90;Köszönet, Felség. Mindenért.
+say.nr007_barnaba_default.91;Ideje más ügyekkel is foglalkoznom.
+say.nr007_barnaba_default.92;Hm? Á, igen, még mindig itt van. Menjen csak, nyugodtan.
+

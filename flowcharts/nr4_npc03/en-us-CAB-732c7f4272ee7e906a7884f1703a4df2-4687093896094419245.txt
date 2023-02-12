@@ -1,0 +1,4 @@
+say.nr4_npc03.10;Törp uram, légy oly kedves, és mondd meg a kuzinjaidnak, hogy többet is ki tudunk vágni, sokkal többet, ha úgy hozza a szükség...
+say.nr4_npc03.4;Nilfgaardi vagy Északi, délrôl vagy északról, ugyanolyan démon mindkettô... Ugyanúgy bajt hoznak az egyszerû népekre.
+say.nr4_npc03.7;Hatalmas szíved van, Úrnôm. Kevés a hozzád hasonló. Legfôképp Angrenben, ezen az elátkozott helyen.
+

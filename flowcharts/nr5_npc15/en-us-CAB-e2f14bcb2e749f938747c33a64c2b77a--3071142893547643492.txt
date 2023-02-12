@@ -1,0 +1,4 @@
+say.nr5_npc15.10;Egész Észak hálás lehet Önnek, Úrnôm. Felséged pedig az isteneknek.
+say.nr5_npc15.4;A Jóságos Anya vezérelte a gyôzelemhez vezetô úton.
+say.nr5_npc15.7;Nilfgaard magára haragította az isteneket. Túl sok bennük a dölyf, és túl kevés az alázat.
+

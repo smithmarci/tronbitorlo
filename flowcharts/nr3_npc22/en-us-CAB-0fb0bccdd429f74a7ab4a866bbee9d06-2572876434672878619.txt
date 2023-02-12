@@ -1,0 +1,4 @@
+say.nr3_npc22.10;Embereket beengedni Karbonhegybe? Nem tudom, ez vajon bölcs dolog–e...
+say.nr3_npc22.4;He-he-he! Szörnyekre akartunk vadászni, he?
+say.nr3_npc22.7;Hejj, az Elöljáró zabos. Jó tíz lábnyira is elköpdös.
+

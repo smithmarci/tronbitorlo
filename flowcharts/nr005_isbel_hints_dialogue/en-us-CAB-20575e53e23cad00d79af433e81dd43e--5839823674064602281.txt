@@ -1,0 +1,2 @@
+say.nr005_isbel_hints_dialogue.3;Asszonyom... Szeretnék szót váltani Önnel, amint lehetséges.
+

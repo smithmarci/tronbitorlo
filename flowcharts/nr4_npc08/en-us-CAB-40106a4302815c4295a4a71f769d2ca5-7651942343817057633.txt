@@ -1,0 +1,4 @@
+say.nr4_npc08.10;Romlottság árad Ysgithbôl. A gonosz ólálkodik arrafelé.
+say.nr4_npc08.4;A fák többé nem nyúlnak utánunk. Más után vágyódnak már.
+say.nr4_npc08.7;Beteg ez a föld. Élôsködôktôl hemzseg, amik napról napra csak éhesebbek lesznek...
+

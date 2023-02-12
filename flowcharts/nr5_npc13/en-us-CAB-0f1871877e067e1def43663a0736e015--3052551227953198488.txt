@@ -1,0 +1,4 @@
+say.nr5_npc13.10;Emhyr var Emreis császár egy vrán imposztor! Egy vrán doppler!
+say.nr5_npc13.4;Nilfgaard mindenkivel végzett Rosbergben! Egyetlen nôt sem hagyott életben! Egyetlen gyermeket sem kímélt meg!
+say.nr5_npc13.7;Összefogdosták Aedirn parasztjait, és kényszermunkára fogták ôket! Nilfgaard most ugyanerre készül Ríviában minden ríviaival!
+

@@ -1,0 +1,85 @@
+menu.nr004_rayla_default.122;A kollektív felelôsség nem olyasmi, amivel egyetérthetnék.
+menu.nr004_rayla_default.123;Errôl ennyit. Más ügyeket kell megbeszélnünk.
+menu.nr004_rayla_default.189;Mondj el többet Eldainról.
+menu.nr004_rayla_default.190;Látni Aedirnt lángokba borulni – az megviselhetett...
+menu.nr004_rayla_default.191;Miként vélekedsz Demavendrôl?
+menu.nr004_rayla_default.192;Nem számítottam arra, hogy a Scoia'taelbe botlunk Mahakamban...
+menu.nr004_rayla_default.193;Miért gyûlölöd ennyire a Scoia'taelt?
+menu.nr004_rayla_default.194;A háború hamarosan véget ér. Mik a terveid utána?
+menu.nr004_rayla_default.196;Mennem kell.
+menu.nr004_rayla_default.235;Volna kedved kártyázni?
+menu.nr004_rayla_default.29;Miért csatlakoztál a különleges alakulathoz?
+say.nr004_rayla_default.101;A királyom élvezi az életet... Élvezi az örömeit, hagyja kényeztetni magát általuk. De ez sosem gátolta abban, hogy piszok jól kormányozza az országát.
+say.nr004_rayla_default.107;A Scoia'taellel találkozni Mahakamban – némiképp meglepô volt. Látni, ahogy a sajátjaikra támadnak––
+say.nr004_rayla_default.109;"A sajátjaikra?" Hahh! Gyûlölik az embereket, ehhez kétség sem férhet. De azokat a másfajúakat, akik nem csatlakoznak az ügyükhöz? Azokat még jobban gyûlölik.
+say.nr004_rayla_default.111;Kollaboránsoknak, a fajuk árulóinak tekintik ôket. Hidegvérrel gyilkolják le ôket, hogy a többit megfélemlítsék, és azok csatlakozzanak az ügyükhöz. Ez az egyetlen módjuk arra, hogy feltöltsék a soraikat.
+say.nr004_rayla_default.113;Hm. Ezt tudván talán tanúsíthatnánk nagyobb könyörületet a Scoia'taellel szemben. Látva, hogy ennyien csak kényszerûségbôl csatlakoznak, ez––
+say.nr004_rayla_default.115;Tanúsíthatnánk, Asszonyom? Valóban? És miképp különböztetné meg ezeket a többitôl, akik szabad akaratukból ragadtak fegyvert? Azoktól, akiknek már megfeketedett a szívük az izzó gyûlölettôl?
+say.nr004_rayla_default.117;Nem tudnám biztosan. Ám már maga a felvetés valaminek a kezdete lehet...
+say.nr004_rayla_default.119;Hahh! És vajon minek? Gondolja, hogy elárulják Asszonyomnak az igazat? A tündék?
+say.nr004_rayla_default.121;Nem, a kivételezésen át egyenesen vezet az út az emberek vérének kiontásához. Minden Scoia'taelnek vesznie kell. Hagyjuk az istenekre, hogy majd szétválasszák a pelyvát a búzától.
+say.nr004_rayla_default.126;Ebbe nem egyezhetem bele. Osztozzon minden harcosuk a kollektív felelôsségben? Ehhez nem asszisztálhatok.
+say.nr004_rayla_default.127;Királynôként jogában áll. Szerencsére Demavend király más elveket vall. A sajátomhoz közelebb állókat.
+say.nr004_rayla_default.129;Értem... Váltsunk témát, rendben?
+say.nr004_rayla_default.135;Rayla... Feltehetek egy személyes kérdést?
+say.nr004_rayla_default.137;Természetesen, Asszonyom. De nem ígérhetem, hogy választ is fog kapni rá.
+say.nr004_rayla_default.139;Mint tudod, Nilfgaard betört a földemre, megszállta azt, megfosztott a koronámtól, lemészárolta a népemet, és mindennek a tetejébe még a saját fiamat is ellenem fordította.
+say.nr004_rayla_default.141;S mégis,... a gyûlölet, amit irántuk táplálok, halvány árnyéka csupán annak az indulatnak, amely téged a markában tart. Szomjazol a Scoia'tael vérére.
+say.nr004_rayla_default.143;Nem hallottam a kérdést, Felség.
+say.nr004_rayla_default.145;Mit ártottak neked, Rayla? Mit tettek, hogy azzá lettél, aki vagy?
+say.nr004_rayla_default.147;...
+say.nr004_rayla_default.149;A tündék és emberek – a fajtáink keresztezôdhetnek. De ezzel bizonyára tisztában van. Az én anyám tünde volt. Ezáltal én magam is félig az vagyok.
+say.nr004_rayla_default.151;Egy kis falucskában éltünk, ahol ezt mindenki tudta rólunk. A többi gyerek folyamatosan bántalmazott, vert, arcon köpött...
+say.nr004_rayla_default.153;Tudja, miért? Mert féltek a Scoia'taeltôl. De erôtlenül és tudatában annak, hogy nem tudnák megvédeni magukat, rajtam töltötték ki minden félelmüket és szégyenüket...
+say.nr004_rayla_default.154;A Scoia'tael ellentétet és gyûlölséget szít minden faj között. És ez nem fog megváltozni, nem fog megszûnni egészen addig, amíg a véres lázadásuk folytatódik.
+say.nr004_rayla_default.166;De Xavier azt mondta,–– Voltaképp lényegtelen. Köszönöm, Rayla, hogy elmondtad ezt nekem.
+say.nr004_rayla_default.17;Hogy boldogulsz, Rayla? Jelölt ki sátrat a szállásmester számodra?
+say.nr004_rayla_default.173;Hamarosan vége a háborúnak. Mihez kezdesz majd, merre visz az utad aztán?
+say.nr004_rayla_default.175;Már a Nilfgaard elleni háborúnak, igen. De mások továbbra is háborúzni fognak.
+say.nr004_rayla_default.177;Mire gondolsz? Miféle háború követi majd?
+say.nr004_rayla_default.178;A Scoia'tael még mindig az erdôkben rejtôzik.
+say.nr004_rayla_default.180;Igen, de úgy értesültem, hogy visszavonulnak keletre... Miért is ne hagyhatnánk, hogy csak úgy elhagyják a földjeinket?
+say.nr004_rayla_default.182;Hogy aztán majd megerôsödve térhessenek vissza? Nem. El kell metélnünk a torkukat, mindegyiknek, most. Eltaposni ôket a csizmáinkkal, akár a férgeket.
+say.nr004_rayla_default.184;Rayla,... egyszer el kell fogadni, hogy elég volt a szenvedésbôl. Hagyni kell, hogy elcsituljon a vérszomj.
+say.nr004_rayla_default.186;És így is fogok tenni – majd a síromban... Ám egy pillanattal sem korábban.
+say.nr004_rayla_default.19;Megpróbálta.
+say.nr004_rayla_default.198;Most mennem kell. Késôbb még beszélünk.
+say.nr004_rayla_default.20;Ó... És...?
+say.nr004_rayla_default.22;Visszautasítottam. Jobb a csillagok alatt aludni. Úgy kisebb az esélye, hogy álmodban végez veled az ellenség.
+say.nr004_rayla_default.232;Lenne kedved egy kör gwenthez?
+say.nr004_rayla_default.233;Hmm... Miért is ne.
+say.nr004_rayla_default.24;Viszont annak nagyobb, hogy elver az esô.
+say.nr004_rayla_default.26;Nem vagyok cukorból, Asszonyom, nem fogok elolvadni.
+say.nr004_rayla_default.27;Igen?
+say.nr004_rayla_default.31;Kevés nôt találni a seregben,... legfôképp a különleges alakulatoknál. Mi vitt rá, hogy beállj közéjük?
+say.nr004_rayla_default.33;Kiérdemeltem. És, mint kiderült, hasznukra váltam.
+say.nr004_rayla_default.35;Igen, nos, természetesen... De mégis, miképp történt?
+say.nr004_rayla_default.37;Tizenöt voltam, amikor szolgálatra jelentkeztem. De a sorozással megbízott ôrmester azt mondta, inkább menjek haza.
+say.nr004_rayla_default.39;Azt javasoltam, döntsük el karbirkózás által. Ha nyerek, ô hagyja, hogy csatlakozzam. Ha veszítek, akkor száz koronát fizetek neki.
+say.nr004_rayla_default.41;És volt is ennyi pénzed?
+say.nr004_rayla_default.43;Nem. Ezért mindenképpen nyernem kellett.
+say.nr004_rayla_default.45;Ahogy leültünk az asztalhoz, egymással szembe, csak nevetett rajtam, miközben feltûrte az ingujját. Amikor a vetélkedésünk véget ért, körülöttünk mindenki rajta nevetett.
+say.nr004_rayla_default.47;Azután pedig... csak követtem a parancsokat. Olyannyira jól, hogy felkeltettem vele a király érdeklôdését.
+say.nr004_rayla_default.52;Errôl az Eldainról... Tudnál többet mondani nekem?
+say.nr004_rayla_default.54;Fel kellene kötni.
+say.nr004_rayla_default.56;Reméltem, hogy olyan tanácsot fogok hallani, aminek csatában is hasznát vehetem.
+say.nr004_rayla_default.58;Hmm... Elôször is, egyáltalán nem bízhat meg a korcsban. Nem tiszteli a törvényeinket, nem osztja az általunk vallott értékeket.
+say.nr004_rayla_default.60;Egyszer a király küldöttséget menesztett Eldainhoz... annak ellenére, hogy azt tanácsoltam neki, ne tegye. Másnap rátaláltunk a küldöttre – kitolt szemekkel és a torkán letolt fehér zászlójával.
+say.nr004_rayla_default.62;Tehát... a diplomácia egyáltalán nem volna bölcs megközelítés. És a csatákban? Milyen taktikát alkalmaz?
+say.nr004_rayla_default.64;Aljas féreg, mint minden tünde. Kerüli a nyílt összetûzést, rajta-rajtaüt az egységeken, a fák közül, a homályból támad.
+say.nr004_rayla_default.66;A legjobb volna a földig égetni ezt az egész erdôt, megfosztani ôt és az egész fajtáját a fedezékektôl és búvóhelyeiktôl.
+say.nr004_rayla_default.68;Meglehetôsen drasztikus lépés volna – mint kiönteni a gyereket a fürdôvízzel...
+say.nr004_rayla_default.70;Higgye el nekem, amazok egy pillanatig sem tétováznának megtenni velünk ugyanezt.
+say.nr004_rayla_default.75;Rayla, hogy érzed magad?
+say.nr004_rayla_default.77;Nem vagyok benne biztos, hogy értem, mire gondol.
+say.nr004_rayla_default.79;Nos, egész Aedirn lángokban. Minden városa fölött Nilfgaard zászlaját lengeti a szél. Ne mondd, hogy nem aggaszt.
+say.nr004_rayla_default.81;Persze, hogy aggaszt. Öt esztendeig állomásoztam Rosbergben. Az egységem minden tagját névrôl ismertem.
+say.nr004_rayla_default.83;De... a háború már csak ilyen. Nincs értelme siránkozni miatta.
+say.nr004_rayla_default.85;Értem. Csak hogy tudd: ha bármikor beszélgetni szeretnél róla,––
+say.nr004_rayla_default.87;Nem szeretnék. De értékelem a törôdését, Asszonyom.
+say.nr004_rayla_default.92;Demavend indoka, amiért ily elszántan védelmezte Aldersberget... Meg kell hogy mondjam, nem kis meglepetésként ért.
+say.nr004_rayla_default.94;Engem nem.
+say.nr004_rayla_default.96;A király minden alkalommal, amikor megálltunk Aldersbergben, abba a bordélyba ment... Ami elég gyakran megtörtént – és tett is róla, hogy így legyen. Megmondtam neki, hogy egy nap még megmar egy leányt a kígyójával. De nem hallgatott rám.
+say.nr004_rayla_default.97;Egek! Úgy látom, Demavendnek nem lehettek titkai elôtted.
+say.nr004_rayla_default.99;Nem igazán volt választása. Amikor Aedirn nem háborúzott, akkor a testôreként szolgáltam. Árnyékként követtem mindenhová,... és láttam mindent.
+

@@ -1,0 +1,4 @@
+say.nr5_npc20.10;Mi ajánlottuk fel a segítségünket Lyriának! Aztán épp hogy ellenkezôleg alakultak a dolgok...
+say.nr5_npc20.4;Aldersbergben voltam, amikor a város elesett. Megszakadt a szívem. De nem teljesen. Most visszafoglaljuk!
+say.nr5_npc20.7;Egynémely uralkodók tanulhatnának egyet s mást Felségedtôl... Küzdjetek!
+

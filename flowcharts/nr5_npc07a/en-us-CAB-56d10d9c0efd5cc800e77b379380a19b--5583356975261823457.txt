@@ -1,0 +1,3 @@
+say.nr5_npc07a.3;A törpök arra jók, hogy meghaljanak Ríviáért, de arra már nem, hogy benne éljenek, he?
+say.nr5_npc07a.6;Hahh! Szépen legyakta azokat a rasszista pöcöknyalogatókat! Vivát–vivát, drága Királynô!
+

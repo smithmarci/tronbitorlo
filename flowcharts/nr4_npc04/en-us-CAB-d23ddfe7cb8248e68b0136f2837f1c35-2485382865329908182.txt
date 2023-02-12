@@ -1,0 +1,4 @@
+say.nr4_npc04.10;Könnyû belemenni a mocsárba. Kijönni onnan, az a nehéz.
+say.nr4_npc04.4;A véred fesse vörösre a láp vizét! Hael aen Gvern Ichaer!
+say.nr4_npc04.7;Serkenjen ki a véred, és Ysgith úrnôje majd tesz neked egy szívességet.
+

@@ -1,0 +1,5 @@
+say.nr5_npc03.1;Mòran taing. N'ees dhearmad a va aen.
+say.nr5_npc03.10;Ess'laine caer hwre. Saehr laine!
+say.nr5_npc03.4;Hael Rhena Meve! E'er y gloir!
+say.nr5_npc03.7;Gloir aen Lyria aen Rivia!
+

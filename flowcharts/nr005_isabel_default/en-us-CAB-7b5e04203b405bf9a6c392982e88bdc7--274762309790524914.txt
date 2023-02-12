@@ -1,0 +1,96 @@
+menu.nr005_isabel_default.102;Mihez kezdesz eztán?
+menu.nr005_isabel_default.145;Kérlek, folytasd!
+menu.nr005_isabel_default.146;Eleget hallottam. Távozz!
+menu.nr005_isabel_default.156;Örülnénk, ha maradnál.
+menu.nr005_isabel_default.157;Ezt nem engedhetem.
+menu.nr005_isabel_default.234;Volna kedved kártyázni egyet?
+menu.nr005_isabel_default.236;Nem mondanám, hogy átlagos varázslónô vagy...
+menu.nr005_isabel_default.51;Mesélj még Nilfgaardról.
+menu.nr005_isabel_default.52;Ég veled!
+menu.nr005_isabel_default.53;Beszélni kívántál velem?
+menu.nr005_isabel_default.55;Mirôl szoktál beszélgetni a katonáimmal?
+menu.nr005_isabel_default.66;Kérlek, ne oktass ki engem!
+menu.nr005_isabel_default.67;Alábecsülsz engem.
+say.nr005_isabel_default.100;És én Önt, Asszonyom.
+say.nr005_isabel_default.101;Megértem, Isbel. Jó szerencsét kívánok neked, vigyen bármerre is az utad!
+say.nr005_isabel_default.103;Az Aranyló Tornyok Városa – nem hiszem, hogy ismernék bárkit is, aki a saját szemével látta.
+say.nr005_isabel_default.104;Rettenetes. Bizonyára gyûlölted.
+say.nr005_isabel_default.105;Tudta, hogy a köznépbôl sokan úgy hiszik, a tornyok valódi aranyból épültek? Valójában amiatt hívják így ôket, ahogy a déli nap fénye megcsillan a tornyok tetején.
+say.nr005_isabel_default.106;Akkoriban semmi kivetnivalót nem láttam benne. Csodáltam a gladiátorokat a bátorságukért, a képzettségükért, a ravaszságukért... Habár most már szégyenkezem emiatt.
+say.nr005_isabel_default.107;Nilfgaard minden lányának meg kell szoknia a vér látványát – mondta. Mert arra a sorsra rendeltettünk, hogy meghódítsuk a világot.
+say.nr005_isabel_default.108;Amikor még csak leány voltam, az apám elvitt a Nagy Amfiteátrumba, hogy lássam, miként harcolnak a gladiátorok.
+say.nr005_isabel_default.109;A családom már jóval azelôtt a fôvárosban élt, hogy Nilfgaard egyáltalán császársággá lett. A város kápráztató szépsége mindig is büszkélkedésre adott okot,... amibôl idôvel aztán önteltség lett.
+say.nr005_isabel_default.110;Nem egy falusi boszorkány vagy, sem pedig gyógyító. Ez nyilvánvaló. De nem is úgy festesz, mint egy Északi varázslónô.
+say.nr005_isabel_default.111;Hm... Nem használok elbájolást, igaz. Mindig is úgy véltem, a testet hagyni kell megöregedni, elmúlni. Ahogy azt a természet diktálja, mert ez a dolgok rendje.
+say.nr005_isabel_default.112;Mintha egy druidát hallanék, aki egyensúlyról, harmóniáról és az áldott rothadásról hadovál.
+say.nr005_isabel_default.113;A druidáknak meglehetôsen rossz a megítélésük. Mégis, ezen dolgokat illetôen igazuk van, úgy hiszem. Szembeszállni a természet törvényeivel – abból még soha nem kerekedett semmi jó.
+say.nr005_isabel_default.114;Ez az oka annak is, hogy nem viselsz lábbelit?
+say.nr005_isabel_default.115;Hahh! Dehogy... Pusztán csak szeretem érezni a fûszálak érintését, a homokot, a sarat a lábujjaim között. Néha Asszonyom is kipróbálhatná.
+say.nr005_isabel_default.116;Hmm... Meggondolom. Köszönöm, Isbel!
+say.nr005_isabel_default.117;Jó néhányszor beszélgettél a katonáimmal, magad is mondtad. Szeretném tudni, hogy mirôl.
+say.nr005_isabel_default.118;Hm... Ismeri Asszonyom Larkin káplárt? Oisin századost, vagy talán Teagan hadnagyot?
+say.nr005_isabel_default.119;Természetesen, ismerem ôket. A legjobb tisztjeim, hûséggel szolgálnak már évek óta.
+say.nr005_isabel_default.120;Ismeri ôket... De azt vajon tudta-e, hogy Lyriából menekülvén a káplár egy újszülött lányt hagyott hátra? A felesége épp akkor vajúdott, amikor Asszonyom kiadta a parancsot az indulásra. A káplár nem mehetett haza és nézhette meg ôket.
+say.nr005_isabel_default.121;És igaz, hogy a századosnak se felesége, se gyermekei nincsenek, de már öt esztendeje nem látta a bátyját. Egyszer sem kapott engedélyt az eltávozásra, az Ön Odo tábornoka parancsai mindig elsôbbséget élveztek.
+say.nr005_isabel_default.122;Hadd találjam ki. Azt fogod mondani, hogy Teagen a beteg édesanyját hagyta magára, hogy engem kövessen.
+say.nr005_isabel_default.124;Elég. Elmondtad a véleményed. De még ha utasítanám is ôket, hogy térjenek haza, akkor sem hallgatnának rám. Tudják, hogy mindaddig, amíg Nilfgaard megszállás alatt tartja a földjeinket, nincs hová hazamenniük.
+say.nr005_isabel_default.125;Mióta magunk mögött hagytuk Aedirnt, nyugtalannak látlak. Minden rendben van?
+say.nr005_isabel_default.126;Értelmetlen halál? Az embereink azért adták az életüket, hogy megvédelmezzék a szülôföldjüket, a szeretteiket.
+say.nr005_isabel_default.127;Akkor tudod, hogy mire képesek.
+say.nr005_isabel_default.128;Ezt teszi Nilfgaard, Isbel. Itt is ugyanazt a mészárlást viszik véghez, mint Cintránál.
+say.nr005_isabel_default.129;Sok háborút láttam annak idején, mind ocsmány volt, mind visszataszító. De amit a Birodalmiak Aldersbergnél tettek,... az megbocsáthatatlan.
+say.nr005_isabel_default.130;Sodden után megfogadtam, hogy soha többé nem veszek részt egy háborúban sem. Annyi szenvedés és gyûlölködés,... annyi értelmetlen halál.
+say.nr005_isabel_default.131;Igen... Láttam, ott voltam... És Soddennél is.
+say.nr005_isabel_default.132;Bocsásson meg nekem, Asszonyom! Össze kell szednem a gondolataimat. De nem is törôdjön velem. A kötelességemet a legjobb tudásom szerint fogom elvégezni, ahogy mindig is tettem.
+say.nr005_isabel_default.133;Hiszem... Hinnem kell abban, hogy van egy jobb út.
+say.nr005_isabel_default.134;Szólni kívántál velem? Négyszemközt?
+say.nr005_isabel_default.135;Tévedtem Önnel kapcsolatban... Ön egyáltalán nem olyan, mint a többi király, herceg, császár. Ön bátor, bölcs... És, mindenekelôtt, jószívû.
+say.nr005_isabel_default.136;Igen, Asszonyom. Meghánytam–vetettem egy–két dolgot, és elérkezettnek látom az idôt arra,... hogy megosszam, mire is jutottam. Nem voltam teljes mértékig ôszinte Önhöz, de úgy gondolom, nagyon is megérdemli, hogy megtudja az igazat.
+say.nr005_isabel_default.137;Ön bátor, bölcs, és mindenekelôtt... jószívû. És mint ilyen, különbözik a többi uralkodótól, akikkel valaha találkoztam, vagy dolgom volt.
+say.nr005_isabel_default.141;Meséltem Önnek Cintráról és Soddenrôl, emlékszik? Valóban kivettem a részem a háborúból,... de a Birodalom oldalán.
+say.nr005_isabel_default.142;Isbel, mi az, amit el kívánsz mondani nekem? Kezdek aggódni.
+say.nr005_isabel_default.143;Tessék...? Nem biztos, hogy jól értem...
+say.nr005_isabel_default.144;A nevem nilfgaardi Isbel aep Muir Moss. Bárcsak azt mondhatnám, hogy valamely meghódított tartományból származom, bár ilyen könnyû volna a dolgom... De nem. Egyenesen az Aranyló Tornyok Városából jöttem.
+say.nr005_isabel_default.147;Elég! Nem akarok errôl hallani többet! Elárultad a bizalmamat, Isbel. Távozz, azonnal!
+say.nr005_isabel_default.148;Megértem... Csak hogy tudja, mindig is a legjobbat kívántam, és még most is a legjobbat akarom Önnek és a népének. Sok szerencsét kívánok, az istenek kísérjék útján!
+say.nr005_isabel_default.149;Egek... Erre valóban nem számítottam. Kérlek, folytasd!
+say.nr005_isabel_default.150;A mágusakadémiáról rögtön a hadsereghez kerültem, ahogy minden varázsló és varázslónô Nilfgaardban. És ôszintén hittem abban, hogy egy jobb világ építése a célunk. A mágusok segítségével a császár birodalmat birodalom után hódított meg, egészen fel az Amell-hegységig.
+say.nr005_isabel_default.151;De ennyi nem volt neki elég, és mohó tekintetét Észak felé fordította. Ám az Észak szembeszállt vele. Soha nem feledem azt a vérfürdôt, amit ezért Cintrában rendezett. Ami ott történt,... arra nincsenek szavak.
+say.nr005_isabel_default.152;Meg akart minket félemlíteni. Ehelyett egységbe kovácsolt bennünket.
+say.nr005_isabel_default.153;Valóban.. Soddennél, amikor a Birodalmi Hadseregen eluralkodott a káosz, megláttam a helyzetben kínálkozó esélyt, hogy odahagyhatom ezt az egész ôrületet, és új életet kezdhetek.
+say.nr005_isabel_default.154;És így is tettem. Azután többé nem kerestem a lehetôséget arra, hogy hazatérjek, a földijeim közé. Ehelyett Északon maradtam, és megfogadtam, hogy másoknak ártó szándékkal soha többet nem használom a mágiát.
+say.nr005_isabel_default.158;Mindenki megérdemel egy második esélyt. Ám mostantól kezdve nem lehet közöttünk több titok.
+say.nr005_isabel_default.159;Természetesen. És köszönöm. El sem tudja képzelni, ez milyen sokat jelent nekem.
+say.nr005_isabel_default.160;Helyes. Ó, és Isbel,... ennek kettônk között kell maradnia! A saját érdekedben.
+say.nr005_isabel_default.161;Értékelem a törôdését, Asszonyom, de miattam szükségtelen aggódnia. Már jó ideje élek Északon,... és tudom, hogyan boldoguljak.
+say.nr005_isabel_default.162;Bocsáss meg, Isbel, de nem engedhetem, hogy velünk maradj. Még ha a legelejétôl fogva ôszinte lettél volna, talán, de... Attól tartok, meg kell kérjelek rá, hogy távozz.
+say.nr005_isabel_default.163;Megértem. Csak hogy tudja, mindig is a legjobbat kívántam, és még most is a legjobbat akarom Önnek és a népének. Sok szerencsét kívánok, az istenek kísérjék útján!
+say.nr005_isabel_default.164;Elszólít a kötelesség. Mennem kell.
+say.nr005_isabel_default.165;Természetesen. Amennyiben szüksége volna rám, itt megtalál.
+say.nr005_isabel_default.166;Nem, Asszonyom. Caldwell gróf emberei legyilkolták a hadnagy egész rokonságát, megtorlásul azért, hogy a hadnagy csatlakozott a lázadásához. Csak nemrég szerzett róla tudomást.
+say.nr005_isabel_default.167;Mégsem állhatok itt tétlenül, miközben a császár egyik kegyetlenséget követi el a másik után... Asszonyom oldalán akarok harcolni.
+say.nr005_isabel_default.232;Volna kedved játszani egy rund gwentet velem?
+say.nr005_isabel_default.233;Örömmel, Asszonyom.
+say.nr005_isabel_default.56;Igen? Mivel kapcsolatban?
+say.nr005_isabel_default.57;Örülök, hogy itt találom, Asszonyom. Beszélnünk kell.
+say.nr005_isabel_default.58;A Birodalmi Hadsereg hatalmas – hogy mennyire, azzal mindketten tisztában vagyunk. Ha Észak minden királya felsorakozna Asszonyom mellett, a gyôzelem még akkor is bizonytalan volna. Ön pedig egyedül harcol, és tudja, hogy egyikôjükre sem számíthat.
+say.nr005_isabel_default.59;Pontosan így van. Valójában túl jók ahhoz, hogy egy értelmetlen háború miatt haljanak.
+say.nr005_isabel_default.60;Töltöttem némi idôt az embereivel, bekötöztem a sebeiket, kezeltem a nyavalyáikat. Rendkívül nagyra tartják Asszonyomat, a tûzbe, vagy akár a tenger fenekére is követnék.
+say.nr005_isabel_default.61;Nem biztos, hogy értem.
+say.nr005_isabel_default.62;Örömmel hallom. Rendes emberek, mindannyian.
+say.nr005_isabel_default.70;Túl sokat enged meg önmagának, Asszonyom!
+say.nr005_isabel_default.71;Bocsásson meg ennek az öregasszonynak! Az én koromban az emlékezet már csalóka lehet. Például hajlamosak lehetünk feledni, hogy minden uralkodó szakasztott ugyanolyan... Köszönöm, hogy emlékeztetett rá.
+say.nr005_isabel_default.72;Isbel... Talán még okozok számodra meglepetést...
+say.nr005_isabel_default.73;Egyetértek. Nilfgaard sokkal jobban felszerelt, és jelentôs számbeli fölényben van hozzánk képest. Ám bármennyire is szeretnék, mégsem lehetnek ott mindenütt egy idôben, egyszerre. Elnyújtották az arcvonalukat, túlságosan is – és ezt a hibát ki szándékozom használni.
+say.nr005_isabel_default.74;Talán igaza van. Remélem, hogy így van. Mindazok élete múlik rajta, akik Önt szolgálják.
+say.nr005_isabel_default.75;Hmm. Asszonyom büszke, kitartó és magabiztos... Akár csak én voltam az Ön korában. Lehet, hogy ez még a javára billenti a mérleget. Idôvel kiderül.
+say.nr005_isabel_default.76;Addig is, miben segíthetek?
+say.nr005_isabel_default.77;...
+say.nr005_isabel_default.78;Bocsánat... Néha belefeledkezem a gondolataimba. Tehetek valamit Asszonyomért?
+say.nr005_isabel_default.79;Isbel?
+say.nr005_isabel_default.80;Örülök, hogy újra látom, Asszonyom! Kíván valamit?
+say.nr005_isabel_default.81;Hamarosan véget ér a háború. Vajon mit tartogat számodra a jövô, Isbel? Az udvaromban mindig jó hasznát veszem a bölcs tanácsoknak.
+say.nr005_isabel_default.97;Hahh! Elfogadhatóak ezek a feltételek.
+say.nr005_isabel_default.98;Hmm,... csábító ajánlat, Asszonyom... Legyen így, maradok – egy feltétellel: hogy soha nem fog arra kényszeríteni, hogy cipôt viseljek.
+say.nr005_isabel_default.99;Nem, Felség. A királyi udvar nem az én világom. Be kell járnom a világot, egyszerû népek között kell élnem. A háború vége után sokan szenvednek majd szükséget.
+

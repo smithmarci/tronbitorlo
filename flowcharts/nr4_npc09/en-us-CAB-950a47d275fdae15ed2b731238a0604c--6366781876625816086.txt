@@ -1,0 +1,4 @@
+say.nr4_npc09.10;Szájkosár kell ezekre az egyszerû népekre, meg rövid póráz. Olyanok, mint az állatok.
+say.nr4_npc09.4;Nincs itten számodra semmi. Lehet továbbmenni.
+say.nr4_npc09.7;Szavatartó egy asszonyszemély vagy, meg kell hagyni.
+

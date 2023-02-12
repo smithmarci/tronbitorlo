@@ -1,0 +1,5 @@
+say.nr4_npc02.1;Jó szíved van, Úrnôm. Ha már élelmet adni nem tudunk, kérlek, fogadd el ezt... Tünde rajz, vagy valami afféle. Mi kukkot nem értünk belôle, de neked talán hasznodra lesz.
+say.nr4_npc02.10;Nem számít, mit gondolnak. A nilfgaardiak nem húzzák itt sokáig. Hamarosan örömest távoznak majd, mint ahogy mindenki más.
+say.nr4_npc02.4;Ez a föld a szörnyeké, az övék egészen. Az embernépek itt csak vendégek.
+say.nr4_npc02.7;Légy óvatos, Úrnôm, leginkább a piócáktól óvakodj! Becsusszannak a gatyába is, ha az ember nem vigyáz...
+

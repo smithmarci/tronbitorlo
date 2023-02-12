@@ -1,0 +1,4 @@
+say.nr5_npc18.10;A törpök számítják fel a legalacsonyabb kamatokat! Véletlen volna? He? He...?
+say.nr5_npc18.4;Murkó mester szerint nem tanácsos koviri márkába vagy povissi bizántba fektetni. Azokon nincs semmi haszon.
+say.nr5_npc18.7;Bár minden aprónép olyan volna, mint Murkó mester. Akkor aztán egész családiasan elvolnánk!
+

@@ -1,0 +1,4 @@
+say.nr4_npc07.10;Mondja meg az embereinek, hogy halkan lépdeljenek. Máskülönben felköltik a Véres Úrnôt. És ha ébren van, akkor bizony igazi szipirtyó az.
+say.nr4_npc07.4;Óvatosan lépkedjen, Úrnôm! Csúszósak a kövek. Még belecsusszan a vízbe, oszt' megfullad.
+say.nr4_npc07.7;Kicsit se féljék a fényecskéket. Kedvesek azok mindenféle utazóhoz. Csak segíteni akarnak.
+

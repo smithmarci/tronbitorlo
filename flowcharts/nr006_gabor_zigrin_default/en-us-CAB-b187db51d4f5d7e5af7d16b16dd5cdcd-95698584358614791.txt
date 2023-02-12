@@ -1,0 +1,65 @@
+menu.nr006_gabor_zigrin_default.236;Kártyázzunk egyet?
+menu.nr006_gabor_zigrin_default.55;Mire gondolsz?
+menu.nr006_gabor_zigrin_default.56;Váltsunk témát.
+menu.nr006_gabor_zigrin_default.77;Ragyogó ötlet. Szervezd meg!
+menu.nr006_gabor_zigrin_default.78;Semmi szükségem egy részeg hadseregre.
+menu.nr006_gabor_zigrin_default.87;Ég veled!
+menu.nr006_gabor_zigrin_default.88;Mit tudsz nekem mondani az Elöljárótokról?
+menu.nr006_gabor_zigrin_default.89;Mihez kezdesz majd a háború után?
+menu.nr006_gabor_zigrin_default.90;Mesélj még egy kicsit a Zigrin klánról.
+menu.nr006_gabor_zigrin_default.91;Valójában miért hagytad oda Mahakamot?
+say.nr006_gabor_zigrin_default.234;Há' persze! Csak hadd keverem meg jól elôbb ezt a paklit.
+say.nr006_gabor_zigrin_default.25;Felség, beszédem volna a szállásmesterével. Én–– Már megbocsássa a szóhasználatomat, de meg nem iszom azt a lóhúgyot, amit a kantinban mér.
+say.nr006_gabor_zigrin_default.26;Ha fogalmazhatok nyersen, Asszonyom, amire Reynardnak abban a fene merev életében végre szüksége volna, az egy kiadós berúgás.
+say.nr006_gabor_zigrin_default.27;Uh, ez Reynard mûve, semmi kétség... Nem szereti, ha az emberei sokat isznak.
+say.nr006_gabor_zigrin_default.28;Szóval lenne Felségednek egy javaslatom. Egy szállítmány a legjobb törp méz- és világos sörbôl – el tudom intézni. Higgye el: nem lesz gond az emberek hozzáállásával, miután leguríthatnak egy kis szeszt a torkukon!
+say.nr006_gabor_zigrin_default.29;Merev vagy sem, Reynardnak igaza van ebben. Egy korhelyekbôl álló seregnek semmi hasznát nem veszem.
+say.nr006_gabor_zigrin_default.30;Ejj, no, Felséged tábora, Felséged szabályai... Ah... hm, legalább itt van nekem a pipám.
+say.nr006_gabor_zigrin_default.31;Hmm... Jó meglátás. Ám legyen.
+say.nr006_gabor_zigrin_default.32;Uh, köszönetem, drága Királynô! Még pár napig inni kellett volna abból a mosogatólébôl, és a pocsolyavizet is felhörpintettem volna.
+say.nr006_gabor_zigrin_default.33;Bízom benne, hogy megoldod a dolgot.
+say.nr006_gabor_zigrin_default.34;Bizony ám! Ne aggódjon. Nem is tudja, most milyen boldoggá tette ezt a törpöt. És persze az embereket is...
+say.nr006_gabor_zigrin_default.35;Mindig öröm, ha a királynôt láthatom. Miben lehetek a segítségére?
+say.nr006_gabor_zigrin_default.36;Egy Zigrin vagy, igaz? Ismerôs a név... Az egyik klánbelid vágta le az Ocvist nevezetû sárkányt.
+say.nr006_gabor_zigrin_default.37;Úgy a'! Yarpenre gondol – a kuzinom kuzinjára. Akkoriban hagyta oda Mahakamot, amikor én még csak egy kis taknyos voltam.
+say.nr006_gabor_zigrin_default.38;Tisztességes egy törp az, de soha nem tudott alkalmazkodni a szokásainkhoz és a törvényeinkhez. Igaz, meg kell vallani, azokból olyan istentelenül sok akad, hogy már a törp fülén folyik ki.
+say.nr006_gabor_zigrin_default.39;Ennyire rossz lenne a helyzet?
+say.nr006_gabor_zigrin_default.40;Hm... Akkor hadd mondjam másképp! Az emberek között tilos a lopás, a rendbontás, a gyilkolás... csupa alap dolgok. Mahakamban még arra is törvénykönyvünk van, hogy mikor miképp fonjuk be a szakállunkat!
+say.nr006_gabor_zigrin_default.41;De nem panaszképp mondom. A Zigrinek jómódban élnek, a gazdagabb klánok egyike a mienk. Több mint elegendô árunk van a boldoguláshoz. Habár... akad közöttük néhány ócskább minôségû is...
+say.nr006_gabor_zigrin_default.42;Hogy érted ezt?
+say.nr006_gabor_zigrin_default.43;Ah, nem érdemes rá idôt sem vesztegetni. Nem akarnám feltartani. Ráadásul ilyesfajta dolgokról jobb egy hideg korsó – vagy inkább hordócska – söröcske fölött eldiskurálni.
+say.nr006_gabor_zigrin_default.44;Szeretnék többet megtudni az Elöljárótokról. Mesélnél róla, ha megkérlek?
+say.nr006_gabor_zigrin_default.45;A nyilvánvaló dolgokat át is ugornám, mint hogy már volt szerencséje a vén különchöz.
+say.nr006_gabor_zigrin_default.46;Hm... Egy megátalkodott kurafi az a Brouver. Makacs, mint az öszvér... Ezt Felséged is hamarosan megtapasztalhatja majd.
+say.nr006_gabor_zigrin_default.47;Összességében nem olyan kellemetlen fráter, mint azt néhányan állítják. Majd' két évszázada irányítja a klánokat, és ez nem kis teljesítmény, nem bizony!
+say.nr006_gabor_zigrin_default.48;És mindez idô alatt nem volt közöttük semmilyen ellentét? Ez biztos?
+say.nr006_gabor_zigrin_default.49;Ha-ha! Én–– Most nem tudom, hogy csak viccel-e. Huhh! Minden nap egymás torkának esnek, úgy ám! A Breckenriggs-ek megvetik a Chivay-okat. A Dahlbergek, ha lenne rá alkalmuk, kivájnák a Hoogok szemét. És ami minket illet,... mi meg ki nem állhatjuk a seggnyaló Fuchs-okat.
+say.nr006_gabor_zigrin_default.50;De Brouvernek megvannak a módszerei arra, hogy egységben tartson bennünket. Ha ô nem lenne, Mahakam már rég darabjaira hullott volna.
+say.nr006_gabor_zigrin_default.57;Nem volt alkalmunk szót váltani, mióta magunk mögött hagytuk Mahakamot. Miért csatlakoztál hozzánk, vagy talán inkább döntöttél úgy, hogy odahagyod az otthonod?
+say.nr006_gabor_zigrin_default.58;Mint már mondtam, az adósod voltam, és még vagyok is.
+say.nr006_gabor_zigrin_default.59;Becsületes egy törp vagy, ennek örülök... Ám nem vagyok egészen meggyôzôdve arról, ez elegendô indok volt arra, hogy elhagyd a klánodat.
+say.nr006_gabor_zigrin_default.60;Hmm... Nem szabadulok ilyen könnyen, igaz-e? Ám legyen. Talán akad még más is háttérben, na!
+say.nr006_gabor_zigrin_default.61;Talán rossz lelkiismeret?
+say.nr006_gabor_zigrin_default.62;Az a szörnyûség a Fuchs-okkal,... az a sok vér és mocsok. Túlságosan elfajult. Megpróbáltam megmagyarázni a véneknek, de úgy hessentettek félre, mint valami naposcsibét.
+say.nr006_gabor_zigrin_default.63;Csakhogy... az ilyesmit nem lehet elfelejteni. Segítenem kell, ahogy csak tudok. És abból semmi nem lesz, ha csak ülök a valagamon Mahakamban.
+say.nr006_gabor_zigrin_default.64;De ez még nem volt minden. Láttam azt a szarságot, amit a városaitokban élô törpöknek nap mint nap le kell nyelniük... Azt hittem, ha hazajövök, és a saját dolgaimmal törôdök, majd elfelejtem.
+say.nr006_gabor_zigrin_default.65;Megértem, Gábor. És tudom, hogy megtalálod majd a módját, hogy segíthess.
+say.nr006_gabor_zigrin_default.66;Emlékszel még arra a Mahakamban történt beszélgetésünkre? Amikor úgy döntöttél, hogy csatlakozol a seregemhez, és hátrahagyod az otthonodat?
+say.nr006_gabor_zigrin_default.67;Még jó hogy! Olyan tisztán, mint a nap. Megmentettél engem és a klánomat is. Az adósod vagyok, és még leszek is egy darabig.
+say.nr006_gabor_zigrin_default.68;Nos, megnyertük a háborút. És nem kis részed volt neked is a gyôzelmünkben. Ahogy én látom, kamatostul megfizetted a tartozásod.
+say.nr006_gabor_zigrin_default.69;...
+say.nr006_gabor_zigrin_default.70;Meg se tudok mukkani... Mint Desmond király, amikor egy orgyilkos nyílvesszôje csak úgy átsuhant a nyelôcsövén. Keblemre! Ölelj meg!
+say.nr006_gabor_zigrin_default.71;Talán késôbb... És Gábor,... van már terved a továbbiakat illetôen?
+say.nr006_gabor_zigrin_default.72;Hahh! Nem számítottam erre a beszélgetésre, szóval... most úgy érzem magam, mint akit letolt gatyával rajtakaptak!
+say.nr006_gabor_zigrin_default.73;A háborúnak vége, de még sok a tennivalónk. Vegyük például a köztünk és a másfajúak között fennálló kapcsolatokat – javítani szándékozom rajtuk. És úgy gondolom, Gábor, ebben nagy segítségemre lehetnél.
+say.nr006_gabor_zigrin_default.74;Úgy érted,... azt szeretnéd, ha az udvarnál maradnék...? Megtisztelô lenne, Felség, igazán megtisztelô!
+say.nr006_gabor_zigrin_default.75;Késôbb majd még beszélünk.
+say.nr006_gabor_zigrin_default.76;Nem vitás. A viszontlátásig, Felség.
+say.nr006_gabor_zigrin_default.92;Köszönöm, hogy beavattál, Gábor. Sok mindent megtudtam.
+say.nr006_gabor_zigrin_default.93;Miért?
+say.nr006_gabor_zigrin_default.94;Úgy százötven esztendôvel ezelôtt, amikor a tündék azt a kilátástalan háborújukat vívták a népe ellen, az Elöljáró elrendelte a Mahakamba vezetô átjáró lezárását.
+say.nr006_gabor_zigrin_default.95;Ha nem tett volna ekképp, akkor mi is úgy végeztük volna, mint a hegyesfülûek. Így aztán csak vártuk, hogy elüljön a szarvihar – addig meg se nyitottuk az átjárót, ki se nyújtóztattuk a lábunkat, amíg biztonságos nem lett.
+say.nr006_gabor_zigrin_default.96;Igen, emlékszem. A ríviai manufaktúráknak még talpra kell állniuk.
+say.nr006_gabor_zigrin_default.97;Tisztelettel, de amit Felséged mûhelyeiben kovácsolnak, az szart se ér. Nem a mi hibánk, hogy az emberek inkább a törp termékeket veszik. Így mûködik a piac, ennyi az egész!
+say.nr006_gabor_zigrin_default.98;Most már tisztábban látom a dolgokat, Gábor. Köszönöm.
+

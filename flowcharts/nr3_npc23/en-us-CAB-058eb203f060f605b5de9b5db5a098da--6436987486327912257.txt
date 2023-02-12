@@ -1,0 +1,4 @@
+say.nr3_npc23.10;Hosszúfülû gazfickók...! Felbujtják ellenünk a saját ifjainkat, lázadoznak, zavargást – erôszakot! – szítanak a hegyeinkben...!
+say.nr3_npc23.4;Szóval a tündék... ellenünk vannak hát? A véneink ellen? Áruló kutyák!
+say.nr3_npc23.7;Megvallom az igazat: korábban magam is támogattam a Scoia'taelt... Most már mindet holtan akarom látni. Holtan!
+

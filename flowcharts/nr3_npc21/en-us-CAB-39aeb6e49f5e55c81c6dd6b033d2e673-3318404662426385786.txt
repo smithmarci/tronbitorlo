@@ -1,0 +1,4 @@
+say.nr3_npc21.10;Amint Karbonhegyben leszünk, útba ejtjük a fogadót, letesszük a seggünket a tûz mellé, és elszürcsölgetünk egy jó korsó forralt bort...
+say.nr3_npc21.4;Az elfagyásra a legjobb egy kis fokhagymalé kence. De még jobb, ha van mellé egy nyelet pálinka is.
+say.nr3_npc21.7;Agh, megfagyott még a taknyom is... És nem csak az, ami a szakállamra folyt! Két jégcsap van az orromban is – fölfelé!
+

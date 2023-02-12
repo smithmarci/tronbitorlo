@@ -1,0 +1,3 @@
+say.nr4_npc01a.3;Esse'va dhut, Nordling. Naehte mahr.
+say.nr4_npc01a.6;Go'deff me... Go'deff me saehr...
+

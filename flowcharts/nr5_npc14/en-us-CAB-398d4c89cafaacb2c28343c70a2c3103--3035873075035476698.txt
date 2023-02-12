@@ -1,0 +1,4 @@
+say.nr5_npc14.10;Nézzétek, ez Meve! A Feketeölô! Éljen soká a Királynô!
+say.nr5_npc14.4;Azt mondják, a háború a férfiak dolga. De jól megmutatta nekik, Úrnôm!
+say.nr5_npc14.7;Meglássátok. Még a császárt is elkergeti a trónjáról, fogadni mernék rá!
+

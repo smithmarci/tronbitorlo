@@ -1,0 +1,5 @@
+say.nr5_npc02.1;Úrnôm, Úrnôm! Az árulók nem sokkal elôttük iszkoltak el! Adjon nekem egy térképet, és bejelölöm, hol ásták el a zsákmányukat!
+say.nr5_npc02.10;Hozza el nekünk a szabad Ríviát, Asszonyom!
+say.nr5_npc02.4;Amíg mi élünk, addig Rívia is él!
+say.nr5_npc02.7;Nilfgaard nem fog arcon köpni minket!
+

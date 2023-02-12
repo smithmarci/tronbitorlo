@@ -1,0 +1,5 @@
+say.nr5_npc12.1;Hálás köszönet újfent Felségednek. És ez... szolgáljon hûségem bizonyítékául.
+say.nr5_npc12.10;Nem fogom cserben hagyni, Felség. Addig Kegyelmed oldalán maradok, amíg a gyôzelmet ki nem vívjuk!
+say.nr5_npc12.4;Az ablakokban kicseréltetem az üvegezést, hogy a ríviai rutákat mintázza! Már el is küldettem egy üvegesért!
+say.nr5_npc12.7;Az apám tévedett Felségeddel kapcsolatban,... és még inkább tévedett Nilfgaardot illetôen.
+

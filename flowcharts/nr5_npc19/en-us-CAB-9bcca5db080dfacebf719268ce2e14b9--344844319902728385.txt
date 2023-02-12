@@ -1,0 +1,4 @@
+say.nr5_npc19.10;Éljen soká Aedirn! Éljen soká Rívia! Éljen soká Hyrule! Ööö... Lyria!
+say.nr5_npc19.4;Megtisztelô volna az oldalán harcolni, Felség.
+say.nr5_npc19.7;Vállt vállnak vetve visszarugdaljuk a Feketéket a Jaruga túlpartjára.
+

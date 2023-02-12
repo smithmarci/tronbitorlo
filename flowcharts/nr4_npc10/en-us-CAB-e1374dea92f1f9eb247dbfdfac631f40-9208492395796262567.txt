@@ -1,0 +1,5 @@
+say.nr4_npc10.1;Nem maradok itt tovább... Gonosz egy hely ez. Inkább Kegyeddel tartanék, még akkor is, ha útközben Feketékkel kell hadakoznom.
+say.nr4_npc10.10;Egy hónapig tartott a sötétben,... pedig csak egy kriglit csentem el...
+say.nr4_npc10.4;Szabadok vagyunk? Igaz ez? Az istenek áldják meg, Felség!
+say.nr4_npc10.7;Az a Gerwin fickó egy szörnyeteg volt, Úrnôm... Egy szörnyeteg! Rosszabb még egy falkányi ghúlnál is! Mit falkányi? Egy seregnyi ghúlnál is rosszabb!
+

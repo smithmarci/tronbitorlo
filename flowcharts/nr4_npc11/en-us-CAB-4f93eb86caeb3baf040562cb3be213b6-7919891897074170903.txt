@@ -1,0 +1,4 @@
+say.nr4_npc11.10;Csak a munka, a munka, a munka... És látok belôle valamit, akár csak egy aprócska, nyomorúságos kenyércsücsköt is?
+say.nr4_npc11.4;Csupa vízhólyag mindkét kezem ettôl a sok munkától... És ha ez még nem lenne elég, ott a sok tyúkszem is a talpaimon!
+say.nr4_npc11.7;Sose lesz vége, én mondom! Sose végzünk ezzel a nyomorult munkával.
+

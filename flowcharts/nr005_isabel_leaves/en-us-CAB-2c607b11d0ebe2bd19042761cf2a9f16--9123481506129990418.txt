@@ -1,0 +1,9 @@
+say.nr005_isabel_leaves.1;Azért jöttem, Asszonyom, hogy elmondjam: el kell hagynom a seregét.
+say.nr005_isabel_leaves.2;Hogyan? Miért?
+say.nr005_isabel_leaves.3;A legjobb meggyôzôdésem ellenére csatlakoztam Önhöz, hogy gyógyítsam és ápoljam a sebesülteket. De most már látom, nagy hiba volt.
+say.nr005_isabel_leaves.4;Nem, Asszonyom. Ég vele!
+say.nr005_isabel_leaves.5;Mit tehetnék? Volna bármi, amivel maradásra bírhatnálak?
+say.nr005_isabel_leaves.6;Amit tett, az ellentétes mindazzal, amiben hiszek. Megvolt rá az oka, és nem kétlem, hogy még mindig megvan. Ám nem kívánok részese lenni, mert szégyen volna rám nézve, ha segítô kezet nyújtanék hozzá.
+say.nr005_isabel_leaves.7;Pontosan mire is gondolsz?
+say.nr005_isabel_leaves.8;Ám legyen... Sok szerencsét, és az istenek óvjanak, Isbel!
+

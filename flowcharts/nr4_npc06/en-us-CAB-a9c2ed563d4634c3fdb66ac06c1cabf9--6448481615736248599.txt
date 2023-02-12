@@ -1,0 +1,4 @@
+say.nr4_npc06.10;Úrnôm... Van egy kullancs a füle mögött. Úgy fest, hogy mindjárt kipukkad.
+say.nr4_npc06.4;Óvakodjatok... A Véres Úrnô megveti azokat, akik legyilkolják a szolgáit.
+say.nr4_npc06.7;Ahh, bárcsak tél volna... Befagyna a mocsár, és a szúnyogoknak is végük lenne.
+

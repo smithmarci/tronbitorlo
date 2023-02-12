@@ -1,0 +1,45 @@
+menu.nr008_vilem_default.10;Mit tudsz aep Dahy tábornokról?
+menu.nr008_vilem_default.11;Köszönöm, hogy békejobbot nyújtottál!
+menu.nr008_vilem_default.12;Hamarosan újra beszélünk, Fiam.
+menu.nr008_vilem_default.31;Villem, igazad van. Sajnálom.
+menu.nr008_vilem_default.32;Ha van közöttük érdemes, nem látok okot arra, hogy ekképp tegyek.
+menu.nr008_vilem_default.9;Mesélj az általad eszközölt újításokról!
+say.nr008_vilem_default.21;Igen, Anyám?
+say.nr008_vilem_default.22;Hogy vagy mostanság, Fiam? Találkoztál már a tanácsadóimmal?
+say.nr008_vilem_default.23;Én megpróbáltam közeledni.
+say.nr008_vilem_default.24;De... nem kívánnak beszélni velem. Amikor meglátnak, csak motyognak valamit, aztán odébbállnak. Még a nevetségesen tiszteletteljes Reynard gróf is.
+say.nr008_vilem_default.25;Nos,... feltételezhetôen még mindig gyanakvóak Veled szemben. És jó okkal – ezt el kell ismerned.
+say.nr008_vilem_default.26;Igen... Nyilvánvalóan még sokat kell tennem azért, hogy ez másképp legyen.
+say.nr008_vilem_default.27;Mhh. És jobb, ha mihamarabb hozzálátsz. Amint befejeztük a beszélgetésünket.
+say.nr008_vilem_default.28;Beszélj az általad eszközölt reformokról. Büszkeséggel tölthetnek el Téged, ha ahhoz ragaszkodsz, hogy ne hatálytalanítsam ôket.
+say.nr008_vilem_default.29;Anyám,... miért kell gúnyt ûznöd belôlem?
+say.nr008_vilem_default.30;Ha kívánod, örömmel beszámolok a rendeleteimrôl. De nem úgy, hogy közben élcelôdsz és nevetség tárgyává teszel.
+say.nr008_vilem_default.38;Igazad van, Villem. Sajnálom. Igazságtalan voltam. Érdeklôdve hallgatlak.
+say.nr008_vilem_default.39;Ha volt bennük ráció, és országunk javára válnak, akkor nincs mitôl tartanod. Beszélj róluk!
+say.nr008_vilem_default.40;Elôször is az áruszállítmányozási jogok és kikötôi kirakodási kötelezettségek szabályozásának fôbb...
+say.nr008_vilem_default.41;Meve elszántan, majd egyre növekvô érdeklôdéssel hallgatta. Fia minden egyes szavával halványodott benne a kétely, és helyet kapott szívében a büszkeség.
+say.nr008_vilem_default.42;...Ezért döntöttem akképp, hogy megvonom Spalla kereskedelmi kiváltságait.
+say.nr008_vilem_default.43;...
+say.nr008_vilem_default.44;Hallgatsz, Anyám. Sokatmondóan.
+say.nr008_vilem_default.45;Kevés olyan dolog van, amit jobban gyûlölök annál, mint hogy beismerjem a tévedésem.
+say.nr008_vilem_default.46;Részletekbe menôen átbeszéljük majd újra mindezt, Villem, miután beköszöntött a béke. A Nemesi Tanács színe elôtt.
+say.nr008_vilem_default.48;Mondj el mindent aep Dahy tábornokról! Megismervén ellenségeinket bölcsebbé válhatunk.
+say.nr008_vilem_default.49;Tulajdonképp rád emlékeztet, Anyám... Rengeteg mindenben.
+say.nr008_vilem_default.50;Igazán? Komolyan beszélsz?
+say.nr008_vilem_default.51;Ühümm. Büszke, magabiztos,... és kimondottan gyûlöli a kompromisszumokat.
+say.nr008_vilem_default.52;Ezt dícséretnek veszem... De különbözünk egymástól bármiképp? Úgy értem, a szakállon kívül.
+say.nr008_vilem_default.53;A megvetés tekintetében.
+say.nr008_vilem_default.54;Úgy bánik velünk, mintha alacsonyabb rendû faj lenne a miénk... Ahogy némely tündék is teszik.
+say.nr008_vilem_default.55;Egész Északot úgy kezeli, mintha az egy betöretlen ló lenne, amit meg kell szelidíteni, és engedelmességre kell tanítani.
+say.nr008_vilem_default.56;Tapasztaltam ezt Aedirnben. Tudom, mirôl beszélsz... De nem fogom engedni, hogy bármi ilyet tegyen.
+say.nr008_vilem_default.57;Anyám, tudom, hogy Nilfgaard csatában még nem gyôzött le Téged. Tudom, hogy egyik gyôzelembôl a másikba masíroztál.
+say.nr008_vilem_default.58;De könyörögve kérlek,... ne becsüld alá ôt. Mert bármit megtenne a gyôzelemért – szó szerint bármit.
+say.nr008_vilem_default.60;Köszönetet akarok mondani Neked.
+say.nr008_vilem_default.61;Mégis... miért?
+say.nr008_vilem_default.62;A bátorságodért – amiért hittél abban, hogy megbékélhetünk. Amiért békejobbot nyújtottál nekem, és segítettél, hogy minden helyrejöjjön.
+say.nr008_vilem_default.63;Én... Én erre nem lettem volna képes. Soha. Harcoltam volna, egészen a keserû végig.
+say.nr008_vilem_default.64;Anyám, megértem.
+say.nr008_vilem_default.65;Ha nem tetted volna,... nos, ki tudja, most hol lennénk. Bele sem akarok gondolni.
+say.nr008_vilem_default.66;Akkor ne tedd, kérlek! Hagyjuk az egészet magunk mögött! Hagyjuk a múltra.
+say.nr008_vilem_default.68;Késôbb beszélünk, Fiam.
+

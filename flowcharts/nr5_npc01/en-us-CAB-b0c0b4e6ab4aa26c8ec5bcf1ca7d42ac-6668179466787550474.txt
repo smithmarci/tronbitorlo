@@ -1,0 +1,5 @@
+say.nr5_npc01.1;Adományokat gyûjtöttünk, hogy támogassuk a háborús törekvéseket. Segítünk, amennyire csak tudunk, hogy visszaverhesse azokat a Fekete démonokat!
+say.nr5_npc01.10;Ó, jaj...! Mi lesz most így Villem hercegbôl?
+say.nr5_npc01.4;Sosem gondoltam, hogy megérem még ezt a napot... A királynô visszatért!
+say.nr5_npc01.7;Tudja meg, Felség,... a Feketék bevették magukat a városainkba. Nem mutatnak hajlandóságot a megadásra, sem pedig a kivonulásra!
+

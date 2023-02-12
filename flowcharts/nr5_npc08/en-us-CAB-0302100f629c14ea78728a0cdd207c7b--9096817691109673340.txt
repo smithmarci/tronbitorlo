@@ -1,0 +1,4 @@
+say.nr5_npc08.10;Nem vagyok barátja sem a gnómoknak, sem más torzszülötteknek,... de ez a Barnabás fickó... Nem egy hitvány alak.
+say.nr5_npc08.4;Emelnie kell a Mahakamból behozott áruk adóján! Csak annyit, hogy ne érje meg nekik velünk kereskedni!
+say.nr5_npc08.7;Az utolsó mûhelyünk is gallyra ment, Felség. Hogy fogunk így megélni? Pénzt keresni? Enni? Nos, hogyan?
+

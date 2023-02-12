@@ -1,0 +1,4 @@
+say.nr5_npc17.10;Mindenki kiveszi a részét az otthonunk újjáépítésébôl!
+say.nr5_npc17.4;Mi mindent újjáépítünk, csodáld az új küllemünk, egy szebb jövô felé így megyünk!
+say.nr5_npc17.7;Legyen elsô az alap, arra emeld a falakat, s majd a termekben tartunk vigalmakat...
+

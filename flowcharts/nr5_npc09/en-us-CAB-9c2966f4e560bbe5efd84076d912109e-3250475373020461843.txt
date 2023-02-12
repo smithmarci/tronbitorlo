@@ -1,0 +1,3 @@
+say.nr5_npc09.3;Még ha a Feketék valami jót is tesznek, abból késôbb akkor is bajunk származik...
+say.nr5_npc09.6;Az egy dolog, hogy Nilfgaard kész lett volna Domboslapályt a földdel egyenlôvé tenni... De hogy a királynônk csak állt, és nézte?
+

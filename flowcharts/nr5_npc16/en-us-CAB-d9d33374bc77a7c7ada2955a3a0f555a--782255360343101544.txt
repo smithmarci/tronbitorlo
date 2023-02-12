@@ -1,0 +1,4 @@
+say.nr5_npc16.10;A mi Demavendünk is megjárja azért,... de Meve-hez kevéssé fogható.
+say.nr5_npc16.4;Éljen sokáig Meve! Éljen soká a királynô! Éljen soká a felszabadítónk!
+say.nr5_npc16.7;Nem maradt más hátra, mint kiûzni Aldersbergbôl a Feketéket, és a háború meg is van nyerve!
+

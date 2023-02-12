@@ -1,0 +1,5 @@
+say.nr5_npc10.1;Felségeddel menetelünk! Lyriai a ríviai mellett! Együtt törünk a Feketékre!
+say.nr5_npc10.10;Villem herceg jól beszél! Többet nem engedünk, többé nem engedelmeskedünk!
+say.nr5_npc10.4;Csak a háború, meg a háború. Mire jó az... Semmire.
+say.nr5_npc10.7;Ez az öngyilkos küldetés csak az Öné, Királynôm. Mi inkább egyezségre lépnénk a Feketékkel, kiegyeznénk velük valahogy.
+

@@ -1,0 +1,52 @@
+menu.nr009_xavier_default.236;Lenne kedved kártyázni?
+menu.nr009_xavier_default.240;Mesélj magadról még egy kicsit!
+menu.nr009_xavier_default.27;Késôbb még beszélünk.
+menu.nr009_xavier_default.30;Miért döntöttél úgy, hogy velünk maradsz?
+menu.nr009_xavier_default.31;Megmentetted az életemet.
+menu.nr009_xavier_default.33;Mit tudnál elmondani Rayláról?
+menu.nr009_xavier_default.34;Tévedtél Raylával kapcsolatban.
+say.nr009_xavier_default.15;Ugyan, Xavier. Szívesen látok bárkit a lobogóm alatt menetelni, aki Nilfgaard ellensége.
+say.nr009_xavier_default.16;De mit mondott a seborvos? Nem álltál túl korán vissza a munkába?
+say.nr009_xavier_default.17;Igen, Úrnôm?
+say.nr009_xavier_default.237;Mit szólnál egy-két kör gwenthez?
+say.nr009_xavier_default.238;Úrnôm,... ahogy óhajtja.
+say.nr009_xavier_default.28;Egyéb ügyek szólítanak. Késôbb még beszélünk.
+say.nr009_xavier_default.29;Ahogy kívánja, Úrnôm.
+say.nr009_xavier_default.35;Régóta szolgáltál Demavend király hadseregében?
+say.nr009_xavier_default.36;Értem. Nos, emiatt nem kell aggódnod. A tetteket többre tartom a szavaknál – úgy a magam, mint mások esetében is.
+say.nr009_xavier_default.37;Megépítek bármilyen hidat vagy dárdavetôt. De a beszéd... nos, az fájdalmat okoz.
+say.nr009_xavier_default.38;Nem vagy szószátyár fajta, igaz?
+say.nr009_xavier_default.39;...
+say.nr009_xavier_default.40;Hmm... A királynak mérnökök kellettek a seregébe. Én csak mentem oda, ahol szükség volt rám.
+say.nr009_xavier_default.41;Egyáltalán miért jelentkeztél a seregbe? Mi sarkallt arra, hogy így tegyél?
+say.nr009_xavier_default.42;Igen, Felség.
+say.nr009_xavier_default.44;Kö-köszönöm, Úrnôm! Sokat jelent nekem, hogy ezt mondja.
+say.nr009_xavier_default.45;Badarság. A nilfgaardiaknak van miért szégyenkezniük, nem neked. Nincs okod bújdosni és meglapulni.
+say.nr009_xavier_default.46;Úrnôm, akadnak népek, akik a láttomra elfordulnak és fintorognak. Ha undorral tölti el az ábrázatom látványa, én––
+say.nr009_xavier_default.47;...
+say.nr009_xavier_default.48;Van elég erôm a kalapács használatához... Habár a sebem még mindig hevesen ég.
+say.nr009_xavier_default.49;Régóta ismeritek egymást Raylával?
+say.nr009_xavier_default.50;Egy jó ideje. Többször a segítségére voltam, amikor Rosbergben állomásozott. Miért kérdi, Úrnôm?
+say.nr009_xavier_default.51;Meglehetôsen heves gyûlöletet táplál a Scoia'tael iránt. Kíváncsi lettem volna, Te tudod-e, mi okból.
+say.nr009_xavier_default.52;Hmm... Bocsáss meg, Felség, de úgy vélem, nem az én dolgom, hogy a személyes ügyeirôl beszéljek.
+say.nr009_xavier_default.53;Tudnom kell. Biztosíthatlak, nem árulom el a beléd vetett bizalmát. Régóta ismeritek egymást, magad mondtad. Bizonyára hallottál vele kapcsolatban valamit.
+say.nr009_xavier_default.54;Én... Hát legyen. Gyerekként a szeme láttára gyilkolta le a Scoia'tael a családját, mészárolta le minden falubélijét. Akkor bosszút esküdött. Ez az, ami hajtja elôre.
+say.nr009_xavier_default.55;Valami ilyesmit gyanítottam magam is. Köszönöm, Xavier!
+say.nr009_xavier_default.57;Beszéltem Raylával. Úgy fest, tévedtél vele kapcsolatban.
+say.nr009_xavier_default.58;Elnézését kérem, Úrnôm, de... Hogy érti ezt?
+say.nr009_xavier_default.59;Xavier, nem kell hogy bármit is eltitkolj elôlem. Csupán csak mondanod kellett valamit.
+say.nr009_xavier_default.6;Felség, köszönetet szerettem volna mondani,... amiért megengedte, hogy a seregéhez csatlakozzam.
+say.nr009_xavier_default.60;Természetesen... Nem fordul elô újra.
+say.nr009_xavier_default.61;Bocsásson meg, Úrnôm... Ön ragaszkodott hozzá, hogy mondjak valamit. Ám csak pletykával és szóbeszéddel szolgálhattam.
+say.nr009_xavier_default.62;Á... nos, tudja, Rayla ritkán beszél nyíltan a személyes ügyeirôl.
+say.nr009_xavier_default.63;A tündék iránt érzett gyûlölete oka. Azt mondtad, a Scoia'tael végzett a rokonaival, a falubelijeivel.
+say.nr009_xavier_default.65;Úgy döntöttél, elhagyod a királyod, Xavier. Miért?
+say.nr009_xavier_default.66;A csatamezôn szerettem volna harcolni, Úrnôm oldalán.
+say.nr009_xavier_default.67;Megértem.
+say.nr009_xavier_default.68;De mi lesz az otthonoddal? Rosberget újjá kell építeni. Nagy szükség lesz ott mérnökökre.
+say.nr009_xavier_default.69;Nincsenek rokonaim Rosbergben – egy árva lélek sem maradt. Mindenem, ami maradt, csak a bosszú.
+say.nr009_xavier_default.72;Még nem volt alkalmam megköszönni Neked. Ha nem lettél volna olyan éber, minden bizonnyal a végzetünkbe zuhantunk volna akkor, Mahakamban.
+say.nr009_xavier_default.73;Csupán a kötelességemet teljesítettem, Felség.
+say.nr009_xavier_default.74;Szerény, mint mindig. Ennek ellenére, amint véget ér a háború, gondoskodom róla, hogy méltó jutalomban részesülj.
+say.nr009_xavier_default.75;Úrnôm, az egyetlen jutalom, amire én vágyom, az a gyôzelem – az Ön gyôzelme.
+

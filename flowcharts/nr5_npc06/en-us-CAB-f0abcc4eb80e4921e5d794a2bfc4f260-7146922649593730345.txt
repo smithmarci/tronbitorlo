@@ -1,0 +1,4 @@
+say.nr5_npc06.10;No lám, no lám... A saját királynônk, mint a törp Elöljáró kifutófiúja...? Miért nem vagyok meglepve?
+say.nr5_npc06.4;A törpök nem engednek be embert Mahakamba. Akkor nekünk miért kellene beengednünk ôket az otthonainkba?
+say.nr5_npc06.7;Rívia a ríveké! A törpök menjenek vissza a hegyeik közé! A tündék meg az erdôkbe! A félszerzetek meg aaa... félszerzet-üregeikbe!
+
