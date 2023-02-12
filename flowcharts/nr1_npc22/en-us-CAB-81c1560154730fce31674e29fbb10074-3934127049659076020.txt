@@ -1,0 +1,4 @@
+say.nr1_npc22.10;Valamiképp megsértettük tán a császárukat, Felség?
+say.nr1_npc22.4;Ház, istálló, csûr... a Feketék mindet felégették!
+say.nr1_npc22.7;Könyörögtem nekik, Asszonyom... Négykézláb esdekeltem... És azok... azok meg csak röhögtek!
+

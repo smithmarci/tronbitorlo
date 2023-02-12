@@ -1,0 +1,4 @@
+say.nr1_npc31.10;Elôbb a Feketék, most meg a Szigetlakók... Ki tudná megmondani, mi tör ellenünk legközelebb.
+say.nr1_npc31.4;Asszonyom, egy különös hajó úszott el erre nemrég... Azt gondoltam, Birodalmi, de a vitorlái nem feketék voltak, hanem vörösek. Sötét vörösek, akár a vér.
+say.nr1_npc31.7;Hol van Jankó? Hajnaltájt küldtem ki a földekre, de még nem ért vissza!
+

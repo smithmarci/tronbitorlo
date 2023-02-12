@@ -1,0 +1,5 @@
+say.nr1_npc04.1;A Jóságos Anya vigyázzon Önre!
+say.nr1_npc04.10;Felség, hát visszatért! Imáink meghallgatásra találtak...!
+say.nr1_npc04.4;Felség, forduljon vissza! Amarra... valami ocsmány ólálkodik.
+say.nr1_npc04.7;Valami háborgatja a holtak nyugalmát. Felássa a sírjaikat, felnyitja a kriptákat...
+

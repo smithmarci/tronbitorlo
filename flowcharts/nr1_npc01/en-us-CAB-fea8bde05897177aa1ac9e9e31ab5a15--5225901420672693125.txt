@@ -1,0 +1,4 @@
+say.nr1_npc01.10;A Jóságos Anya figyelmeztetett bennünket – nehéz idôk várnak ránk.
+say.nr1_npc01.2;Melitele nem fogja feledni az áldozatát. Sem az ôt odaadással szolgálók.
+say.nr1_npc01.6;Az istenekre bízzuk, hogy ítéljenek Ön fölött. Ám az ítéletük gyors lesz, gyorsabb, mint gondolná.
+

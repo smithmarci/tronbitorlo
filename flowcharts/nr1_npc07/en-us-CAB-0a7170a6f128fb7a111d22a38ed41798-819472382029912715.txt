@@ -1,0 +1,5 @@
+say.nr1_npc07.1;No,... semmi nem tart mán Ájerfalván, nem biza'. Becsukom a bó'tot, oszt Kegyed mellé szegôdök az úton.
+say.nr1_npc07.10;Lehet, hogy egy pöttyet alacsonyabbak volnánk... de a mi életünk is ér annyit, mint Asszonyomé! Ér annyit.
+say.nr1_npc07.5;Ájerfalva felé, he? Csinos kis városka az. Csak a népek trógerek ottan.
+say.nr1_npc07.7;He-he, no lám, no lám. Úgy fest, végül az emberek mégse annyira egyformák.
+

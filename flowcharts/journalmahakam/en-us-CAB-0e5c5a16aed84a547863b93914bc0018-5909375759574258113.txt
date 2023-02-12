@@ -1,0 +1,7 @@
+quest.journalmahakam.1;Találkozz Brouver Hooggal
+quest.journalmahakam.2;Menj Borófenékre
+quest.journalmahakam.3;Menj a Davor-vájathoz
+quest.journalmahakam.4;Találkozz Brouver Hooggal
+quest.journalmahakam.5;Jelenj meg a kihallgatáson Karbonhegyben
+title.journalmahakam.1;Csúcstalálkozó
+

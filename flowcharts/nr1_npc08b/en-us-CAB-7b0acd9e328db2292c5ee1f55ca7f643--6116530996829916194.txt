@@ -1,0 +1,4 @@
+say.nr1_npc08b.1;Az irántunk tanúsított kedvességgéért cserébe fogadja ezt a szerény felajánlást, hálánk jeléül. Gyarapodjék.
+say.nr1_npc08b.3;Rendes népeket lógattatott fel ma, Asszonyom. És miért? Csak mert elkezdték a pórázaikat rángatni?
+say.nr1_npc08b.5;Királynônk bölcs. Tudja jól, hogy a másfajúakat rövid pórázon kell tartani.
+

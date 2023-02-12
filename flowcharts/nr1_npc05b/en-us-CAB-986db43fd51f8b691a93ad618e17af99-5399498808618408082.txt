@@ -1,0 +1,3 @@
+say.nr1_npc05b.3;Mondtam neked, hogy egy szajha! Megmondtam, hogy csak bajt jelent!
+say.nr1_npc05b.6;Ó, szegény Jan. Szánom a fickót... Igaz, nem szép a fizimiskája, de a szíve, az aranybó' van!
+

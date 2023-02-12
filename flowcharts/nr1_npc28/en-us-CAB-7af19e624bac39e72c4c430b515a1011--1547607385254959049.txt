@@ -1,0 +1,4 @@
+say.nr1_npc28.10;Ard Feain ess na'ar!
+say.nr1_npc28.4;Az anyád egy hörcsög volt, az apád meg úgy szaglott, mint a bodza!
+say.nr1_npc28.7;Va vort, Lyrien cuan!
+

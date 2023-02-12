@@ -1,0 +1,5 @@
+say.nr1_npc18.1;Örömmel tölt el, hogy áhítá a szent igéket, Asszonyom. Az Istennôhöz szóló imáimba foglalom nevét.
+say.nr1_npc18.10;Mindig ideje van az imádkozásnak. Kiváltképp, ha körös-körül a háború dúl.
+say.nr1_npc18.4;Ereszkedjünk térdre, és imádkozzunk az Istennôhöz. Kérjük áldását.
+say.nr1_npc18.7;Melitele mindannyiunkra vigyáz. Mégsem árt, ha alkalmasint emlékeztetjük ôt a könyörgéseink által.
+

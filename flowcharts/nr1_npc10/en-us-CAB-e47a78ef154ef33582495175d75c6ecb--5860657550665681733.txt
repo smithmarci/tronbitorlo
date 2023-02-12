@@ -1,0 +1,4 @@
+say.nr1_npc10.10;Mondtam néked, hogy a királynô odacserdít azoknak a rühes Bitangoknak! Mindvégig tudtam!
+say.nr1_npc10.2;A királynô szétkergeti ôket! A királynô! Szétveri a banditákat, és megment mindnyájunkat!
+say.nr1_npc10.7;Füst terjeng a levegôben, csípi a szememet... Valamit fölgyújtottak a Bitangok, nyakamat rá.
+

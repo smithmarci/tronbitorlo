@@ -1,0 +1,3 @@
+quest.journalaldersberg.1;Menj Demavend táborába
+title.journalaldersberg.1;Az Arany Napkorong alkonya
+

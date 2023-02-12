@@ -1,0 +1,5 @@
+say.nr1_npc14.1;Hogy mi? Mennem kell a frontra? Mármint most? O-hó... nos, tán jobb, ha mozgatom is magam.
+say.nr1_npc14.10;Várjatok csak, nilfgaardi kutyák! Derûsgát fiai mennek értetek! Elmegyünk a szívetekért, a beleitekért!
+say.nr1_npc14.4;Lyriáért! Ríviáért! Meve-ért!
+say.nr1_npc14.7;Éljen soká' Derûsgát dandárja, pamm, pamm, pa-rí-ra-raamm...
+

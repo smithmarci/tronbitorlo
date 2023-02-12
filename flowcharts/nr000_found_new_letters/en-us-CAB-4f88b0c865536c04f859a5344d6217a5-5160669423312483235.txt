@@ -1,0 +1,4 @@
+say.nr000_found_new_letters.11;Asszonyom, belebotlottunk valamibe, ami talán érdekelheti.
+say.nr000_found_new_letters.14;Felség, birtokunkba jutott néhány irat, amiket talán Ön is szeretne látni...
+say.nr000_found_new_letters.8;Találtunk valamit, Felség – de kizárólag csak Ön láthatja.
+

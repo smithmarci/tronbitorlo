@@ -1,0 +1,4 @@
+say.nr1_npc26.10;Az erôsítés a fôvárosból, Asszonyom? Merre vannak? Miért nem érkeztek még a védelmünkre?
+say.nr1_npc26.4;Életemben nem láttam ennyi fegyveres embert. És mindegyiken fekete páncél, meg szárnyas sisak.
+say.nr1_npc26.7;Úgy hallottam, a nilfgaardiak szíve kôbôl van, és egyetlen teremtett léleknek sem kegyelmeznek...
+

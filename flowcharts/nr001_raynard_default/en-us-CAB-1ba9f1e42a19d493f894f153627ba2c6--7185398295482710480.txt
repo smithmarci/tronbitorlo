@@ -1,0 +1,102 @@
+menu.nr001_raynard_default.127;Villem nem alkalmas királynak...
+menu.nr001_raynard_default.128;Mi lett belôlünk...
+menu.nr001_raynard_default.129;Hogy jönnek ki Gasconnal?
+menu.nr001_raynard_default.130;Miért ily kegyetlenek a nilfgaardiak?
+menu.nr001_raynard_default.131;Miért is nem láttam át Caldwellen?
+menu.nr001_raynard_default.132;Mihez kezd a háború után?
+menu.nr001_raynard_default.140;Nem unalmas egyedül üldögélni itt?
+menu.nr001_raynard_default.151;Hogy Reginald hibázni szokott, az önmaga elôtt sem volt titok...
+menu.nr001_raynard_default.152;Rossz végre volt kárhoztatva, merem állítani.
+menu.nr001_raynard_default.16;Mennem kell.
+menu.nr001_raynard_default.175;Egy kör gwent, esetleg?
+menu.nr001_raynard_default.96;Igen. Minden.
+menu.nr001_raynard_default.97;Több szeretnék lenni az Ön számára, mint a királynôje.
+say.nr001_raynard_default.101;Semmiség, Reynard. Lényegtelen.
+say.nr001_raynard_default.103;Hadd fogalmazzak nyersen...! Többé nem kívánok parancsokat adni Önnek.
+say.nr001_raynard_default.104;Felség,... kívánja, hogy távozzam? Elhagyjam az udvart?
+say.nr001_raynard_default.105;Nem, Reynard.
+say.nr001_raynard_default.108;A beszélgetésünkre a tábortûz mellett, Angrenben... Emlékszik belôle bármire is?
+say.nr001_raynard_default.109;Csak azt kívánom mondani,... hogy már nem csak a királynôje szeretnék lenni. Érti,... mire gondolok?
+say.nr001_raynard_default.110;Igen,... Meve. Értem.
+say.nr001_raynard_default.111;Ideje más ügyekkel is foglalkoznom.
+say.nr001_raynard_default.142;Nem unalmas egyedül üldögélni itt? Nem vágyik mások társaságára, esetleg elanekdotázgatni a kocsmárossal...?
+say.nr001_raynard_default.143;Igazán értékelem a törôdését, Felség... De inkább a csendet szeretem.
+say.nr001_raynard_default.144;Mindig is így volt ez Önnel? Mindig csak önmagában?
+say.nr001_raynard_default.145;Épp ellenkezôleg, Felség. Fiatalon állandóan társaság vett körül, élveztem a beszélgetéseket.
+say.nr001_raynard_default.146;És mi változtatta meg?
+say.nr001_raynard_default.147;Az, hogy ez az élvezet csaknem a fejembe került. De... tényleg nem ismeri a történetemet, Asszonyom? Hogy miképp lettem az Ön megboldogult férje tanácsadója?
+say.nr001_raynard_default.148;Alig húsz telet láttam, amikor besoroztak. És pályafutásomat rögtön hadnagyi ranggal kezdtem – de nem érdemeim, hanem születésem jogán. Ám a veterán tisztek megbecsülését – lettek volt egyenrangúak vagy idôsebbek – nem tudtam kivívni. Nem mintha amúgy kiérdemeltem volna.
+say.nr001_raynard_default.149;Nem ismerem,... de szívesen meghallgatnám.
+say.nr001_raynard_default.150;Az lett hát minden célom, hogy a tiszteletüket kivívjam... És bár az évek múltával bölcsebbé is lehettem volna, mégis, elkezdtem a király döntéseivel szembeni véleményemnek hangot adni. Hogy "ezt a manôvert Reginald elhibázta", meg hogy "nem gondolta át", máskor meg, hogy "úgy melléfog, mintha még mindig a hadiakadémia diákja volna"...
+say.nr001_raynard_default.155;Nos,... Reginald soha nem volt egy briliáns stratéga. Úgy is nevezték, hogy "A Bátor", s nem pedig úgy, hogy "A Ravasz" – és nem ok nélkül, ezt bátran kijelenthetjük...
+say.nr001_raynard_default.156;Az ilyesfajta beszéd pedig csak balszerencsével végzôdhet...
+say.nr001_raynard_default.160;Nem sokkal ez után már láncok csörögtek rajtam. Egy másik tiszt feljelentett... Felségsértéssel vádoltak.
+say.nr001_raynard_default.161;Nem telt bele fertály órába sem, és a hadbíróság már ki is mondta az ítéletet – felségárulás vádjában bûnösnek találtak, és a bitó várt rám.
+say.nr001_raynard_default.162;Ám Reginald elôbb jóváhagyta a kivégzést,... aztán utasított, hogy ismételjek meg minden egyes szót, amit a személyérôl és a tetteirôl mondtam. Izzadságomban fürödve, meg-megakadó hanggal megtettem, amire utasított.
+say.nr001_raynard_default.163;Reginald szó nélkül végighallgatta,... és miután befejeztem, kijelentette, hogy igazam volt. Aztán kinevezett a tanácsadójának. "Ilyen eszes fickónak még jó hasznát veszem a közelemben."
+say.nr001_raynard_default.164;És valóban... Bár maga nem volt éles eszû, Reginald a bölcsességet mindig felismerte másokban, és el is fogadta a jótanácsokat.
+say.nr001_raynard_default.165;Ekkor fogadtam meg két dolgot: elôször is, hogy bolond módjára többé nem jártatom a számat. Másodszor, hogy soha nem árulom el a bizalmát.
+say.nr001_raynard_default.166;És soha nem is tette. Tudja, mik voltak a halála elôtti utolsó szavai hozzám? "Ne bízz egyikükben sem, Meve... Csak Reynardban." Szegény öreg Reginaldnak legalább ebben igaza volt...
+say.nr001_raynard_default.167;Köszönöm, hogy megosztotta velem a történetét, Reynard. Igazán.
+say.nr001_raynard_default.172;Hmm... Talán játszhatnánk egy kör gwentet?
+say.nr001_raynard_default.173;Kívánsága számomra parancs, Felség.
+say.nr001_raynard_default.32;Talán szusszan egyet, Reynard?
+say.nr001_raynard_default.33;Ó, igen... Persze, ha új parancsa van számomra, Felség, se perc alatt kész––
+say.nr001_raynard_default.34;Csak nyugalom, Reynard. Lazítson.
+say.nr001_raynard_default.35;Igen, Felség?
+say.nr001_raynard_default.36;Felség,... szerettem volna még egyszer kifejezni hálámat a kegyelméért.
+say.nr001_raynard_default.37;Kegyelmet gyakoroltam, igaz. De közben mást is éreztem: dühöt, fájdalmat, most pedig neheztelést...
+say.nr001_raynard_default.38;Fájdalmat okozott nekem, Reynard, a lelkem mélyéig megsebzett... Nem tudom, mi egyebet mondhatnék még, így hát ne is beszéljünk róla.
+say.nr001_raynard_default.39;Ahogy kívánja, Felség.
+say.nr001_raynard_default.40;Attól tartok, Villem egyszerûen nem alkalmas királynak, legalábbis nem egy jó királynak.
+say.nr001_raynard_default.41;Elég szigorú ítélet ez, Felség – ne hamarkodja el. A herceg alig tizenhat nyarat látott csupán...
+say.nr001_raynard_default.42;És mégis: kész felnôtt. Az Ô korában már el kellene bírnia a korona súlyát.
+say.nr001_raynard_default.44;Én pedig alig néhány hónapra hagytam a földjeinket az ôrizetére, és nézze, mi sült ki belôle. Útonállók járják a vidéket és fosztogatnak, megtorolatlanul.
+say.nr001_raynard_default.47;Talán még tudomást szerezhetünk olyan, enyhítô körülményekrôl, amelyek más megvilágításba helyezik a képességeit meghaladó eseményeket...
+say.nr001_raynard_default.48;Bár úgy volna, Reynard, bár úgy volna... Különben csak reménykedni tudunk, hogy Anséis több értelemrôl tesz tanúbizonyságot, mint a bátyja... Bár erre sem látok túl sok esélyt.
+say.nr001_raynard_default.49;Ó... Hogy jutottunk idáig? Én, Meve, Lyria and Rívia királynôje, úgy settenkedem a bokrok alatt, mint holmi közönséges bandita.
+say.nr001_raynard_default.50;És Ön, Reynard Odo tábornok... Egykor négy elit gyalogsági regiment büszke parancsnoka, egy dezertôrökbôl, útonállókból és kaszát lengetô parasztokból álló banda vezére.
+say.nr001_raynard_default.51;Büszkén teszem, Felség.
+say.nr001_raynard_default.52;Bizonyára csak tréfál, Reynard...
+say.nr001_raynard_default.53;Felség, tíz évet szolgáltam férjura uralkodása alatt, az Öné során pedig nyolcat. És mind ez idô alatt egyszer sem harcoltam ennél nemesebb ügyért.
+say.nr001_raynard_default.54;Nem földeket elorozni akarunk, sem pedig parasztlázadást szítani. Egész Északért harcolunk,... úgy a sajátunk, mint mások szabadságáért.
+say.nr001_raynard_default.55;És Ön az egyetlen, aki nem adta fel, akinek esze ágában sem volt térdet hajtani Nilfgaardnak.
+say.nr001_raynard_default.56;Igen, így igaz. És mire mentem vele.
+say.nr001_raynard_default.57;A küzdelme még csak most kezdôdött, Felség. És minden erômmel azon leszek, hogy végül gyôzedelmeskedjék.
+say.nr001_raynard_default.58;Hogy s mint, Reynard? Ön és Gascon jól kijönnek, remélem!
+say.nr001_raynard_default.59;Nos... Mondhatjuk, hogy valamiféle egyetértésre jutottunk, Felség.
+say.nr001_raynard_default.60;Meséljen többet, barátom.
+say.nr001_raynard_default.61;Én nem ártom bele magam az ô ügyeibe, és ô se magát az enyéimbe.
+say.nr001_raynard_default.62;Kedvemre valóbb volna, ha a parancsnokaim jobban összedolgoznának.
+say.nr001_raynard_default.63;Felség,... az az ember egy briganti.
+say.nr001_raynard_default.64;Á, Reynard... Csak volt briganti.
+say.nr001_raynard_default.65;Félek, egyet nem értésemet kell kifejeznem. Való igaz, hogy egyelôre felhagyott a tolvajlással,... de csak mert számára most így kényelmes, hogy úgy mondjam. Gascon nem változott meg. Nincs egy csepp becsülete, sem méltósága––
+say.nr001_raynard_default.66;Mégis, egy egész egységnyi felfegyverzett embere van, akik nélkül most mind sokkal rosszabb helyzetben lennénk, ha ugyan meg nem haltunk volna.
+say.nr001_raynard_default.67;A Bitangok kitûnô harcosok – ezt el kell ismernem.
+say.nr001_raynard_default.68;Csak attól félek, ellenünk fordulnak, és a torkunknak esnek akkor, amikor a legkevésbé sem számítunk rá...
+say.nr001_raynard_default.69;Reynard... Ön harcolt az elsô, Nilfgaarddal vívott háborúban, nemde bár?
+say.nr001_raynard_default.70;Igen, Felség. Bár akkor még csak mint százados.
+say.nr001_raynard_default.71;A nilfgaardiak. Hasonlóképp kegyetlenek voltak? Égettek fel földeket, hurcoltak el parasztokat rabszolgának?
+say.nr001_raynard_default.72;Nem, Felség. Azokban a napokban még becsülettel harcoltak.
+say.nr001_raynard_default.73;Vajon... mi történt, mi változtatta meg ôket?
+say.nr001_raynard_default.74;Úgy mondják, Emhyr var Emreis császár szíve az évek múltával megkeményedett. Könyörtelenné, kegyetlenné lett. A katonái buzgalma pedig csak követte a császárukét...
+say.nr001_raynard_default.75;De Ön másképp gondolja.
+say.nr001_raynard_default.76;Így van, Felség.
+say.nr001_raynard_default.77;Ön szerint miért vetnek meg bennünket ennyire, a háborús idôkben pedig még inkább?
+say.nr001_raynard_default.78;Mert sokkal könnyebb azt gyûlölni, akit ismerünk.
+say.nr001_raynard_default.79;Az elsô háború elôtt semmit nem tudtak rólunk. Aztán látták, hogy az ô fegyvereik jobbak, a városaik grandiózusabbak, a flottáik nagyobbak... A mi városainkban meg a nyílt utcán hömpölyög a szenny.
+say.nr001_raynard_default.80;És arra jutottak, hogy nem vagyunk velük egyenlôk. Mikor ilyesmiben hisznek, gyilkolni is könnyebb.
+say.nr001_raynard_default.82;Egy valamit soha nem bocsátok meg magamnak: azt, hogy nem láttam át Caldwell ármánykodásán.
+say.nr001_raynard_default.83;Már hónapok, ha nem évek óta tervezhette az árulást. És én mégsem sejtettem semmit.
+say.nr001_raynard_default.84;Ne legyen túl szigorú önmagához, Felség.
+say.nr001_raynard_default.85;Könnyû azt mondani. Ó, bárcsak idôben ráeszméltem volna––
+say.nr001_raynard_default.86;Nilfgaard talált volna magának egy másik árulót... Vagy csak küldött volna egy orgyilkost.
+say.nr001_raynard_default.87;Ami történt, elkerülhetetlen volt. A Feketék mindenképp támadtak volna. És nyílt ütközetben esélyünk nem volt se legyôzni, se visszaverni, sem pedig elûzni ôket.
+say.nr001_raynard_default.88;Tehát,... ha ott lett volna, amikor a fônemesek összegyûltek, Ön is a térdhajtásra szavazott volna?
+say.nr001_raynard_default.89;Nem. A becsületem soha nem engedte volna. Inkább vetettem volna magam tûzbe,... és haltam volna meg bolondként. Ahogy a dolgok állnak, még mindig akad lehetôség keresztbe tenni a megszálló szándékainak.
+say.nr001_raynard_default.90;Úgy tûnik, a sors furcsa fordulata révén... mégiscsak hálás lehetek Caldwellnek.
+say.nr001_raynard_default.92;A háború vége közelg... Mi vár Reynard Odóra?
+say.nr001_raynard_default.93;Amit Felséged parancsol.
+say.nr001_raynard_default.94;Ó...
+say.nr001_raynard_default.95;Minden rendben, Asszonyom?
+

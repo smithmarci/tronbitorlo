@@ -1,0 +1,56 @@
+menu.nr000_facts_adding.100;Nem.
+menu.nr000_facts_adding.115;Igen.
+menu.nr000_facts_adding.116;Nem.
+menu.nr000_facts_adding.118;Igen.
+menu.nr000_facts_adding.119;Nem.
+menu.nr000_facts_adding.124;Még szép! Öljétek meg mindet!
+menu.nr000_facts_adding.125;Nem, rendes gyerek voltam.
+menu.nr000_facts_adding.13;Aedirn
+menu.nr000_facts_adding.14;Epilógus
+menu.nr000_facts_adding.145;Biztos veszélytelennek tûntek.
+menu.nr000_facts_adding.146;Nem, el velük!
+menu.nr000_facts_adding.15;Rívia
+menu.nr000_facts_adding.150;Szövetségesek vagyunk.
+menu.nr000_facts_adding.151;Ô az én foglyom, az átkozott áruló!
+menu.nr000_facts_adding.152;Hôsként halt meg Ríviában.
+menu.nr000_facts_adding.157;Reynard.
+menu.nr000_facts_adding.158;Gascon.
+menu.nr000_facts_adding.16;Angren
+menu.nr000_facts_adding.17;Mahakam
+menu.nr000_facts_adding.2;Igen.
+menu.nr000_facts_adding.3;Nem.
+menu.nr000_facts_adding.44;Igen.
+menu.nr000_facts_adding.45;Nem.
+menu.nr000_facts_adding.56;Igen.
+menu.nr000_facts_adding.57;Nem.
+menu.nr000_facts_adding.61;Úgy ám!
+menu.nr000_facts_adding.62;Nem, életben van.
+menu.nr000_facts_adding.66;Nilfgaard ellen fordította ôket.
+menu.nr000_facts_adding.67;Letartóztatta ôket.
+menu.nr000_facts_adding.77;Igen.
+menu.nr000_facts_adding.78;Nem.
+menu.nr000_facts_adding.91;Bizony, bolond.
+menu.nr000_facts_adding.92;Nem.
+menu.nr000_facts_adding.93;Igen.
+menu.nr000_facts_adding.94;Nem, ô szeret engem.
+menu.nr000_facts_adding.96;Igen, könyörületes vagyok.
+menu.nr000_facts_adding.97;Nem, csessze meg!
+menu.nr000_facts_adding.99;Igen.
+say.nr000_facts_adding.1;[TESTING] Do you want to simulate adding facts?
+say.nr000_facts_adding.114;[TESTING] Gábor még mindig veled van?
+say.nr000_facts_adding.117;[TESTING] Barnabás még mindig veled van?
+say.nr000_facts_adding.12;[TESTING] Melyik térképen tartózkodsz épp?
+say.nr000_facts_adding.123;[TESTING] Te támadtad meg a nilfgaardi haderô konvoját Mahakamban?
+say.nr000_facts_adding.144;[TESTING] Te vitted magaddal a parasztokat a kôfejtôbôl Ríviában?
+say.nr000_facts_adding.148;[TESTING] Mi történt Villemmel Ríviában?
+say.nr000_facts_adding.156;[TESTING] Ki halt meg Ríviában?
+say.nr000_facts_adding.43;[TESTING] Eyck még mindig veled van?
+say.nr000_facts_adding.55;[TESTING] Ti öltétek meg Eyckkel a mantikórt?
+say.nr000_facts_adding.60;[TESTING] Te ölted meg a nilfgaardi küldöttet Lyriában?
+say.nr000_facts_adding.65;[TESTING] Mit tettél a skelligeiekkel Lyriában?
+say.nr000_facts_adding.76;[TESTING] Isbel veled van?
+say.nr000_facts_adding.81;[TESTING] Aedirnben felbosszantottad Raylát?
+say.nr000_facts_adding.85;[TESTING] Raylával még együtt vagytok?
+say.nr000_facts_adding.95;[TESTING] Eltemetted Eldaint?
+say.nr000_facts_adding.98;[TESTING] Hagytál pénzt Hitszegô Városban (nr203)?
+

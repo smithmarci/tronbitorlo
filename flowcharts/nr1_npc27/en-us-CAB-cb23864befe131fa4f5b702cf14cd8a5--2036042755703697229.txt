@@ -1,0 +1,5 @@
+say.nr1_npc27.1;Nos, csak egy életem van. Önnel tartok hát, felöltöm a színeit! Visszaûzzük a Feketéket a Jaruga túloldalára!
+say.nr1_npc27.11;Lám! Meglehet, hogy a páncéljuk fekete, de a vérük vörösen buggyan elô!
+say.nr1_npc27.4;Lehet, hogy a Feketék létszámfölényben vannak, de mi vagyunk a ravaszabbak. A fortélyosabbak!
+say.nr1_npc27.8;Így kell végezni a Feketékkel! A bozót mögül, nyilak záporával, és vermekkel a talpuk alatt!
+

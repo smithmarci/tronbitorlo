@@ -1,0 +1,4 @@
+say.nr1_npc11.10;Megmutatta, mily' kegyelmes, Asszonyom. Félek, a Feketék a legkevésbé sem lesznek ilyen elnézôek.
+say.nr1_npc11.4;Egy áruló fejjel kevesebb! Pfajj!
+say.nr1_npc11.7;Esküszöm, Felség! A tünde összejátszott a Feketékkel! Az istenek rá a tanúim!
+

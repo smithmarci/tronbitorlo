@@ -1,0 +1,3 @@
+say.nr1_npc15b.3;Hahahaa! Mint ahogy látja, kedves Cartwrightom: igazság lett szolgáltatva.
+say.nr1_npc15b.6;Te felfuvalkodott hólyag! Megoldottuk volna mi magunk, megmondtam! De neeem...! Ítélkezés, az kellett neked - ítélkezés! Követelted!
+

@@ -1,0 +1,4 @@
+say.nr1_npc09.10;Ejj, micsoda idôket élünk! Még a saját portám elé is félek kiülni, biza.
+say.nr1_npc09.2;Figyelmezzetek...! Hajnal tájba' banditákat láttam az országúton. Azokat, akik Bitangoknak nevezik magukat.
+say.nr1_npc09.7;Azok a banditák démonok bôrébe bújnak, úgy ám! Szarvak a fejükön, disznóormány az orruk helyén!
+

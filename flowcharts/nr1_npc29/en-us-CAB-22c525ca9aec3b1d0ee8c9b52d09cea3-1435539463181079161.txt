@@ -1,0 +1,4 @@
+say.nr1_npc29.10;Felség, megmentett bennünket! Szinte az utolsó pillanatban! A haláltól, és talán még annál is rosszabbtól!
+say.nr1_npc29.4;Nilfgaardi csizmák tapostak volna el bennünket! Már olyan bizonyos voltam benne, mint abban, hogy télen havazik.
+say.nr1_npc29.7;Királyok és császárok hadakoznak, a köznép meg csak takarít utánuk. Sose' lesz ez már másképp.
+

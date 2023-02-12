@@ -1,0 +1,4 @@
+say.nr1_npc21.10;A halál árnya vetül Lyriára. A déli törzsek errefelé tartanak. A hûség ára magas, bizony, magas, magas.
+say.nr1_npc21.4;Asztrológusok kinyilvánították, a borz hete a mostani!
+say.nr1_npc21.7;A nilfgaardi népség gyarapodik.
+

@@ -1,0 +1,4 @@
+say.nr1_npc24.10;Átok rátok, Nilfgaard fiai! Korcs ebek szaggassák húsotokat és rágják csontjaitokat!
+say.nr1_npc24.4;Véssétek eszetekbe, Nilfgaardiaak – az isteneket nem gyôzhetitek le! Ôk nem félnek a fáklyáitoktól, nem félik a kardjaitok!
+say.nr1_npc24.7;Istenkáromlók! Pogányok! Bálványimádók, akik a Nap elôtt hajbókoltok!
+

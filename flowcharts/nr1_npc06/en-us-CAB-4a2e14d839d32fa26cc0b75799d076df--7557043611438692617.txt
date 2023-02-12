@@ -1,0 +1,5 @@
+say.nr1_npc06.1;Jó népek! A királynô visszatért! Ímhol van - köszöntsük hát! Az adókkal a kézben!
+say.nr1_npc06.10;Azt beszélik, a Feketék errefelé tartanak. Én azt mondom, jöjjenek csak! Akad elegendô vasvillánk mindegyiknek!
+say.nr1_npc06.3;Á, a királynônk! Szépséges, mint egy festmény, úgy ám!
+say.nr1_npc06.7;Hejj, hejj, vidám virágszál, nélküled lesz az esküvô, velünk biz' mulatnál...
+

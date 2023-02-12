@@ -1,0 +1,3 @@
+say.nr_gwent_puzzle_mahakam_02_drinking_dialogue.1;Lehetetlen! El sem hiszem! Gascon, az... az asztal alá itta a törpöt...!
+say.nr_gwent_puzzle_mahakam_02_drinking_dialogue.2;Mint ahogy már korábban is mondtam: úgy gondolom, kedves Reynard, egyszerûen alábecsülte ôt.
+

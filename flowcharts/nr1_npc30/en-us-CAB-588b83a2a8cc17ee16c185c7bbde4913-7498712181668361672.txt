@@ -1,0 +1,4 @@
+say.nr1_npc30.10;Éljen soká', a Feketék végzete! Hip–hip–hurrá!
+say.nr1_npc30.4;Ha látsz páncélt s hajat aranyat, a Feketék közt halált arat! Meve, Meve, Meve!
+say.nr1_npc30.7;Sötét nap ez a Császár számára – a serege miszlikekbe szabdalva!
+

@@ -1,0 +1,5 @@
+say.nr1_npc12.1;Asszonyom, h-ha szabad... Az ellenség még a közelben. Meg kell erôsítenie a csapatait. A parancsnoksága alá adom az egyik egységemet.
+say.nr1_npc12.10;Legyen körültekintô, Asszonyom. Manapság senkiben nem bízhat, egy teremtett lélekben sem.
+say.nr1_npc12.4;Áá, milyen idôk ezek, miféle világ ez... Barát vagy ellen néha egy és ugyanaz! Árulás úton-útfélen.
+say.nr1_npc12.7;Lehet, hogy a Feketéknek több lovuk és hadigépezetük van, de becsületük az nincsen! Egy szemernyi se!
+

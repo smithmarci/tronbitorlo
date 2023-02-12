@@ -1,0 +1,5 @@
+quest.journalrivia.1;Menj el a Villemmel való találkozóra
+quest.journalrivia.2;Foglald el Rívia várát
+quest.journalrivia.3;Találkozz a tanácsadóiddal
+title.journalrivia.1;A királynô visszatér
+

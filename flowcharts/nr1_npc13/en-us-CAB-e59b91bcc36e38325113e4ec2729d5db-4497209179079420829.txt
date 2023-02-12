@@ -1,0 +1,4 @@
+say.nr1_npc13.10;Nincs akarat a köznépben a harcra, se szándék, se lelkület!
+say.nr1_npc13.4;Ó, de semmi nem simogatja úgy egy katonaember lelkét, mint az arany. A csilingelô aranyocska...
+say.nr1_npc13.6;Látja, miféle anyaszomorítókkal kell nekem foglalkoznom, Felség? Anyámasszony katonája, rinyáló nyúlszívûekkel, ilyenekkel.
+

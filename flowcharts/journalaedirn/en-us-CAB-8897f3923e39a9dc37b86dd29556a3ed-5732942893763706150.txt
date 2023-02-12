@@ -1,0 +1,5 @@
+quest.journalaedirn.1;Menj Rosbergbe
+quest.journalaedirn.2;Juss keresztül a Mállóerdôn
+quest.journalaedirn.3;Menj Aldersbergbe
+title.journalaedirn.1;Aedirn hamvai
+

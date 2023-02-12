@@ -1,0 +1,4 @@
+say.nr1_npc02.10;A Jóságos Anya szobrát lerombolni hogy merészelték?!
+say.nr1_npc02.4;A papnôket kifosztani... Miért lopjátok meg az isteneket, miért?!
+say.nr1_npc02.7;Köszönjük, Felség! A mi és a hozzánk zarándoklók nevében.
+

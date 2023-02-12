@@ -1,0 +1,6 @@
+quest.journallyria.1;Menj Gazdagégetôbe
+quest.journallyria.2;Menj Lord Clayton birtokára
+quest.journallyria.3;Siess Dravográd megsegítésére
+quest.journallyria.4;Menj Lyria fôvárosába
+title.journallyria.1;Keserû hazatérés
+

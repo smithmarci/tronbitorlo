@@ -1,0 +1,7 @@
+quest.journalangren.1;Foglald el Rôtlobindent
+quest.journalangren.2;Találd meg Tuzla várát
+quest.journalangren.3;Hagyd el az Ysgithet
+quest.journalangren.4;Találd meg a kompot, és hagyd el Angrent
+quest.journalangren.5;Találd meg az utat Rôtlobindenbe
+title.journalangren.1;Ellenséges vonalak mögött
+

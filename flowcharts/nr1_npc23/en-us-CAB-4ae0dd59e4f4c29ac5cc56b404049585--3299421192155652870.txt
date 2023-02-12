@@ -1,0 +1,4 @@
+say.nr1_npc23.10;Voltak furcsaságok, rossz ómenek, amik megjósolták ezt a háborút. Vér a tejben, halva született csikók, hirtelen elszáradó fák... Én a fogamat hagytam ott egy édes buciban!
+say.nr1_npc23.4;Légy óvatos, Asszonyom, figyelmezz a jelekre! Nyargaló lovak patáinak dörgését hallottam az országút felôl. Ádáz kiáltásokat ismeretlen nyelven.
+say.nr1_npc23.7;Felség, Villem herceg merre van? Hol marad? Miért nem jön bennünket megsegíteni?
+

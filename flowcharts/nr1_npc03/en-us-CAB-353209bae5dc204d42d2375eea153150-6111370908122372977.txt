@@ -1,0 +1,4 @@
+say.nr1_npc03.10;Legyôztél bennünket, bezony! De az Ebek Hercege korántsem ilyen könnyû préda, de nem ám!
+say.nr1_npc03.3;Persze megláncolhatsz egy veszett kutyát, összekötözheted a lábait! De ez sem tarthatja vissza attól, hogy kibújjon belôle, és megmarjon!
+say.nr1_npc03.7;Vaúúú!!!
+

@@ -1,0 +1,5 @@
+say.nr1_npc19.1;Sok fát kivágtunk, Asszonyom. Netalántán híján vannak gerendának, pallónak? Ha így van, vigyen csak, amit kíván!
+say.nr1_npc19.10;Errefelé nem bóklásznak banditák. Nem is meglepô - ha erre vetemednének, közelebbi ismeretséget kötnének a fejszéink élével!
+say.nr1_npc19.4;Bitangoknak nevezik magukat? Hát, akkor akképp is fogunk bánni velük.
+say.nr1_npc19.7;'Rönkrôl rönkre épül a híd, a pillér csak vastagszik...'
+

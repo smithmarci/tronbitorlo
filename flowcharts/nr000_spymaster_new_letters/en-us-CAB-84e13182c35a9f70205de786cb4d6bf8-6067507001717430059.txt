@@ -1,0 +1,4 @@
+say.nr000_spymaster_new_letters.3;Felség, van egy üzenetem... De csak az Ön számára.
+say.nr000_spymaster_new_letters.4;Felség, néhány új jelentés, amire ha méltóztatna figyelmet fordítani...
+say.nr000_spymaster_new_letters.5;Asszonyom, van a birtokomban valami, amit késedelem nélkül látnia kell.
+

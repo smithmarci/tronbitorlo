@@ -1,0 +1,4 @@
+say.nr1_npc17.10;Megmondták! Lám, nem megmondták?! Lyria egy kegyetlen vidék! Törvényt nem ismerô és elvadult, egy átkozott szégyen az egész!
+say.nr1_npc17.4;Ezért fizetem én az adókat?! Hogy az országúton raboljanak ki?! Ráadásul fényes nappal?!
+say.nr1_npc17.7;Ha nem volnának a kijelölt kereskedelmi útvonalak és a faramuci vámszabályok, biz', kerülôvel mentem volna! Soddenen át!
+

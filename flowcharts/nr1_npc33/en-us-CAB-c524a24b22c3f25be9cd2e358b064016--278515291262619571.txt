@@ -1,0 +1,4 @@
+say.nr1_npc33.10;A minap az országúton a jó lovag azt állította, a bestia egy mentakór, vagy mifene.
+say.nr1_npc33.4;Asszonyom, valami nincs rendjén az Apát-hasadéknál. Korábban nyerítéseket és sikolyokat hallottam amarról... Most meg csak a néma csendet.
+say.nr1_npc33.7;Mi végre büntetnek bennünket az istenek? Elôbb nilfgaardiakkal ûzetnek el minket, csak hogy most meg szörnyekkel sújtsanak...
+

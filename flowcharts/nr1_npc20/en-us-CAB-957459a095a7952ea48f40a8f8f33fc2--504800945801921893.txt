@@ -1,0 +1,5 @@
+say.nr1_npc20.1;Köszönet, hogy végighallgattad ezt az vén öregembert. Rég volt, hogy a népek figyelmeztek volna erre a vén bolondra. Kérlek, fogadd el... az útra.
+say.nr1_npc20.10;Hogy kezet emelni a királynôre...?! Ezeknek a kutyáknak már semmi se szent!
+say.nr1_npc20.4;Asszonyom, láttad a maszkokat, amiket viselnek? Agyaraik vannak, disznóorruk, szarvaik... Kész rémálom.
+say.nr1_npc20.7;Felség, könyörögve kérlek! Tipord el azokat a haramiákat! Már a saját mezômre is félek kimenni.
+

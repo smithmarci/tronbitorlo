@@ -1,0 +1,5 @@
+say.nr1_npc25.1;Asszonyom, alig valamicskénk maradt. De örömmel adom oda az utolsó garasainkat is az ügyért. A bosszúért!
+say.nr1_npc25.10;Úgy vágták le Ostrikot, mint egy állatot, fejét is vették... És mindezt csak azért, meg nem süvegelte meg a tábornokukat.
+say.nr1_npc25.4;A Feketék legázolták a fiamat, Felség! Láttam, amint az úton baktatott... Azok meg még csak nem is lassították le a lovaikat!
+say.nr1_npc25.7;A Feketék még a kutyáknál is kevesebbre tartanak bennünket.
+

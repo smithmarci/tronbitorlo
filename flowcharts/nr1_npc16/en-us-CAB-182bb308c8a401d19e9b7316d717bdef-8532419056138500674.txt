@@ -1,0 +1,6 @@
+say.nr1_npc16.1;'Inkább meghalok, de el nem árulom', felelte ô. Ám én tudom, hová rejtette. Várjanak kegyelmetek, mindjárt lefirkantom.
+say.nr1_npc16.10;Szegény Milkát a tûz fölé lógatták... Addig pörkölik, míg meg nem ered a nyelve, és el nem köpi, hová dugta az aranyat – mondták neki.
+say.nr1_npc16.4;Tyû... Mán a'szittem, banditák csörtettek be ide.
+say.nr1_npc16.7;Bitangok, mert hogy így híjják magukat, Felség. Úgy marnak, mint a veszett kutyák, és úgy vonyítanak, mintha telihold vóna.
+text.nr1_npc16.1;Gratuláció! Találtál egy <b>kincsestérképet</b>! Kutasd át a környéket, hogy a térképen 'X'-szel jelölt hely nyomára bukkanj...
+
