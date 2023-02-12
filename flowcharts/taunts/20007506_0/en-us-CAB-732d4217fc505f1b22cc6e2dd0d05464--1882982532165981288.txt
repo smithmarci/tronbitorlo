@@ -1,0 +1,7 @@
+say.announcerfilavandrel.20;Gvaerte t'eich symued. (Értékelem a próbálkozást.)
+say.announcerfilavandrel.22;Essea dy'olcaer. (Hálás vagyok ezért.)
+say.announcerfilavandrel.24;Ess'laine... Eit'r gvaen. (Csinos... Ám gyenge.)
+say.announcerfilavandrel.27;Ess'tedd, va! (Itt az idô. Mozgás!)
+say.announcerfilavandrel.30;En'ca calinne... (Figyelj! Figyelj, és búsulj...)
+say.announcerfilavandrel.31;Mire, que spar aen'te. (Így kell lôni.)
+

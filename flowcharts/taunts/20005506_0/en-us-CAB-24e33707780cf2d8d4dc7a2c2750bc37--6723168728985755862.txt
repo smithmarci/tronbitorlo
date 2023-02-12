@@ -1,0 +1,7 @@
+say.announcerunseenelder.256;Nocsak, mintha élnél.
+say.announcerunseenelder.258;Elfogadom az áldozatot.
+say.announcerunseenelder.259;Csendet! Figyelmezz most!
+say.announcerunseenelder.263;Próbára teszed a türelmemet.
+say.announcerunseenelder.266;He-he, ettôl most meg kellett volna ijednem?
+say.announcerunseenelder.267;Távozz!
+
