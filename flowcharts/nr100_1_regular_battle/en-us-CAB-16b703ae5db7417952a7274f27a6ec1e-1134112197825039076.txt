@@ -47,11 +47,11 @@ text.nr100_1_regular_battle.28;Használd a <b>Szekérsánc</b> képességét.
 text.nr100_1_regular_battle.29;Ha egy forduló nem a tetszésednek megfelelôen alakul, abban az esetben lehet, hogy a <b>forduló passzolása</b> a jó megoldás, ami által tartalékolhatod az erôdet a további fordulókra. De ne feledd! Passzolásra csak a <b>köröd kezdetén</b> van lehetôséged, még mielôtt bármilyen kártyát kijátszottál vagy képességet érvényesítettél volna.
 text.nr100_1_regular_battle.3;Játssz ki egy <b>Számszeríjászt</b> a <b>Közelharci</b> sorra annak érdekében, hogy kihasználd a <b>Szekérsánc</b> képességét, amely 1 <b>Páncél</b>-pontot ad az egységnek.
 text.nr100_1_regular_battle.30;A <b>Trófea</b> a fordulók során mindvégig a csatamezôn marad, ugyanis az a <b>Kitartó</b> státusszal rendelkezik. Az ezen státusszal rendelkezô kártyák speciális <b>ikonnal</b> vannak jelölve.
-text.nr100_1_regular_battle.32;A <b>Sor-hatások</b> hatással vannak az adott sorra kijátszott <b>minden kártyára</b>, ami hatásoknak lehet <b>pozitív</b> vagy akár <b>negatív</b> következménye is.
+text.nr100_1_regular_battle.32;A <b>sor-hatások</b> hatással vannak az adott sorra kijátszott <b>minden kártyára</b>, ami hatásoknak lehet <b>pozitív</b> vagy akár <b>negatív</b> következménye is.
 text.nr100_1_regular_battle.4;Az ellenfelednek elfogytak a kártyái, Te pedig jelentôs elônyre tettél szert vele szemben. A gyôzelmed már biztosított, így akár passzolhatod is a fordulót, vagy a játszma végigjátszásával dicsôbbé is teheted a gyôzelmedet!
 text.nr100_1_regular_battle.5;Játszd ki <b>Reynardot</b> a <b>Közelharci</b> sorra.
 text.nr100_1_regular_battle.6;Használd az <b>Erôsítô fôzetet</b> egy egységed erejének a megnöveléséhez.
 text.nr100_1_regular_battle.7;Passzold most a fordulót, hogy megtartsd az egységeidet a következôre.
 text.nr100_1_regular_battle.8;A <b>Sor-hatások</b> hatással vannak az adott sorra kijátszott <b>minden kártyára</b>, ami hatásoknak lehet akár <b>pozitív</b> vagy <b>negatív</b> következménye is.
-text.nr100_1_regular_battle.9;A késôbbiek folyamán szert teszel majd olyan kártyákra is, amik lehetôséged adnak azonos sor-hatások elérésére.
+text.nr100_1_regular_battle.9;A késôbbiek folyamán szert teszel majd olyan kártyákra is, amik lehetôséget adnak azonos sor-hatások elérésére.
 
