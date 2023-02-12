@@ -10,7 +10,7 @@ text.nr101_1b_camp_introduction.1;Ahhoz, hogy áttekinthesd a hadsereged, elôsz
 text.nr101_1b_camp_introduction.10;Táborveréshez kattints a <b>sátor-ikonra</b> a fôképernyô bal szélén.
 text.nr101_1b_camp_introduction.108;Légy üdvözölve a táborodban! Hadjáratod során a táborban érsz el számos kulcsfontosságú játékelemet.
 text.nr101_1b_camp_introduction.109;Kártyákat a parancsnoki sátorban adhatsz hozzá a paklidhoz, vagy vehetsz el belôle. Fontos tudnod, hogy a hadjárat során nem férsz hozzá a többjátékos gyûjteményed lapjaihoz!
-text.nr101_1b_camp_introduction.11;Ezen fejlesztésnek köszönhetôen most már hozzáférsz a <b>régió térképéhez</b>, amit a fôképernyô <b>térkép-ikonjára</b> kattintva nézhetsz meg.
+text.nr101_1b_camp_introduction.11;Eme fejlesztésnek köszönhetôen most már hozzáférsz a <b>régió térképéhez</b>, amit a fôképernyô <b>térkép-ikonjára</b> kattintva nézhetsz meg.
 text.nr101_1b_camp_introduction.110;Új egységek kiképzéséhez építs gyakorlóteret és mûhelyt. A gyakorlóteret és a mûhelyt több alkalommal is fejlesztheted, ezáltal érve el újabb és újabb harci egységeket.
 text.nr101_1b_camp_introduction.111;Beszélj a bajtársaiddal és olvasd el a Szürke Lovasok jelentéseit a kantinban.
 text.nr101_1b_camp_introduction.112;A királynô sátrában tekintheted meg a szerzeményeidet, és változtathatod meg a felszerelésedet.
