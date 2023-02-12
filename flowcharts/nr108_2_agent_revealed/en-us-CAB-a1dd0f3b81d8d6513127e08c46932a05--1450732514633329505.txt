@@ -1,0 +1,11 @@
+say.nr108_2_agent_revealed.1;Egyik este katonák rángatták Meve elé a tündét, akit korábban megmentettek a lincseléstôl. Úgy festett, ô volt az elkövetô, aki megmérgezte a vízkészletet, amibôl több katona is ivott, majd meghalt szörnyû kínok között.\n
+say.nr108_2_agent_revealed.11;"Nilfgaardi, temeriai, lyriai barmok – ti, d'hoine-ok, mind ugyanolyanok vagytok. Megvetlek benneteket, mindannyiótokat! Mocskok vagytok, mindazért, amit a testvéreimmel tettetek. Büszke vagyok, igen, hogy legalább néhányotok a kezem által veszett oda. Hael Aen Seidhe!"\n\n
+say.nr108_2_agent_revealed.12;Meve ajkai pengevékonyságúra keskenyedtek. Reynard már ismerte ezt az arckifejezését. Tudta jól, mi fog következni.\n
+say.nr108_2_agent_revealed.13;"A fôvárosba kellene hogy cibáljalak, és a piactéren fellógatnom téged"
+say.nr108_2_agent_revealed.14;– sziszegte a fogai között Meve. –
+say.nr108_2_agent_revealed.16;"De pontosan ez az, amit szeretnél. Igaz? Hogy a néped beszéljen rólad, hogy a néped emlékezzen rád. Nos, nem lesz ebben részed. Itt köttetlek fel, a semmi közepén,... hogy csak varjak legyenek a tanúi sorsodnak, aztán hogy kivájhassák a szemeidet."\n\n
+say.nr108_2_agent_revealed.18;Gyors kivégzés volt. Nem hangzottak el a vádak, nem hangzott el utolsó kívánság sem. A tünde hullája még sokáig ott lógott az útszélen, mint hogy senki nem jött el érte, és senki sem temette el.
+say.nr108_2_agent_revealed.2;"Igen, én voltam. És egy cseppet se bánom, hogy megtettem"
+say.nr108_2_agent_revealed.9;– köpte a szót a tünde. –
+title.nr108_2_agent_revealed.240;Szabotázs
+

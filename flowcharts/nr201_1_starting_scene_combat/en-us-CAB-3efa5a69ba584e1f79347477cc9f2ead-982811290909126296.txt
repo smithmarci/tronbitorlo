@@ -1,0 +1,8 @@
+say.nr201_1_starting_scene_combat.1;Dh'oine! Veloë!
+say.nr201_1_starting_scene_combat.11;Megfullad, Felség! A segítségére kell sietnünk!
+say.nr201_1_starting_scene_combat.13;Lógassátok fel a mészárost! Veloë!
+say.nr201_1_starting_scene_combat.3;Köhömm-köhömm-köhömm... Köszönöm!
+say.nr201_1_starting_scene_combat.5;Szabadítsátok ki a harcost!
+say.nr201_1_starting_scene_combat.7;Kergessétek szét a tündéket! Elállják az utunkat!
+say.nr201_1_starting_scene_combat.9;Elkéstünk...
+

@@ -1,0 +1,23 @@
+menu.nr113_1_skellige_pirates.7;Megbünteted a rablókat.
+menu.nr113_1_skellige_pirates.8;Nilfgaard ellen fordítod a Skellige-szigetekieket.
+say.nr113_1_skellige_pirates.1;Kürtök harsantak. Meve azonnal felismerte a lyriai elôôrs jelzéseit. Kivonta kardját, és készen állt szembe nézni a megszállókkal. Ám nem nilfgaardiak törtek a seregére, hanem bôrökbe öltözött és szarvas sisakot viselô, szakállas harcosok. Felettébb valószínûtlennek tûnt. A királynô nem hitt a szemének.\n
+say.nr113_1_skellige_pirates.11;A skelligeiek üvöltöztek és dühöngtek, de a tiltakozásukkal nem mentek semmire. Foglyok voltak, és mint a foglyok általában, ôk is a menetoszlop végén kullogtak nehéz, meg-megcsörrenô láncaikban, és válogatott káromkodásokkal a bajszuk alatt. Ekképp pediglen szégyen, s nem dicsôség lett osztályrészük.
+say.nr113_1_skellige_pirates.12;Meve mosolygott és figyelte, amint a szigetlakók összeszedik a felszerelésüket, és felkészülnek a menetelésre. Nem volt kétsége afelôl, hogy Gudmund tartani fogja magát a fogadalmához.
+say.nr113_1_skellige_pirates.21;"No, igazi akadékoskodó vagy egy szárazföldi patkányhoz képest! Van benned kurázsi, meg kell hagyni, Lippy Gudmund gratulál hát neked, Királynô! Én és a legények iszunk majd az egészségedre!"
+say.nr113_1_skellige_pirates.22;"Azt még majd meglátjuk, uram. Elôbb meg kell tudnunk valamit. Mi szél sodort benneteket ennyire a szárazföld belsejébe? Mi hajtott benneteket a tengertôl idáig?"
+say.nr113_1_skellige_pirates.23;"Na! Ami mindig is hajt! A rablás és a fosztogatás! A partokat már rég kizsákmányoltuk. Ezért hát a Jarugának irányoztuk a hosszúhajóinkat – aranyért és dicsôségért!"\n
+say.nr113_1_skellige_pirates.24;"Ihattok az egészségünkre,... de nem bort, csak vizet, hogy leöblíthessétek a torkotokon a száraz kenyeret. Vasra verni ôket! Mindegyiküket!"\n\n
+say.nr113_1_skellige_pirates.26;"Skelligei fosztogatók? Ennyire mélyen a szárazföld belsejében?"\n\n
+say.nr113_1_skellige_pirates.27;De nem most volt itt az ideje a lecövekelésnek. Meve megsarkantyúzta a lovát, {audio=nr113_1_skellige_pirates_meve_attack}az fújtatott és felágaskodott, aztán belevetették magukat a csetepatéba.
+say.nr113_1_skellige_pirates.28;"Mulatságos. Mindig is tisztességes népeknek gondoltalak benneteket."\n
+say.nr113_1_skellige_pirates.30;"És ki merészeli azt állítani, hogy nem így van?"\n
+say.nr113_1_skellige_pirates.32;"Ti magatok teszitek, minden cselekedetetekkel. Más által birtokolt földet támadtatok meg, egy földet, ami már így is háborúban áll más megszállókkal. De – azt hiszem – van benne ráció. Sosem mertetek ujjat húzni a birodalmiakkal"
+say.nr113_1_skellige_pirates.33;"Bebizonyítom, hogy mekkora tévedésben leledzel, be én! Napnyugtára mind nilfgaardi sisakokból fogjuk vedelni a mézsört! Utánam, legények!"\n\n
+say.nr113_1_skellige_pirates.34;– hergelte óvatosan a királynô.\n
+say.nr113_1_skellige_pirates.35;"Mit mondtál, némber?"
+say.nr113_1_skellige_pirates.36;– Gudmund arcát nyomban elöntötte a vér mérgében. –\n
+say.nr113_1_skellige_pirates.476;– kérdezte Meve, miközben összefonta karját a mellkasán.\n
+say.nr113_1_skellige_pirates.6;A skelligeiek keményen harcoltak, bátran harcoltak, és pusztítást hoztak magukkal. Ám a királynô rendezett és fegyelmezett hadereje gyôztesen került ki az összecsapásból. A szigetlakók a vereségük ellenére mégsem tûntek csüggedtnek – bevallom, ez egyike azon tulajdonságaiknak, amit mindig is csodáltam.\n
+title.nr113_1_skellige_pirates.246;Lippy Gudmund
+title.nr113_1_skellige_pirates.287;Lippy Gudmund
+

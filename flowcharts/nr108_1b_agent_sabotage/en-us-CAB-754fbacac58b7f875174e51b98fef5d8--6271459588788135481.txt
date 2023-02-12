@@ -1,0 +1,9 @@
+say.nr108_1b_agent_sabotage.1;Meve a tanácsadóitól körülvéve állt, megbeszélést tartva, amikor egyszer csak egy hatalmas puffanást hallottak.\n
+say.nr108_1b_agent_sabotage.2;"Mi a bánat––?"\n\n
+say.nr108_1b_agent_sabotage.3;Észrevették, hogy egy lovas bukott ki a nyergébôl. Az emberek, akik szemtanúi voltak az esetnek, tréfálkozni és hahotázni kezdtek, ám hamar lehervadt arcukról a vigyor, amikor a négykézlábra tápászkodó társuk nekiállt hevesen rázkódni, majd elkezdett orrán-száján dôlni a véres hányás.\n\n
+say.nr108_1b_agent_sabotage.4;"Ez nem lehet véletlen egybeesés"
+say.nr108_1b_agent_sabotage.5;A felcser mérgezést állapított meg. Minden erôfeszítése ellenére a lovas még aznap éjjel kilehelte a lelkét. Hamarosan több lovasnál is azonos tünetek jelentkeztek, és osztoztak hirtelen jobb létre szenderült bajtársuk sorsában. Mindôjüket az út mellett, egy öreg fûz alatt földelték el.\n
+say.nr108_1b_agent_sabotage.6;– mondta Reynard elkomorulva. –
+say.nr108_1b_agent_sabotage.7;"Valaki megmérgezte a vízkészletünket. Meg kell találnunk az átkozottat... Míg így nem lesz, addig Felségednek borral kell oltania a szomját."
+title.nr108_1b_agent_sabotage.239;Szabotázs
+

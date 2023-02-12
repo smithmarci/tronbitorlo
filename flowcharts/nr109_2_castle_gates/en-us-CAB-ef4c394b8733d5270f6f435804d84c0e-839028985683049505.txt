@@ -1,0 +1,19 @@
+say.nr109_2_castle_gates.243;– mormogta a királynô. –
+say.nr109_2_castle_gates.244;"Utánam!"
+say.nr109_2_castle_gates.245;A kaszárnya parancsnoka az állítólagos Eldar lovag, egy nilfgaardi kém holtteste mellett térdelt. Hitetlenkedve csóválta a fejét.\n
+say.nr109_2_castle_gates.246;"A... a nevemen szólított. Ismerte a jelszavainkat. Ha nem erre hozta volna az útja, Felség... Bele se merek gondolni."\n
+say.nr109_2_castle_gates.248;"Akkor legyen ez egy lecke. Ne bízzanak meg senkiben, egy teremtett lélekben sem."\n\n
+say.nr109_2_castle_gates.249;Bár övék volt a gyôzelem, a lyriaiak levert hangulatban hagyták oda Restvárt. Most már tudták, hogy nilfgaard kémei nem kevésbé veszedelmesek, mint a lovassága, vagy a tüzes golyóbisokat hajigáló hadigépei...
+say.nr109_2_castle_gates.4;A nilfgaardiak szorult helyzetben találták magukat. Miközben forró olaj és kátrány záporozott rájuk a falakról, megpróbáltak visszavonulni. Ám Meve alabárdosai elvágták a menekülésük útját, és a harc Meve gyôzelmével zárult.\n\n
+say.nr109_2_castle_gates.56;"Ideje, hogy Eldar lovag csatlakozzék a férfihoz, akinek nevét elbitorolta"
+say.nr109_2_castle_gates.8;Az ál-lyriaiak Restvár erôdjéhez értek. Megpróbálták meggyôzni a védôket, hogy nyissák ki nekik a kaput. Miközben a parancsnokuk a gyilokjárón álló erôdparancsnokkal egyezkedett, a behatolók egy fal mögött bújtak meg, készen arra, hogy elôrontsanak, ha eljön az ideje.\n
+say.nr109_2_castle_gates.80;Restvár kapuja kitárult. Meve elfojtott hangon szitkozódott. Mi történhetett? Volt egy köpönyegforgató odabent is talán? Vagy a nilfgaardiaknak sikerült meggyôzniük a védôket, hogy amazok letegyék a fegyvert, ôk pedig sértetlenül besétálhassanak?\n
+say.nr109_2_castle_gates.82;"Larwm! Essea tuv'en a'vean!"\n
+say.nr109_2_castle_gates.84;A királynôt a merengésébôl egy ellenséges felderítô csatakiáltása rángatta ki. Harc volt kibontakozóban.
+say.nr109_2_castle_gates.87;Meve-nek sikerült a nilfgaardiakon felülkerekednie. Azok fejvesztve menekültek, a nehéz pajzsaikat és fegyvereiket elhajigálva. A lyriai helyôrség katonáit a vár alatti tömlöcbe zárva találta. A parancsnokuk térdre hullt a színe elôtt, és a bocsánatáért esedezett.\n
+say.nr109_2_castle_gates.89;"Felség, az ellen a m-mi egyenruháinkban érkezett a kapunkhoz, a közöst beszélte, Ön által kiadott parancsokat citált. Úgy igaz, én tártam ki nekik a kaput. D-de hát honnan tudhattam volna?"\n
+say.nr109_2_castle_gates.91;Meve talpra segítette a parancsnokot, és biztosította róla, hogy egyáltalán nem hibáztatja. Ô maga volt a hibás a kudarcért, és meg is állíthatta volna a hamis Eldar lovagot, amikor megvolt rá az esélye.
+title.nr109_2_castle_gates.242;Idegen tollakkal
+title.nr109_2_castle_gates.279;Idegen tollakkal
+title.nr109_2_castle_gates.280;Idegen tollakkal
+

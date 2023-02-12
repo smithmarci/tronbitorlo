@@ -1,0 +1,37 @@
+menu.nr104_1_pogrom.2;Közbeavatkozol, és kiállsz a másfajúakért.
+menu.nr104_1_pogrom.25;Felkötteted a felbujtókat.
+menu.nr104_1_pogrom.26;Utasítod az embereidet, hogy botozzák meg a bûnösöket.
+menu.nr104_1_pogrom.3;Továbbhaladsz anélkül, hogy betérnél Ájerfalvára.
+say.nr104_1_pogrom.1;Ahogy közeledtek Ájerfalva felé, a királynô megálljt parancsolt. Aztán embereket küldött a városkába utánpótlásért. Akiket menesztett, hamarabb visszaértek, mint remélte volna – ám üres kézzel és tajtékos lovakkal.\n
+say.nr104_1_pogrom.10;Hosszas mérlegelés után a királynô a serege felé fordult.\n
+say.nr104_1_pogrom.11;Meve-nek, szerencsére, anélkül sikerült visszaállítania a rendet, hogy veszteségeket kellett volna elkönyvelnie. Mint Reynard megtudta, egy nemesember dühe vezetett az erôszakhoz, amely dühöt egy tolvajlás váltotta ki...\n
+say.nr104_1_pogrom.12;Bár a tragédia egy félreértés eredménye volt, igazságot kellett szolgáltatni, és a vétkeseknek bûnhôdniük kellett. Már csak az volt a kérdés, mennyire.
+say.nr104_1_pogrom.18;"Felség, a település lakói megôrültek! Egybeterelték az összes tündét a piactérre. Ebbôl mészárlás lesz!"\n\n
+say.nr104_1_pogrom.19;A királynô tudta jól, ha nem sikerül közbeavatkoznia, a városka utcáin másfajúak vére fog folyni. Mint ahogy azt is tudta, hogy csekély haderejével esélye sem lenne a feldühödött tömegen fölülkerekedni...
+say.nr104_1_pogrom.20;"A gyanú az alkalmazásában álló másfajúakra terelôdött. Ôket vádolta a lopással, azok tiltakoztak a gyanúsítgatás ellen, aztán a felháborodás hullámai lassan maguk alá temették az egész települést... De volna itt még más is, Felség."\n
+say.nr104_1_pogrom.22;"Harcoltam már városokban és nagyobb falvakban is. A szûk sikátorokon és utcácskákon néha nehezebb keresztülverekedni magunkat, mint egynémely kastélyok folyosóin. Az emeleti ablakokból néhány számszeríjász hatalmas vérontásra képes – olyan mértékûre, amekkorát nem kockáztathatunk."\n\n
+say.nr104_1_pogrom.27;"Nincs mentség a tetteitekre"
+say.nr104_1_pogrom.28;"Bûnösök vagytok – ezt nem lehet tagadni"
+say.nr104_1_pogrom.37;Reynard egy kissé arrább álldogáló, gyászában az arcát a kezébe temetô idôs férfira mutatott.\n
+say.nr104_1_pogrom.39;"Vannak szemtanúk, akik szerint a lopásért Spalla Bitangjai tehetôk felelôssé."\n\n
+say.nr104_1_pogrom.41;Meve talpasai lesütötték a szemüket. Tudták, hogy a királynô döntésre jutott. Hamarosan már meneteléshez készülôdtek.\n\n
+say.nr104_1_pogrom.42;Aznap este Reynard, mikor a csapatokkal gyakorlatozott, arra lett figyelmes, hogy tucatnál is többen hiányoznak. Azon másfajúak, akik Meve seregét támogatták – törp kézmûves mesterek, tünde felderítôk és nyomkeresôk – tûntek el csöndben. Mindannyiuk számára nyilvánvaló volt, hogy nem szolgálnának egy olyan uralkodót, aki ily kevésre tartja felebarátaik és rokonaik életét.
+say.nr104_1_pogrom.44;– Reynard kérdése tôrként hasított a csendbe.\n
+say.nr104_1_pogrom.46;"Mégis mi lehetne, kedves barátom?"
+say.nr104_1_pogrom.47;– felelte a királynô, majd vágtába ugratta a lovát, és elnyargalt a városka irányába. A csapatai követték, futva, ahogyan csak a lábuk bírta.\n\n
+say.nr104_1_pogrom.48;A városkapun belülre érve holttesteket láttak meg az út menti árkokban fekve. Meve-nek rá kellett döbbennie, túl késôn érkezett ahhoz, hogy elejét vegye a katasztrófának. A tömeg vérszomjat kapott. A tombolásuk megfékezéséhez vasökölre volt szükség.
+say.nr104_1_pogrom.50;– mondta a királynô. –
+say.nr104_1_pogrom.52;"A felbujtók, a mészárlásra buzdítók lógni fognak. A többiek pedig––"\n
+say.nr104_1_pogrom.54;"Felség!"
+say.nr104_1_pogrom.56;– Egy asszonyság borult Meve lábai elé. –\n
+say.nr104_1_pogrom.58;"Könyörülj rajtunk! Csak egy félrehallott szó volt, egy félreértés!"\n
+say.nr104_1_pogrom.60;"Egy félreértés? Távozáskor más köpenyét felvenni, fizetéskor kevesebb visszajárót adni – ezek félreértések. Ami itt történt, az bûn. És bûnözôknek kijáró büntetés lesz a jussotok érte."\n
+say.nr104_1_pogrom.61;Az elítélteket fel is akasztották rögvest, mindôjük rokonságának heves tiltakozása ellenére. Azok a másfajúak pedig, akiknek idôben sikerült elbújni és ezáltal megmenekülni, igencsak nagylelkû adományt tettek a királynônek, hogy megerôsíthesse a seregét.\n\n
+say.nr104_1_pogrom.63;– mondta a királynô a véres zendülés félbujtói felé fordulva. –
+say.nr104_1_pogrom.65;"Hallottatok valami ostoba pletykát, és máris kegyetlenkedni és lincselni kezdtetek. Ezért a büntetésetek nyilvánosság elôtti korbácsolás, kártérítés fizetése és bebörtönzés. De az életeteket meghagyom. Elég vér folyt itt ma."
+say.nr104_1_pogrom.67;Ájerfalva lakói megkönnyebbülten lélegeztek fel, ám a másfajúak, akik túlélték ezt a napot, nem vették jó néven az enyhe büntetést. Nem sokkal azután a lyriai hadseregben szolgáló tündék és törpök léptek le csendben és dezertáltak. Kevesen kételkednének az okában – nem voltak hajlandóak vásárra vinni a bôrüket egy olyan királynôért, aki ennyire nem tartja becsben az ô életüket...
+say.nr104_1_pogrom.69;Szeretném úgy folytatni, hogy Ájerfalva, a fajok eme kis olvasztótégelyének lakói aztán harmóniában élték együtt tovább. Ám nem szokásom hamisságokat terjeszteni.
+say.nr104_1_pogrom.9;"Mi a parancsa, Felség?"
+title.nr104_1_pogrom.31;Jó szomszédok
+title.nr104_1_pogrom.81;Jó szomszédok
+

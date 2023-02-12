@@ -1,0 +1,6 @@
+say.nr201_1c_aedirn_vista_gpl.1;Az istenekre... Lángokban az egész ország...
+say.nr201_1c_aedirn_vista_gpl.3;Aep Dahy elôre figyelmeztetett, hogy Aedirn bûnhôdni fog... Hogy nem lesz könyörületes ehhez a vidékhez.
+say.nr201_1c_aedirn_vista_gpl.5;Az istenek neveire! Mit tettetek ellene, Rayla?
+say.nr201_1c_aedirn_vista_gpl.7;Nilfgaard szövetséget ajánlott nekünk az egész Északkal szemben... De Demavend visszautasította. A maga nyers, szabadszájú módján.
+say.nr201_1c_aedirn_vista_gpl.9;Azt mondják, aep Dahy bedühödött,... és megfogadta, hogy a földdel teszi egyenlôvé Aedirnt.
+

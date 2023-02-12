@@ -1,0 +1,3 @@
+say.nr107_1_nilfgaardian_captives_combat.1;Védekezô állásba!
+say.nr107_1_nilfgaardian_captives_combat.3;Élve fogják el ôket! Válaszokra van szükségem!
+

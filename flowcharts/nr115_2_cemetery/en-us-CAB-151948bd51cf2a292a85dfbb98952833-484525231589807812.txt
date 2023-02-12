@@ -1,0 +1,18 @@
+say.nr115_2_cemetery.17;"Mi... mi volt ez az ocsmányság?!"
+say.nr115_2_cemetery.18;– krákogta rekedten a királynô, miközben a haláltusáját vívó kreatúra a lába elôtt vonaglott.\n
+say.nr115_2_cemetery.19;"Nem tudom, Felség"
+say.nr115_2_cemetery.20;– felelte Reynard. –
+say.nr115_2_cemetery.21;"De a biztonság kedvéért azért feldaraboltatnám és elégetném a hulláját. Különben... nem lehetünk biztosak abban, hogy nem tér vissza."\n
+say.nr115_2_cemetery.22;"Igen, tegyen róla, hogy így legyen"
+say.nr115_2_cemetery.23;– mondta Meve arrébb fésülve a haját verejtékes homlokából. –
+say.nr115_2_cemetery.24;"De gyorsan, különben még ezen az elátkozott helyen ér bennünket az alkony."\n\n
+say.nr115_2_cemetery.25;A lyriaiak folytatták a menetelést. Ahogy maguk mögött hagyták a sírkertet, egyesek még mindig hallani vélték a kísérteties siratóéneket a távolból... Vagy talán csak a mohos sírkövek között fütyülô szelet hallották?
+say.nr115_2_cemetery.4;A lyriaiak beléptek a sírkertbe. Tücskök ciripeltek mindenütt, szélfútta fûcsomók és vastagon tenyészô zöld moha borította be a málladozó sírköveket. Csak az egyik mauzóleum oldalán bíborló friss vérfolt jelezte, hogy valami megzavarta a nyugvó holtakat,... és levadászta az élôket.\n
+say.nr115_2_cemetery.5;"Neee hullaaajtsááátok könnyeeeitekeeet, engedjééétek eeel a bááánatooot..."
+say.nr115_2_cemetery.6;– dalolta egy földöntúli hang, és a kísérteties siratótól felállt Meve karján a szôr. –\n
+say.nr115_2_cemetery.7;"Hamarosaaan éééletetek véééget ééér, amint az örök ragyogááásba léééptek ááát..."\n
+say.nr115_2_cemetery.8;Egy ragyás, nedvedzô fekélyekkel lepett teremtmény vánszorgott elô a sírkövek mögül. Homályosan emlékeztetett egy púpos, aszott vényasszonyra... De csak egészen addig, amíg ketté nem nyílt a feje, és fel nem tárult hatalmas, csupafog pofája.\n
+say.nr115_2_cemetery.9;"Támadjatok! Mindenki!"
+title.nr115_2_cemetery.2;Egy sovány vigasz
+title.nr115_2_cemetery.484;Egy sovány vigasz
+

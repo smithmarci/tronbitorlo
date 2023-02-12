@@ -1,0 +1,17 @@
+say.nr103_1_robbed_temple.1;Miközben az országúton vonultak, a távoli Melitele szentély felôl harangzúgás ütötte meg a fülüket. Meve Reynardhoz fordult.\n
+say.nr103_1_robbed_temple.2;"Mi van a mai napon? Valamilyen szent ünnep talán?"\n
+say.nr103_1_robbed_temple.252;"Akkor ez vészjelzés lesz... Utánam!"\n\n
+say.nr103_1_robbed_temple.253;Festett ólomüveg szilánkjai csillantak meg a fûszálak között. Dunyhából elszabadult tollpihék szálltak a levegôben. A szentély udvarán összegyûlt papnôk a sebesült zarándokok körül foglalatoskodtak, vagy ledöntött, lefejezett és egyéb más módon megcsonkított szobrokat állítottak vissza a talapzatukra.\n
+say.nr103_1_robbed_temple.255;"Itt meg mi történt?"\n
+say.nr103_1_robbed_temple.256;"Spalla Bitangjai támadtak ránk"
+say.nr103_1_robbed_temple.258;– sóhajtott fel a fôpapnô. –
+say.nr103_1_robbed_temple.260;"Ellopták az áldozati ajándékokat, a szentségtartókat, a szent könyveket... Asszonyom, könyörgöm... segítsen meg bennünket! Szerezze vissza, ami jog szerint minket illet!"\n\n
+say.nr103_1_robbed_temple.261;Meve felderítôi hamarosan ráleltek a Bitangok nyomaira, amik a szentélytôl keletre, egy sûrû mogyoróligetbe vezettek. Egy ideális helyre az elrejtôzéshez,... vagy egy váratlan rajtaütéshez.
+say.nr103_1_robbed_temple.262;A királynô elkomorult, a gyeplôt tartó kezei ökölbe szorultak...\n
+say.nr103_1_robbed_temple.264;"Ennek véget kell vetni."
+say.nr103_1_robbed_temple.266;A királynô szorosabbra fogta a gyeplôt.\n
+say.nr103_1_robbed_temple.268;"Nyomban."
+say.nr103_1_robbed_temple.3;"Nem tudok róla, Felség."\n
+say.nr103_1_robbed_temple.5;A királynô levert hangulatban hagyta el a szentélyt. Bár a Bitangok csapatának zöme továbbvonult, feltehetôen Lord Clayton birtoka felé, néhányuk még mindig a közelben fosztogatott.\n
+title.nr103_1_robbed_temple.251;Megszentségtelenített szentség
+

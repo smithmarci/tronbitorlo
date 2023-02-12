@@ -1,0 +1,4 @@
+say.nr116_homm_easter_egg.3;A molnár fennhangon közölte:
+say.nr116_homm_easter_egg.5;"Felség, irgalmatlan nagy munka volt összegyûjteni ennyi aranyat. Ám most büszkén elôadom, Felséged haderejének a növelésére."
+title.nr116_homm_easter_egg.1;Malom
+

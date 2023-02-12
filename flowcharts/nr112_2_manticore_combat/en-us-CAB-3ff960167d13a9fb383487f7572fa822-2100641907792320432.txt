@@ -1,0 +1,11 @@
+say.nr112_2_manticore_combat.1;Az istenek védelmezzenek bennünket...
+say.nr112_2_manticore_combat.11;Tartsátok a pozíciótokat!
+say.nr112_2_manticore_combat.13;Tartsd meg magadnak a hitvány mérgedet!
+say.nr112_2_manticore_combat.15;És ímhol a bestia, ocsmány szarvak meredeznek komisz homlokán!
+say.nr112_2_manticore_combat.17;Ki embervér által él, ember keze által vész el!
+say.nr112_2_manticore_combat.19;A földre veled, gyilkos fenevad!
+say.nr112_2_manticore_combat.3;Adjunk hálát az isteneknek ezért az igaz és dicsô gyôzelemért!
+say.nr112_2_manticore_combat.5;Vigyázzatok! A farka halálos méreggel teli!
+say.nr112_2_manticore_combat.7;Támadáshoz készülôdik a bestia!
+say.nr112_2_manticore_combat.9;Tartózkodjatok a karmaitól! A legkeményebb páncélt is oly könnyedén szaggatják miszlikekbe, mint a legfinomabb papírt!
+

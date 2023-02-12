@@ -1,0 +1,21 @@
+menu.nr201_1_starting_scene.21;Nem osztom ezen meggyôzôdésedet.
+menu.nr201_1_starting_scene.22;Örülök, hogy Aedirn még mindig védelmezi Északot.
+say.nr201_1_starting_scene.10;A Scoia'tael harcosok gyorsasága, ravaszsága és kegyetlensége meglepte a királynôt. Végül mégis a lyriaiak diadalmaskodtak. Mikor az utolsó tünde is a földre került, a királynô és emberei kiszabadították az akasztásra várókat a hurkokból...
+say.nr201_1_starting_scene.11;Ezer köszönet, Felség! Sok mesét hallottam a bátorságáról, és örömmel látom, hogy azok nem csupán hízelgés és propaganda voltak. Én--
+say.nr201_1_starting_scene.13;Azt látom... Hogy jutottatok idáig?
+say.nr201_1_starting_scene.14;A királyom azért küldött, hogy leszámoljunk egy Scoia'tael bandával, akiknek egy Eldain nevû patkány a vezére. Napokon keresztül követtük a kártevôk nyomát,... s mint kiderült, egyenesen ebbe a kelepcébe.
+say.nr201_1_starting_scene.25;Amíg Aedirn ellenáll, addig Észak sem veszett el.
+say.nr201_1_starting_scene.29;Hogy érti ezt, Úrnôm?
+say.nr201_1_starting_scene.30;Úgy, hogy fel kell készülnünk a legrosszabbra.
+say.nr201_1_starting_scene.32;Rayla... Láttam, mint özönlenek felénk a Feketék. Gyalogoskatonák végtelen sorokban, számtalan lovas, és hadigépek, amik még a legkeményebb követ is kaviccsá zúzzák.
+say.nr201_1_starting_scene.33;Így igaz,... bár már nem sokan maradtak, akiket vezethetnék.
+say.nr201_1_starting_scene.35;Te vagy Fekete Rayla. Demavend király különleges egységeinek vezére. Láttunk Haggénál.
+say.nr201_1_starting_scene.36;Tündékre vadászni egy erdôben? Meg kell mondjam, ez az igazi elhivatottság.
+say.nr201_1_starting_scene.37;Nem volt más választásunk. Ha nem teszünk semmit, azzal csak a biztos véget siettetjük. A Feketék megszállták Aedirnt,... a tündék hathatós segítségének köszönhetôen. Lecsapnak az ellátmányainkra, lesben állnak, mint a rókák, és levadásszák a meggyengült egységeinket és felderítôinket.
+say.nr201_1_starting_scene.38;Azt akarod mondani, hogy Nilfgaard áttört a védelmeteken...?
+say.nr201_1_starting_scene.40;Igen... De a menetelésük hamarosan véget ér, higgyék el nekem. Ahhoz, hogy továbbmasírozzanak, elôbb be kellene venniük Rosberget – egy erôdítést, amit még soha senkinek nem sikerült. Megtörnek majd a falain, mint hullámok a köveken.
+say.nr201_1_starting_scene.43;Az elsô adandó alkalommal tolmácsolni fogom Felséged szavait a királynak.
+say.nr201_1_starting_scene.45;Abban reménykedtem, hogy magam tehetem meg... Azért jöttem Aedirnbe, hogy segítséget kérjek. Demavend támogatását szándékozom kérni.
+say.nr201_1_starting_scene.46;A király Rosbergben tartózkodik épp, az ostrom elôkészületeit felügyeli. Magam is arra tartok, jelentést tenni a Scoia'taellel történt összecsapásunkról... Talán elfogadnának vezetôjüknek az odaúton. Jobban ismerem ezeket a földeket, mint bárki más.
+say.nr201_1_starting_scene.48;Kiváló! Mutasd az utat!
+

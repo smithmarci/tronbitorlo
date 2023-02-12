@@ -1,0 +1,29 @@
+menu.nr106_1_meet_shop.2;Utasítod a seregedet, hogy segítsenek a trollnak.
+menu.nr106_1_meet_shop.3;Kimaradsz belôle.
+say.nr106_1_meet_shop.1;Hirtelen egy sötét valami takarta el az égboltot. A királynô ösztönösen maga elé emelte a pajzsát azt gondolván, hogy egy nilfgaardi hajítógép repít feléjük épp egy szikladarabot. {audio=nr106_1_meet_shop_barrel}Ám amint a "szikla" földet ért elôttük az úton, szilánkokra és forgácsokra robbant,... mert hogy egy üres hordó volt az.\n
+say.nr106_1_meet_shop.10;A királynô megtiltotta az egységeinek, hogy közbeavatkozzanak. Sem a nilfgaardiak, sem pedig a behemót sorsa nem izgatta. Percekkel késôbb a katonák meghallották a troll diadalittas üvöltését. Meve nem tehetett róla, de halványan elmosolyodott. Bárcsak a királyság minden lakója ilyen ádázul küzdene a megszállóik ellen...
+say.nr106_1_meet_shop.100;– mondta a királynô, miközben kivonta kardját, –
+say.nr106_1_meet_shop.102;"senki sem érdemli, hogy Nilfgaard keze által haljon. Utánam!"
+say.nr106_1_meet_shop.103;A lyriaiak szétverték a nilfgaardi különítményt. A troll hirtelen elgondolkodott, tekintetét a hódítók holttesteire szegezte.
+say.nr106_1_meet_shop.18;Urrghhhh...urgh...urgh... Feketehéj emberke nem jó emberke.
+say.nr106_1_meet_shop.19;Ahogy mondod, ööö... jó Troll lovag. A nilfgaardi fondorlatos népség, galád módon támadtak a földjeinkre...
+say.nr106_1_meet_shop.20;Feketehéj emberke kemény – ezért nem jó emberke. Nagy sok páncél, sokat rágni. Kér falatkát emberkébôl?
+say.nr106_1_meet_shop.236;"Ah. Kedvem volna elüldögélni itt, és nézni az elôadást napraforgómagot csemegézve... de vár a kötelesség. Így hát továbbmegyünk!"\n\n
+say.nr106_1_meet_shop.439;Egy dolog... másik dologra? Mondjuk-mondjuk... csillogókavicsra talán?
+say.nr106_1_meet_shop.6;"Troll vagy sem,"
+say.nr106_1_meet_shop.62;"Ez az, amit ránk hajigálnak? Hordókat? Ez valami tréfa akar lenni?"\n
+say.nr106_1_meet_shop.63;"A nilfgaardiak nem a humorérzékükrôl ismeretesek"
+say.nr106_1_meet_shop.64;Meve felállt a kengyelben, hunyorított, a távolba kémlelt, majd kitört belôle egy jóízû nevetés. Ugyanis a hordót nem egy hajítógép engedte útjára, hanem egy feldühödött kövitroll. És miért? Mert egy nilfgaardi egység épp a troll barlangjának a tôszomszédságában talált tábort ütni...
+say.nr106_1_meet_shop.66;Tudod te, kivel beszélsz?! Ez itt Ôfelsége, a királynôd!
+say.nr106_1_meet_shop.70;Mielôtt emberke megy, Shupe emberkének ad. Királynôd ad segítség, királynôd kap segítség.
+say.nr106_1_meet_shop.71;Üdvözöl, királynôd. Shupe én vagyok.
+say.nr106_1_meet_shop.72;Ugyan-ugyan, Reynard. Úgy hiszem, boldogulok magam is. Mondd csak, Shupe! Esetleg volna kedved kereskedni? Ahogy látom, meglehetôsen nagy készlettel rendelkezel hordókból.
+say.nr106_1_meet_shop.73;Nem. Hordócska jó csapni-csapni, ha Shupe lesz dühös... Ááá, deee... "kesernyés kedv" – erre gondol?
+say.nr106_1_meet_shop.74;Az, hogy kereskedni, hm, azt jelenti,... nos, elcserélni egy dolgot egy másik dologra. Haszonért.
+say.nr106_1_meet_shop.75;Igen, ha jól játszod ki a kártyáidat, talán meg is tudsz gyôzni valakit, hogy kövekkel fizessen neked...
+say.nr106_1_meet_shop.76;Kártyák... kártyácskák, hordócskák, keresked... csillogókavicsok! Shupénak terv van! Shupénak kell menni.
+say.nr106_1_meet_shop.77;Királynôd megy most. És figyelmez, királynôd. Mindenhol lát Feketehéj.
+say.nr106_1_meet_shop.81;A troll sarkon fordult, és kirobogott a barlangból. Csak maga tudta, hogy hova. Ahogy a távozó bestiát követte a tekintetével, Meve-nek volt egy olyan megérzése, hogy a világ még hallani fog a Shupe nevû trollról.
+say.nr106_1_meet_shop.95;– felelte Reynard.\n\n
+title.nr106_1_meet_shop.235;Trollnak áll a világ...
+

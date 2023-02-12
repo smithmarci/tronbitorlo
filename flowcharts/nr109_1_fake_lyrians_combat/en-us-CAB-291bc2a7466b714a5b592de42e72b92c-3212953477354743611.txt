@@ -1,0 +1,4 @@
+say.nr109_1_fake_lyrians_combat.1;Ránk találtak! Se'ege na tuvean!
+say.nr109_1_fake_lyrians_combat.3;Tuvean y gloir!
+say.nr109_1_fake_lyrians_combat.5;A vár immár biztosítva van, Felség.
+

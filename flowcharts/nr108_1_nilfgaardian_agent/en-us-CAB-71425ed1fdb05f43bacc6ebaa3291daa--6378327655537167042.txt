@@ -1,0 +1,34 @@
+menu.nr108_1_nilfgaardian_agent.11;Engeded a tündének, hogy csatlakozzon.
+menu.nr108_1_nilfgaardian_agent.12;Hátrahagyod a tündét a faluban.
+menu.nr108_1_nilfgaardian_agent.3;Megmented a tünde életét.
+menu.nr108_1_nilfgaardian_agent.4;Hagyod az embereknek, hogy igazságot tegyenek.
+say.nr108_1_nilfgaardian_agent.1;Meve és kompániája egy, láthatóan a nilfgaardiak által kifosztott és szétdúlt falu mellett haladt el. Már a távolból kesergés hangjaira lettek figyelmesek, de amint közelebb értek, kiderült, hogy nem gyász fölötti kesergést hallanak, hanem szitkozódást és dühödt átkozódást.\n
+say.nr108_1_nilfgaardian_agent.13;Meve tanácstalan volt, nem tudta eldönteni, kinek adjon igazat. Ezért inkább úgy döntött, nem avatkozik közbe – mert keljen bárki is a tünde védelmére, az csak még jobban felbôszíti a haragos tömeget. Késôbb, amikor a falusiak megkötötték a hurkot a nyakán, a tünde a királynôt káromolta, amiért az közömbösnek mutatkozott a sorsa iránt...\n
+say.nr108_1_nilfgaardian_agent.14;Egy dolog megállítani egy lincselést. Megint egy másik dolog egy kétes megítélésû egyént a soraikba fogadni. Így hát elutasította a tünde kérését, bár az továbbra is próbálta meggyôzni a királynôt.\n
+say.nr108_1_nilfgaardian_agent.15;A falusiak gyûlölködve néztek utánuk, miközben elhagyták a települést. Amikor a nádfedeles házikók eltûntek mögöttük a következô kanyarulatnál, a királynô csak akkor sóhajtott fel megkönnyebbülten.
+say.nr108_1_nilfgaardian_agent.16;A többi falusi egyetértett a kováccsal. A tünde Meve lábai elé vetette magát, és a porban kúszva esdekelt:\n
+say.nr108_1_nilfgaardian_agent.17;"Légy kegyelmes, Rhena! Mentsd meg hûséges alattvalódat! Ezek hazugok! Csak azért vádolnak, mert tünde vagyok!"
+say.nr108_1_nilfgaardian_agent.18;"Legnemesebb Felség, kérlek, könyörülj... Amint távoztok, ezek a dh'oine-ok fellógatnak engem a legközelebbi fára."
+say.nr108_1_nilfgaardian_agent.19;A királynô magyarázatot követelt. Egy pirospozsgás képû kovács lépett elô, és rákezdett:\n
+say.nr108_1_nilfgaardian_agent.2;"Egy nilfgaardi kém ez a szukafattya, Felség! Ez vezette ide ôket, hogy aztán amazok meg a fô'ddel tegyék egyenlôvé a falunkat! Lógnia kell!"\n
+say.nr108_1_nilfgaardian_agent.20;"Lássuk el jól a baját a gaznak!"\n
+say.nr108_1_nilfgaardian_agent.21;A falusiak a település közepén gyûltek össze, egy, a földön összegömbölyödve fekvô és vérzô tündét véve körül. A parasztok kövekkel a kezükben fenyegették és átkozták a sebesültet.\n
+say.nr108_1_nilfgaardian_agent.22;"Kegyelmezzetek, jó népek! Nem tettem semmi rosszat!"\n\n
+say.nr108_1_nilfgaardian_agent.23;"A démonok vigyenek el titeket, bloede breoga! A démonok vigyenek el benneteket, minden véreteket, az összes földeteket!"\n\n
+say.nr108_1_nilfgaardian_agent.24;Meve jelt adott az indulásra. Ahogy a serege tovamasírozott, mindannyian hallották még, ahogy a tünde szûköl keservében, és kegyelemért könyörög. Aztán, egy mondat közepén egyszer csak abbamaradt a sirám,... és a csend visszhangot vert Meve és az emberei fülében.
+say.nr108_1_nilfgaardian_agent.26;– kérdezte Meve. –
+say.nr108_1_nilfgaardian_agent.28;"Látta bármelyikôtök, hogy az ellenséggel közösködik? Találtatok nála idegenben vert pénzérméket?"\n
+say.nr108_1_nilfgaardian_agent.30;A falusiak dühödten bámulták Meve-et, a kezük ökölbe szorult. Ám egyikük sem mert ellenkezni vele.\n
+say.nr108_1_nilfgaardian_agent.32;"Tudjátok meg: a Feketéknek nem kell indok ahhoz, hogy feldúlják az otthonaitokat. Most pedig álljatok félre, és engedjétek útjára ezt a szerencsétlent!"\n
+say.nr108_1_nilfgaardian_agent.33;"Hmm, legyen hát"
+say.nr108_1_nilfgaardian_agent.35;– mondta a királynô némi gondolkodás után. –
+say.nr108_1_nilfgaardian_agent.37;"Keresd fel a szállásmestert – majd ô ellát feladattal. És most menetelés!"\n\n
+say.nr108_1_nilfgaardian_agent.39;"Felség... Bizonyára tudod, hogy meghalok, ha itt maradok."\n
+say.nr108_1_nilfgaardian_agent.41;"Akkor szedd a cókmókod, és állj tovább, uram"
+say.nr108_1_nilfgaardian_agent.43;– mondta a királynô, miközben félretolta a tünde könyörgésre kulcsolt kezeit. –\n
+say.nr108_1_nilfgaardian_agent.45;"Többet nem tehetek érted."\n\n
+say.nr108_1_nilfgaardian_agent.47;A tünde csalódott volt a királynô döntése miatt, ez világosan látszott. De volt annyi sütnivalója, hogy tartsa a száját. Hamarosan felkerekedett, batyuval a hátán, ugató kutyákkal és fenyegetôzô parasztokkal a sarkában.
+say.nr108_1_nilfgaardian_agent.7;"Van bármiféle bizonyosság a bûnösségét illetôen? Van rá bármilyen bizonyítékotok?"
+say.nr108_1_nilfgaardian_agent.8;A tünde könnyek között hálálkodott a királynônek, és esdekelt, hogy ne hagyja itt, ebek harmincadjára. Könyörögve kérte, hadd csatlakozzon a kíséretéhez:\n
+title.nr108_1_nilfgaardian_agent.238;A fekete bárány
+

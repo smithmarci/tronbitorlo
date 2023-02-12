@@ -1,0 +1,45 @@
+menu.nr105_1_wedding.18;Hagyod, hogy a szerelmesek elmeneküljenek.
+menu.nr105_1_wedding.19;Hazaküldöd a leányt.
+menu.nr105_1_wedding.2;Részt veszel az ünnepségen.
+menu.nr105_1_wedding.3;Továbbmész.
+menu.nr105_1_wedding.37;Utasítod az embereidet, hogy vegyék üldözôbe a rablókat.
+menu.nr105_1_wedding.38;Gyülekezôt rendelsz el, és folytatod utadat.
+say.nr105_1_wedding.1;Váratlanul vidám zene majd éneklés ütötte meg Meve fülét. Biztosra vette, hogy egy, az országúthoz közeli falucskában épp most vette kezdetét egy lakodalom. Amint a menyasszony apja észrevette a királynôt s kíséretét, odaszaladt hozzájuk, és esdekelve kérte az uralkodónôt, adja áldását az ifjú jegyesekre. Meve örömmel mondott igent a felkérésre. Ezen fellelkesülve az örömapa rögvest meg is hívta Meve-et és egész udvartartását, hogy csatlakozzanak a vigadalomhoz.\n
+say.nr105_1_wedding.15;Bár senki nem mert szólni egy rossz szót sem, Meve magán érezte az alattvalói csalódott tekintetét. Hajnalhasadtával útnak indult anélkül, hogy elbúcsúzott volna tôlük.
+say.nr105_1_wedding.17;Meve egységei gyôzedelmeskedtek a rablók fölött, és megmentették a menyasszonyt. Csakhogy aztán jól meg is lepôdtek. Ugyanis a leány térdre esett elôttük, és elkezdtek hullani a könnyei. Ám ezek a könnyek nem az öröm könnyei voltak, hanem a bánaté.\n
+say.nr105_1_wedding.2;"Nem hagyjuk, hogy a lányodnak bántódása essék, jó ember"
+say.nr105_1_wedding.22;"Ezt a cselt, amit véghez vittetek, meg nem bocsáthatom. Emberek sérültek meg, néhányan közülük talán meg is haltak..."
+say.nr105_1_wedding.24;"Ó, van nekem szívem..."
+say.nr105_1_wedding.3;– kiáltotta a királynô, miközben már lépett is bele a kengyelbe. –\n
+say.nr105_1_wedding.32;"Nem, nem igazán, Felség! Úrnôm... Nem szeretem Yant, nem szeretnék hozzámenni! Az apám és a családom az, akik kényszerítenek rá! A szívem Finberté, ô rendezte meg ezt az egész színjátékot. Könyörgöm, ha van Önben egy szemernyi kedvesség, ha van szíve, kérem, hagyja, hogy együtt és szabadon távozzunk!"
+say.nr105_1_wedding.4;"Utánam! Gyía!"\n\n
+say.nr105_1_wedding.40;Meve utasította a lovasságot, hogy azonnal vegyék a rablókat üldözôbe. Annak ellenére, hogy az este jó részét önfeledt italozással töltötték, az embereknek mégis sikerült úgy-ahogy a nyeregben maradniuk. Hamarosan beérték a menekülôket, és megakadályozták ôket abban, hogy kereket oldjanak.\n
+say.nr105_1_wedding.42;Bár Meve egységei szíves-örömest az emberrablók nyomába eredtek volna, a királynô nem adta ki a parancsot. Talán rajtaütéstôl tartott, vagy egyszerûen csak arra jutott, hogy nem szándékozik tovább késlekedni egy fiatal nô elrablása miatt.
+say.nr105_1_wedding.48;"Megtisztelne bennünket, Úrnôm. És az emberei is új erôre kaphatnának a rájuk váró hosszú menetelés elôtt. Alázattal kérem! Egyenek, igyanak és ünnepeljenek velünk!"
+say.nr105_1_wedding.49;"Úrnôm! Esdeklünk, segítsen rajtunk!"
+say.nr105_1_wedding.5;A föld megremegett az elvágtató lovak patái alatt. A menyasszony és vôlegény köszöntésére színültig töltött kupák idô elôtt koccantak össze a rázkódás közepette. És a lyriaiak belevesztek a sötét erdôbe...
+say.nr105_1_wedding.50;A mennyegzôre egy hatalmas tölgy koronája alatt került sor. Aztán az ifjú pár és a vendégek egy virágokkal feldíszített pajta felé vették útjukat. Lármás vigasság vette kezdetét. Meve, ahogy elnézte katonáit, amint a köznéppel kart karba öltve táncolnak, büszkeséget érzett afölött, hogy a királynôjük lehet... Lyria szíve – itt sokkal hevesebben dobban, mint bármely palota aranyozott termeiben...\n\n
+say.nr105_1_wedding.51;"Nincs topánom, amiben táncolhatnék, de csak megoldom valahogy. Vezess, jó ember!"\n\n
+say.nr105_1_wedding.52;"Ott a leány! Fogjátok!"\n\n
+say.nr105_1_wedding.53;Mielôtt bárki megállíthatta volna ôket, a banditák felkapták a menyasszonyt, és bevették magukat az erdôbe. A dobok és flóták nyomban elcsendesedtek, helyükbe zokogás, kesergés és a haramiák üldözését sürgetô dühös kiáltások hangjai léptek. A házigazda, elkeseredett ábrázattal, könyörgôn fordult Meve-hez:\n
+say.nr105_1_wedding.54;"Ne sírj, gyermek"
+say.nr105_1_wedding.55;"Már vége van. Szabad vagy."\n
+say.nr105_1_wedding.57;– mondta a királynô, miközben a leány vállára tette a kezét. –
+say.nr105_1_wedding.59;– felelte a királynô. –
+say.nr105_1_wedding.6;"Köszönjük a szívélyes meghívást, jó ember!"
+say.nr105_1_wedding.61;"De van nekem egy fejem is, amellyel meg kellett hoznom egy döntést. A szeretôd vért ontott ezen a napon. Súlyos a bûn, amiért felelnie kell. Neked, kedvesem, pedig haza kell menned."\n\n
+say.nr105_1_wedding.62;Ahogy észrevették a királynôt, amint a menyasszonnyal tér vissza, a mulatozók elébük rohantak. Nem kívánván felbôszíteni a násznépet, Meve csak az ifjú pár családjának árulta el az igazat az esettel kapcsolatban. Ezután a család érvénytelenítette az egyesülést, és hálaképp a segítségéért a királynônek adták a vendégektôl kapott ajándékokat.
+say.nr105_1_wedding.64;– felelte a királynô. –
+say.nr105_1_wedding.66;"Ám mégsem hagyhatom, hogy arra kényszerítsenek, hozzámenj olyasvalakihez, akit nem szeretsz."\n
+say.nr105_1_wedding.68;"Akkor hát... távozhatunk, Felség?!"\n
+say.nr105_1_wedding.7;Bár a lyriai lovasok egész éjjel a szeszt nyakalták, nem csak hogy sikerült egyenesen ülve megmaradniuk a nyeregben, hanem még az emberrablókat is beérték, és elvágták elôlük a menekülés útját.
+say.nr105_1_wedding.70;"Távozhattok. Amilyen gyorsan csak visz a lábatok. Még mielôtt meggondolom magam."
+say.nr105_1_wedding.72;– mondta a királynô. –
+say.nr105_1_wedding.74;"Attól tartok, másutt van halaszthatatlan dolgom,... ahol biztosan nincs sem zene, sem tánc. Tovább kell mennem, amilyen gyorsan csak lehet."\n\n
+say.nr105_1_wedding.75;A lyriaiak folytatták a masírozást. Az élükön Meve léptetett, aki az egyre halkuló muzsikaszó ütemére dobolt halkan ujjaival a nyergének kápáján...
+say.nr105_1_wedding.76;"Támadás! Fogjátok a leányt!"
+say.nr105_1_wedding.8;Hirtelen kiáltás kélt, ahogy idegen fegyveresek rontottak be az udvarra.\n
+title.nr105_1_wedding.1;Jóban-rosszban
+title.nr105_1_wedding.338;Jóban-rosszban
+title.nr105_1_wedding.43;Jóban-rosszban
+

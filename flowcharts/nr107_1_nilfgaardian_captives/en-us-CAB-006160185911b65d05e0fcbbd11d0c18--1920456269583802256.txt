@@ -1,0 +1,30 @@
+menu.nr107_1_nilfgaardian_captives.13;Utasítod az embereidet, hogy engedjék szabadon a foglyokat.
+menu.nr107_1_nilfgaardian_captives.14;Elrendeled a foglyok kivégzését.
+menu.nr107_1_nilfgaardian_captives.8;Utasítod az embereidet, hogy kössék fel a foglyokat.
+menu.nr107_1_nilfgaardian_captives.9;Megígéred a foglyoknak, hogy szabadon engeded ôket.
+say.nr107_1_nilfgaardian_captives.1;Meve és kísérete épp egy keskeny vízmosáson haladt keresztül, amikor egy metszô kiáltás hasított a levegôbe:\n
+say.nr107_1_nilfgaardian_captives.12;Meve a kísérete tiltakozását figyelmen kívül hagyva megígérte, amit a katonák kértek. Azok pedig cserébe bevallották, hogy a parancsnokuk egyenesen a hadsereg fô erôinek irányába nyomult. Itt csak erôsítésre várt, amellyel már sikerrel bevehette Dravográdot. A foglyok állították, hogy az egységek Turnifenen keresztül haladnak majd át.\n
+say.nr107_1_nilfgaardian_captives.17;"Kérném, hogy esküdjetek, nem feditek fel a helyzetünket a parancsnokaitok elôtt"
+say.nr107_1_nilfgaardian_captives.19;A királynô figyelmesen hallgatta a foglyokat, közben többször is bólintva. Majd egyszerûen csak ennyit mondott:\n
+say.nr107_1_nilfgaardian_captives.22;"Nem tudom, Nilfgaardban mi a szokás, de nálunk, itt Északon a legyôzöttek nem szabnak feltételeket."
+say.nr107_1_nilfgaardian_captives.23;Azon a napon a királynô megmutatta, hogy nem kegyelmez az elnyomóiknak. A lyriaiak immár végletekig elszántan meneteltek tovább, készen arra, hogy az életüket adják az ügyért.
+say.nr107_1_nilfgaardian_captives.238;Meve értékes információk birtokába jutott, a foglyok pedig visszanyerték a szabadságukat. Vagyis akkor még így tûnt...
+say.nr107_1_nilfgaardian_captives.239;"Hmm... Ha ott megbújunk, majd rajtuk ütünk, ezáltal feltartva ôket, akkor nem csatlakozhatnak a fôsereghez..."
+say.nr107_1_nilfgaardian_captives.241;"Elônyhöz jutnánk a döntô ütközet elôtt."\n\n
+say.nr107_1_nilfgaardian_captives.242;– súgta Reynard a királynô felé hajolva. –
+say.nr107_1_nilfgaardian_captives.33;A vízmosás környéke egyszerre megtelt élettel, és minden irányból fekete páncélt öltött katonák rontottak elô. A kiáltás ezúttal Meve soraiban kapott szárnyra: "Rajtaütés!"
+say.nr107_1_nilfgaardian_captives.34;"A'anval neen orde!"\n\n
+say.nr107_1_nilfgaardian_captives.37;"Que'ess zaighderan aep Dravograd vaen?"
+say.nr107_1_nilfgaardian_captives.38;A foglyok lázasan tanakodtak, majd egyikük megszólalt a nevükben. Miszerint addig nem válaszolnak a királynô kérdéseire, amíg az meg nem ígéri nekik a szabadságukat. A lyriai katonákat felbôszítette ez az arcátlanság, és akképp feleltek:\n
+say.nr107_1_nilfgaardian_captives.39;"Most már talán feltételeket is szabnak nekünk? Hogy a laza erkölcsû édesanyjukat! Azt mondom, keressünk néhány erôs és vastag ágú fát!"
+say.nr107_1_nilfgaardian_captives.41;Meve mereven bámulta a foglyokat.
+say.nr107_1_nilfgaardian_captives.43;"Mint hogy nem akaródzik beszélnetek, hát maradjatok némák örökre. Készítsék a kötelet!"
+say.nr107_1_nilfgaardian_captives.44;Ahogy elrángatták onnan a foglyokat, azok kiabáltak, tiltakoztak, és átkozták a királynôt – ám mindhiába. Meve nem kockáztathatta, hogy olyan könnyedén felfedjék a pozícióját, mint ahogy a saját parancsnokukét tették.
+say.nr107_1_nilfgaardian_captives.45;"Lógassák fel ôket!"\n\n
+say.nr107_1_nilfgaardian_captives.47;– mondta a királynô, –
+say.nr107_1_nilfgaardian_captives.49;"ám mert oly készségesek voltatok a saját seregetek helyzetének felfedését illetôen, a szavatok számomra semmit sem ér. Takarodjatok a szemem elôl!"\n\n
+say.nr107_1_nilfgaardian_captives.51;Amint a királynô szavait tolmácsolták, a foglyok megkönnyebbülten felsóhajtottak. Szabadságukat visszanyervén lélekszakadva rohantak az erdô irányába hátra-hátra pillantgatva, hogy nincsenek-e üldözôk a nyomukban. De Meve tartotta magát az ígéretéhez.
+say.nr107_1_nilfgaardian_captives.6;Az összecsapást követôen a királynô egységei több nilfgaardi foglyot is a színe elé tereltek. Reynard, aki a leginkább beszélte a korcs nyelvüket, vallatta ôket. Elsô kérdésével azt tudakolta, hány zászlóalj vonul Dravográd ellen:\n
+title.nr107_1_nilfgaardian_captives.236;Ellenséges hadmozgások
+title.nr107_1_nilfgaardian_captives.251;Ellenséges hadmozgások
+

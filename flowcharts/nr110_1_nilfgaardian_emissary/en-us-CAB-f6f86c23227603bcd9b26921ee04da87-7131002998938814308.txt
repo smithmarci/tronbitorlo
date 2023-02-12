@@ -1,0 +1,25 @@
+menu.nr110_1_nilfgaardian_emissary.54;Megadod a választ az ultimátumra.
+menu.nr110_1_nilfgaardian_emissary.55;Utasítod Reynardot, hogy végezzen a küldöttel.
+menu.nr110_1_nilfgaardian_emissary.56;Megparancsolod az embereidnek, hogy verjék vasra a küldöttet.
+menu.nr110_1_nilfgaardian_emissary.78;Rátámadsz a küldött kíséretére.
+say.nr110_1_nilfgaardian_emissary.1;Meve egységei azon kapták magukat, hogy egyenesen egy nilfgaardi csapat felé masíroznak. A megszállók – a királynô legnagyobb meglepetésére – nem rendezôdtek azonnal harci alakzatba. Ehelyett tovább közeledtek, egyenesen feléjük, ám a rémület bármiféle jele nélkül. Az élükön haladó nilfgaardi meglehetôsen cifra és fényûzô ruházatot viselt. Az egész lénye büszkeséget sugárzott és pézsmaillat lengte körül.\n
+say.nr110_1_nilfgaardian_emissary.10;"Köszönöm Önnek, uram. Egy rendkívül választékosan megfogalmazott üzenet, amely minden kétséget kizáróan bizonyítja Nilfgaard felsôbbrendûségét a kulturálisan visszamaradott Északkal szemben"
+say.nr110_1_nilfgaardian_emissary.13;A követ kísérete szétmorzsolódott a lyriaiak pusztító csapásai alatt. A katonák aztán fogták a követet, és a királynô elé cibálták. Szétszaggatott ruhájában és vérzô fejjel többé már nem a Birodalom büszkesége sugárzott belôle.\n
+say.nr110_1_nilfgaardian_emissary.24;"Felség, mit kíván, mit tegyünk ezzel az öntelt hólyaggal?"
+say.nr110_1_nilfgaardian_emissary.28;– felelte a királynô még a Mahakam csúcsait fedô jégnél is metszôbb hûvösséggel. –
+say.nr110_1_nilfgaardian_emissary.29;"Nem látom értelmét, hogy hátráltassuk eme ügyet. Ezért nyomban választ is adok Ô excellenciájának: csak rajta, próbálja meg, a szukafattya!"\n\n
+say.nr110_1_nilfgaardian_emissary.31;Ezzel Meve megsarkantyúzta a lovát, és elvágtatott, ott hagyva a nilfgaardiakat a felvert porfelhôben. A követ és kísérete hátraarcot csináltak, és elindultak vissza arra, amerrôl jöttek, a lyriaiak pedig füttyögéssel és káromlásokkal búcsúztatták ôket.
+say.nr110_1_nilfgaardian_emissary.32;– felelte a királynô. Bár hangja nyugodt volt, azok, akik hallották, legbelül összerezzentek. –
+say.nr110_1_nilfgaardian_emissary.33;"Mi nem tartjuk be, sem nem tiszteljük a civilizált világ szokásait... Azok közül is a követek sértetlenségére vonatkozóakat a legkevésbé. Támadás!"
+say.nr110_1_nilfgaardian_emissary.38;"Öljék meg. Vegyék fejét, majd tegyék azt egy üveg mézbe, és küldjék el aep Dahy tábornoknak az üdvözletemmel egyetemben."\n
+say.nr110_1_nilfgaardian_emissary.39;A követ tiltakozott, ellenkezett, könyörgött, megállapodásokat és egyezményeket sorolt elô, még odáig is elment, hogy nem átallott az emberi tisztességre apellálni. Meve egyiket se hallotta meg.
+say.nr110_1_nilfgaardian_emissary.40;"Láncra verve akarom látni, kalodában és bilincsben! Magunkkal visszük a fôvárosba, és majd a kastély alatti tömlöcben része lehet az Északi vendégszeretetben!"\n
+say.nr110_1_nilfgaardian_emissary.41;A követ szája szólásra nyílt ugyan, de egy tiltakozás, egy hang, annyi sem jött ki belôle. Jól hallhatóan nyelt egyet, ahogy a királynô szinte felnyársalta a tekintetével. Bár rendszerint ékesszóló volt, Traheaern var Vdyffir tökéletesen néma csendben tette meg az utat a fôvárosig.
+say.nr110_1_nilfgaardian_emissary.6;"Ô excellenciája igazat beszél. Mi, Északiak, kivétel nélkül mind barbárok vagyunk"
+say.nr110_1_nilfgaardian_emissary.62;"Traheaern var Vdyffir vagyok, Felség. Arra utasítottak, hogy átnyújtsam Becses Felségednek a Nilfgaardi Birodalom haderejének ultimátumát."\n
+say.nr110_1_nilfgaardian_emissary.70;A követ feltörte a pecsétet a tekercsen, kigöngyölte az iratot, mély lélegzetet vett, majd fennhangon olvasni kezdte:\n
+say.nr110_1_nilfgaardian_emissary.71;"Én, Ardal aep Dahy tábornok, követelem Lyria és Rívia azonnali és feltétel nélküli megadását. Ellenkezô esetben minden egyes várost, falut és templomot felégetek, minden egyes alattvalóját láncra verem, és minden fegyveresét, aki a fogságunkba esik, fellógattatom az utak mentén figyelmeztetésképp, a barbár Észak többi népe okulására."\n\n
+say.nr110_1_nilfgaardian_emissary.72;Még az utolsó fenyegetés visszhangja csengett Meve fülében, mikor a követ eltette a tekercset, és már a válaszra várt egy helyben állva, gunyoros kifejezéssel az arcán. Megengedte magának ezt a szemtelenséget, mert úgy hitte, hogy a diplomaták sértetlenségét szavatoló védettség majd megóvja a királyi harag minden formájától...
+title.nr110_1_nilfgaardian_emissary.243;Én, Ardal aep Dahy...
+title.nr110_1_nilfgaardian_emissary.279;Én, Ardal aep Dahy...
+

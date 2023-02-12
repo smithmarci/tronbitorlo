@@ -1,0 +1,35 @@
+menu.nr114_1_squabbling_nobles.3;Hagyod, hogy Cartwright megtartsa a gyümölcsöst.
+menu.nr114_1_squabbling_nobles.4;Mansfieldnek ítéled a gyümölcsöst.
+menu.nr114_1_squabbling_nobles.8;Elrendeled a gyümölcsös megfelezését.
+say.nr114_1_squabbling_nobles.1;Ahogy Meve és kompániája Pozsgásréten haladt keresztül, harsány szóváltás ütötte meg a fülüket...\n
+say.nr114_1_squabbling_nobles.10;Lord Cartwright már készült, hogy tovább feszegesse a kérdést, ám Reynard egy horkantásával emlékeztette rá, hogy a hûbérura áll elôtte. Az elégedett Mansfield pedig meglehetôsen nagy összegû felajánlást tett Meve hadseregének a támogatására és a királyság védelmére...
+say.nr114_1_squabbling_nobles.11;A királynô fenyegetésével ugyan elnémította a perlekedô urakat, ám a viszályuk elcsitítására tett kísérlete nem járt sikerrel. Néhány esztendô elteltével újra egymás torkának estek...
+say.nr114_1_squabbling_nobles.12;"Fe-fe-felség! Mansfield ellopta... Nem! Hanem elbirtokolta a földemet! A földet, ami már generációk óta a családom tulajdonában van!"\n
+say.nr114_1_squabbling_nobles.13;"Ez az én kárpótlásom! Az ostoba tetteidért! Felégetni a fircheni malmomat, csak mert találtál egy kevés fûrészport a lisztedben? Nos, én soha...!"\n
+say.nr114_1_squabbling_nobles.16;"Egy keveset?! Egy keveset?! Engedjenek oda...! A béreseim megbetegedtek, a szakácsaimat ledöntötte lábukról a láz – és mindez attól a trágyától! Ön egy csaló, uram! Egy szélhámos és tolvaj!"\n\n
+say.nr114_1_squabbling_nobles.17;Bár épp a nilfgaardi megszállás amúgy sem jelentéktelen ügyével készült szembenézni, Meve beleegyezett, hogy segít rendezni a vitát. Reynard, aki betéve tudta minden lyriai és ríviai család históriáját hét nemzedékére visszamenôleg, tanácsaival segítette ôt:\n
+say.nr114_1_squabbling_nobles.18;"A Cartwrightokat illeti, ez nem kérdéses – cím és jog szerint övék ez a földterület. Mégis, felségednek fontolóra kell vennie...! A Mansfieldek mindig is a koronát szolgálták, és sohasem késlekedtek a hûbéri adók beszolgáltatásával. Míg a Cartwrightok... A Cartwrightok szélhámosok és ügyeskedôk, akik már így is sok ezer arannyal tartoznak a kincstárnak."
+say.nr114_1_squabbling_nobles.2;Az uraságok, amint észrevették Meve-et, lejjebb eresztették a hangjukat, meghajoltak, és bemutatkoztak. Ám nem tudták sokáig tûrtôztetni magukat, így hamarosan újra rágalmakat dobáltak egymás fejéhez.\n
+say.nr114_1_squabbling_nobles.20;A királynô a vitatkozó felekhez, két nemesúrhoz, Cartwrighthoz és Mansfieldhez közeledett. Amint azt az eddig hallottak alapján megállapította, a birtokaik között elterülô gyümölcsöskert miatt élezôdött ki közöttük az ellentét. Mindkét nemes oldalán ott várakoztak a földijeik, fegyverekkel a kezük ügyében, pattanásig feszült idegekkel, hogy alkalomadtán egymás torkának ugorhassanak.\n\n
+say.nr114_1_squabbling_nobles.21;"Hogy mondja?! Eleget hallottam! Ezennel párbajra hívom Önt!"\n
+say.nr114_1_squabbling_nobles.22;"Párbajra?! Nevetséges! Elôbb fektetlek a combomra, és náspángolom el alaposan a valagadat, te csirkefogó!"\n\n
+say.nr114_1_squabbling_nobles.248;"Az elhangzottak alapján úgy vélem, mindkettejüknek akad egy s más, ami a lelkiismeretén szárad"
+say.nr114_1_squabbling_nobles.250;– mondta a királynô. –
+say.nr114_1_squabbling_nobles.252;"Nekem pedig sem idôm, sem hajlandóságom nincs arra, hogy megállapítsam, melyikük kezdte ezt az ellenségeskedést. Kettéosztják a gyümölcsöst, és egyikük is, másikuk is megelégszik a felével."\n
+say.nr114_1_squabbling_nobles.253;"A gyümölcsös azt a vazallusomat illeti meg, akit a korona irányában nem terhel semmiféle tartozás. Így látom jónak..."
+say.nr114_1_squabbling_nobles.255;"Ezért azt Mansfieldnek ítélem oda."\n
+say.nr114_1_squabbling_nobles.257;– mondta Meve. –
+say.nr114_1_squabbling_nobles.258;"De a törvény egyértelmûen kimondja,..."\n
+say.nr114_1_squabbling_nobles.260;"A törvény én vagyok, Cartwright."\n\n
+say.nr114_1_squabbling_nobles.261;"De királynôm..."\n
+say.nr114_1_squabbling_nobles.262;"Amennyiben nincs ínyére a döntésem, Mansfield, úgy a földbirtok bármikor visszaszállhat a koronára."\n\n
+say.nr114_1_squabbling_nobles.263;"A helyzet világos, mint a nap"
+say.nr114_1_squabbling_nobles.265;– mondta a királynô. –
+say.nr114_1_squabbling_nobles.267;"A gyümölcsös jog szerint Cartwrightot illeti meg, és ennek így is kell maradnia."\n
+say.nr114_1_squabbling_nobles.269;"Felség..."
+say.nr114_1_squabbling_nobles.271;– kezdett rá Mansfield mérgesen. –
+say.nr114_1_squabbling_nobles.273;"Sok-sok éve szolgálom hûséggel a koronát..."\n
+say.nr114_1_squabbling_nobles.274;"Akkor kérem, hogy eztán is tegyen ekképp, és tartsa tiszteletben a határozatomat."\n\n
+say.nr114_1_squabbling_nobles.9;Lord Mansfield elôbb elzöldült, majd pulykavörösre vált, aztán elkékült, ahogy elôbb az irigység, majd a sértettség, végül az alattomos düh kiült az arcára. Végül mégis beletörôdött az uralkodója ítéletébe. Lord Cartwright, aki alig tudta palástolni az örömét, hogy kimutassa háláját, a legjobb kardforgatóit bocsátotta Meve rendelkezésére a csapatait erôsítendô.
+title.nr114_1_squabbling_nobles.247;A viszály gyümölcsöskertje
+

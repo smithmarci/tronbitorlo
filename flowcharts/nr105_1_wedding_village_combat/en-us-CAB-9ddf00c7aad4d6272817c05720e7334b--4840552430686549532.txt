@@ -1,0 +1,5 @@
+say.nr105_1_wedding_village_combat.1;Állítsátok meg ôket!
+say.nr105_1_wedding_village_combat.3;Most megvannak, Felség!
+say.nr105_1_wedding_village_combat.5;Elmenekülnek! Meg kell állítanunk ôket!
+say.nr105_1_wedding_village_combat.7;Felség, majdnem sikerült elinalniuk!
+

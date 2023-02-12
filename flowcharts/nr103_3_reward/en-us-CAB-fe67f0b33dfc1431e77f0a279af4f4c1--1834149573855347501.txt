@@ -1,0 +1,10 @@
+menu.nr103_3_reward.2;Visszaszolgáltatod a kincseket a papnôknek.
+menu.nr103_3_reward.3;Megtartod a fellelt kincseket.
+say.nr103_3_reward.10;– mondta Meve némi mérlegelés után. Aztán elrendelte a kincsek szekérre rakodását. Ahogy az egyenetlen úton haladtak, minden, a ládákból kihallatszó csörrenés arra emlékeztette a királynôt, hogy megrövidítette az isteneket, csak hogy a királyságát mentse.
+say.nr103_3_reward.11;"A királyság nehéz idôknek néz elébe"
+say.nr103_3_reward.12;– mondta a királynô rövid hallgatás után. –
+say.nr103_3_reward.13;"Ez mégsem lehet mentség arra, hogy feladjuk az elveinket. Nem! Ilyenkor inkább még jobban ragaszkodnunk kell hozzájuk."\n\n
+say.nr103_3_reward.6;"Melitele meg fogja érteni"
+say.nr103_3_reward.7;Meve elrendelte a kincs visszaszolgáltatását a szentélynek. Az összesét, az utolsó koronáig. A királynô cselekedetétôl megindultan néhány novícia csatlakozott Meve kíséretéhez, hogy segítsék és ápolják a csatákban megsebesülteket. Bár arany nem ütötte markukat e jótéteményért, a királynô és kompániája lélekben gazdagabban haladt tovább.
+title.nr103_3_reward.253;Megszentségtelenített szentség
+

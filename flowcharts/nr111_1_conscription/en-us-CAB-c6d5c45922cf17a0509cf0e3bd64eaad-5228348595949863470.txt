@@ -1,0 +1,22 @@
+menu.nr111_1_conscription.2;Beszédet mondasz.
+menu.nr111_1_conscription.3;Szolgálatra kötelezed a város férfijait.
+menu.nr111_1_conscription.4;Több illetményt ígérsz a katonáknak.
+say.nr111_1_conscription.1;A nilfgaardiak megszállása szükségessé tett néhány intézkedést. Meve üzenetet küldött minden helyôrség parancsnokának, hogy hirdessék ki az általános hadkötelezettséget. Remélte, hogy amint Derûsgátba ér, frissen besorozott újoncok várják majd, hogy az egyre növekvô seregéhez csatlakozzanak. Ám eme erôd parancsnokának, bizonyos Griggs ôrmesternek csak rossz hírei voltak a számára:\n
+say.nr111_1_conscription.10;"Egy fikarcnyit sem érdekel, hogy miben hisznek!"
+say.nr111_1_conscription.11;A parancsnok, amilyen gyorsan csak tudta, a fô térre csôdítette Derûsgát lakosait. Meve elébük állt, és elôsorolta a legutóbbi gyôzelmeit. Derûsgát lakói visszafojtott lélegzettel hallgatták.\n
+say.nr111_1_conscription.12;"Akkor hadd hallják, hogyan vertem meg a Feketéket Dravográdnál!"\n\n
+say.nr111_1_conscription.14;"Felség... még a falak védelmére sincs elegendô emberem! A mozgósítás ugyan hozott néhány újoncot, ám napról napra egyre többen dezertálnak... A népek borzasztóan rettegnek, nem hisznek a gyôzelemben."
+say.nr111_1_conscription.16;– A királynô felegyenesedett az asztal mögött, feldöntve ezzel a székét. –
+say.nr111_1_conscription.17;"...És ezért össze kell tartanunk! Vállt vállnak vetve kell harcolnunk! Nekünk kell lennünk a falnak, amelyen a Fekete hordák áradata megtörik és elenyészik!"\n
+say.nr111_1_conscription.19;A polgárok mennydörgésszerû tapsban és ovációban törtek ki – bár tudjuk jól, hogy a lelkesedés ritkán hosszúéletû valami. Azok, akiket ennyire feltüzeltek Meve szavai, alig néhány nap után felszívódtak. Nem csatlakoztak friss újoncok a helyôrséghez, és a polgárok elbujdostak Griggs ôrmester elôl, hogy elkerüljék a kötelezô szolgálatot.\n\n
+say.nr111_1_conscription.21;Sem a város kaszárnyája, sem Meve serege nem lett erôsebb – Meve pedig olyan mérgesen hagyta el Derûsgátat, mint egy rozsomák.
+say.nr111_1_conscription.23;– mondta Meve, miközben felállt az asztaltól. –
+say.nr111_1_conscription.25;"Akkor hagyjuk, hogy a pénz beszéljen. Ôrmester, hirdettesse ki: minden újonc a katonák szokásos illetményének a kétszeresét kapja."\n\n
+say.nr111_1_conscription.27;Bár meglehetôsen költséges volt, Meve döntése azonnali eredményeket hozott. Az arany ígérete által csábítva a városlakók tömegével jelentkeztek szolgálatra a kaszárnyában. Meglehet, hogy a királynô szegényebben hagyta el Derûsgátat, de felbuzdulva azon, hogy immár egy erôsebb sereget tudhatott maga mögött.
+say.nr111_1_conscription.29;– mondta Meve komolyan, miközben felkelt az asztaltól. –
+say.nr111_1_conscription.31;"Harcolni fognak, és errôl ennyit. Ôrmester! Doboltassa ki, hogy Derûsgát mindazon lakói, akik már legalább 16 esztendôt megértek, és nem láttak még negyven nyarat, jelentkezzenek a kaszárnyában. Bárki, aki kibújik ezen kötelezettsége alól, büntetést fizetni köteles, és nyilvános botozásban részesül."\n\n
+say.nr111_1_conscription.33;Az a kilátás, miszerint a királynô által elrendelt büntetésben részesülhetnek, elégségesnek bizonyult ahhoz, hogy Derûsgát lakosai – bár kényszer hatására, de – belépjenek a hadseregbe. Azonban az újoncok elkötelezettsége hagyott kívánnivalót maga után...
+say.nr111_1_conscription.8;"Nem hisznek a gyôzelemben?"
+say.nr111_1_conscription.9;"Mint hogy a haza szeretete nem tûnik kellô ösztönzôerônek..."
+title.nr111_1_conscription.244;A királyságért!
+

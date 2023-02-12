@@ -1,0 +1,30 @@
+menu.nr103_2_temple_robbers.2;Utasítod az egységeidet az útonállók megtámadására.
+menu.nr103_2_temple_robbers.3;Felhagysz a támadással, és tovább mész.
+menu.nr103_2_temple_robbers.53;Kiadod a parancsot a támadásra.
+menu.nr103_2_temple_robbers.54;Utasítod a sereged, hogy vonuljon tovább.
+menu.nr103_2_temple_robbers.91;Megtámadod a haramiákat.
+menu.nr103_2_temple_robbers.92;Utasítsd az embereidet, hogy vonuljanak vissza.
+say.nr103_2_temple_robbers.1;A zsiványok egy közeli erdôben ütöttek tábort. A szentély alatti pincékbôl zsákmányolt bortól már meglehetôsen emelkedett hangulatban voltak, még ôrszemeket sem állítottak.\n
+say.nr103_2_temple_robbers.13;A királynô serege leverte a haramiákat, és visszaszerezte a papnôk meglovasított értéktárgyait: ezüstkelyheket, gyöngyház berakású ereklyéket, arannyal hímzett köntösöket...\n
+say.nr103_2_temple_robbers.16;Meve úgy döntött, hogy továbbhaladnak. Arra jutott, nem vesztegetheti az idôt, hogy banditákat hajkurásszon a susnyásban...
+say.nr103_2_temple_robbers.253;Meve katonáinak már viszketett a kezük a fegyvereik markolatán. A szentségtörôket meg kellett büntetni! De csak a királynô rendelhette el a támadást.
+say.nr103_2_temple_robbers.254;"Egy újabb kört a jó nôvérekre! Hahaha!"\n\n
+say.nr103_2_temple_robbers.255;"Ideje, hogy pórázra kössük ezeket a hitvány ebeket..."
+say.nr103_2_temple_robbers.256;– köpte a szót a királynô, miközben a lovát ösztökélte. –
+say.nr103_2_temple_robbers.257;"Fegyverbe! Utánam!"\n\n
+say.nr103_2_temple_robbers.26;Amint a királynô Reynarddal beszélgetve léptetett elôre, az oldala mellett egy felderítô jelent meg csatakos, nyálhabos pofájú lova hátán.\n
+say.nr103_2_temple_robbers.41;"A papnôk hálásak lesznek, ha visszaszolgáltatjuk nekik a kincseiket, Felség. Imádkozni fognak a gyôzelméért"
+say.nr103_2_temple_robbers.42;– vélekedett Reynard. –
+say.nr103_2_temple_robbers.43;"Bár... meg is tarthatja az ezüstöket, a háborús törekvéseire fordítva azokat. Ki tudná megmondani, melyik volna hasznosabb – az imádság vagy a pénz..."
+say.nr103_2_temple_robbers.68;Ahogy a sebesültek nyöszörgése abbamaradt, Meve utasította az embereit, hogy kutassák át a tábort. Az egyik sátorban rá is leltek az ezüsttálakkal és a ceremóniák során viselt ruhanemûvel dugig tömött ládákra.\n
+say.nr103_2_temple_robbers.69;"A szentélybôl valók, ez kétségtelen."
+say.nr103_2_temple_robbers.71;Miközben egy gyöngysort morzsolt az ujjai között, Meve azt mérlegelte, mit tegyen a megtalált kincsekkel.
+say.nr103_2_temple_robbers.72;"Felség! Haramiák! Letáboroztak! Távolabb, az erdôben! És számosan vannak... Nyakamat rá, hogy Spalla Bitangjai azok!"\n\n
+say.nr103_2_temple_robbers.73;A királynô hirtelen megszorította a gyeplôt, és megállította a lovát. Az egységei figyelték, és várták a parancsait.
+say.nr103_2_temple_robbers.85;A lyriaiak megközelítették a tisztást, amelyen a haramiák tábort vertek. A királynô a kezét a kardja markolatára csúsztatta...
+say.nr103_2_temple_robbers.9;Kupák hullottak a földre, amint a Bitangok a fegyvereikért kaptak. A zsiványok fejében meg sem fordult, hogy harc nélkül adják meg magukat.
+say.nr103_2_temple_robbers.93;– mondta Reynard.
+say.nr103_2_temple_robbers.95;"Az erdô túlfelén áll Melitele egyik szentélye. Megtámadva és kifosztva, lefogadom."\n\n
+title.nr103_2_temple_robbers.252;Megszentségtelenített szentség
+title.nr103_2_temple_robbers.274;Megszentségtelenített szentség
+

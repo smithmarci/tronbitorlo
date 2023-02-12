@@ -1,0 +1,13 @@
+menu.nr107_2_siege_machine_camp.7;Utasítod az embereidet, hogy támadjanak.
+menu.nr107_2_siege_machine_camp.8;Megvárod, amíg a nilfgaardi sereg tovavonul.
+say.nr107_2_siege_machine_camp.1;Meve eljutott oda, ahová a foglyok mondták: a festôi szépségû Turnifen falucskába. És valóban, hamarosan óriási porfelhô tûnt fel a láthatáron. Egy hatalmas ellenséges sereg közeledett.\n
+say.nr107_2_siege_machine_camp.11;Bár az egységei mindennél jobban vágytak csatában a megszállók szeme közé nézni, azonban Meve nem adta ki a parancsot a támadásra. Talán nem kívánta kifullasztani a csapatait a döntô küzdelem elôtt, vagy csak attól tartott, hogy elveszne a meglepetés ereje. Akárhogy is, Meve soha nem árulta el a döntése okát senkinek.
+say.nr107_2_siege_machine_camp.12;Meve nem hagyhatta veszni az alkalmat. A nilfgaardiak közeledtek, egyenesen a fenyegetés felé. Amint lôtávolba értek, a királynô megadta a jelet a számszeríjászainak, hogy lôjenek, majd rohamra indult a lovassága élén.\n
+say.nr107_2_siege_machine_camp.18;És így vezette Meve gyôzelemre a seregét. A historikusok az ütközetet azóta a Turnifeni csata-néven említik. Azok a nilfgaardiak, akik túlélték, beszámolóikban egy rájuk szabadult förtelemrôl beszéltek – egy harcos asszonyról aranyozott és vértôl szennyezett páncélban, kinek csapásai oly erôteljesek voltak, hogy még a legerôsebb mellvértet és pajzsot is beszakították.\n\n
+say.nr107_2_siege_machine_camp.22;"Rontsatok rájuk! Utánam! Gyía!"
+say.nr107_2_siege_machine_camp.30;A lyriaiak aztán Dravográd felé vették az irányt, és közben mulattatta ôket a képzet, amint az ellen az erôsítésre vár, baráti csapatok zászlajainak feltûnésére a látóhatáron... És hogy erre már hiába vártak.
+say.nr107_2_siege_machine_camp.31;"Várjuk a parancsát, Felség!"
+say.nr107_2_siege_machine_camp.33;– Reynard várakozással telve figyelte a királynôt.
+title.nr107_2_siege_machine_camp.237;Ellenséges hadmozgások
+title.nr107_2_siege_machine_camp.254;Ellenséges hadmozgások
+

@@ -1,0 +1,20 @@
+menu.nr201_1b_advisors_introduction.685;Nyugodjanak le, mindketten!
+menu.nr201_1b_advisors_introduction.686;Ne húzza fel magát, Reynard.
+menu.nr201_1b_advisors_introduction.687;Mutass némi tiszteletet, Gascon.
+say.nr201_1b_advisors_introduction.1;Nem sokkal azután, hogy Aedirnbe érkeztek, Meve pihenôt rendelt el. Le akart ülni megtervezni a továbbhaladásukat Fekete Raylával, mert hogy Rayla ismert minden utat a királyságban, még azokat is, amiket egyetlen térkép sem jelölt. Lázas megbeszélést folytattak, amikor egyszer csak kiáltások harsantak a sátrak között...
+say.nr201_1b_advisors_introduction.10;Vagy mi lesz, áruld el? Kényszeríteni fogsz, hogy földhöz vágjam magam, és lenyomjak itt neked ötvenet?
+say.nr201_1b_advisors_introduction.11;Utoljára mondom el: mint a rangidôs tisztje, utasítom, hogy hagyja el a gyakorlóteret, vagy...
+say.nr201_1b_advisors_introduction.14;Badarság! Egy harcoló alakulatnak fegyelmezettnek kell lennie. Máskülönben a tervezés és a taktikázás lehetetlen volna. Egy katonának engedelmeskednie kell a parancsoknak!
+say.nr201_1b_advisors_introduction.16;Ebben mind egyetértünk. És mivel én adom ki ezeket a parancsokat, az a parancsom, hogy mindketten nyugodjanak le, de azonnal! És soha többet ne merjenek a katonák elôtt civakodni.
+say.nr201_1b_advisors_introduction.17;Korlátozottak az erôforrásaink. Nem tehetünk meg mindent egyszerre. Készítsék össze a javaslataikat az újoncok kiképzését illetôen, és majd én eldöntöm, melyik tervet követjük. Érthetô? Akkor munkára!
+say.nr201_1b_advisors_introduction.2;Csapdát állítani, a nyomainkat eltüntetni – erre kell megtanítanunk a legényeket! Nem pedig az ütemre masírozásra.
+say.nr201_1b_advisors_introduction.3;És itt van a kutya elásva, drága Reynard. Hadsereg. Ez nem hadsereg, csak ellenállók szedett-vedett bandája. Ha nem alkalmazkodunk az elkeserítô helyzet szabályaihoz, ha ragaszkodunk a katonai akadémia elveihez, akkor bizony veszíteni fogunk.
+say.nr201_1b_advisors_introduction.4;Hogy merészeli! Tizenöt éve képezem a lyriai hadsereg katonáit, és--
+say.nr201_1b_advisors_introduction.5;Aztán vállt vállnak vetve harcoljanak, ahogy kell!
+say.nr201_1b_advisors_introduction.6;A csapatmozgásra, Gascon. Ég és föld a különbség. A katonáknak tökéletes összhangban kell mozogniuk a csatatéren. Különben megtörik az alakzat, az ellenség áttör a vonalainkon,... a seregünket pedig lemészárolják.
+say.nr201_1b_advisors_introduction.688;Fékezze a dühét, Reynard. Van igazság abban, amit Gascon mond... El kell fogadnunk, hogy megváltoztak a körülmények.
+say.nr201_1b_advisors_introduction.689;Mutass némi tiszteletet, Gascon. Te még csak hintalovon himbáltad magad, amikor Reynard már csatába vágtatott az emberei élén. Ne becsüld alá a tapasztalatát.
+say.nr201_1b_advisors_introduction.7;Sétálni.
+say.nr201_1b_advisors_introduction.8;Felség... Gondoltam, kihasználom az idôt, és gyakorlatoztatom az újoncokat, hogy megtanítsam ôket--
+say.nr201_1b_advisors_introduction.9;Mit jelentsen ez?
+

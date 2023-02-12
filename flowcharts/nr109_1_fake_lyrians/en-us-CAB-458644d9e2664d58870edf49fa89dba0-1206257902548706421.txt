@@ -1,0 +1,27 @@
+menu.nr109_1_fake_lyrians.19;Békén hagyod ôket.
+menu.nr109_1_fake_lyrians.8;Utánuk küldöd a felderítôket. Tudnod kell, miben mesterkednek.
+say.nr109_1_fake_lyrians.13;Állítson össze egy csapatot! Utasítsa ôket, hogy maradjanak újdonsült szövetségeseink nyomában, és figyeljék ki amazokat.
+say.nr109_1_fake_lyrians.14;Reynard felderítôi úgy tettek, amint megparancsolták nekik – figyelték az ál-lyriaiakat, miközben ôk maguk észrevétlenek maradtak. Nem sokkal ezután egy felderítô tért vissza a hírrel, hogy az ál-lyriaiak feltehetôen Restvár felé tartanak, amely vár jó néhány mérföldre, északra található...
+say.nr109_1_fake_lyrians.20;Ne. Hagyják ôket. Ilyen kis egység nem okozhat nekünk kárt. Viszont nem vesztegethetjük rájuk az idôt, mert hogy mielôbb Dravográdhoz kell érnünk.
+say.nr109_1_fake_lyrians.21;Ahogy óhajtja, Felség.
+say.nr109_1_fake_lyrians.242;"És hogy szolgál az édesapja egészsége, ha megkérdezhetem? Remélem, jó egészségnek örvend?"\n
+say.nr109_1_fake_lyrians.243;"Igen, bár még mindig ápolásra szorul a hupli miatt, amit tavaly télen, egy vadászat alkalmával szerzett. Megmondom majd neki, hogy érdeklôdött a hogyléte felôl."\n\n
+say.nr109_1_fake_lyrians.244;Mert untatta az efféle, banális témáról folyó diskurzus, Meve megsarkantyúzta a lovát, és elügetett. Amint Eldart és kíséretét biztonságos távolban tudták, félrevonta Reynardot...
+say.nr109_1_fake_lyrians.245;Meve úgy döntött, szót vált a parancsnokkal, egy bizonyos Eldar lovaggal. Ez volt az elsô alkalom, hogy találkoztak, és az ifjú rendkívül mély benyomás tett rá.\n
+say.nr109_1_fake_lyrians.246;"Végre valahára!"
+say.nr109_1_fake_lyrians.248;– mondta egy mosoly kíséretében.\n\n
+say.nr109_1_fake_lyrians.42;Egy nap, amikor épp a horizontot kémlelte, a királynô szél lengette lyriai lobogókat vett észre a távolban.\n
+say.nr109_1_fake_lyrians.43;Mi a parancsa, Felség? Megfigyeljük ezeket a nilfgaardi imposztorokat?
+say.nr109_1_fake_lyrians.44;Reynard, nem most van itt az ideje a pletykálkodásnak, sem pedig az udvariaskodásnak. Háborúban állunk.
+say.nr109_1_fake_lyrians.5;Akkor ez azt jelenti... Ó, a szukafattya. Ámbár a kiejtése kifogástalan.
+say.nr109_1_fake_lyrians.56;De ahelyett, hogy Eldart az ellenség csapatmozgásairól kérdezte volna, Reynard egy látszólag lényegtelen irányba terelte a beszélgetést:\n
+say.nr109_1_fake_lyrians.57;Eldar apja egy hónappal ezelôtt elhunyt. A fiának, úgy vélem, ezzel tisztában kellett volna lennie.
+say.nr109_1_fake_lyrians.58;Reynard, térjen a lényegre!
+say.nr109_1_fake_lyrians.59;Tartok tôle, ô nem az, akinek mi gondoljuk. Nilfgaard kémei rendkívül jól felkészültek.
+say.nr109_1_fake_lyrians.6;Igen, Felség. És ezekben az idôkben a látszat nem csak néha lehet csalóka. Mint ahogy egy ember neve sem.
+say.nr109_1_fake_lyrians.60;Mondja, mibôl tudta?
+say.nr109_1_fake_lyrians.62;Nem hord gyászszalagot a páncélzatán. Ellenkezô esetben,... beismerem, valószínûleg nem jöttem volna rá.
+say.nr109_1_fake_lyrians.63;Ahogy kívánja, Felség.
+title.nr109_1_fake_lyrians.1;Idegen tollakkal
+title.nr109_1_fake_lyrians.241;Idegen tollakkal
+

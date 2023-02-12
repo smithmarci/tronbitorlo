@@ -1,0 +1,3 @@
+say.nr115_3_chat.2;Arról járja a szóbeszéd, hogy az Ájerfalva határában fekvô temetô szörnyek otthona, és még azoknál is ocsmányabb dögöké.
+say.nr115_3_chat.3;Meg fogjuk tudni, mennyi belôle az igaz. És vagy így, vagy úgy, de véget vetünk a pletykáknak.
+

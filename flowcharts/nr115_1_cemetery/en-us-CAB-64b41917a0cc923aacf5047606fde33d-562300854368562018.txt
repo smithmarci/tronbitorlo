@@ -1,0 +1,31 @@
+say.nr115_1_cemetery.11;"Haramiák?"\n
+say.nr115_1_cemetery.12;"Dehogy, Úrnôm"
+say.nr115_1_cemetery.13;– felelte a kordés ember. –
+say.nr115_1_cemetery.14;"Egy bestia volt."\n
+say.nr115_1_cemetery.17;"Innen keleti irányba', Ájerfalva felé menet van egy temetô, ami – mondják, – olyan öreg, mint a tündék maguk"
+say.nr115_1_cemetery.18;– folytatta a paraszt. –
+say.nr115_1_cemetery.19;"Clettum hurokcsapdákat állított, nem messze amonnan. Rohanvást jött vissza mihozzánk, vértôl csatakosan, és közben valami hosszú hajú némberrôl hadovált, aki egy sírból mászott elô... Elvisszük a jó papnôkhöz Melitele szentélyébe, ide a közelbe. Hátha azok tudnak rajta segíteni..."\n
+say.nr115_1_cemetery.20;"Biztos vagyok benne, hogy tudnak,... és fognak is"
+say.nr115_1_cemetery.21;– válaszolta a királynô, bár már csak abból, hogy egy pillantást vetett a szerencsétlenre, tudta, hogy az még éjfél elôtt halott lesz. –
+say.nr115_1_cemetery.22;"Az istenek kísérjenek benneteket utatokon."
+say.nr115_1_cemetery.25;A királynô füttyentett egyet, és a kancája újra elindult alatta.\n
+say.nr115_1_cemetery.26;"Küldessek egy vajákért, Felség?"
+say.nr115_1_cemetery.27;– kérdezte Caldwell gróf. –
+say.nr115_1_cemetery.28;"Azok a szörnyszülöttek hamar véget vetnének a kreatúra földi pályafutásának."\n
+say.nr115_1_cemetery.29;"Amíg a banditákat kézre nem kerítjük, egy teremtett léleknek sem engedélyezhetem, hogy elhagyja az egységét, még egy olyan küldetés okán sem, mint egy vaják elôkerítése"
+say.nr115_1_cemetery.30;– felelte Meve. –
+say.nr115_1_cemetery.31;"Ha bármelyikük megtenné, nyomban elfognák. Bár... ha Ájerfalva felé vet minket a sors, talán magunk is elbánhatunk ezzel az iszonytató satrafával."\n
+say.nr115_1_cemetery.32;"Felség... Alig hogy szörnyekkel hadakoztunk, és azt is épp hogy csak túléltük. A banyarém ellen ezüstkard és varázsigék kellenének..."\n
+say.nr115_1_cemetery.33;"Ám be kell hogy érjük néhány számszeríjásszal"
+say.nr115_1_cemetery.34;– mondta a királynô nyugodtan, de határozottan. –
+say.nr115_1_cemetery.35;"És, Caldwell, kérem, növesszen már gerincet. Most pedig elôre!"
+say.nr115_1_cemetery.38;"Utat a királynônek!"\n\n
+say.nr115_1_cemetery.4;Egy nagy halom szalmával megrakott kordé közeledett zötykölôdve az úton, szembôl.\n
+say.nr115_1_cemetery.5;"Tegyétek szabaddá az utat!"
+say.nr115_1_cemetery.6;– üvöltötte Caldwell gróf felállva a kengyelben. –
+say.nr115_1_cemetery.7;A parasztok, engedelmeskedve a felszólításnak, az útszéli csalános felé irányozták a kordéjukat. Ahogy elhaladt mellettük, Meve feléjük pillantott,... és ledermedt. A szénakupac tetején egy súlyosan megsebesült férfi feküdt, akit láthatóan gyötört a láz. A rothadás átható, édeskés szaga szállt a bekötözött lába felôl.\n
+say.nr115_1_cemetery.8;– kérdezte Meve. –
+say.nr115_1_cemetery.9;"Az istenekre! Ki tette ezt vele?"
+text.nr115_1_cemetery.1;Ezennel az oktató-rész végére értél. Innentôl már csak magadra számíthatsz. Sok szerencsét!
+title.nr115_1_cemetery.3;Egy sovány vigasz
+

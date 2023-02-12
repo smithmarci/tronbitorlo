@@ -1,0 +1,3 @@
+say.nr110_1_nilfgaardian_emissary_combat.1;Ez... Ez civilizálatlanság! Barbárság! Rátámadni egy követre...!
+say.nr110_1_nilfgaardian_emissary_combat.3;Asszonyom... Felség... hagyja abba!
+

@@ -1,0 +1,4 @@
+say.nr109_0_fake_lyrians_gpl.1;Mi a fene folyik itt...? Hol marad az erôsítés? Villem miért nem indult meg, hogy megütközzön az ellennel, hogy felszabadítsa az ostromlott városokat?
+say.nr109_0_fake_lyrians_gpl.3;Meg nem mondhatom, Felség. Egy üzenetet, annyit se kaptunk a hercegtôl.
+say.nr109_0_fake_lyrians_gpl.5;Legyenek átkozottak az istenek... Úgy érzem, mintha egyes egymagam harcolnék a Feketék ellen!
+

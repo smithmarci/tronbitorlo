@@ -1,0 +1,38 @@
+menu.nr112_1_meet_eyck.13;A segítségedre leszek, ha aztán csatlakozol hozzánk.
+menu.nr112_1_meet_eyck.14;Ég veled, lovag uram.
+menu.nr112_1_meet_eyck.486;Ragaszkodom hozzá, Sir Eyck.
+menu.nr112_1_meet_eyck.487;Jól van. Nem kötelezhetlek rá.
+menu.nr112_1_meet_eyck.5;Hogy megy a vadászat?
+menu.nr112_1_meet_eyck.6;Ég veled, Deneslei Eyck.
+say.nr112_1_meet_eyck.1;Egy verôfényes napon, úton a fôváros felé Meve és csapata egy magányos lovassal találkozott. Ha akkor jómagam is ott vagyok, azon nyomban felismertem volna elhivatottságtól csillogó, átszellemült tekintetérôl és lovagi tartásáról.
+say.nr112_1_meet_eyck.10;Önnel is, Felség.
+say.nr112_1_meet_eyck.11;Sikeres a vadászat? Akadtál már nyomára szörnynek?
+say.nr112_1_meet_eyck.12;Feje, mint az ofíri vadmacskáknak, pofája hegyes fogakkal teli, hátán denevérszárnyak, és skorpiófarka méregtôl csöpögô, úgy mesélik. Tanult emberek ezt a fajtát mantikórnak vagy mardiakórnak hívják.
+say.nr112_1_meet_eyck.16;Hmm... Segítségedre leszünk a mantikór fellelésében és legyôzésében. Cserébe esküdj, hogy segítesz nekünk leküzdeni egy még annál is ádázabb és ocsmányabb szörnyet.
+say.nr112_1_meet_eyck.17;Természetesen, Úrnôm... De mégis, miféle szörnyûségrôl beszélünk? Egy vívernrôl? Vagy esetleg egy griffrôl? Netalántán valamiféle sárkánygyíkról?
+say.nr112_1_meet_eyck.18;Nemes Asszonyom, nem ismerem betéve a bestiáriumot, és bár sokfelé jártam a világban, de még soha nem hallottam efféle rettenetrôl.
+say.nr112_1_meet_eyck.19;Bárcsak az volna! Ennek a bestiának ezer feje van, fekete páncél borítja, és tüze egész falvakat emészt el.
+say.nr112_1_meet_eyck.2;Kicsoda Ön, uram? És mi a szándéka?
+say.nr112_1_meet_eyck.20;Szörnynek? Ez túl szép kifejezés volna rá! Egy kivételesen hitvány féreg vette be magát a közeli barlangokba. Azt beszélik, hogy maga a megtestesült gonoszság, a valóra vált rémálom, az iszonyat kvintesszenciája.
+say.nr112_1_meet_eyck.21;Akkor talán nem volna botor dolog egy vajákért szalajtani.
+say.nr112_1_meet_eyck.22;Kit látnak a szemeim? Csak nem egy kóbor lovagot?
+say.nr112_1_meet_eyck.24;Hm. Vagy egy kóborló ôrültet.
+say.nr112_1_meet_eyck.25;Fogadalmat tettem, hogy addig a napig nem nyugszom, amíg – az istenek segedelmével – meg nem szabadítom a világot ezektôl a bestiáktól és förmedvényektôl. Járom a vidéket, felkutatom a gonoszt, és kiállok ellene halálig tartó közdelemben.
+say.nr112_1_meet_eyck.27;Vajákért? Pfuj! Lelketlen monstrumok mind, amik a népek félelmein élôsködnek. Amit csak pénzért hajlandóak megcselekedni, azt én megteszem fizetség nélkül is.
+say.nr112_1_meet_eyck.29;Sir Eyck, távol álljon tôlem, hogy eltántorítsalak, mert hogy szándékod nemes, ez kétségtelen... Ám legjobb tudomásom szerint a mantikórok mérhetetlenül veszélyes teremtmények.
+say.nr112_1_meet_eyck.3;Deneslei Eyck a nevem. És a szándékaimat sosem titkolom.
+say.nr112_1_meet_eyck.31;Egyedül a mocsadékot legyôzni valóban embert próbáló feladat lesz, nem tagadom... Mégis meg kell próbálnom, mert hogy az istenek színe elôtt erre tettem fogadalmat.
+say.nr112_1_meet_eyck.32;Csak körül kell nézned. És nyomban megláthatod Nilfgaard légióit...
+say.nr112_1_meet_eyck.33;...
+say.nr112_1_meet_eyck.35;Lesújtó, valóban, de meg kell bocsátania, Felség. Ez a birodalmak közti küzdelem nem a sajátom, ebben nem nyújthatok segítô kezet.
+say.nr112_1_meet_eyck.37;Mekkora az étvágya egy mantikórnak? Hány embert zabál fel? Mondjuk, úgy egy holdtölte alatt?
+say.nr112_1_meet_eyck.39;Az attól függ. Amikor a szörnyeteg költ, akkor akár húszat is.
+say.nr112_1_meet_eyck.4;A Jóság Könyve azt mondja, a világ egy kert, amit az istenek egykoron az embernek adományoztak. És mi, emberek, elhanyagoltuk ezt a kertet. Ennek következményeképp vert tanyát itt mindenféle mocsok: vízbefúltak, ghúlok, és más koboldok!
+say.nr112_1_meet_eyck.41;Értem, de te is érts meg engem. Ha Nilfgaard az én fôvárosomba teszi a lábát, legalább húszezer ember veszik oda.
+say.nr112_1_meet_eyck.42;Azért élsz, hogy a gonosz, az igazságtalanság ellen küzdj, nem de? Nem harcolhatsz más nagyobb ellen, mint ami ellen az én oldalamon küzdhetnél.
+say.nr112_1_meet_eyck.44;Elôbb a mantikórnak kell vesznie, Felség. Hogy mi történik azután... Azzal kapcsolatban a Jóság Könyvének szavait kell iránymutatásul hívnom, és kérnem az istenek közbenjárását.
+say.nr112_1_meet_eyck.46;Megegyeztünk, legyen így. Merre van ennek a rémségnek a fészke, merrefelé portyázik?
+say.nr112_1_meet_eyck.48;Innen északra, Királynôm. Néhány mérföldnyire távolabb.
+say.nr112_1_meet_eyck.488;Ha ekképp látod a dolgot... Nem ragaszkodhatom hozzá.
+say.nr112_1_meet_eyck.9;Nagyra értékelem a törôdést, amit a népem irányában tanúsítasz, Deneslei Eyck lovag. Ég veled!
+

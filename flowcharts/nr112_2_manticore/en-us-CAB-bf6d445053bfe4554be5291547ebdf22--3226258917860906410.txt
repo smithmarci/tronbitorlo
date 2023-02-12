@@ -1,0 +1,30 @@
+menu.nr112_2_manticore.2;Utasítod az embereidet, hogy fogjanak hozzá a mantikór becserkészéséhez.
+menu.nr112_2_manticore.3;Nem lépsz be a barlangba.
+menu.nr112_2_manticore.41;Nekilátsz becserkészni a mantikórt.
+menu.nr112_2_manticore.42;Megtiltod az egységeidnek, hogy a barlangba lépjenek.
+say.nr112_2_manticore.1;A felderítôk a hosszan kígyózó, komor szurdok legmélyén ráleltek egy hatalmas üreg ásító torkára. Az elôtte heverô görgetegkövek között szerteszét csontok fehérlettek. Eyck leszállt a nyeregbôl, és elôvonta kardját.\n
+say.nr112_2_manticore.14;Eyckkel az oldalukon a lyriaiak levágták a mantikórt. Késôbb azt beszélték, hogy a haláltusáját vívó bestia barlangjáratokon keresztül dübörgô bömbölése felerôsödve és megtöbbszörözôdve még Spalláig is elhallatszott.
+say.nr112_2_manticore.21;"Kegyelmes istenek, ráleltünk hát a bestia fészkére"
+say.nr112_2_manticore.22;Felség, az én idômben számos uralkodóval találkoztam, de közülük egy sem küzdött oly férfiasan, mint Felséged.
+say.nr112_2_manticore.23;Nem, Felség. Csak az isteneket szolgálhatom.
+say.nr112_2_manticore.24;Mondd hát: meghoztad a döntésed? Esküszöl, hogy szolgálni fogsz engem? Készen állsz arra, hogy fogadalmat tegyél?
+say.nr112_2_manticore.25;"Férfiasan" – nem kedvemre való ez a kifejezés, nem tûnik nôre illônek. Inkább azt mondanám, "vitézül". Ennek ellenére hálás vagyok a bókért.
+say.nr112_2_manticore.256;Mégis, mintha Ön nem tartaná ôket valami sokra. Nem tudtam nem észrevenni a szakrális ezüstnemûket a szekerein.
+say.nr112_2_manticore.257;Háború dúl. Valamibôl ki kell fizetnem a katonáimat...
+say.nr112_2_manticore.259;Úrnôm, az anyagi helyzetem nem kell hogy érdekelje. Istenkáromlók oldalán nem harcolok.
+say.nr112_2_manticore.260;Eyck megsarkantyúzta a lovát, és rövidesen eltûnt a szemük elôl. Nem tudhatom, mi járt akkor Meve fejében... Talán érzett némi lelkiismeret-furdalást. De az is lehet, hogy képzeletben csak megvonta a vállát.
+say.nr112_2_manticore.38;– mondta tekintetét az égre emelve. –
+say.nr112_2_manticore.40;"Szükségünk lesz a jóindulatukra akkor is, amikor a mocsadékkal hadakozunk."
+say.nr112_2_manticore.43;A lyriaiak újfent barlang szája elôtt álltak. Eyck lángra gyúlt szívvel és ádáz tekintettel az élükre sietett.
+say.nr112_2_manticore.44;"Felség... Senki sem tenne lekicsínylô megjegyzést Önre, ha visszakozna."\n
+say.nr112_2_manticore.46;"De gondolni fognak rá,"
+say.nr112_2_manticore.48;– felelte Meve, –
+say.nr112_2_manticore.50;"és az épp elég baj volna. A háború elkezdôdött... És én nem tûnhetek gyengének az embereim szemében."\n\n
+say.nr112_2_manticore.51;Meve válaszra sem várva beviharzott a barlangba. Az egységei félelemmel és a királynôjük iránt érzett büszkeséggel egyaránt eltelve követték. Rövidesen egy dobhártyarepesztô bömbölés töltötte be az üreget...
+say.nr112_2_manticore.53;Mégis... Minthogy Kegyedet igazságtalanul és alattomban megtámadták, úgy hiszem, az Ön oldalán állnak. Ezáltal nem találok semmi kivetnivalót abban, ha segítem Felségedet.
+say.nr112_2_manticore.55;Ezzel megelégszem, és köszöntelek a sorainkban, Deneslei Eyck lovag.
+say.nr112_2_manticore.57;A kóbor lovag csípôbôl mélyen meghajolt. Valójában olyan mélyen, hogy a vértje alatt viselt gambesonja és láncinge is belecsikordult. Meve csak remélni tudta, hogy ugyanolyan bátorsággal küzd majd a nilfgaardiakkal, mint a szörnyek ellen...
+say.nr112_2_manticore.6;Miközben a királynô Reynarddal tanácskozott, kétségei támadtak a feladattal kapcsolatban. Az emberei sem nem álltak készen, sem nem voltak elegen arra, hogy kiálljanak egy ilyen fenevad ellen, nem hogy még le is gyôzzék. Úgy döntött, elôbb erôsíti a seregét, aztán visszatér.
+say.nr112_2_manticore.7;Meve kétkedô pillantást vetett a pajzsára. "Fa, bôrrel bevonva, lemez szegéllyel" – summázta. Elegendô, hogy felfogjon egy kardcsapást, igaz. De hogy egy ilyen iszonytató bestia csapásától is megvédené-e... Reynard, felfigyelvén arra, hogy királynôje eltöprengett, odalépett hozzá, és így szólt:\n
+title.nr112_2_manticore.245;A kóbor lovag
+

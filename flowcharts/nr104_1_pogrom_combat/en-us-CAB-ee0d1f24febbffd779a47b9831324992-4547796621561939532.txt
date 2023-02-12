@@ -1,0 +1,7 @@
+say.nr104_1_pogrom_combat.1;Félre onnan, vagy már csak a fejeteket nézhetitek, ahogy tovagördül a macskaköveken!
+say.nr104_1_pogrom_combat.11;A nagyobb csoportosulásokra kell lecsapnunk! Kergessük szét a csôcseléket!
+say.nr104_1_pogrom_combat.3;Reynard! Tudnom kell, ki kezdte ezt!
+say.nr104_1_pogrom_combat.5;Mennyi gyûlölség... Ennek véget kell vetnünk!
+say.nr104_1_pogrom_combat.7;Felség, a számuk fogyatkozik! A gócpontokra kell összpontosítanunk!
+say.nr104_1_pogrom_combat.9;Istenek, védelmezzetek... Végeznek mindenkivel! Fussatok az életetekért!
+

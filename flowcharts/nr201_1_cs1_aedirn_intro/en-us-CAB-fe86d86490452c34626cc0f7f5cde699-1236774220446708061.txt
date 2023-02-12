@@ -1,0 +1,6 @@
+say.nr201_1_cs1_aedirn_intro.1;Miután megszökött Lyriából, Meve királynô Aedirn felé vette az irányt régi barátjával, Reynarddal és új szövetségesével, Gasconnal az oldalán. A háború Aedirn földjeit sem hagyta érintetlenül. Meve mégis abban reménykedett, hogy sikerül majd Demavend királyt az ügye mellé állítania, és a segítségével elkergetheti az árulókat, visszaszerezheti trónját, és kiûzheti a megszálló Nilfgaardot a királyságából.
+say.nr201_1_cs1_aedirn_intro.3;Ám már az útja legelején harcolni kényszerült – és nem mással került szembe, mint a Scoia'taellel. Ahogy kiértek a fák közül, Meve és kísérete belebotlott a lázadó tündék egy különítményébe, akik épp néhány fogjuk akasztására készültek. Meve az utóbbiak között figyelt fel egy nôre, egy meglepôen vastag fekete hajfonattal bíró büszke harcosra...
+say.nr201_1_cs1_aedirn_intro.5;Úgy hiszem, ismerem a leányt...
+say.nr201_1_cs1_aedirn_intro.7;Nos,... hacsak nem sietünk a segítségére, akkor hamarosan már csak azt mondhatod el, hogy "ismerted".
+say.nr201_1_cs1_aedirn_intro.9;Jó a meglátás. Lyriaiak, támadás!
+

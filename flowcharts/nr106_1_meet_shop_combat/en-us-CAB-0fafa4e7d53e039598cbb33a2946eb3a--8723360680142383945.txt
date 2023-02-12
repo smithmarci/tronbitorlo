@@ -1,0 +1,8 @@
+say.nr106_1_meet_shop_combat.10;Felség, ahh... a troll... egy kissé... kiszámíthatatlan.
+say.nr106_1_meet_shop_combat.11;Aaaaah! Ess'sheyss!
+say.nr106_1_meet_shop_combat.12;Shuuuupéért!!!
+say.nr106_1_meet_shop_combat.13;Aú-aú! Fájlal nagyon!
+say.nr106_1_meet_shop_combat.7;Védjétek a trollt!
+say.nr106_1_meet_shop_combat.8;Emberkék jót tesz, Shupe segít!
+say.nr106_1_meet_shop_combat.9;Larwm! Essea tuv'en a'vean!
+

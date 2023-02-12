@@ -1,0 +1,6 @@
+say.nr113_1_skellige_pirates_combat.1;Skellige!!!
+say.nr113_1_skellige_pirates_combat.3;Haha! Elég tökös vagy, némber!
+say.nr113_1_skellige_pirates_combat.5;Reynard, mi a fene? Tengeri rablók, itt?!
+say.nr113_1_skellige_pirates_combat.7;Csinos kis csecsebecse... Azt hiszem, meg is kaparintom magamnak!
+say.nr113_1_skellige_pirates_combat.9;Kifosztjuk a templomaitokat, aztán jó beletöröljük az alfelünket a miseruhákba!
+
