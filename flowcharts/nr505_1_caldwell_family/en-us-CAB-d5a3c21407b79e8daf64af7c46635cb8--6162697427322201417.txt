@@ -1,0 +1,43 @@
+menu.nr505_1_caldwell_family.16;Elûzöd Caldwell családját.
+menu.nr505_1_caldwell_family.17;Hagyod, hogy Dragomir Ríviában maradjon.
+say.nr505_1_caldwell_family.11;"Egy mocskos szavát sem hiszem el, ami elhagyja a száját"
+say.nr505_1_caldwell_family.13;– súgta Reynard. –
+say.nr505_1_caldwell_family.15;"Az elsô adandó alkalommal hátba fogja szúrni Felségedet."
+say.nr505_1_caldwell_family.20;Meve összevonta szemöldökét, és a tekintetét Dragomirra szegezte. Annak homlokán nagy cseppekben gyöngyözött elô a verejték.\n
+say.nr505_1_caldwell_family.22;"Maradhatsz"
+say.nr505_1_caldwell_family.24;– mondta a királynô, megtörve végre a csöndet. –
+say.nr505_1_caldwell_family.25;"Két feltétellel. Elôször is, jelentôs mértékû adománnyal járulsz hozzá a háborús törekvéseinkhez, és kiállítasz egy teljesen felszerelt gyalogsági ezredet, amit az én parancsnokságomra bízol."\n
+say.nr505_1_caldwell_family.27;"Természetesen, Felség. És mi lenne a másik?"
+say.nr505_1_caldwell_family.28;Meve egy villámgyors mozdulattal kapta ki egyik katonája kezébôl a számszeríjat, a vállának támasztotta, és azon nyomban útjára engedte a nyílvesszôt. Az ifjabbik Caldwell gyilkosságot kiáltott, és védekezôn az arca elé kapta a kezeit. A nyíl elsuhant mellette, és egy aranyló napkorongba csapódott, ezernyi szilánkra zúzva szét az egyik ólomüveg ablakot.\n
+say.nr505_1_caldwell_family.3;Az áruló Caldwell család otthona tárult a szemük elé, amely baljósan magasodott az égbolt háttere elôtt. A kúria megváltozott, amióta Meve legutóbb itt járt – két új szárnyat, díszes fiatornyokat és kerengôs oszlopcsarnokot toldottak hozzá. Az ablakokat díszítô ólomüveg berakásokban pedig aranyló birodalmi napok csillantak.\n
+say.nr505_1_caldwell_family.30;"Lecseréled a díszítést"
+say.nr505_1_caldwell_family.32;– közölte a királynô határozottan. Aztán nyeregbe szállt, és ellovagolt, közben azt remélve, hogy késôbb nem bánja majd meg a nagylelkûségét...
+say.nr505_1_caldwell_family.33;"Felettébb kényelmes cselekedet most elôterjeszteni eme kérelmet. Nem gondolod? Miért nem történt meg ez korábban?"
+say.nr505_1_caldwell_family.35;– kérdezte Meve, aki erre összefonta karjait, és felszegte állát. –
+say.nr505_1_caldwell_family.37;"Az lett volna a kötelességed, hogy amint átléptem a ríviai határt, futárt menesztesz hozzám, a hûségedet bizonyítandó."\n
+say.nr505_1_caldwell_family.376;"Feltétlenül meg kell látogatnunk ôket"
+say.nr505_1_caldwell_family.378;– fortyogott a királynô.
+say.nr505_1_caldwell_family.382;Könyörögve kérem, bízzon Villem hercegben! Ô megerôsítheti, hogy nekem nem volt tudomásom apám terveirôl. Alázattal kérem, ne büntessen engem és családomat az ô bûneiért.
+say.nr505_1_caldwell_family.384;Kérem, ne büntesse a fiakat az apjuk bûneiért! Alázattal, lehajtott fôvel kérem!
+say.nr505_1_caldwell_family.386;Engedje meg, hogy ôsi földünkön maradjak, és szolgálhassam Önt, mint hûséges alattvalója."\n
+say.nr505_1_caldwell_family.39;"Én... személyesen Felségeddel szerettem volna beszélni. Mert––"\n
+say.nr505_1_caldwell_family.4;A nagy kétszárnyú ajtó visszhangzó döndülés tárult ki, és közvetlenül mögötte ott állt a birtok örököse, Dragomir, feleségével, három gyermekével, és Helenával, az áruló gróf özvegyével. Dragomir tüstént lekapta fejérôl a kalpagját, ezzel felfedve a családjában tovább öröklôdô kopaszságát, aztán fél térdre ereszkedett.
+say.nr505_1_caldwell_family.41;"Mert reménykedtél. Remélted, hogy a Feketék végül mégis legyôznek engem. Mindvégig az ô oldalukon álltál."
+say.nr505_1_caldwell_family.42;"Nem. Egyszer már megbíztam a Caldwellekben... Ám még egyszer nem követem el ezt a hibát. Egy napot kapsz, hogy összeszedd minden ingóságod, és elhagyd az országomat."\n
+say.nr505_1_caldwell_family.44;Dragomir felegyenesedett, és kirázta az esdeklése közben összegyûrt kalpagját.\n
+say.nr505_1_caldwell_family.46;"Inkább halok meg, Felség"
+say.nr505_1_caldwell_family.48;– sziszegte, és a sebezhetôség álarca egy szemvillanás alatt leolvadt róla. –
+say.nr505_1_caldwell_family.5;"Felség, apám áruló volt, ez kétségtelen, és nem lehet rá mentségünk"
+say.nr505_1_caldwell_family.50;"Ha nem fogad el vazallusának, akkor ellenségeként kell tekintenie rám! Emberek! Fegyverbe!"\n\n
+say.nr505_1_caldwell_family.62;Dragomir cirádás udvarháza udvarán feküdt. Utolsó erejével még megpróbálta arrább vonszolni magát a színes köveken. Egy sérült, groteszk bogárra emlékeztetett, ami azt remélte, hogy megmenekülhet a haláltól azáltal, ha odébb kecmereg. A királynô letérdelt melléje, és belenézett elhomályosuló szemeibe.\n
+say.nr505_1_caldwell_family.64;"Szeretném, ha tudnád, hogy gondját fogják viselni a családodnak. Vannak rokonaid Kaedwenben. Oda küldöm ôket, az ôket megilletô kísérettel és életjáradékkal."
+say.nr505_1_caldwell_family.66;Dragomir szeretett volna mondani valamit, ám már csak egy véres bugyborgásra futotta tôle. Aztán halott volt. A királynô lassan felállt, és kiadta a parancsot az indulásra. A menetoszlop élére tört, majd belemerült a gondolataiba.
+say.nr505_1_caldwell_family.69;A jelére állig felfegyverzett férfiak rontottak elô az épületbôl, a tetôn pedig íjászok feje bukkant fel. Dragomir láthatólag számított az elutasításra...
+say.nr505_1_caldwell_family.7;– mondta az ifjabbik Caldwell egy szuszra, nyelvbotlás nélkül, mintha már tucatnyi alkalommal elgyakorolta volna. –
+say.nr505_1_caldwell_family.70;Dragomir cirádás udvarháza udvarán feküdt. Utolsó erejével még megpróbálta arrább vonszolni magát a színes köveken. Egy sérült, groteszk bogárra emlékeztetett, ami azt remélte, hogy megmenekülhet a haláltól azáltal, ha odébb kecmereg. A királynô letérdelt melléje, és belenézett elhomályosuló szemeibe.\n
+say.nr505_1_caldwell_family.72;IGNORE/NOT USED
+say.nr505_1_caldwell_family.74;Dragomir szeretett volna mondani valamit, ám már csak egy véres bugyborgásra futotta tôle. Aztán halott volt. A királynô lassan felállt, és kiadta a parancsot az indulásra. A menetoszlop élére tört, majd belemerült a gondolataiba.
+say.nr505_1_caldwell_family.9;"És megérdemelt volt büntetése, amit Felséged keze mért ki rá.
+title.nr505_1_caldwell_family.375;Az apák bûnei
+title.nr505_1_caldwell_family.471;Az apák bûnei
+

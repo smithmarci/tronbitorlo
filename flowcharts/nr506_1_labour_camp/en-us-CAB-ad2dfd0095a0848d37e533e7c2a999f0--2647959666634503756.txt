@@ -1,0 +1,43 @@
+menu.nr506_1_labour_camp.17;Megpróbálod felszabadítani a kôfejtôt.
+menu.nr506_1_labour_camp.18;Tartózkodsz a nilfgaardi rabszolgahajcsárok megtámadásától.
+menu.nr506_1_labour_camp.65;Besorozod a parasztokat.
+menu.nr506_1_labour_camp.66;Elutasítod a parasztok kérését.
+menu.nr506_1_labour_camp.90;Megpróbálod felszabadítani a kôfejtôt.
+menu.nr506_1_labour_camp.91;Tartózkodsz a nilfgaardi rabszolgahajcsárok megtámadásától.
+say.nr506_1_labour_camp.1;Hadd meséljek nektek Kányakatlanról – egy kôfejtôrôl, ami mellett Meve elhaladt. A kôfejtônek sötét volt a múltja, ugyanis évekkel korábban egyszer beomlott, s több tucat munkást temettek maguk alá a sok tonnás kövek.\n\n
+say.nr506_1_labour_camp.10;"Reynard, mit tanácsol?"\n
+say.nr506_1_labour_camp.11;A királynô a mindig az oldalán léptetô Reynardhoz fordult.\n
+say.nr506_1_labour_camp.12;"Mint katona, Királynôm, nem javaslom, hogy támadást intézzünk ellenük. Nehéz a terep, nem alkalmas a harchoz, és a gyôzelem által csak keveset nyernénk. Mint ember, azonban..."\n
+say.nr506_1_labour_camp.14;"Igen?"\n
+say.nr506_1_labour_camp.16;"Nem volna helyes hagyni, hogy a népünk láncra verve egy halálcsapdában senyvedjen."
+say.nr506_1_labour_camp.21;"Mindannyian érezzük, hogy közel a gyôzelem"
+say.nr506_1_labour_camp.23;– fogott bele Meve, –
+say.nr506_1_labour_camp.25;"de ez még nem jelenti azt, hogy az biztosra is vehetô. Ha önhittségünkben minden, utunkba akadó ellenféllel tengelyt akasztunk, elôbb vagy utóbb elpártol tôlünk a szerencse. Fel fogjuk szabadítani Kányakatlant, de nem a mai lesz az a nap..."
+say.nr506_1_labour_camp.28;"Ha mindig mérlegre tenném a szívem és az elmém, és folyton azt latolgatnám, milyen nyereség árán mit veszíthetek"
+say.nr506_1_labour_camp.3;Most, hogy közeledtek felé, Meve meghallotta a csákányok egyenletes csattanásait. Felderítôket küldött a helyzet kikémlelésére. Azok hamar visszatértek, arcukon mogorva kifejezéssel, kabátjaikon a mészkô finom porával.\n
+say.nr506_1_labour_camp.30;– szólalt meg Meve, –
+say.nr506_1_labour_camp.31;"akkor, bizony, én is térdet hajtanék a Birodalomnak, mint ahogy Villem is tette. Nem fogom hagyni, hogy a nyavalyás számtan vezérelje minden cselekedetemet. Mert azt fogom tenni, ami igazságos, ami helyes! Utánam!"\n\n
+say.nr506_1_labour_camp.33;Az egységei habozás nélkül követték, a kezükben fegyverrel, a mellkasukban lángoló szívvel.
+say.nr506_1_labour_camp.378;Tudósokat hívattak Oxenfurtból, akik aztán egybehangzóan állították, hogy a puha kôzet könnyen törik, ezért a további kitermelés omlásokhoz és földcsuszamlásokhoz vezethet. Meve megfogadta a tudósok javaslatát, és királyi rendelet által bezáratta a bányát.\n
+say.nr506_1_labour_camp.381;"Fiam, bízom benne, hogy most már látod, milyen felsôbbrendû értékeket hozna el nekünk Nilfgaard"
+say.nr506_1_labour_camp.382;– mondta Villemhez fordulva Meve. Válaszképp a herceg csak lehajtotta a fejét.
+say.nr506_1_labour_camp.4;"Újra megnyitották a bányát, Felség. Nilfgaardiak dolgoztatnak a gödörben másokat, akik leginkább a környezô falvak lakosainak tûnnek."\n
+say.nr506_1_labour_camp.47;A lyriaiak ügyesen kézre kerítették a nilfgaardi munkafelügyelôket, akik inkább voltak jártasak az ostor suhogtatásában, mint a kardforgatásban. Azok, akik közülük életben maradtak,{audio=nr506_1_labour_camp_shackles} ugyanazon láncokra verve találták magukat, mint amiket a parasztok viseltek.\n\n
+say.nr506_1_labour_camp.49;Parasztok, dehogy – szerencsétlen lelkek. Megsínylették a kôfejtôben végzett kíméletlen munkát. Szakadt rongyokat viselô, a portól kivörösödött szemû, csupa csont és bôr alakok álltak a királynô elôtt... De a szemeikben ragyogó tûz lángolt.
+say.nr506_1_labour_camp.59;"Felség, a Feketék úgy bántak velünk, mint a kutyákkal. Megfosztottak bennünket a maradék méltóságunktól is. Ezért hát könyörgünk,... adjon nekünk fegyvert, hadd masírozzunk a zászlaja alatt! Szeretnénk bosszút állni rajtuk, mindannyian!"\n
+say.nr506_1_labour_camp.6;"Érdekes... Ezek szerint a mérnökeik meglelték a módját a kôfejtô biztonságossá tételének, az oldalfalak megerôsítésének."\n
+say.nr506_1_labour_camp.61;Reynard közel hajolt Meve-hez, és alig hallhatóan súgta oda neki:\n
+say.nr506_1_labour_camp.63;"Felség... Semmijük sincs, se csizmájuk, de még csak egy bocskoruk se. A felszerelésük, a kiképzésük egy vagyon lenne."
+say.nr506_1_labour_camp.69;"Igaz, hogy a nevükön kívül nincs semmijük sem"
+say.nr506_1_labour_camp.71;– mondta a királynô, –
+say.nr506_1_labour_camp.73;"nincs semmi képzettségük, és alig van erejük. De ha a szemeikbe tekint, látni fogja, hogy ôk aztán soha nem futnak meg, soha nem teszik le a fegyvert. Az ilyen katona bármi pénzt megér."\n\n
+say.nr506_1_labour_camp.75;Az alultáplált, girhes parasztok hálával fogadták a királynô ajánlatát. Megörültek a gondolatnak, hogy harcban nézhetnek szemközt a kínzóikkal és elnyomóikkal.
+say.nr506_1_labour_camp.76;"Többféleképpen is harcolhattok a szülôföldetekért"
+say.nr506_1_labour_camp.78;– próbálta lebeszélni ôket a bosszúról a királynô, –
+say.nr506_1_labour_camp.8;"Eléggé valószínûtlennek tartom, Felség... Már ha az általunk látott friss sírhantokból indulok ki."
+say.nr506_1_labour_camp.80;"nem csak karddal a kezetekben. Térjetek vissza az otthonaitokba, a családjaitokhoz, a szántóföldekhez. Töltsétek fel újra a nilfgaardi megszállók által kiürített magtárakat."\n\n
+say.nr506_1_labour_camp.82;A parasztok engedelmeskedtek a királynôjüknek – de csak mert más lehetôségük nem maradt. Láthatóan elkedvetlenedtek amiatt, hogy megfosztották ôket a jogos bosszújuktól. Vonakodva ugyan, de visszatértek a falvaikba.
+say.nr506_1_labour_camp.92;Meve késôbb visszatért Kányakatlanhoz. Ám a tanácsadói még mindig kételkedtek egy, a rabszolgahajcsárok ellen indított támadás kedvezô kimenetelében...
+title.nr506_1_labour_camp.376;Kányakatlan
+title.nr506_1_labour_camp.476;Kányakatlan
+

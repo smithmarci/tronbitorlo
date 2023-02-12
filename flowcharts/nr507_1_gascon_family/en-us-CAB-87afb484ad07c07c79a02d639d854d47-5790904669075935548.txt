@@ -1,0 +1,61 @@
+menu.nr507_1_gascon_family.12;Követed Gascont.
+menu.nr507_1_gascon_family.13;Továbbmész.
+menu.nr507_1_gascon_family.26;Tényleg meglep, hogy nem bízom meg benned?
+menu.nr507_1_gascon_family.27;Aggódtam miattad, azért követtelek.
+menu.nr507_1_gascon_family.28;Kíváncsi voltam csupán, hogy mi dolgod lehet itt.
+menu.nr507_1_gascon_family.88;Újjáépíttethetem a kriptát.
+menu.nr507_1_gascon_family.89;Milyen igaz. Csatlakozzunk a többiekhez.
+say.nr507_1_gascon_family.1;Ahogy a lyriaiak elhaladtak egy temetô borostyánnal benôtt falai mellett, hallották, amint gyászolók szánni valóan jajveszékeltek egy papnô megható énekére. A katonák kötelességtudóan hajtották le fejüket. Gondolataik elesett bajtársaikra és halott rokonaira terelôdtek, és azon merengtek, hogy vajon még kiket fog tôlük elragadni ez a háború...
+say.nr507_1_gascon_family.10;"Így is mondhatjuk. De... csak menjetek tovább. Hamarosan csatlakozni fogok hozzátok."
+say.nr507_1_gascon_family.100;...
+say.nr507_1_gascon_family.101;Én köszönöm.
+say.nr507_1_gascon_family.103;Gascon a nap hátralevô részében hallgatag volt. Amikor a sereg megállt éjszakára, ô félrevonult a sátrába. Ám reggelre már újra a régi, cinikus önmaga volt. A családja végsô nyughelye hamarosan újra régi fényében tündököl majd. Biztos volt benne, hogy így lesz, és ezáltal egy nagy tehertôl szabadult meg végre. Így már megbékélhetett családja tragikus múltjával...
+say.nr507_1_gascon_family.105;Figyelj, biztos vagyok benne, hogy már várnak ránk... Vissza kell mennem, de ha te––
+say.nr507_1_gascon_family.107;Nem... Veled tartok. Ahogy látom, nincs itt számomra már semmi.
+say.nr507_1_gascon_family.111;Gascon a nap hátralevô részében hallgatag volt. Amikor a sereg megállt éjszakára, ô félrevonult a sátrába. Ám reggelre újra magára öltötte önelégült vigyorát és lehengerlô kellemét, de mindez csak üres színjátéknak hatott... Mert az elmúlt nap látottak – a temetô, a családja lerombolt, megszentségtelenített végsô nyughelye – még sokáig kísértették az álmait, és éber óráiban a gondolatait.
+say.nr507_1_gascon_family.16;Meve bólintott, megnógatta a lovát, és továbbment. Mire leszállt az éj, Gascon tényleg visszatért a sereghez. A társai kérdô tekintetei által nem is zavartatva magát csak leült a tûzhöz, és belebámult a lángokba. Meve úgy vélte, hogy Gascon majd magyarázatot ad a távollétére, vagy legalább kitalál egy elmés kifogást, hogy elüsse valamivel a választ. De többé egy szóval sem említette meg...
+say.nr507_1_gascon_family.17;Meve egyetértése jele képpen bólintott, majd úgy tett, mint aki továbbmegy. Ám amikor megfordult, és a nyomába szegôdött, még látta, hogy Gascon épp belép a sírkertbe. Azonban Gascon hamar rájött, hogy nincsen egyedül...
+say.nr507_1_gascon_family.19;Ó, Meve... Ha szándékomban állna ellened ármánykodni, bejelentés nélkül lopóztam volna el.
+say.nr507_1_gascon_family.20;Hogy érted ezt?
+say.nr507_1_gascon_family.22;Ugyan már, Meve, ne játszd az ostobát! Nem bízol meg bennem, ezért követtél. Gondolom, azt feltételezted, hogy egy kriptában van találkám aep Dahy-val. De jobbat mondok. A Varázslók Konklávéjával!
+say.nr507_1_gascon_family.24;Nos, akkor megnyugodhatsz. Mert ha tényleg lenne rejtegetnivalóm, merem állítani, meg se neszelted volna, hogy elsurrantam.
+say.nr507_1_gascon_family.3;"Khm. Figyelj..."
+say.nr507_1_gascon_family.32;Csupán csak kíváncsi voltam, hogy mi dolgod van egy ilyen helyen.
+say.nr507_1_gascon_family.34;Csakugyan? Tényleg érdekes, hogy mi dolguk lehet a népeknek egy temetôben. Talán karikázni járnak ide. Vagy csak napozni.
+say.nr507_1_gascon_family.36;Ha tényleg valami aljasságot feltételeztem volna, akkor a felderítôimet küldöm, nem pedig egymagam jövök.
+say.nr507_1_gascon_family.378;A címeretekben, ha emlékezetem nem csal, egy vizsla van. Ó... az Ebek Hercege! Most már értem.
+say.nr507_1_gascon_family.38;Ami felveti a kérdést, hogy miért követtél, hogy miért jöttél, hogy miért is vagy itt.
+say.nr507_1_gascon_family.380;Jól emlékszem a Brossardok tárgyalására. Reginald tajtékzott a dühtôl – és túl messzire ment. Az ítélet kegyetlen volt és rosszindulatú. Mindvégig éreztem ezt,... de nem szóltam semmit.
+say.nr507_1_gascon_family.40;Mert nem vagy mostanában önmagad. Furcsán viselkedtél az utóbbi idôben.
+say.nr507_1_gascon_family.42;És ez már feljogosít arra, hogy kémkedj utánam?
+say.nr507_1_gascon_family.44;Tényleg meglep, hogy kételkedem benned? Igazán?
+say.nr507_1_gascon_family.46;Akkor hadd emlékeztesselek! Kész lettél volna ezüst tálcán kínálni a fejemet Nilfgaardnak––
+say.nr507_1_gascon_family.48;És én is hadd emlékeztesselek rá, hogy semmi effélét nem tettem! Valójában több alkalommal is megmentettem az életedet!
+say.nr507_1_gascon_family.5;– szólalt meg Gascon, felzavarva ezzel Meve-et a saját merengésébôl. –
+say.nr507_1_gascon_family.50;Nem kellene tán, hogy az utóbbi üsse az elôbbit? Ha még csak az emlékezetedben is?
+say.nr507_1_gascon_family.56;Gascon... Megszoktam már, hogy állandóan vétesz az illem ellen, de ezúttal átléped a határt, Uram, bizony, át!
+say.nr507_1_gascon_family.58;Ó, és akkor most lefogatsz?
+say.nr507_1_gascon_family.6;"Azt hiszem, én itt tennék egy kis kitérôt."\n
+say.nr507_1_gascon_family.60;Vess féket a nyelvedre, jó uram, vagy tényleg lefogattatlak!
+say.nr507_1_gascon_family.62;...
+say.nr507_1_gascon_family.64;Nagyszerû. Most pedig áruld el, miért jöttél ide!
+say.nr507_1_gascon_family.66;Ahh... Ha tényleg, mindenképp tudni akarod,... akkor kövess.
+say.nr507_1_gascon_family.68;Gascon egy kripta romjai, lefejezett szobrok, szétvésett feliratú ôsi sírkövek és darabokra zúzott szarkofágok között vezette Meve-et...
+say.nr507_1_gascon_family.70;Kiké volt? Csak nem...?
+say.nr507_1_gascon_family.72;De, Meve. Ez a családom, a Brossardok kriptája volt.
+say.nr507_1_gascon_family.74;A Brossardok...? Várjunk csak... Azok a Brossardok?
+say.nr507_1_gascon_family.76;Bizony, azok. Az árulóké, akik az 1258-as esztendôben fellázadtak Reginald király, megboldogult férjurad ellen – legyen könnyû neki a föld.
+say.nr507_1_gascon_family.78;Minden bizonnyal hiba volt... És drágán meg is fizettünk érte. Reginald nem volt könyörülettel irántunk, megtizedelte a családunkat. S mint láthatod,... a holtakat sem kímélte.
+say.nr507_1_gascon_family.8;"Mi célból? Hogy részvétet nyilváníts?"\n
+say.nr507_1_gascon_family.80;Épp odakint voltam, távol az udvarháztól – ez az egyetlen oka, hogy túléltem. Nyolc esztendôs voltam akkor, megfosztva a címemtôl és az otthonomtól... Nos, a többit bizonyára magad is kitalálod már.
+say.nr507_1_gascon_family.82;Ôszintén? Minden tôlem telhetôt megtettem, hogy sose kelljen rá gondolnom. De ez a fal, a temetô... Úgy tûnik, felébresztették a régóta szunnyadó démonokat.
+say.nr507_1_gascon_family.84;Annyira nagyon sajnálom, Gascon.
+say.nr507_1_gascon_family.86;Ehh, az egész már a múlté. És a múlt olyan dolog, amin egyikünk sem változtathat.
+say.nr507_1_gascon_family.92;A múlton nem... De a jelenen? Újjáépíttethetem a családi kriptádat. Mind megérdemlik, hogy békében nyugodjanak.
+say.nr507_1_gascon_family.94;Meve... A háború a végéhez közeledik. Csak napok kérdése, és sokkal sürgetôbb kiadásaid is lesznek.
+say.nr507_1_gascon_family.96;Akkor ezért még elôtte adok ki inkább pénzt.
+say.nr507_1_gascon_family.98;Hálás vagyok neked, Gascon, az adósod vagyok... Mérhetetlenül. Hadd tegyem meg ezt, hadd törlesszek az adósságomból, legalább részben!
+title.nr507_1_gascon_family.1;Örök nyugalom
+title.nr507_1_gascon_family.1156;Örök nyugalom
+title.nr507_1_gascon_family.377;Örök nyugalom
+

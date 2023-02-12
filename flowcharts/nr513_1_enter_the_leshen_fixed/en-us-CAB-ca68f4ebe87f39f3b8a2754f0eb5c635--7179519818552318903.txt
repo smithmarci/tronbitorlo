@@ -1,0 +1,48 @@
+menu.nr513_1_enter_the_leshen_fixed.31;Levadászod a bestiát.
+menu.nr513_1_enter_the_leshen_fixed.32;Visszavonulsz.
+menu.nr513_1_enter_the_leshen_fixed.39;Levadászod a bestiát.
+menu.nr513_1_enter_the_leshen_fixed.40;Továbbmész.
+say.nr513_1_enter_the_leshen_fixed.1;De mi okozta a mészárlást? Nos, Meve felderítôi hamar kiderítették...\n
+say.nr513_1_enter_the_leshen_fixed.10;"Ágak fonják körül, és fogják ôket gúzsba. Mintha a fák... fojtották volna meg ôket."
+say.nr513_1_enter_the_leshen_fixed.13;Ezt hallván a királynô megállította a menetet. Úgy látta jónak, ha addig nem mennek tovább, amíg ki nem derítik, mi ölte meg azokat az embereket. Szerencséjükre hamarosan szemtanúkra, kátránykészítôk lesoványodott csapatára találtak, akik kosztól feketén és rájuk száradt vérrel borítottan bukkantak elô egy földbe ásott menedékbôl.\n
+say.nr513_1_enter_the_leshen_fixed.14;"Úrnôm..."
+say.nr513_1_enter_the_leshen_fixed.15;– hebegte a legidôsebbjük. –
+say.nr513_1_enter_the_leshen_fixed.16;"Jöttek a Feketék, és elkezdték irtani az erdôt, arra kényszerítették az embereket, hogy elkezdjék felaprogatni a fákat,... hogy helyet csináljanak egy városnak, aszon'ták. De túlságosan mélyre merészkedtek, egyenest az erdô szívébe, ahol az öreg tölgyek nônek,... és felébresztettek valami komiszságot, egy ö-ö-ôrdeget."
+say.nr513_1_enter_the_leshen_fixed.19;"Az egész tábort – Feketéket és favágókat éppúgy – elintézte egy éjszaka alatt. Arra se volt idô, hogy fegyvert rántsanak. Nekünk szerencsénk volt, hogy rátaláltunk az üregekre, amikbe' aztán megbújtunk. Így csak hallottuk, hogy valami dúl és fúl,... és közben a fákhoz beszél."\n
+say.nr513_1_enter_the_leshen_fixed.2;Meve-nek egy lábát is elég volt betennie a Siralomerdôbe, hogy tudja, valami nincs rendjén. A rothadás gyomorforgató bûze töltötte be a levegôt, legyek felhôi döngtek és varjak károgtak fülsüketítô lármával.
+say.nr513_1_enter_the_leshen_fixed.20;Reynard utasította a felcsereket, hogy lássák el a kátránykészítôk sebesüléseit, aztán Meve-hez fordult.\n
+say.nr513_1_enter_the_leshen_fixed.21;"A hallottak ismeretében nem ülhetünk itt tétlenül, Felség. Az igaz, hogy a nilfgaardiak ébresztették fel a szörnyet, de amaz... válogatás nélkül öl, a ríviaiakkal is végez."
+say.nr513_1_enter_the_leshen_fixed.3;"Felség..."
+say.nr513_1_enter_the_leshen_fixed.41;"Nem oldhatom meg egy csapásra minden alattvalóm gondját-baját"
+say.nr513_1_enter_the_leshen_fixed.47;"Reynard bölcsen és nemesen szólott, Felség"
+say.nr513_1_enter_the_leshen_fixed.48;– szólt közbe Eyck. –
+say.nr513_1_enter_the_leshen_fixed.49;"Kötelességünk levágni a bestiát – mindegy, mi az ára!"
+say.nr513_1_enter_the_leshen_fixed.51;Meve az irtás szélén állt, és fülelt. A Siralomerdô csak úgy visszhangzott a varjak károgásától, amik – olybá tûnt, – mintha ott ültek volna minden egyes ágon. Ugyancsak hallotta farkasok vonítását,... és valami halovány zörgést: mintha gallyak zizegtek volna a szélben, holott az idô tiszta volt, és a levegô se rezdült.\n
+say.nr513_1_enter_the_leshen_fixed.52;A királynô hátra hajtotta a csuklyáját, nehogy beleakadjanak a kisebb, lelógó ágak, majd megindult az erdô mélye felé. A katonái, izzadt arcukhoz szorítva felajzott számszeríjukat, követték.
+say.nr513_1_enter_the_leshen_fixed.55;Az erdô szíve felé közeledve egyre hûvösebb lett, és vékony ködfelhô ereszkedett a talajra. {audio=nr513_1_enter_the_leshen_03}Meve félrehajtotta egy nagyobb mogyoróbokor ágait,... és ledermett. {audio=nr513_1_enter_the_leshen_04}Egy hórihorgas, majdnem emberszerû alak állt elôtte,... csakhogy annak egy mohalepte szarvaskoponya volt a feje helyén, és üres szemüregei éteri fénnyel izzottak. {audio=nr513_1_enter_the_leshen_05}A fenevad egy bömbölés kíséretében Meve-re rontott.\n
+say.nr513_1_enter_the_leshen_fixed.56;"Gyülekezô hozzám!"
+say.nr513_1_enter_the_leshen_fixed.57;– rikoltotta Meve, maga elé kapva a pajzsát. –
+say.nr513_1_enter_the_leshen_fixed.58;"Mindenki, bárki, ide, hozzám!"
+say.nr513_1_enter_the_leshen_fixed.69;A minden oldalról szorongatott szörny lendülete megtört, a teste megingott, egyre nehezebben védte ki a felé irányzott csapásokat. Végül a földre bukott,... és darabjaira hullt, mint egy kévényi, összekötözetlen rôzse.\n\n
+say.nr513_1_enter_the_leshen_fixed.7;– jelentette egy bizonyos Neydamur ôrmester. –
+say.nr513_1_enter_the_leshen_fixed.70;Meve hitetlenkedve rugdosta szét a kupac száraz gallyat és fakérget. A halom között nem talált sem vért, sem pedig belsôségeket. Mintha a bestia soha nem is létezett volna, mintha az egész csupán egy álom lett volna.
+say.nr513_1_enter_the_leshen_fixed.73;"Visszamegyünk az országútra"
+say.nr513_1_enter_the_leshen_fixed.74;– mondta Meve, és a sarkával szétzúzta a bestia szarvaséra hajazó koponyáját. –
+say.nr513_1_enter_the_leshen_fixed.75;"Ó, és Reynard,... lenne egy kérésem."\n
+say.nr513_1_enter_the_leshen_fixed.76;"Igen, Felség?"\n
+say.nr513_1_enter_the_leshen_fixed.77;"Miután visszaszereztük az országunkat, és visszatértünk a fôvárosba,... emlékeztessen, hogy adjak ki egy rendeletet. Miszerint többé senki se teheti be a lábát ebbe az erdôbe, sem favágás, sem tûzifagyûjtés céljából. Csak a biztonság kedvéért."\n\n
+say.nr513_1_enter_the_leshen_fixed.78;Azoknak, akik a Siralomerdô közelében éltek, eztán könnyebb volt az álmuk, a lyriaiak pedig továbbálltak, hogy megküzdjenek egy olyan ellenféllel, ami – az erdôben átéltek után – már nem is volt számukra olyan rémisztô...
+say.nr513_1_enter_the_leshen_fixed.8;"Nem messze innen, épp csak a kanyarulat mögött, van egy tisztás, és... és tele van holttestekkel, a mi fiainkéval és nilfgaardiakéval egyaránt. A testeket rettenetesen megcsonkították, belek és lecsapott fejek mindenütt, néhányukat,... nos,... ôket..."\n
+say.nr513_1_enter_the_leshen_fixed.85;– jelentette ki a királynô. –
+say.nr513_1_enter_the_leshen_fixed.86;"Elôbb a megszállókat kell visszavernem... Az általuk hátrahagyott mocskot ráérünk azután eltakarítani."\n\n
+say.nr513_1_enter_the_leshen_fixed.87;A katonái az erdôt maguk mögött hagyva folytatták a menetelést... És próbáltak megfeledkezni a gonoszról, ami a fák között settenkedett.
+say.nr513_1_enter_the_leshen_fixed.9;"Folytasd!"\n
+say.nr513_1_enter_the_leshen_fixed.90;Meve újra a Siralomerdô széléhez vezette a seregét. Nyilvánvalóan nem tudta elfelejteni a bestiát, ami akkora vérengzést rendezett a favágók között.\n
+say.nr513_1_enter_the_leshen_fixed.93;"Mik a parancsai, Felség? Hajtóvadászatot indítsunk ellene?"
+say.nr513_1_enter_the_leshen_fixed.94;– kérdezte tôle Reynard.
+say.nr513_1_enter_the_leshen_fixed.95;"Annak a Geraltnak is nyilván most kellett elhagynia engem..."\n\n
+title.nr513_1_enter_the_leshen_fixed.2;Az erdô szívében
+title.nr513_1_enter_the_leshen_fixed.6;Az erdô szívében
+title.nr513_1_enter_the_leshen_fixed.67;Az erdô szívében
+title.nr513_1_enter_the_leshen_fixed.92;Az erdô szívében
+

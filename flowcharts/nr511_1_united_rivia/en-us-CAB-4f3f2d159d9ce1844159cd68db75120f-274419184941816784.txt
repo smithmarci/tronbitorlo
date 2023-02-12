@@ -1,0 +1,9 @@
+say.nr511_1_united_rivia.14;A pillantása hosszasan elidôzött a lobogóikon, amik között néhányon – legnagyobb meglepetésére – a Caldwell címert is felfedezte,... ami arra utalt, hogy nem volt hiábavaló az a bizalom, amiben Dragomirt részeltette.
+say.nr511_1_united_rivia.4;Amikor Meve megpillantotta Reynard rendszerint egykedvû ábrázatát, amin most egy féloldalas vigyor terült el, már tudta, hogy a férfi rendkívül jó híreket hozott.\n
+say.nr511_1_united_rivia.5;"Felség! Az erôfeszítéseink gyümölcsözôek voltak. Rívia felszabadított városai zsoldosokat fogadtak fel, és az Ön parancsnoksága alá rendelték ôket... És reményüket fejezték ki a mihamarabbi gyôzelmünket illetôen."\n\n
+say.nr511_1_united_rivia.6;Meve megszemlélte a zsoldosok hosszú hadoszlopát, amint azok remekbe szabott vértezetükben feszítettek, képükön a sok csatát megjártak marcona arckifejezésével.\n\n
+say.nr511_1_united_rivia.7;"Ilyen támogatással az utunk jóval könnyebé válik majd"
+say.nr511_1_united_rivia.8;– mondta a királynô mosolyogva. –
+say.nr511_1_united_rivia.9;"Küldessen levelet a városok elöljáróinak. Üzenje meg, hogy a királynôjük hálás a Birodalom kiebrudalásával szemben tanúsított elkötelezettségükért,... és ha eljön az idô, érdemük szerint fogja megjutalmazni ôket."
+title.nr511_1_united_rivia.2;A királyság javára
+

@@ -1,0 +1,5 @@
+say.nr513_1_enter_the_leshen_fixed_combat.4;Legyetek óvatosak,... nem tudjuk, mire képes ez a lény!
+say.nr513_1_enter_the_leshen_fixed_combat.5;Azt hiszem, meghalt... Már ha jelent ez bármit egy ilyen lény esetében.
+say.nr513_1_enter_the_leshen_fixed_combat.6;Ó, hogy az a...! Ezúttal már megint mibe keveredtünk...?
+say.nr513_1_enter_the_leshen_fixed_combat.7;Lenyûgözô példány! Amint végzünk vele, muszáj lesz tanulmányoznom.
+

@@ -1,0 +1,4 @@
+say.nr504_1_fallen_industry_combat.1;Megállj! Minden, ami nálatok van, az enyém!
+say.nr504_1_fallen_industry_combat.3;Elég! Nem vagyok hajlandó meghalni ezekért a vacakokért!
+say.nr504_1_fallen_industry_combat.5;Elôrenyomulnak! Dal seiëfyll!
+

@@ -1,0 +1,27 @@
+menu.nr501_1a_vilems_messenger.34;Villem egy áruló – és akképp is fogom kezelni.
+menu.nr501_1a_vilems_messenger.35;Teljes mértékben igazad van...
+say.nr501_1a_vilems_messenger.1;Meve magabiztosan, élénk tekintettel figyelte a küldöttet, és önkéntelenül is büszkeség sütött róla. A lyriaiak bátor hadjárata az ellenséges vonalak mögött, megkoronázva a hídért vívott csatában aratott gyôzelmével, feltüzelte egész Északot. A megszállt vidékeken mindenütt gerillatámadások zajlottak. Kaedwen és Redánia pedig, miközben már közel voltak ahhoz, hogy hûbéresküt tegyenek a császárnak, hirtelen megszakítottak minden tárgyalást az elnyomóval.\n\n
+say.nr501_1a_vilems_messenger.13;Öhöm... I. Villem kijelölte a tárgyalás helyszínét. Az––
+say.nr501_1a_vilems_messenger.15;I. Villem nem jelöl ki semmit. Ha beszélni kívánna velem, keressen fel az Ürdüng Tornyának romjainál.
+say.nr501_1a_vilems_messenger.19;Villem küldötte füttyögések és gúnyolódások közepette távozott, némi nehézség árán. Ugyanis a lármától megriadt lova curükkolt és kirúgott. A lovas a csizmája sarkával próbálta engedelmességre bírni hátasát – a kelleténél jóval többször ösztökélve azt.
+say.nr501_1a_vilems_messenger.20;A bolond. Szegény pára az elsô adandó alkalommal leveti majd magáról... Amint megérzi, hogy lazul a gyeplô.
+say.nr501_1a_vilems_messenger.26;Nem lesz túl nagy veszteség, úgy vélem. De mondd csak...! Mit gondolsz errôl a találkozóról?
+say.nr501_1a_vilems_messenger.28;Nekem cselnek tûnik. De tudom, hogy ez nem fog megállítani.
+say.nr501_1a_vilems_messenger.3;A háború menete valóban fordulóban volt, és a nilfgaardi hadigépezet megakadt. Egy egyesült Északkal szembekerülvén a megszálló arra kényszerült, hogy kivonja csapatai zömét Lyriából és Ríviából, ezáltal szabaddá téve az utat Meve számára, hogy visszafoglalja elvesztett földjeit. Nem csoda hát, hogy Villem találkozóra hívta Meve-et. És az sem okozott túl nagy kihívást, hogy kitalálják, mi okból...
+say.nr501_1a_vilems_messenger.30;Honnét ez a bizonyosság?
+say.nr501_1a_vilems_messenger.32;Meve, ugyan már. Végtére is, ô mégiscsak a fiad. Magától értetôdô, hogy még mindig törôdsz vele.
+say.nr501_1a_vilems_messenger.38;Igen. Nagyon is törôdöm, Gascon... Azzal, hogy kézre kerítsem, és felségárulásért ítélôszék elé állítsam!
+say.nr501_1a_vilems_messenger.4;Ôfelsége,... Villem, ki elsô ezen a néven, meg szeretné vitatni egy esetleges fegyverszünet lehetôségét.
+say.nr501_1a_vilems_messenger.40;Meve... A fiút manipulálták...
+say.nr501_1a_vilems_messenger.42;Nem kellett nagyon nógatni.
+say.nr501_1a_vilems_messenger.44;Induljunk. Várnak ránk.
+say.nr501_1a_vilems_messenger.45;Ah... Teljes mértékben igazad van.
+say.nr501_1a_vilems_messenger.46;Talán fátylat lehet borítani a múltra. Talán még nem túl késô.
+say.nr501_1a_vilems_messenger.48;Csak egy módon tudhatjuk meg. Induljunk.
+say.nr501_1a_vilems_messenger.49;Megértettem, Felség... Közvetíteni fogom a feltételeit.
+say.nr501_1a_vilems_messenger.6;Meg kívánja adni magát, ez a célja?
+say.nr501_1a_vilems_messenger.8;Ön mondta, Felség, nem én.
+say.nr501_1a_vilems_messenger.9;Akad még más is, amit szívesen kimondanék... De inkább megtartom késôbbre.
+say.nr501_1a_vilems_messenger.987;Meve arany páncélt öltött, úgy indult útnak, lobogói büszkén lengtek a feje fölött. Többé már nem ellenállók szedett-vedett, gyülevész csapatát vezette, hanem egy hadsereget, ami képes visszaverni egy egész birodalmat, és kiûzni annak katonáit a földjeirôl.
+title.nr501_1a_vilems_messenger.381;A tékozló fiú
+

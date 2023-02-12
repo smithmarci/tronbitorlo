@@ -1,0 +1,4 @@
+say.nr501_3_rayla_oneliners.1;És én még azt gondoltam, Rosbergnek voltak erôs falai...
+say.nr501_3_rayla_oneliners.2;Innét már nincs visszaút... Gyôzelem vagy halál.
+say.nr501_3_rayla_oneliners.3;Az oldalán fogok harcolni, Úrnôm. Egészen a végig.
+

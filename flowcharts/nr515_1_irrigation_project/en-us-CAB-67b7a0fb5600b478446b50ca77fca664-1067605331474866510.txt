@@ -1,0 +1,41 @@
+menu.nr515_1_irrigation_project.42;Megsemmisíted a gátat.
+menu.nr515_1_irrigation_project.43;Meghagyod a gátat.
+say.nr515_1_irrigation_project.10;"Hamarosan kiderül"
+say.nr515_1_irrigation_project.11;– felelte Reynard. –
+say.nr515_1_irrigation_project.12;"Az ott a Murváshegy elôttünk. A csúcsáról sok-sok mérföldnyire belátható a vidék."
+say.nr515_1_irrigation_project.15;Amikor Meve a hegy csúcsára hágott, nem hitt a szemének. Mert ameddig ellátott, végeláthatatlanul terültek el a hullámzó, borostyánszín búzatáblák, jól táplált tehenek és szíjas izomzatú lovak legelésztek a közéjük ékelôdô, élénkzöld füvû legelôkön...
+say.nr515_1_irrigation_project.16;"Hogyan... lehetséges ez?"
+say.nr515_1_irrigation_project.17;– nyögte ki végre a királynô.
+say.nr515_1_irrigation_project.18;"Talán csak illúzió, valamiféle nilfgaardi... varázslat..."
+say.nr515_1_irrigation_project.19;– vélekedett Reynard, aki ugyanúgy elképedt, mint a királynôje.
+say.nr515_1_irrigation_project.20;"Ha így van,..."
+say.nr515_1_irrigation_project.21;– mondta Gascon, és mélyen beleszagolt a levegôbe, –
+say.nr515_1_irrigation_project.22;"akkor sikerült tökélyre fejleszteniük a friss tehénszar szagának illúzióját."
+say.nr515_1_irrigation_project.25;A királynô kiküldte a felderítôit, akik aztán arra a megállapításra jutottak, hogy Homoklapály virágzása nem birodalmi varázslók mûve – hanem a birodalmi mérnököké. Gáttal rekesztették el a Brynn-folyót, ami keresztülfolyt a vidéken, és öntözôcsatornák bonyolult hálózata segítségével vezették a vizet a szikkadt földekre, amiket aztán trágyával gazdagítottak. Nem kellett sokat várniuk, hogy beérjen a munkájuk gyümölcse...
+say.nr515_1_irrigation_project.26;"Hihetetlen..."
+say.nr515_1_irrigation_project.27;– mondta Reynard, majd felemelt egy szár búzát, ami meghajlott a kalásza súlyától. –
+say.nr515_1_irrigation_project.28;"Több évszázadnyi nyomor és éhínség... felszámolva egy egyszerû csatorna segítségével."
+say.nr515_1_irrigation_project.29;"Egyszerû? Nem lennék ebben annyira biztos..."
+say.nr515_1_irrigation_project.30;– jegyezte meg Gascon, közben tekintetét a mezôkön legeltetve. –
+say.nr515_1_irrigation_project.31;"Mindezt megtervezni: a kapcsolódásokat, a nyomást, a folyadékáramlást,... Ehhez kellett ám a sütnivaló!"
+say.nr515_1_irrigation_project.34;De nem voltak mindannyian elragadtatva a nilfgaardiak öntözôrendszerétôl. A víz, amit a gáttal visszatartottak, korábban keresztülfolyt Domboslapályon, amely terület híres volt dús gyümölcsöseirôl. Egykor bôségesen termô alma- és szilvafái többé nem hoztak termést, a leveleik elszáradtak és lehullottak.
+say.nr515_1_irrigation_project.35;"Felség..."
+say.nr515_1_irrigation_project.36;– szólalt meg az egyik domboslapályi paraszt. –
+say.nr515_1_irrigation_project.37;"Mi könyörögtünk és esengtünk a nilfgaardiaknak,... de azt mondták, a hadseregeknek búzára van szükségük, nem pedig gyümölcsre. A gyümölcsöseink nem szerepleltek a terveikben. Úrnôm,... nem bírom végignézni, ahogy a fák, amiket még apám és az ô apja ültettek, kiszáradnak és elhalnak... Ezért kérem, könyörgöm, rombolja le azt az átkozott gátat! Hadd legyen minden olyan, mint régen!"
+say.nr515_1_irrigation_project.38;"Meglopni a gazdagot, és odaadni a szegénynek"
+say.nr515_1_irrigation_project.39;– mondta fejvakarva Gascon. –
+say.nr515_1_irrigation_project.40;"A történetekben mindig olyan szépen hangzik, ám a gyakorlatban... De boldog is vagyok, hogy soha nem kellett efféle döntéseket meghoznom."
+say.nr515_1_irrigation_project.45;"Nem oldhatjuk meg egy ember baját egy másiknak a kárára"
+say.nr515_1_irrigation_project.46;– jelentette ki a királynô hosszas töprengés után.
+say.nr515_1_irrigation_project.47;"Ilyen aljassághoz még egy királynô sem folyamodhat. Legyen úgy, ahogy egykor volt. Ahogy az istenek elrendezték, s nem pedig úgy, ahogy azt a nilfgaardiak kifundálták."
+say.nr515_1_irrigation_project.48;A lyriaiak a királynô parancsára elpusztították a gátat. Domboslapály gyümölcsösei újra felvirágoztak, miközben Homoklapály mezôi újra pusztasággá lettek,... lakói pedig eztán örökké visszasírták a napot, amikor földjükön Nilfgaard uralkodott.
+say.nr515_1_irrigation_project.52;"Voltam egyszer Homoklapályban, öt esztendôvel ezelôtt, egy kemény tél során"
+say.nr515_1_irrigation_project.53;– mondta Meve. –
+say.nr515_1_irrigation_project.54;"Láttam idôseket, akik olyan gyengék voltak, hogy nem tudtak kikelni az ágyukból. Nôket, akiknek kihullott a hajuk. Gyermekeket felpüffedt hassal. Ha néhány gyümölcsösnek ki kell száradnia azért, hogy ôk csak egy kicsivel is jobban élhessenek,... akkor legyen. Ezt az árat hajlandó vagyok megfizetni."
+say.nr515_1_irrigation_project.55;Homoklapály lakói megkönnyebbültek a királynô döntése hallatán,... de Domboslapály almatermesztôi mérhetetlenül fel voltak háborodva – ám semmit sem tehettek. A gyümölcsösök kiszáradt fái hamarosan csak útonállók bandáinak adtak otthont, akik e rejtekhelyeikrôl kicsapva támadtak rá a Rívián átkelô zarándokokra és kereskedôkaravánokra.
+say.nr515_1_irrigation_project.6;Meve a Homoklapály, Rívia legszegényebb régiója felé vivô, gazzal benôtt úton léptetett. Arrafelé a föld száraz volt és homokos, az erdôk ritkásak, és nem élt bennük semmi vad. Homoklapály lakói jól tudták, mi az éhínség. Az éléskamráik már késô ôszre kiürültek, és mire beköszöntött a tavasz, az utolsó kutyát is leölték, csak hogy túléljék a telet.
+say.nr515_1_irrigation_project.7;"Ez a föld soha nem volt tejjel és mézzel folyó ígéretföldje, még a legszebb napjaiban sem..."
+say.nr515_1_irrigation_project.8;– sóhajtotta a királynô. –
+say.nr515_1_irrigation_project.9;"Elôre rettegek attól, miféle borzalmakkal sújtotta még a háború e vidéket."
+title.nr515_1_irrigation_project.4;Árral szemben
+

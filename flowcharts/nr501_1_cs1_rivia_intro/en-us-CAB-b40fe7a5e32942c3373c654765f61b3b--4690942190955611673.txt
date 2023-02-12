@@ -1,0 +1,14 @@
+say.nr501_1_cs1_rivia_intro.1;Meve hazatért, igaz, ehhez kissé tekervényes utat járt be: Aedirn füstölgô zsarátnokmezein, Mahakam hófödte hegyvidékein, Angren szörnyek-lakta ingoványain át vezetett ez az út. De visszatért, mítoszokba burkolózva, és egy hatalmas sereggel a háta mögött.
+say.nr501_1_cs1_rivia_intro.11;Öhöm. Ôfelsége találkozót javasol – fegyverek és kíséret nélkül.
+say.nr501_1_cs1_rivia_intro.12;Ôfelsége?! Az a kölyök még az anyja melléig sem ér!
+say.nr501_1_cs1_rivia_intro.14;Szégyen!
+say.nr501_1_cs1_rivia_intro.15;Csendet. Hadd közölje a mondandóját.
+say.nr501_1_cs1_rivia_intro.17;A katonák mukkanni sem mertek. Lehet, hogy nem mindig értették királynôjük motivációit, és nem mindig értettek egyet a döntéseivel, de a parancsait soha nem kérdôjelezték meg.
+say.nr501_1_cs1_rivia_intro.19;Milyen természetû az ügy, amirôl a fiam tárgyalni kíván?
+say.nr501_1_cs1_rivia_intro.20;A nilfgaardi hadi gépezet csikorogva megállt, és a hadiszerencse fordulóban volt. Miután egy egyesült Északkal találta magát szembe, a hódító a csapatai zömét kivonni kényszerült Lyriából és Ríviából, ezáltal Meve számára szabaddá vált az út a hazatéréshez, aep Dahy tábornok visszaveréséhez,... és Villem lemondatásához.
+say.nr501_1_cs1_rivia_intro.21;Vagy... vagy anya és fiú talán nem is lesz kénytelen szembeszállni egymással?
+say.nr501_1_cs1_rivia_intro.5;Nagy horderejû volt a pillanat, amit még Ríviai Geralt eltûnése – vagy mondjuk inkább úgy: dezertálása? – sem keseríthetett meg. A hídért vívott csata hôse most szökevény volt. Mégis, Meve eltökélte, hogy mindenáron visszaszerzi a királyságát – akár a vaják segítségével, akár anélkül.
+say.nr501_1_cs1_rivia_intro.6;A lyriaiak ellenséges vonalak mögött véghez vitt vakmerô kalandjai, és az azokat megkoronázó, a hídért vívott csatát lezáró dicsôséges gyôzelem, új életet leheltek Észak háborús törekvéseibe. Ellenállók harcos csapatai rótták a meghódított földeket, Kaedwen és Redánia pedig, miután majdnem hûségesküt tettek a császárnak, megszakítottak minden párbeszédet a megszállóval.
+say.nr501_1_cs1_rivia_intro.7;Úrnôm, Villem király parancsára jöttem––
+say.nr501_1_cs1_rivia_intro.9;Villem... herceg.
+

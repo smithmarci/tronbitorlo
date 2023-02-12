@@ -1,0 +1,16 @@
+say.nr509_1_dwarven_bank.1;"Friss tojás! Friss tojás eladó!"\n
+say.nr509_1_dwarven_bank.11;"Nocsak, egy bankár mély zsebekkel és nagylelkûséggel megáldva? Ez bizonyára valami tréfa... Szeretnék találkozni vele!"\n
+say.nr509_1_dwarven_bank.13;"Mi sem egyszerûbb, Felség. A piactéren álló házak egyike az övé."\n\n
+say.nr509_1_dwarven_bank.14;Mert felkeltette az érdeklôdését, a királynô találkozót kért a rejtélyes hitelezôvel. És ki jött elô az üdvözlésére? Nem más, mint Murkó Vidmar. Mikor legutóbb találkoztak, a királynô segített neki elôteremteni a kezdôtôkét a vállalkozásához.
+say.nr509_1_dwarven_bank.16;"Nem hiszek a szemeimnek! Az én királyi jótevôm! No, hát ne ácsingózzatok itt! Fáradjatok beljebb!"\n
+say.nr509_1_dwarven_bank.18;A bankban szemkápráztató volt a nagy ténykedés. Papírok zizegtek, érmék csilingeltek, és pecsétnyomók csattantak a pultokon.\n
+say.nr509_1_dwarven_bank.20;"Úgy hallottam, kölcsönt nyújtottál a városnak. Ráadásul rendkívül jutányosat... Egy egész évszázadnyi törlesztôidôre?"\n
+say.nr509_1_dwarven_bank.22;"Nem sietek én sehová. Bevallom, élvezet látni, ahogy munkálkodnak. Elképesztô az a haladás, amit elértek! Mindegyikük azt épít, amit akar! Mahakamban csak azzal egy év menne el, hogy eldöntsük, egy szögre kilenc, vagy inkább tíz kalapácsütést mérjünk."
+say.nr509_1_dwarven_bank.23;A királynô és Murkó egy pazar vacsorát költöttek el együtt, tósztot ittak a törp sikerére, aztán Meve elbúcsúzott és távozott. Másnap reggel a szállásmestere érkezett jelentést tenni. Eszeveszett vigyor ült az arcán, miközben elújságolta a hírt, miszerint a katonák egy ismeretlen ládát találtak az egyik szekéren. Amikor felnyitották, kiderült, hogy az színültig arannyal volt tele. Senki sem tudta megmondani, honnan került oda, bár a királynônek volt ezzel kapcsolatban némi sejtése...
+say.nr509_1_dwarven_bank.24;"Bogyók és magvak, leszárazva mind!"\n
+say.nr509_1_dwarven_bank.3;"Kolbászt, sajtot, tejet! Csodás selymeket!"\n\n
+say.nr509_1_dwarven_bank.5;Mint mindig, a háromleni piacon most is nyüzsgött az élet. Ám ezen a bizonyos napon Meve ôszintén meglepôdött a látványtól. Mert alig hogy hónapokkal ezelôtt Nilfgaard a földdel tette egyenlôvé, Háromlen máris újjászületôben volt! A népek tüsténkedtek, fûrészeltek és kalapáltak, friss kátrány szaga töltötte be a levegôt, ahogy a város felocsúdott a háború borzalmaiból. A nagy sürgés-forgás ellenére a polgármester felismerte a királynôt, és nyomban az elôkelô vendég fogadására sietett.
+say.nr509_1_dwarven_bank.7;"Horribilis lehetett mindennek a költsége! Honnan szereztétek rá a pénzt, jó ember?"\n
+say.nr509_1_dwarven_bank.9;"Egy kölcsönbôl – ami amúgy fölöttébb hihetetlen! Hatalmas összeg nagyon alacsony kamat mellett. És egy évszázadunk van a törlesztésére!"\n
+title.nr509_1_dwarven_bank.379;Osztalék
+

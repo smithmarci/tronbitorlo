@@ -1,0 +1,7 @@
+say.nr501_3_battle_for_rivia_combat2.1;Itt a vége, aep Dahy! Hallasz engem?! Karóra fogom tûzni a fejed!
+say.nr501_3_battle_for_rivia_combat2.11;Ostobák... Ostobákkal vagyok körülvéve!
+say.nr501_3_battle_for_rivia_combat2.3;Merre van?! Mondd el, hol van!
+say.nr501_3_battle_for_rivia_combat2.5;Elég! Nem szükséges ezt tovább hallgatnom. Öljétek meg!
+say.nr501_3_battle_for_rivia_combat2.7;Íjászok! Jöjjön el az éjszaka! Takarjátok el a napot a nyilaitokkal!
+say.nr501_3_battle_for_rivia_combat2.9;Köszönettel tartozom Önnek... Az erôdítményének felettébb masszív falai vannak!
+

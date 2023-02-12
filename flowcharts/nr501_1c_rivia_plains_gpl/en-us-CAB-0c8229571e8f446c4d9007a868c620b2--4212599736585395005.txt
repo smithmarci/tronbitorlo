@@ -1,0 +1,4 @@
+say.nr501_1c_rivia_plains_gpl.1;Felség... A kunyhók érintetlenek. Érett gabona lengedezik a földeken. Alig hiszem el.
+say.nr501_1c_rivia_plains_gpl.2;Már attól tartottam, egy újabb Aedirnre találunk itt. Ahol a Feketék mindent felégettek.
+say.nr501_1c_rivia_plains_gpl.3;Én nem tartottam semmi effélétôl. Nilfgaard nem ostoba. Nem fogja elpusztítani ama földeket, amiket meg szándékozik tartani. És Villem is térdet hajtott a császárnak.
+

@@ -1,0 +1,63 @@
+menu.nr508_1_fallen_scoiatael.120;Legyen hát... Távozhattok.
+menu.nr508_1_fallen_scoiatael.121;Átadlak titeket Demavendnek.
+menu.nr508_1_fallen_scoiatael.59;Meg is adhattátok volna magatokat.
+menu.nr508_1_fallen_scoiatael.60;Megértem,... de meg nem bocsáthatom.
+menu.nr508_1_fallen_scoiatael.61;Kifogások. Ez minden, amit mondani tudsz?
+say.nr508_1_fallen_scoiatael.1;Meve észrevette, amint az egyik felderítôje, bizonyos Larkin káplár, megállította lovát, és hosszasan az erdôt figyeli.\n
+say.nr508_1_fallen_scoiatael.10;Larkin káplár tisztelgett, majd ellovagolt a fák felé. Amint az árnyékba ért, nekiállt kifürkészni a környezetét. És valami felkeltette a figyelmét. Leszállt a lováról, félrehajtotta a bokrok ágait, és alattuk nyomokat fedezett fel a sárban.\n
+say.nr508_1_fallen_scoiatael.112;A tündék gyakran használnak szépen hangzó szavakat,... de a tetteik alapján kell megítélni ôket, Felség. Emlékezzen a Mállóerdôre! Arra, amit ott látott.
+say.nr508_1_fallen_scoiatael.118;Könyörülj... Oly kevesen maradtunk. Fáradtak vagyunk, sebesültek, nem jelentünk veszélyt. Engedd, hogy távozzunk a királyságodból, hogy elmenekülhessünk.
+say.nr508_1_fallen_scoiatael.12;"Felség!"
+say.nr508_1_fallen_scoiatael.125;Nem én uralkodom e földeken, nem vagyok a királynôje. Demavendnek van joga dönteni a sorsotok felôl, nem nekem.
+say.nr508_1_fallen_scoiatael.127;Tudod, miféle sors vár ránk, ha a kezére adsz bennünket.
+say.nr508_1_fallen_scoiatael.129;Igen, tudom. Ám nem tudhatom, milyen sorsnak nézünk elébe, ha utatokra engedlek titeket.
+say.nr508_1_fallen_scoiatael.131;Talán békében távoznátok. Vagy valaki más botlana belétek, és ugyanúgy végezné, mint Larkin káplár. Vele is végeznétek. Ezt nem vagyok hajlandó megkockáztatni.
+say.nr508_1_fallen_scoiatael.133;Szóval halál mindannyiunkra... A kisebbik rossz, igaz?
+say.nr508_1_fallen_scoiatael.135;Meve nem felelt. A lesütött szemû tünde bólintott, majd elôre nyújtotta a karjait, hogy megbilincselhessék. Meve elküldte a Scoia'taelt Demavendnek. Hogy mi lett aztán a sorsuk, kérded? Ennyibôl már nem nehéz kitalálni a történetük végét...
+say.nr508_1_fallen_scoiatael.14;– kiáltotta, és gyorsan az út irányába kapta a fejét. –
+say.nr508_1_fallen_scoiatael.144;Elég az értelmetlen halálból egy napra... Ám legyen. Szabadon távozhattok.
+say.nr508_1_fallen_scoiatael.152;Én... nem is... tudom, hogyan hálálhatnánk meg.
+say.nr508_1_fallen_scoiatael.154;Úgy, hogy tesztek róla, soha ne bánjam meg e döntésemet. Az elegendô hála lenne.
+say.nr508_1_fallen_scoiatael.156;Felség! Ôk támadtak ránk, ráadásul provokáció nélkül!
+say.nr508_1_fallen_scoiatael.158;Valóban, Rayla? Provokáció nélkül? Csak mert nekem nagyon úgy tûnik, hogy évtizedeken keresztül provokáltuk ôket.
+say.nr508_1_fallen_scoiatael.16;"Riadóztasson! Ez a Scoia––!"\n
+say.nr508_1_fallen_scoiatael.160;Köszönetem... a szánalmadért. Irántam és az egész népem iránt...
+say.nr508_1_fallen_scoiatael.162;Meve sajátkezûleg oldozta el a foglyok béklyóit a lyriaiak néma tekinteteinek kereszttüzében. Helytelenítették a tettét – a nemtetszésük nyilvánvaló volt...
+say.nr508_1_fallen_scoiatael.18;Egy nyílvesszô szelte keresztül a levegôt, és ütötte át a torkát, beléforrasztva a szót. Az erdô pedig ôsi nyelven felhangzó rikoltásoktól elevenedett meg... Támadó tündék rikoltásaitól!
+say.nr508_1_fallen_scoiatael.3;"Felség, meg mernék esküdni rá, hogy hallottam valamit. Egy suttogást talán. De... hm... most semmit nem hallok, minden csendes. Talán csak képzelôdtem."\n
+say.nr508_1_fallen_scoiatael.34;A Scoia'tael harcosoknak esélyük sem volt Meve-vel szemben. Amikor végre elhalt a csatazaj, a királynô gyôzedelmesen hajította félre nyílvesszôkkel telitûzdelt pajzsát. Aztán megparancsolta, hogy vezessék a színe elé a különítmény parancsnokát.\n\n
+say.nr508_1_fallen_scoiatael.36;Egy öntelt erdôjáróra számított, aki majd arcon köpi, és közben azt kiáltja, hogy "halál minden dh'oine-ra". De az eléje citált, vérzô tündében a gôg szikrája sem volt meg. Az lesütötte a szemét, és közben remegett a szája széle.
+say.nr508_1_fallen_scoiatael.39;Fiatalnak tûnsz, tünde. Hány nyarat láttál? Harmincat? Többet?
+say.nr508_1_fallen_scoiatael.4;"Képzelôdtél?"
+say.nr508_1_fallen_scoiatael.41;Huszonhetet, Úrnôm.
+say.nr508_1_fallen_scoiatael.43;Huszonhetet. Csodás abban a korban az élet. Kár lenne ilyen fiatalon meghalni...
+say.nr508_1_fallen_scoiatael.45;Könyörgöm, Rhena... Kegyelemért esedezem. Ha nem is magamért, akkor legalább a––
+say.nr508_1_fallen_scoiatael.46;Kegyelemért? Bizonyára tréfálsz. Itt vártatok, úgy törtetek ellenünk, mint a haramiák, és most... kegyelmet merészelsz kérni?
+say.nr508_1_fallen_scoiatael.48;Nem rajtaütés volt ez.
+say.nr508_1_fallen_scoiatael.50;Ne nézz bolondnak! Tudom, mit láttam, és nem ismeretlenek számomra a háború fortélyai.
+say.nr508_1_fallen_scoiatael.52;Nem veled kívántunk megütközni! Zvaere!
+say.nr508_1_fallen_scoiatael.54;Akkor ki ölte meg Larkin káplárt, hm? Alakváltók?
+say.nr508_1_fallen_scoiatael.56;Amikor megláttunk az országúton, visszahúzódtunk az erdôbe. Ki akartuk várni, amíg áthaladtok...
+say.nr508_1_fallen_scoiatael.58;A felderítôtök hallása rendkívül kifinomult volt. Meghallott valamit, aztán felfedezte a nyomainkat. Meg kell értened, nem volt más választásunk!
+say.nr508_1_fallen_scoiatael.6;– Meve a katona vállára tette a kezét. –
+say.nr508_1_fallen_scoiatael.65;Nem érdekelnek a kifogásaid. Láncra verni mindet! Küldjék el ôket Demavendnek!
+say.nr508_1_fallen_scoiatael.67;Nem érted! Ô gyûlöli a––
+say.nr508_1_fallen_scoiatael.69;Ó, nagyon is jól értem. Tudom, mennyire gyûlöli a fajtátokat. De engem ez egyáltalán nem érdekel.
+say.nr508_1_fallen_scoiatael.71;Hamarosan az aedirniek megkapták Meve-tôl a tünde foglyokat. Hogy mi lett aztán a sorsuk, ennyibôl már könnyen kitalálható...
+say.nr508_1_fallen_scoiatael.73;Tudod, meg is adhattátok volna magatokat.
+say.nr508_1_fallen_scoiatael.75;Mint Drystan különítménye? Úgy gondolod? Letették a fegyvert egy aedirni tábornok elôtt,... aki aztán azon nyomban felköttette mindannyiukat!
+say.nr508_1_fallen_scoiatael.77;Ha már meg kell halnunk, jobb szeretnénk nyilak és kardok által.
+say.nr508_1_fallen_scoiatael.79;Megértem,... de meg nem bocsáthatom. Megöltétek a katonáimat, hû alattvalóimat!
+say.nr508_1_fallen_scoiatael.8;"Senkinek nincsenek élesebb érzékei, mint neked. Ha azt mondod, hogy hallottál valamit, akkor az megéri az utánajárást."
+say.nr508_1_fallen_scoiatael.81;Akik a fél Kontinensen át követtek engem,... Csak hogy egy árokparton leljék halálukat, a semmiért? Miközben ilyen közel volt már a gyôzelem?
+say.nr508_1_fallen_scoiatael.83;Úrnôm, ma én is elvesztettem fivéreimet és húgaimat. Az ô haláluk ugyancsak értelmetlen volt.
+say.nr508_1_fallen_scoiatael.87;Mit kerestetek itt? Aep Dahy megmentésére jöttetek?
+say.nr508_1_fallen_scoiatael.89;Megmenteni valakit? Nem, Rhena, menekülôben voltunk.
+say.nr508_1_fallen_scoiatael.91;A nilfgaardiak rádöbbentek, hogy el fogják veszíteni a háborút, ezért cserben hagytak bennünket. A támogatásuk nélkül semmi esélyünk.
+say.nr508_1_fallen_scoiatael.93;Demavend szabadjára engedte az ebeit, egyesével vadásszák le az egységeinket. Ötven aranypénzt ajánlott fel minden egyes Scoia'tael fejéért. Temeriában és Kaedwenben is ugyanez a helyzet, ha ugyan nem rosszabb.
+say.nr508_1_fallen_scoiatael.95;Szerettünk volna Iorveth egységéhez csatlakozni, és olyan messzire menekülni, amilyen messzire csak tudunk. Ebben volt az utolsó reménységünk.
+say.nr508_1_fallen_scoiatael.97;Miért mondod el nekem mindezt?
+say.nr508_1_fallen_scoiatael.99;Mert még mindig figyelsz. Nem ölettél meg, tehát van szíved. Esseath aine aed dhu.
+title.nr508_1_fallen_scoiatael.378;Harc a semmiért
+title.nr508_1_fallen_scoiatael.480;Harc a semmiért
+

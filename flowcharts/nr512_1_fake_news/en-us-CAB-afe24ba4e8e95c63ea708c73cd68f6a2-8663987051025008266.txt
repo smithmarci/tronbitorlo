@@ -1,0 +1,31 @@
+say.nr512_1_fake_news.10;"És hagyja meg nekik, hogy szorítkozzanak a lényegre."
+say.nr512_1_fake_news.13;A közemberek csoportját egy tagbaszakadt méhész, bizonyos Ethelred, Theobald fia vezette. Amint a királynô színe elôtt találta magát, térdre hullt, és úgy kezdett el legyezgetni a karjaival, ahogy – legjobb elképzelése szerint – az illem megkívánta.\n
+say.nr512_1_fake_news.14;"Ó, Királynô úrnônk, Kegyelmes Felségességed,... szánjon meg minket, igát húzó szorgoskodókat! Körös-körül a háború dúl, alig valamicske betevônk marad, és még annyi se, hogy ôszinték legyünk. Ezért esdekelünk, hogy ne tegye ezt velünk, ne emeljen az adókon, mert ennél többet már nem tudunk fizetni––"\n
+say.nr512_1_fake_news.15;"Tessék?"
+say.nr512_1_fake_news.16;– szakította félbe Meve. –
+say.nr512_1_fake_news.17;"Te meg mi a fészkes fenérôl beszélsz itt?"
+say.nr512_1_fake_news.18;"Hát a... rendeletérôl, arról, amit kiszögeztek a hirdetôtáblára"
+say.nr512_1_fake_news.19;– mondta a paraszt, majd félénken egy tekercset húzott elô a tarisznyájából, kihajtotta azt, és kérges ujjával a vonatkozó passzusra bökött. –
+say.nr512_1_fake_news.20;"Mi, Meve királynô, ezennel elrendeljük, miszerint amennyiben trónunkat visszaszerezzük, úgy a telekadót, a terményadót és a robotot háromszorosan emeljük meg, a háborús kiadások fedezésére, a köznép hozzájárulásával."
+say.nr512_1_fake_news.23;Meve és Reynard döbbent pillantást váltottak. Ugyanis ilyen rendeletet egyikôjük sem hozott... Mégis, az irat a királynô aláírásával és pecsétjével volt szignózva.\n
+say.nr512_1_fake_news.24;"Villem... Neked van közöd ehhez?"\n
+say.nr512_1_fake_news.26;"Nincs, Anyám"
+say.nr512_1_fake_news.27;– mondta a herceg, közben tagadólag rázva a fejét. –
+say.nr512_1_fake_news.28;"Bár lehetôségünk lett volna rá,... de soha nem hamisítottuk alá a nevedet."\n
+say.nr512_1_fake_news.30;"Talán Villem mûve volt."\n
+say.nr512_1_fake_news.31;"Lehetetlen"
+say.nr512_1_fake_news.32;– jelentette ki Meve határozottan. –
+say.nr512_1_fake_news.33;"Igaz, hogy a fiam mélyre süllyedt,... de soha nem merészelné meghamisítani az aláírásomat."\n
+say.nr512_1_fake_news.35;"Akkor vajon kinek a kreálmánya ez a rendelet?"\n
+say.nr512_1_fake_news.36;"A nilfgaardiaké"
+say.nr512_1_fake_news.37;– vágta rá habozás nélkül Meve. –
+say.nr512_1_fake_news.38;"Hozzáfértek a pecsétjeimhez, az írnokaimhoz. Félelmet, bizonytalanságot és kétséget akarnak ébreszteni, ellenem akarják hangolni a köznépet... Becsület nélküli hazugok mind."
+say.nr512_1_fake_news.39;A királynô miszlikekbe tépte a papirost... Persze tisztában volt vele, hogy ezzel semmit nem oldott meg. Meg kellett találnia a nyomdákat, amik ezeket a hamisítványokat nyomták,... és véget kellett vetnie a ténykedésüknek.
+say.nr512_1_fake_news.4;"Felség"
+say.nr512_1_fake_news.5;– tisztelgett Reynard, és összecsapta a sarkát. –
+say.nr512_1_fake_news.6;"Parasztok érkeztek a táborba Scala régióból. Kérelmezôk, akik a kívánságaikkal szeretnének a színe elé járulni."\n\n
+say.nr512_1_fake_news.7;Meve felsóhajtott. Kérelmezôk, peres ügyek, audienciák... A királynôség mindazon vonatkozásai, amiket egyáltalán nem hiányolt.\n
+say.nr512_1_fake_news.8;"Rendben, vezesse ôket elém"
+say.nr512_1_fake_news.9;– felelte. –
+title.nr512_1_fake_news.2;A királynô nevében...
+

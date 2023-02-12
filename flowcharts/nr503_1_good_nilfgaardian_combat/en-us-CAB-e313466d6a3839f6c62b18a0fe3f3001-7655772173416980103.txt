@@ -1,0 +1,5 @@
+say.nr503_1_good_nilfgaardian_combat.1;Egyetlen várost sem hagyok a megszálló mocskok kezén! Lyriáért! Ríviáért!
+say.nr503_1_good_nilfgaardian_combat.3;Sikerült, Felség. A város a miénk.
+say.nr503_1_good_nilfgaardian_combat.5;Le kell döntenünk a falakat! Zúzzátok le ôket!
+say.nr503_1_good_nilfgaardian_combat.7;Nocsak... Csinos kis fegyverzet ez... Le merném fogadni, hogy még mindig "új hadigép" szaga van.
+

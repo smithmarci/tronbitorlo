@@ -1,0 +1,4 @@
+say.nr501_3_eyck_oneliners.1;A Jóság Könyve azt mondja, hogy az igazság mindég gyôzedelmeskedik. Semmi okunk a kétségbeesésre.
+say.nr501_3_eyck_oneliners.2;A Feketék jobban teszik, ha még azelôtt levedlik a páncéljukat, és felkötik a nyúlcipôt, hogy a kakas rikkant!
+say.nr501_3_eyck_oneliners.3;Nilfgaard kardot ragadott, ezért kard által vész el.
+

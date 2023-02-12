@@ -1,0 +1,59 @@
+menu.nr501_4_epilogue_intro.110;Igaza van, Reynard. Köszönöm.
+menu.nr501_4_epilogue_intro.111;Villem halála az én lelkemen szárad.
+menu.nr501_4_epilogue_intro.140;Igaza van, Reynard. Köszönöm Önnek.
+menu.nr501_4_epilogue_intro.141;Ezt az ajándékot nem fogadhatom el.
+menu.nr501_4_epilogue_intro.56;Igazad van... Köszönöm.
+menu.nr501_4_epilogue_intro.57;A halál sohasem szép.
+say.nr501_4_epilogue_intro.1;A Rívia váráért vívott ütközettel valóban megfordult a háború menete. Meve elfoglalt egy bevehetetlen erôdítményt, és visszavert egy másik támadó sereget... Mindezt egyetlen éjszaka leforgása alatt. Ezzel megmutatta honfitársainak és Észak népeinek, hogy a Nilfgaard nevû kolosszus csak agyaglábakon áll.
+say.nr501_4_epilogue_intro.100;Reynard... Épp csak hogy eltemettem a fiamat. Aki a karjaimban halt meg. Az istenek legyenek átkozottak.
+say.nr501_4_epilogue_intro.102;Igen. Hôsként halt meg.
+say.nr501_4_epilogue_intro.104;Felség... Nem voltam benne biztos, hogy Villem valaha lemoshatja magáról a szégyent. Elárulta a hazáját, az anyját... Összeállt a legádázabb ellenségünkkel...
+say.nr501_4_epilogue_intro.106;De azzal, amit Ríviában tett, minden bûne alól feloldozást nyert. Villem méltónak bizonyult arra, hogy a fia lehetett.
+say.nr501_4_epilogue_intro.108;Nem azért mondom mindezt, hogy gyászát még jobban tetézzem, Felség. Csupán azért, hogy tudja, büszke lehet rá.
+say.nr501_4_epilogue_intro.114;Igaza van. Köszönöm Önnek, Reynard... Szükségem volt arra, hogy ezt halljam.
+say.nr501_4_epilogue_intro.116;Tudja, miért halt meg Villem?
+say.nr501_4_epilogue_intro.118;Mert kinyitotta nekünk a kaput, és––
+say.nr501_4_epilogue_intro.12;Bár Meve sikerrel hódította vissza királyságait, a kardját még nem szándékozott szögre akasztani. Ugyanis Demavend király kérte, hogy segítsen Aedirnbôl is kiûzni a megmaradt megszállókat.
+say.nr501_4_epilogue_intro.120;Azért halt meg, mert mellôztem ôt, elhanyagoltam ôt. Ezért is árult el engem – és ezért maradt a kastélyban az ellenségeinkkel.
+say.nr501_4_epilogue_intro.122;Érdemessé vált arra, hogy fiamnak nevezzem... Én... én csak azt nem tudom, hogy én érdemes vagyok-e rá, hogy az anyjának nevezzem magam.
+say.nr501_4_epilogue_intro.126;Hmm... Gyakran gondolok arra a ríviai éjszakára. Gascon halálára.
+say.nr501_4_epilogue_intro.128;Lehetséges, hogy hibáztam... Talán nem kellett volna meghalnia.
+say.nr501_4_epilogue_intro.130;Nem kellett volna, Felség. Egyáltalán ott sem kellett volna lennie.
+say.nr501_4_epilogue_intro.132;Katona vagyok, arra esküdtem fel, hogy szolgálni fogom Önt. De Gascon? Ô semmi ilyesmire nem esküdött fel. Bármikor leléphetett volna.
+say.nr501_4_epilogue_intro.134;Bûntudat és sajnálkozás gyötri, Felség, jól tudom... De önként jelentkezett a feladatra, és pontosan tisztában volt azzal, mire jelentkezett. Gascon az életét adta Önért, mert hitt benne, hogy érdemes rá.
+say.nr501_4_epilogue_intro.138;Nincs nagyobb bizonyíték a barátságra ennél, nincs nagyobb ajándék, amit ember adhatna. Fogadja el, Felség, és emlékezzen rá hálával, ne pedig bánattal.
+say.nr501_4_epilogue_intro.143;Igaza van. Nincs nagyobb ajándék... De én nem kérem. És nem is akarom.
+say.nr501_4_epilogue_intro.145;Hányan adták már az életüket értem? Ezrek? Tízezrek? El sem tudja képzelni, mekkora ez a teher.
+say.nr501_4_epilogue_intro.147;Fáradt vagyok, Reynard. Nyomorultul fáradt.
+say.nr501_4_epilogue_intro.2;Észak seregei egyesültek, és minden fronton támadásba lendültek. Bár még mindig számbeli fölényben voltak, a birodalmi haderôk arcvonala mérföldek ezrein keresztül nyújtózott.
+say.nr501_4_epilogue_intro.389;Ez a hely, ahol Nilfgaard a háború elsô napjaiban dicsôséges gyôzelmet aratott, hamarosan szemtanúja lett közelgô vereségének. Úgy tûnik, a történelemnek mégiscsak van igazságérzete, netán humorérzéke... Vagy mindkettô.
+say.nr501_4_epilogue_intro.39;Beszéltem Demavend küldöttével. A király körülvette Aldersberget. Csak rád vár, hogy támadhasson.
+say.nr501_4_epilogue_intro.390;Ez a felállás tarthatatlanná vált, és ezt Nilfgaard parancsnokai is jól tudták. Egy mindent eldöntô ütközetben még volt esélyük a végsô gyôzelemre, ezért mindent arra az egy ütközetre tettek fel,... és megsemmisítô vereséget szenvedtek.
+say.nr501_4_epilogue_intro.391;Hogy utasíthatta volna vissza? Hiszen tartozott a királynak egy szívességgel. És – nem utolsó sorban – égett a vágytól, hogy elégtételt vegyen aep Dahy-n.
+say.nr501_4_epilogue_intro.41;Nagyszerû! Semmi pénzért nem hagynám ki... Tudasd az egységekkel, hogy kezdhetnek készülôdni. És a vérszomjukat se felejtsék itt.
+say.nr501_4_epilogue_intro.42;Ühümm. Szerintem inkább tôled szeretnék ezt hallani. Nem érzek túl nagy lelkesedést a részükrôl, amikor tôlem hallják a parancsokat.
+say.nr501_4_epilogue_intro.44;Bocsáss meg... Attól tartok, mindig elfelejtem, hogy––
+say.nr501_4_epilogue_intro.46;Nem Reynard vagyok.
+say.nr501_4_epilogue_intro.48;Ez teljesen normális, hidd el. Az az ember volt a jobbkezed. Kell még némi idô, hogy hozzászokj a hiányához.
+say.nr501_4_epilogue_intro.50;Hmm... Gyakran gondolok arra az éjszakára. Talán hibát követtem el. Talán nem kellett volna meghalnia.
+say.nr501_4_epilogue_intro.52;Persze hogy nem kellett volna. Megadhatta volna magát.
+say.nr501_4_epilogue_intro.54;Meve, nem érts félre, de... a pasas ízig-vérig katona volt, a hivatása mintapéldánya. Tudta, hogy meghalhat. És elképzelni sem tudnék ennél méltóságteljesebb és szebb halált.
+say.nr501_4_epilogue_intro.61;Ahh... Azt hiszem, igazad van. De egy szeretett barát halála sohasem könnyû.
+say.nr501_4_epilogue_intro.63;A halál sohasem szép, Gascon. Legfôképp nem egy számunkra kedves barát halála.
+say.nr501_4_epilogue_intro.67;Elképzeltem, hogy véget ér a háború, Reynard szögre akasztja a kardját, letelepedik, és családot alapít...
+say.nr501_4_epilogue_intro.69;Háhh! Te is átkozottul jól tudod, hogy sosem tett volna ilyesmit.
+say.nr501_4_epilogue_intro.71;Miért is ne?
+say.nr501_4_epilogue_intro.73;Meve... Te is biztosan tisztában voltál vele.
+say.nr501_4_epilogue_intro.75;Reynard szerelmes volt beléd. Saját akaratából sohasem hagyta volna el az udvart, sem pedig Téged.
+say.nr501_4_epilogue_intro.77;De... ô soha...
+say.nr501_4_epilogue_intro.79;Persze hogy nem. Eltérô társadalmi státusz, lovagi becsülete, és a többi hasonló baromság. Talán másképp alakulhatott volna, tekintve az elmúlt néhány hónapot,... de, nos...
+say.nr501_4_epilogue_intro.8;Alig néhány hónappal ama emlékezetes ríviai éjszaka után a birodalmi seregek teljes káoszba süllyedtek. Aldersberg erôdítménye maradt az ellenállásuk utolsó bástyája, aep Dahy tábornok és a "Kelet" Hadseregcsoport megmaradt túlélôi oda ásták be magukat.
+say.nr501_4_epilogue_intro.81;A királynô elfordult. Nem akarta, hogy Gascon lássa, amint az eltemetett érzelmei a felszínre törnek.
+say.nr501_4_epilogue_intro.84;Eleget beszéltünk. Aldersbergbe kell indulnunk.
+say.nr501_4_epilogue_intro.87;Beszéltem Demavend küldöttével, Felség. A király körülvette Aldersberget. Egyelôre kivár, és addig nem kezdi meg a támadást, amíg Ön oda nem ér.
+say.nr501_4_epilogue_intro.89;Helyes, ezt nem szándékozom kihagyni... Mondja meg az egységeknek, hogy készülôdjenek. Szítsák fel magukban a haragot.
+say.nr501_4_epilogue_intro.91;Természetesen, Felség.
+say.nr501_4_epilogue_intro.93;...
+say.nr501_4_epilogue_intro.95;Igen? Van még valami?
+say.nr501_4_epilogue_intro.97;Bocsásson meg a merészségemért, Felség, de... Nem tehetek róla, de aggódom. Nem alszik, mintha rossz lenne a közérzete, és nem is fest valami rózsásan...
+

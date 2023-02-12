@@ -1,0 +1,70 @@
+menu.nr503_1_good_nilfgaardian.114;Támadást rendelsz el Sártelek ellen.
+menu.nr503_1_good_nilfgaardian.115;Elvonulsz a csapataiddal.
+menu.nr503_1_good_nilfgaardian.12;Támadást rendelsz el Sártelek ellen.
+menu.nr503_1_good_nilfgaardian.13;Elvonulsz a csapataiddal.
+menu.nr503_1_good_nilfgaardian.80;Szabadon engeded a kovácsot.
+menu.nr503_1_good_nilfgaardian.81;Megkorbácsoltatod Tódort.
+menu.nr503_1_good_nilfgaardian.82;Kivégezteted a kollaboráns kovácsot.
+say.nr503_1_good_nilfgaardian.1;Meve serege egy lepusztult kisvároshoz, Sártelekhez ért.\n
+say.nr503_1_good_nilfgaardian.100;"Fegyvert és páncélt készítettél a megszállónknak. A megszállónk ezután arra használta azokat, hogy a szomszédaid és földijeid vérét ontsa"
+say.nr503_1_good_nilfgaardian.102;– szûrte a szót fogai között Meve. –
+say.nr503_1_good_nilfgaardian.104;"A vér vért kíván, ezért most a tiéd kiontatik. Vigyétek ezt az árulót a fôtérre! És vegyétek a fejét!"\n\n
+say.nr503_1_good_nilfgaardian.106;Egész Sártelek összegyûlt a kivégzésre. A legtöbben éljeneztek és füttyögtek, amint a kovács feje tovagurult... Ám egy maroknyi ember csak nyugtalanul tipródott, miközben könny áztatta arcukat.
+say.nr503_1_good_nilfgaardian.11;"Attól tartok, a katonák nem örülnének egy ilyen fordulatnak. Viszket a tenyerük a kardjuk markolatán, Felség. Ha visszavonulót fúj, azzal csak árt a közhangulatnak."
+say.nr503_1_good_nilfgaardian.120;A lyriaiak újra Sártelek falai alatt találták magukat. Azon tûnôdtek, hogy vajon érdemes-e megtámadniuk egy ennyire erôsen védett várost.
+say.nr503_1_good_nilfgaardian.122;"A Feketéknek erôs helyôrsége állomásozik itt"
+say.nr503_1_good_nilfgaardian.124;"Egy ostromra is fel vannak készülve – a raktárak dugig, és láttunk dárdavetôket meg kôhajítókat is..."
+say.nr503_1_good_nilfgaardian.125;– jelentették a városkába belopózó, majd onnan visszatérô felderítôi. –
+say.nr503_1_good_nilfgaardian.126;Meve visszafordult a sátor felé, és eltöprengett az ügyön, aztán meglátta a katonái sorokba lefektetett holttesteit. Ha nincs Tódor, talán nem lettek volna ennyien...
+say.nr503_1_good_nilfgaardian.127;Meve megmentette Tódor életét, de biztosra vette, hogy többé nem fogja látni a kovácsot. Ám az, amint leszállt az est, visszatért a táborhoz,... egy szekérre való, makulátlan állapotú fegyverrel.
+say.nr503_1_good_nilfgaardian.128;"Ha nincs Felséged, a puszta kezeikkel szaggattak volna ízekre..."
+say.nr503_1_good_nilfgaardian.129;"Köszönet azért, hogy kiállt értem, az ártatlanságom mellett. Ajándékokkal érkeztem,... ami ajándékoknak, tudom, hogy hasznát fogja venni."\n
+say.nr503_1_good_nilfgaardian.130;– mondta, miután térdre ereszkedett a királynô elôtt. –
+say.nr503_1_good_nilfgaardian.131;Meve a kezébe vett egy lándzsát, a vállának támasztotta a tompa végét, és végignézett a nyélen. A lándzsa hegye vörösen izzott a lemenô nap fényében.\n
+say.nr503_1_good_nilfgaardian.132;"Ebben biztos lehetsz, barátom."\n
+say.nr503_1_good_nilfgaardian.135;"Anyám..."
+say.nr503_1_good_nilfgaardian.137;– Villem hangja feszültségtôl zengve hasított bele a levegôbe. –
+say.nr503_1_good_nilfgaardian.140;"Az én bûntetteim sokkalta súlyosabbak voltak, és te mégis képes voltál irántam könyörületet tanúsítani."
+say.nr503_1_good_nilfgaardian.16;"Jobb szeretem az elégedetlenkedô, mint a halott katonákat"
+say.nr503_1_good_nilfgaardian.18;– mondta a királynô. –
+say.nr503_1_good_nilfgaardian.20;"Fújasson visszavonulót. Bár nem ma, de megküzdünk velük. Ezt megígérhetem nekik."
+say.nr503_1_good_nilfgaardian.22;"Talán súlyosak lesznek a veszteségeink"
+say.nr503_1_good_nilfgaardian.24;– mondta Meve, és kivonta a kardját, –
+say.nr503_1_good_nilfgaardian.26;"de tenni fogok róla, hogy a megszállóké még súlyosabbak legyenek. Készüljenek a csapatok. Támadni fogunk."\n\n
+say.nr503_1_good_nilfgaardian.28;Nem sokkal késôbb a lyriaiak megindultak Sártelek ellen, a dobok a lépteik ütemére duhogtak. A falakon a nilfgaardiak felkészültek a védekezésre.
+say.nr503_1_good_nilfgaardian.3;"Sárteleket be lehet venni"
+say.nr503_1_good_nilfgaardian.41;A nilfgaardiak valóban jól felkészültek voltak. Kampós végû vasrudakkal lökték el a falaktól az ostromlétrákat, és hosszú dárdákkal szórták meg az alant nyüzsgô támadókat. Meve-nek csak negyedjére sikerült áttörnie a védelmükön, ám ahhoz elôbb a saját embereinek holttestein kellett keresztülevickélnie.\n\n
+say.nr503_1_good_nilfgaardian.43;A királynô már a tábori orvos sátrában volt, amikor Reynard érkezett egy meglepô hírrel. Ahhoz, hogy Meve is meghallja a sebesültek hangos nyöszörgései mellett, fel kellett emelnie a hangját.\n
+say.nr503_1_good_nilfgaardian.45;"Felség... A városlakók küldöttséget menesztettek! Sürgôsen kihallgatást kérnek!"
+say.nr503_1_good_nilfgaardian.47;Több tucat polgár várakozott a sátor elôtt. Félúton a királynô és köztük egy férfi térdelt, súlyos bilincsekben. Az arca véres volt, mintha épp azelôtt kapott volna egy kiadós verést.\n
+say.nr503_1_good_nilfgaardian.49;"Ez kicsoda?"\n
+say.nr503_1_good_nilfgaardian.5;– fogott bele habozva mondandójába Reynard, –
+say.nr503_1_good_nilfgaardian.50;"A kovácsunk, Tódor"
+say.nr503_1_good_nilfgaardian.52;– köpte a szót egy kámzsát viselô papnô. –
+say.nr503_1_good_nilfgaardian.54;"Elárulta Felségedet! Alig, hogy a nilfgaardiak megérkeztek,... valójában már néhány órával azután felajánlkozott nekik. Még csak kérniük sem kellett. Fegyvereket és páncélokat készített nekik – ráadásul birodalmi aranyért. Pfuj!"
+say.nr503_1_good_nilfgaardian.56;Meve megragadta az elnáspángolt ember szakállát, és annál fogva rántotta fel, majd a szemébe nézett.\n
+say.nr503_1_good_nilfgaardian.57;"Te kovácsoltad azokat a kampókat? És a dárdahegyeket?"\n
+say.nr503_1_good_nilfgaardian.59;"I-igen,... én, Felség."\n
+say.nr503_1_good_nilfgaardian.61;"Szép munka"
+say.nr503_1_good_nilfgaardian.63;– morogta a királynô. –
+say.nr503_1_good_nilfgaardian.65;"Piszok szép munka."
+say.nr503_1_good_nilfgaardian.67;"Könyörüljön rajta, Úrnôm!"
+say.nr503_1_good_nilfgaardian.69;– kiabálta egy lisztes kötényt viselô aszott öregember. –
+say.nr503_1_good_nilfgaardian.7;"de csak veszteségekkel... Jelentôs veszteségekkel."\n
+say.nr503_1_good_nilfgaardian.70;"Amikor a mocsok Feketék elfogták a fiamat, azon hamarjában fel akarták lógatni. Tódor szót emelt az érdekében, megmentette az életét!"\n
+say.nr503_1_good_nilfgaardian.72;"Rajtam is segített!"
+say.nr503_1_good_nilfgaardian.74;– kiáltotta egy nô a tömegbôl. –
+say.nr503_1_good_nilfgaardian.76;"Éhes voltam. És megosztotta velem, amije volt!"
+say.nr503_1_good_nilfgaardian.78;A polgárok egymást túlharsogva kezdtek ordibálni. Egyesek a kovács jó cselekedeteit sorolták, mások pedig árulónak bélyegezték, és azt követelték, hogy kegyetlen vég legyen a jussa.\n\n
+say.nr503_1_good_nilfgaardian.86;"Ez az ember fegyvereket kovácsolt a nilfgaardiaknak, való igaz"
+say.nr503_1_good_nilfgaardian.88;– mondta Meve a tömegnek. –
+say.nr503_1_good_nilfgaardian.9;"Visszavonulás? Ez a javaslata?"\n
+say.nr503_1_good_nilfgaardian.90;"De te, pék, sütötted a kenyeret, amit ettek. Te pedig, fazekas, készítetted a kupákat, amikbôl ittak. Akarva vagy akaratlanul, de mindannyian segítettétek a megszállókat. Hol ér véget valaki mesterségének az ûzése, és honnan kezdôdik már az árulás? Erre nem tudom a választ. Ezért hát nem fogok megbüntetni senkit sem azért, mert azt csinálta, amihez ért."
+say.nr503_1_good_nilfgaardian.92;A döntést hallván a királynô emberei elôbb hitetlenkedve néztek egymásra, majd néhányan zúgolódni kezdtek. Amint nyugodt léptekkel megindult a sátor felé, amazok megjegyzéseket tettek és fütyültek. Végül már Reynardnak kellett lecsitítania ôket.\n\n
+say.nr503_1_good_nilfgaardian.93;"Húsz katona adta ma az életét azért, hogy Sárteleket kiszabadíthassa Nilfgaard markából"
+say.nr503_1_good_nilfgaardian.95;– mondta Meve, hangja hûvös volt és engesztelhetetlen. –
+say.nr503_1_good_nilfgaardian.97;"A te acélod okozta a vesztüket, ezért a véreddel fogod megfizetni az adósságodat. Öt korbácsütés legyen a jussod minden elesett után."\n\n
+say.nr503_1_good_nilfgaardian.99;Tódor kínzói számosan voltak, ugyanis egy férfi karja sem bírt száz korbácsütést rámérni. Csodával határos módon Tódor túlélte a megpróbáltatást,... de a teste megtöretett. Soha többé nem tudta megemelni a kalapácsot, és hátralevô életében koldusként tengôdött.
+title.nr503_1_good_nilfgaardian.121;A kollaboráns
+title.nr503_1_good_nilfgaardian.464;A kollaboráns
+

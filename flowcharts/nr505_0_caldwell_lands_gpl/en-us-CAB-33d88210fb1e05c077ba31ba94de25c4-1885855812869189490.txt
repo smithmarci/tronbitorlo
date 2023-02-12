@@ -1,0 +1,4 @@
+say.nr505_0_caldwell_lands_gpl.1;Hm. Ismerôsnek tûnnek ezek a birtokok?
+say.nr505_0_caldwell_lands_gpl.2;Természetesen, Felség. A tiszteletreméltó Caldwell gróf földjei ezek.
+say.nr505_0_caldwell_lands_gpl.3;Háború, halál, káosz mindenütt,... csak itt nem. Ez a táj határozottan idilli.
+

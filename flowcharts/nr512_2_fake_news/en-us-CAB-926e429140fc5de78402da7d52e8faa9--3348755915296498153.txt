@@ -1,0 +1,53 @@
+menu.nr512_2_fake_news.40;Rajtaütsz a nyomdamûhelyen.
+menu.nr512_2_fake_news.41;Továbbmész.
+menu.nr512_2_fake_news.45;Rajtaütsz a nyomdamûhelyen.
+menu.nr512_2_fake_news.46;Visszavonulsz.
+menu.nr512_2_fake_news.82;Saját röpiratokat kezdesz gyártani.
+menu.nr512_2_fake_news.83;Elpusztítod a nilfgaardiak nyomdamûhelyét.
+say.nr512_2_fake_news.101;Hamarosan minden városban, faluban és kocsmában megjelentek a Nilfgaard bûntetteit soroló plakátok. A feldühödött ríviaiak minden tôlük telhetôt megtettek – egyesek pénz- vagy ellátmány adományokkal, mások pedig a jelentkezésükkel –, hogy hozzájáruljanak a királynô seregének a gyarapításához.
+say.nr512_2_fake_news.13;"Hé! Mevie!"
+say.nr512_2_fake_news.14;– kiáltotta Gascon, és mint általában, most sem adott sokat az udvari etikettre. –
+say.nr512_2_fake_news.15;"Gyere csak ide egy percre!"\n
+say.nr512_2_fake_news.16;"Oly nagyon fájna, ha nagy néha 'Kegyelmednek' vagy 'Felségednek' szólítanál?"\n
+say.nr512_2_fake_news.17;"Nem akarok kicsinyeskedni, de ha már így felhoztad: te sem szólítottál egyszer sem az Ebek Hercegének."\n
+say.nr512_2_fake_news.18;"Ahh..."
+say.nr512_2_fake_news.19;– sóhajtott fel Meve a szemeit forgatva. –
+say.nr512_2_fake_news.20;"Essünk túl rajta."
+say.nr512_2_fake_news.27;"A pajtikáim rajtaütöttek a Feketék egy szállítmányán. Találd ki, mit cipeltek magukkal!"\n
+say.nr512_2_fake_news.28;Gascon egy kis tégelyben sûrû, sötét folyadékot nyújtott oda Meve-nek.\n
+say.nr512_2_fake_news.29;"Hmm... Festéket?"\n
+say.nr512_2_fake_news.30;"Majdnem. Tintát. Ugyanolyan árnyalatút, mint amilyet azokhoz a hamisított rendeletekhez használtak..."\n
+say.nr512_2_fake_news.31;Meve megpördült a sarkán, a szájához emelte a kezét, és elkiáltotta magát:\n
+say.nr512_2_fake_news.32;"Reynard! Küldjön ki felderítôket, fésüljék át a környéket!"
+say.nr512_2_fake_news.35;A katonái néhány óra múltán, jó hírekkel tértek vissza. Ráleltek a nilfgaardiak nyomdamûhelyére, egy elhagyatott pajtában elrejtve. A helyet egy dandárnyi elit gyalogoskatona ôrizte...\n
+say.nr512_2_fake_news.36;"Nos, akkor...?"
+say.nr512_2_fake_news.37;– Gascon a pengéje élének nyomta az ujját. –
+say.nr512_2_fake_news.38;"Elfoglaljuk a sajtót?"
+say.nr512_2_fake_news.44;Meve visszatért a nilfgaardiak nyomdamûhelyéhez. A katonái csak az utasítására vártak...
+say.nr512_2_fake_news.48;"Ríviának sokkal sürgetôbb gondjai vannak"
+say.nr512_2_fake_news.49;– mondta Meve. –
+say.nr512_2_fake_news.50;"Visszatérünk, amint azokat megoldottuk."\n\n
+say.nr512_2_fake_news.51;A királynô rövidesen továbbvonult a seregével, a nilfgaardi nyomdászok pedig folytatták a munkát, nem is sejtve, hogy alig egy hajszál választotta el ôket a végzetüktôl...
+say.nr512_2_fake_news.56;"Ideje, hogy a nilfgaardiak helyreigazítást közöljenek"
+say.nr512_2_fake_news.57;– jelentette ki a királynô, és kivonta kardját. –
+say.nr512_2_fake_news.58;"Amit a saját vérükkel fognak aláírni. Utánam!"\n\n
+say.nr512_2_fake_news.59;A lyriaiaknak nem kellett kétszer mondani. A királynôjük becsülete és jó hírneve olyan ügy, amiért érdemes volt harcolniuk.
+say.nr512_2_fake_news.69;A nilfgaardiak ádázul küzdöttek egy tapasztalt ügynök vezénylete alatt. Az, látva, hogy hamarosan kézre kerítik, kést fogott a saját torkához, és egy gyors vágással beterítette vérével a papírt és a még mindig nedves tintát.\n\n
+say.nr512_2_fake_news.70;Reynard ott termett mellette, és kezével a férfi nyakán próbálta útját állni a vérvörös folyamnak. De már túl késô volt, és a kém utolsó lélegzetével a titkai is odalettek.
+say.nr512_2_fake_news.73;Meve felemelt egy frissiben nyomtatott röpiratot. Az iromány listába szedve taglalta a bûneit és gaztetteit – igazakat és koholtakat egyaránt. A szöveg fölött egy metszet ôt magát ábrázolta,... nos, kevéssé hízelgô módon.\n
+say.nr512_2_fake_news.74;"Mi lenne, ha a saját orvosságukat adnánk be nekik?"
+say.nr512_2_fake_news.75;– kérdezte Gascon, miközben betûket rakosgatott egymás után, amelyek végül egy meglehetôsen obszcén kifejezést adtak ki. –
+say.nr512_2_fake_news.76;"Jómagam és a pajtások kiötlünk egy kuplét aep Dahy-ról, és kiszögezzük szerte a környéken. Hadd nevessen egy jót a nép azoknak a kecsketoszóknak a kárára."
+say.nr512_2_fake_news.87;"A háborúkat karddal kellene megvívni"
+say.nr512_2_fake_news.88;– mondta Meve. –
+say.nr512_2_fake_news.89;"Nem pedig hazugságokkal és rágalmakkal. Ne feledd, Gascon, nem süllyedhetünk le az ô szintjükre."\n\n
+say.nr512_2_fake_news.90;A királynô parancsba adta az embereinek, hogy semmisítsék meg a sajtókat. Hamarosan lángokban álltak a papírívek, és csizmák taposták a tintával szennyezett sárba a széttört betûmatricákat...
+say.nr512_2_fake_news.94;"Legyen úgy. Legalább vegyük valami hasznát ezeknek a sajtóknak"
+say.nr512_2_fake_news.95;– mondta a királynô. –
+say.nr512_2_fake_news.96;"De nem fogunk pajzán gúnyverseket nyomtatni. A tényeket kell terjesztenünk. Elmondani, hogy mit tettek a nilfgaardiak Aldersbergben, hogyan próbáltak meggyilkolni Mahakamban és Angrenben, és hogy milyen sors vár mindazokra, akiket meghódítanak."\n
+say.nr512_2_fake_news.97;Gascon rögtön felhagyott a viccelôdéssel, és letette a tintafoltos betûket.\n
+say.nr512_2_fake_news.98;"Munkára! Még napnyugta elôtt a kezemben akarom látni az elsô röpiratokat."
+title.nr512_2_fake_news.10;A királynô nevében...
+title.nr512_2_fake_news.11;A királynô nevében...
+title.nr512_2_fake_news.67;A királynô nevében...
+

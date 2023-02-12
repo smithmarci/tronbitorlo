@@ -1,0 +1,4 @@
+say.nr501_1d_vilem_close_gpl.1;Az Ürdüng Tornya – közeledünk, Felség.
+say.nr501_1d_vilem_close_gpl.2;Amennyire én látom, még semmi jele Villemnek.
+say.nr501_1d_vilem_close_gpl.3;Nem meglepô. A pontosság sosem volt az erôssége.
+

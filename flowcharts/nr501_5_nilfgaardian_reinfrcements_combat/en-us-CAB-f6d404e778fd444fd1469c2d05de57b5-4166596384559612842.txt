@@ -1,0 +1,3 @@
+say.nr501_5_nilfgaardian_reinfrcements_combat.1;Bekeríteni ôket!
+say.nr501_5_nilfgaardian_reinfrcements_combat.3;Irgalom...! Kegyelem!
+

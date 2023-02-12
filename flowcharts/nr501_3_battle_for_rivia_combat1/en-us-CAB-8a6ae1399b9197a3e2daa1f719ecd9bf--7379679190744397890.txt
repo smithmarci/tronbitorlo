@@ -1,0 +1,9 @@
+say.nr501_3_battle_for_rivia_combat1.1;Erre! A csörlôkhöz! Ki kell nyitnunk a kaput!
+say.nr501_3_battle_for_rivia_combat1.11;Ûzzétek el ôket a falakról!
+say.nr501_3_battle_for_rivia_combat1.13;Maguk foglalkozzanak a csörlôkkel! Mi addig visszatartjuk ôket!
+say.nr501_3_battle_for_rivia_combat1.15;Lökjük le ôket a falakról! Tanítsuk meg ôket repülni!
+say.nr501_3_battle_for_rivia_combat1.3;Ez lesz az... Ragadjátok meg a karokat, és nyissátok ki a kaput!
+say.nr501_3_battle_for_rivia_combat1.5;Uhhh... Meve...
+say.nr501_3_battle_for_rivia_combat1.7;Uhh... n–nem... ez nem lehet, nem még... nem most...
+say.nr501_3_battle_for_rivia_combat1.9;A csörlôkhöz! Foglalkozzatok a csörlôkkel!
+

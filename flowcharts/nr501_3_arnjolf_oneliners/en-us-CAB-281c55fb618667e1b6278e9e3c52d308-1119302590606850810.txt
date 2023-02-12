@@ -1,0 +1,4 @@
+say.nr501_3_arnjolf_oneliners.1;Ôrült egy éjszaka lesz ez! Ááárgh! Ááárgh! Ááárgh!
+say.nr501_3_arnjolf_oneliners.2;Ne merészeljetek visszavonulót fújni! Megértettétek?
+say.nr501_3_arnjolf_oneliners.3;A fejszém vérre szomjazik! Nilfgaardi vérre!
+

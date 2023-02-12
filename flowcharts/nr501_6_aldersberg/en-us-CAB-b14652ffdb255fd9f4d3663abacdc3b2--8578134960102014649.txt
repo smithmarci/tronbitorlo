@@ -1,0 +1,80 @@
+menu.nr501_6_aldersberg.106;Kérem a levelet.
+menu.nr501_6_aldersberg.107;Kitôl, ha szabadna megtudnom?
+menu.nr501_6_aldersberg.24;A jövôre nézvést? Hogy érted ezt?
+menu.nr501_6_aldersberg.25;És hogy van a fiad?
+say.nr501_6_aldersberg.1;A lyriai csapatok Aldersberghez közeledtek – és mindez nem is történhetett volna egy idillibb napon. Szikrázóan sütött a nap, a madarak csiripeltek, a fák susogtak az enyhe szellôben. De Meve nem látta másnak, mint a háború elsô napját – ô lángok fényével festett falakat látott, hallotta a menekülô lakosok kiáltásait, érezte az égô hús bûzét.
+say.nr501_6_aldersberg.100;Most pedig áruld el! Viszel valamit aep Dahy tábornoknak. Mi az?
+say.nr501_6_aldersberg.102;Egy levél.
+say.nr501_6_aldersberg.108;Gondolom, roppant sürgôs lehet. Ki írta? A kedves aep Dahy asszony?
+say.nr501_6_aldersberg.11;O-hó! Itt van ô! Meve királynô, Észak megmentôje, a Napok Gyilkosa!
+say.nr501_6_aldersberg.110;Nem, Felség. A Császár.
+say.nr501_6_aldersberg.112;Nocsak... Egy levél, egyenesen Emhyrtôl – bizonyára fontos személy lehetsz, egy nemes, vagy... hmm. Ám a páncélzatod hétköznapi, nincs rajta semmiféle megkülönböztetô jelzés. Ki vagy valójában, Caldwyn? Egy kém?
+say.nr501_6_aldersberg.114;Csak egy egyszerû hírvivô, Felség.
+say.nr501_6_aldersberg.116;Ne hazudj nekem! Ismerem a hírnököket, tudom, mily módon utaznak. Egyedül, páncél nélkül, sebes paripán. Téged nehézlovasság kísér.
+say.nr501_6_aldersberg.118;Mert gyakran viszek olyan parancsokat, amiket a címzettek nem óhajtanak végrehajtani. Ezért a kíséret.
+say.nr501_6_aldersberg.121;Kérem a levelet.
+say.nr501_6_aldersberg.123;Megesküdtem rá, hogy magának aep Dahy tábornoknak személyesen adom át – vagy belehalok a próbálkozásba.
+say.nr501_6_aldersberg.129;Uh... Rendben. A tolmácson elolvassa a levelet, majd visszaadja neked. Így nem szeged meg az esküdet,... és, ki tudja, talán még életben is maradsz.
+say.nr501_6_aldersberg.131;És ha visszautasítom?
+say.nr501_6_aldersberg.133;Tippelj!
+say.nr501_6_aldersberg.135;Legyen hát... Elfogadom az ajánlatát.
+say.nr501_6_aldersberg.137;Meve tolmácsa feltörte a pecsétet, és belekezdett az olvasásba. És miközben olvasta, a szemei egyre jobban elkerekedtek. Mikor a végére ért, a királynô fülébe súgta a sommázatát.
+say.nr501_6_aldersberg.139;Igazán? Biztos vagy benne, hogy nem értetted félre? Vannak még csodák e világon...
+say.nr501_6_aldersberg.141;Caldwyn, ez a te szerencsenapod. Engedélyezem, hogy teljesítsd a küldetésed – egyetlen kikötéssel.
+say.nr501_6_aldersberg.143;Mi lenne az?
+say.nr501_6_aldersberg.145;Hogy amikor átadod a tábornoknak a levelet, átadod mellé az üdvözletemet is.
+say.nr501_6_aldersberg.147;Ahogy Caldwyn és kísérete továbbindultak Aldersberg felé, a lyriaiak hitetlenkedô tekintetekkel bámultak a királynôjükre. Hagyni, hogy egy nilfgaardi végrehajtsa a titkos feladatát? Meve nem tudott uralkodni magán, és kirobbant belôle egy meglehetôsen gúnyos kacaj. "Holnapra érteni fogják" – gondolta magában.
+say.nr501_6_aldersberg.15;Nem díjazom az ironizálást...
+say.nr501_6_aldersberg.16;Nem is merészelnék! Ezek nem az én szavaim, hanem egy költeménybôl valók. Kökörcsin mester saját balladájából, az "A hídért vívott csatából". Ha lehet hinni a trubadúr szavainak, akkor karddal a kezedben olyan ádáz vagy, mint bármelyik vaják.
+say.nr501_6_aldersberg.18;Hm, irigység tán, amit hallok?
+say.nr501_6_aldersberg.20;Hogy teljesen ôszinte legyek, Meve: az bizony.
+say.nr501_6_aldersberg.22;Mert hogy bennem sem a bátorság, sem a határozottság nem volt meg... És amikor egész Észak behúzta fülét-farkát, és minden elszaródott, Te voltál az egyetlen, aki kiállt, és megvillantotta a karmait. Legyen ez egy lecke a jövôre nézvést mindannyiunknak.
+say.nr501_6_aldersberg.29;Ha már a jövôt említetted... Mondd, hogy van a fiad?
+say.nr501_6_aldersberg.31;Baldwin? Ahh, Úgy nô, mint a dudva. És kiköpött az örege!
+say.nr501_6_aldersberg.33;Ez igazán jó hír... Csak az anyja foglalkozása ki ne tudódjon.
+say.nr501_6_aldersberg.35;Csitt! Ô most Guleti Demeretta grófnô és udvarhölgy.
+say.nr501_6_aldersberg.37;A törvényes feleséged bizonyára el van tôle ragadtatva.
+say.nr501_6_aldersberg.386;"Úgy tûnik, a királyság visszatért az erény útjára"
+say.nr501_6_aldersberg.388;– zsémbelt Meve.
+say.nr501_6_aldersberg.389;"Erre, Felség! Már nincsenek messze!" – jelentette egyikük.\n
+say.nr501_6_aldersberg.39;Igazából nem tudnám megmondani. Már jó ideje nem láttam. Elszólított a kötelesség, Te is tudod.
+say.nr501_6_aldersberg.390;Ha-ha-ha. Valóban, így is mondhatjuk! De ennyi elég is rólam. Még mielôtt nekiállnánk úgy adomázni, mint két pletykafészek a tornácon, inkább áruld el, mi van Villemmel.
+say.nr501_6_aldersberg.391;Mhm. Biztos vagyok benne, hogy sokat munkálkodsz... éjszakákba nyúlóan.
+say.nr501_6_aldersberg.396;Odaveszett a Rívia-vár elleni támadáskor.
+say.nr501_6_aldersberg.397;Ó, te jó ég! Melyik oldalon küzdve?
+say.nr501_6_aldersberg.398;A jó oldalon. Demavend,... a seb még friss, a fájdalom elviselhetetlen, ezért inkább nem szeretnék beszélni róla.
+say.nr501_6_aldersberg.400;Mit gondolsz. Tömlöcbe vettettem.
+say.nr501_6_aldersberg.402;Nem, hercegi koronában és palástban. Egyetértésre jutottunk. Magunk mögött hagytuk a múltat.
+say.nr501_6_aldersberg.404;Helyesen tetted. Észre kell téríteni. Csak kenyeret és vizet kapjon egy jó darabig.
+say.nr501_6_aldersberg.405;"Egy darabig"? Ó, nem, barátom. Nem mostanában fogja újra meglátni a napfényt, nekem elhiheted.
+say.nr501_6_aldersberg.41;Itt van velem.
+say.nr501_6_aldersberg.43;Ú-ha...! Láncra verve talán?
+say.nr501_6_aldersberg.46;Egy lecke a jövôre nézvést? Mire akarsz ezzel célozni?
+say.nr501_6_aldersberg.48;Kedvesem,... ez a háború semmin sem változtat, te is tudod. Nilfgaard mindig is Nilfgaard marad – az Észak meg Észak.
+say.nr501_6_aldersberg.5;Mert ezen a napon Aldersberg újfent ostrom alatt állt. Csakhogy ezúttal Aedirn zászlajai lobogtak a város alatt, és Nilfgaard szakadt napkorongjait tépázta a szél az erôdítmény tornyain. A királynô minden nehézség nélkül megtalálta Demavend sátrát, ugyanis azt ezüstszegéllyel szegett ív selyem sátorlapok határolták, és ezzel határozottan kirítt a többi közül.\n
+say.nr501_6_aldersberg.50;Aláírjuk a fegyverszünetet, a Feketék a farkukat behúzva haza somfordálnak,... de a régi határokkal egyik fél sem lesz elégedett.
+say.nr501_6_aldersberg.52;Én tökéletesen elégedett vagyok velük, köszönöm! És csak azt szeretném, ha mások is tiszteletben tartanák ôket.
+say.nr501_6_aldersberg.54;Ó, Meve! Átkozottul jó harcos vagy, de csapnivaló stratéga. Tágítanod kell a látókörödön! Nem engedhetjük, hogy Nilfgaard újra visszanyerje az erejét és a harci kedvét. Máskülönben egy vagy két évtizeden belül újabb inváziónak nézünk majd elébe.
+say.nr501_6_aldersberg.56;Intézkedésekre lesz szükség – megelôzôekre, meggátlóakra, vagy akárhogy is hívják a tanult emberek. Seregeket kell építenünk, óriásiakat, várni a megfelelô alkalomra, és amikor a legkevésbé sem számítanak rá, lecsapni, és megroppantani a gerincüket. Gondolj csak bele! Ha egyesítenénk erôinket,...
+say.nr501_6_aldersberg.58;Elég. Nem akarok errôl hallani. Még a gondolatától is kiráz a hideg.
+say.nr501_6_aldersberg.60;Segítek visszafoglalni Aldersberget,... aztán hazamegyek, ahol – ha az istenek is úgy akarják, – majd tisztes öregségben ôszülök meg.
+say.nr501_6_aldersberg.62;Uh... Ahogy kívánod... Bármikor belekezdhetünk a támadásba, de...
+say.nr501_6_aldersberg.64;De...?
+say.nr501_6_aldersberg.66;A felderítôim jelentései szerint egy kisebb nilfgaardi egység közelít déli irányból. Kerülik az országutakat, csak az éj leple alatt mozognak... Kísérnek valakit.
+say.nr501_6_aldersberg.68;Kit?
+say.nr501_6_aldersberg.70;Errôl nincs tudomásom. Lehet, hogy egy varázslót – démonian kiszámíthatatlan bagázs az, akik ha akarnak, rendet vághatnak a sorainkban. Akárhogy is, mielôtt megrohamozzuk a falakat, biztosnak kell lennünk abban, hogy nem jutnak el Aldersbergig.
+say.nr501_6_aldersberg.72;Teszek róla!
+say.nr501_6_aldersberg.74;Biztos? Csak most érkeztél, bizonyára kimerült vagy a hosszú úttól...
+say.nr501_6_aldersberg.76;Az nem kifejezés! De szeretnék mielôbb túlesni ezen. És gyorsan.
+say.nr501_6_aldersberg.80;Meve tüstént a nilfgaardiak keresésére indult, nyomában egy lovas kísérettel. Kiváló felderítôi, akik átvezették seregét Mahakam hegyein és Angren mocsarain, hamar az ellenség nyomára bukkantak.\n\n
+say.nr501_6_aldersberg.82;Meve serege még ugyanazon a napon beérte a Feketék egységét. Lyriai lovasok vették körbe az ellent, és kényszerítették megtorpanásra a nilfgaardiakat. Olyan csöndben méregették egymást, hogy még a lyriaiak számszeríjhúrjainak csikorgását is hallani lehetett.
+say.nr501_6_aldersberg.86;Beszéli valamelyikôtök a közös nyelvet?
+say.nr501_6_aldersberg.88;Én igen, Felség.
+say.nr501_6_aldersberg.90;Úgy látom, azzal is tisztában vagy, hogy kivel van dolgod. Mi a neved?
+say.nr501_6_aldersberg.92;Caldwyn, Felség.
+say.nr501_6_aldersberg.94;Végre egy nilfgaardi név, amit ki tudok ejteni... Nos, Caldwyn, nagyon úgy fest, hogy ez a háború legfeljebb két napon belül véget ér. Dôreség lenne ma meghalni. Nem gondolod?
+say.nr501_6_aldersberg.96;Az lenne, Úrnôm.
+say.nr501_6_aldersberg.98;Úgy bizony. Elég vért ontottam, többet nem kívánok... Szóval tegyük fel, hogy te nem szolgáltatsz nekem indokot arra, hogy megöljelek, és akkor én életben hagylak benneteket.
+title.nr501_6_aldersberg.1104;Déjà vu
+title.nr501_6_aldersberg.148;Déjà vu
+

@@ -1,0 +1,186 @@
+menu.nr501_3_battle_for_rivia.109;Ostromba kezdesz, körülzárod Rívia várát.
+menu.nr501_3_battle_for_rivia.110;Visszavonulsz.
+menu.nr501_3_battle_for_rivia.111;Ostromba kezdesz, körülzárod a várat.
+menu.nr501_3_battle_for_rivia.112;Visszavonulsz.
+menu.nr501_3_battle_for_rivia.155;Térjen a tárgyra! Mit akar?
+menu.nr501_3_battle_for_rivia.156;Nem tûröm, hogy sértegessen. Nem tud megfélemlíteni.
+menu.nr501_3_battle_for_rivia.160;Közösüljön saját magával!
+menu.nr501_3_battle_for_rivia.232;Reynard vezesse a támadást a csónakkikötô ellen.
+menu.nr501_3_battle_for_rivia.233;Gascon a legalkalmasabb ember a feladatra.
+menu.nr501_3_battle_for_rivia.30;Ôrültség. Lehetetlen.
+menu.nr501_3_battle_for_rivia.31;De milyen áron?
+say.nr501_3_battle_for_rivia.1;Meg sem várva aep Dahy tábornok replikázását Meve sarkon fordult, és elindult a tábor irányába. Bár nagy súllyal telepedett rá az iménti beszélgetés, fürgén haladt visszafelé...
+say.nr501_3_battle_for_rivia.1064;A jó mindenségit! Miért nem figyelmeztetett senki?!
+say.nr501_3_battle_for_rivia.1065;A felderítôink valószínûleg leleplezôdtek, és elfogták ôket...
+say.nr501_3_battle_for_rivia.1069;Azon az éjszakán megfordult a háború menete, a Rívia váráért vívott ütközet volt a fordulópont. Meve nagy gyôzelme – ami során nem csak hogy egyetlen éj alatt visszavette az erôdítményt, de elejét vette egy újabb megszálló sereg támadásának – bizonyította, hogy a nilfgaardi kolosszus lábai csak agyagból voltak.
+say.nr501_3_battle_for_rivia.107;Meve visszatért Rívia várához. A csapatai feszült csendben várták a parancsait.
+say.nr501_3_battle_for_rivia.11;– szólalt meg Reynard biztatónak szánt hangon, –
+say.nr501_3_battle_for_rivia.115;"Aep Dahy várhat"
+say.nr501_3_battle_for_rivia.116;– mondta Meve a fellegvárat fürkészve. –
+say.nr501_3_battle_for_rivia.118;"Hadd nézze végig a falakról, ahogy faluról falura, városról városra foglaljuk vissza a királyságunkat. Utánam!"\n\n
+say.nr501_3_battle_for_rivia.12;Reynard érvelése észszerûnek tûnt. Valóban nem volt okuk a sietségre. A háború során elôször végre Meve került fölénybe.
+say.nr501_3_battle_for_rivia.120;Meve hátat fordított a várnak, égve a vágytól, hogy valahol másutt bocsátkozhasson harcba...
+say.nr501_3_battle_for_rivia.121;"Úgy látom, a megszállóink nagyon megkedvelték Rívia várát"
+say.nr501_3_battle_for_rivia.123;– mondta Meve. –
+say.nr501_3_battle_for_rivia.125;"Ezért hát maradjanak, és rohadjanak is benn. Reynard! Emeljenek barikádokat az utakon, és állítsanak ôrhelyeket a város és a fellegvár között. Gascon, foglalj le minden csónakot, dereglyét,... mindent, ami úszni tud a vízen – tégy róla, hogy a tó felôl senki be ne tehesse oda a lábát. Gyerünk!"\n\n
+say.nr501_3_battle_for_rivia.127;Hamarosan Rívia vára teljesen elszigetelôdött a falain túli külvilágtól. Minden hozzá vezetô utat lezártak, járhatatlanná tettek. A Eskalott tavon halászcsónakok gyûrûjébôl alkotott kordon ölelte körül, és a lélekvesztôk lámpásai úgy ragyogtak körülötte, mint szentjánosbogarak a nyári estéken.
+say.nr501_3_battle_for_rivia.128;A blokád felállítása után nem sokkal egy követ érkezett a királynôhöz egy üzenettel. Aep Dahy tábornok találkozni kívánt, szemtôl szemben, félúton a fellegvár és a lyriaiak tábora között.\n
+say.nr501_3_battle_for_rivia.130;"Nahát-nahát, miféle tábornok az ilyen..."
+say.nr501_3_battle_for_rivia.132;– vigyorgott Gascon. –
+say.nr501_3_battle_for_rivia.134;"Épp csak hogy bezárult körülötte a kelepce, és máris tele van a gatyája."
+say.nr501_3_battle_for_rivia.136;Meve késlekedés nélkül az említett találkozóhelyre sietett. Egy magányos lovas tûnt fel a látóhatáron. Az alak gazdagon díszített fekete öltözéket viselt, a nap sugarai meg-megcsillantak a ruhaköltemény arany paszomántjain. Már látta ôt korábban, még Aedirnben, a megaszkópon keresztül...
+say.nr501_3_battle_for_rivia.138;Eljött, ahogy kértem. Helyes. Nagyon helyes.
+say.nr501_3_battle_for_rivia.140;Nem utasíthattam el egy ilyen udvarias meghívást. Különösen a korábbi levele fényében nem... Kezd ráérezni a diplomácia mûvészetére.
+say.nr501_3_battle_for_rivia.141;De kérem,... tegyük félre a korábbi sérelmeket. Szeretném hivatalosan is üdvözölni Ríviába, kedves Királynô.
+say.nr501_3_battle_for_rivia.143;Úgy látom, máris átvette a szívélyes házigazda szerepét – az én otthonomban.
+say.nr501_3_battle_for_rivia.145;Tulajdonképp egészen megkedveltem a várat. Az Északra kevéssé jellemzô, lenyûgözô erôdítéseit... A bátor katonáit már kevésbé. Akik, egyébként, meglehetôsen könnyû ellenfélnek bizonyultak. Voltaképp szánom ôket.
+say.nr501_3_battle_for_rivia.147;Itassa fel a könnyeit, Tábornok. Megnyugodhat, nem tervezem azonnal lerohanni. Elôbb megvárom, amíg korogni kezd a gyomruk.
+say.nr501_3_battle_for_rivia.149;Elképesztô! Ön tényleg abban a tévhitben él, hogy megnyerheti ezt a háborút.
+say.nr501_3_battle_for_rivia.151;Nem vagyok régóta Északon, de ennyi idô alatt is rájöttem már valamire. Hogy képtelen a magasabb eszmék befogadására. Mint tudja, Nilfgaard hatalmas, de az Ön elméje számára felfoghatatlan a valódi nagysága.
+say.nr501_3_battle_for_rivia.153;Holnapra ideérnek. És tudja, mi fog történni akkor? Úgy passzírozzák majd szét a saját vára falain, mint valami idegesítô kis bogarat.
+say.nr501_3_battle_for_rivia.161;Kedves kis hasonlat... De térjen inkább a lényegre. Miért kérte ezt a találkozót?
+say.nr501_3_battle_for_rivia.163;Nem másért, mint hogy a saját szememmel is láthassam Önt.
+say.nr501_3_battle_for_rivia.165;Tán nem látott elég jól Aedirnben? Talán ekkora csodálója volna a nôi szépségnek?
+say.nr501_3_battle_for_rivia.167;Hízelegjen csak önmagának... Nem. Én Önben egy állatot látok – egy vadat, egy prédát. És mert hamarosan elkezdôdik a vadászat, pontosabb képet szerettem volna kapni az ûzendô vadról.
+say.nr501_3_battle_for_rivia.169;Ön? Egy vadászaton? Azok a finom kezek még sosem fogtak lándzsát vagy íjat. Felteszem, semmit, ami egy levélkésnél élesebb.
+say.nr501_3_battle_for_rivia.17;"nem kell elsietnünk a támadást, az idô nekünk dolgozik. Bölcs dolog lenne felkészülnünk. Két hónap, úgy vélem, elegendô volna rá. Ha elvágjuk az ellátmányok útját, hamarosan megadják magukat, efelôl semmi kétségem. Vagy legalábbis legyengülnek annyira, hogy aztán ne tudják tartani a várat."\n\n
+say.nr501_3_battle_for_rivia.171;Holnap nem vadászatra indul, hanem háborúba. És imádkozzon az összes istenéhez, hogy ne leljen rám.
+say.nr501_3_battle_for_rivia.174;Ebbôl elég! Nem tûröm, hogy sértegessen, Tábornok. Nem tud megfélemlíteni.
+say.nr501_3_battle_for_rivia.176;Ez esetben kellemes estét kívánok Felségednek. Pihenje ki magát... Szüksége lesz rá holnap.
+say.nr501_3_battle_for_rivia.178;Valóban. Mert hogy Önnel ellentétben én a seregem élén fogok küzdeni, felnyitott sisakrostéllyal.
+say.nr501_3_battle_for_rivia.18;A királysága hamar elbukott. Kevés erôfeszítésembe került csupán, hogy elfoglaljam. Ezáltal rengeteg idôm maradt a tanulásra.
+say.nr501_3_battle_for_rivia.180;Az én hazámban, a civilizált világban, a tábornok a seregeinek parancsol. Nem pedig elôrerohan és tör-zúz, mint valami veszett kutya.
+say.nr501_3_battle_for_rivia.182;De most nem otthon van, Tábornok. Északon van – az én otthonomban.
+say.nr501_3_battle_for_rivia.184;Ám igaza van. Nyugovóra térek. Ön pedig imádkozzon az isteneihez, hogy ne kerüljünk egymással szemtôl szembe a küzdelemben.
+say.nr501_3_battle_for_rivia.186;Közösüljön saját magával, nilfgaardi mocsadék!
+say.nr501_3_battle_for_rivia.188;Elbûvölô... Ez minden, amit mondani kíván?
+say.nr501_3_battle_for_rivia.190;Jobb szeretem, ha szavak helyett a tettek beszélnek. Holnap Ön is meglátja majd.
+say.nr501_3_battle_for_rivia.192;Ez eléggé valószínûtlen. Valójában kétlem, hogy egyáltalán eljut a falakig.
+say.nr501_3_battle_for_rivia.194;Imádkozzon, hogy így legyen. Mert ha megtalálom a küzdelemben, a két kezemmel fogom megfojtani.
+say.nr501_3_battle_for_rivia.197;Rívia falai bevehetetlenek, egyetértek... De egy erôd bevételének több módja is lehet, és ez egy erôd is egyben.
+say.nr501_3_battle_for_rivia.199;Azt hiszem, tetszik, amire ki akar ezzel lyukadni...
+say.nr501_3_battle_for_rivia.2;Meve tanácsadói már a parancsnoki sátorban vártak rá. Mialatt a királynô néhány szóban elôadta a találkozón történteket, csak nagy nehézségek árán sikerült palástolnia a hangjában megbúvó remegést...
+say.nr501_3_battle_for_rivia.20;A táborba visszaérve Meve azonnal hívatta a tanácsadóit. Mint kiderült, aep Dahy nem hazudott...
+say.nr501_3_battle_for_rivia.201;Mindenkinél jobban ismerem a fellegvárat. Tudok az egyetlen lehetséges gyenge pontjáról: a csónakkikötôrôl.
+say.nr501_3_battle_for_rivia.203;Várjon...! Arra a keskeny csatornára gondol a két torony között? Ahol a halászok szoktak bejutni?
+say.nr501_3_battle_for_rivia.205;Igen, arra. Mint bizonyára Ön is tudja, Felség, annak a keskeny csatornának a legvégén egy keskeny ajtó áll, ami egyenesen az erôdítménybe vezet.
+say.nr501_3_battle_for_rivia.207;Egy kisebb különítmény észrevétlenül megközelíthetné, ártalmatlanná tehetné az ôröket, és bejuthatna.
+say.nr501_3_battle_for_rivia.209;És azután?
+say.nr501_3_battle_for_rivia.21;Egy hatalmas sereg közeledik nyugat felôl. Ha nyílt ütközetre kerül sor, esélyünk sem lesz.
+say.nr501_3_battle_for_rivia.210;Át kellene jutniuk az egész erôdön, egészen a kapuházban található csörlôkig, hogy aztán kinyithassák a kaput a sereg többi részének.
+say.nr501_3_battle_for_rivia.212;Reynard... Ôszinte leszek. Ez egyenesen ôrültségnek hangzik.
+say.nr501_3_battle_for_rivia.214;Meglehet. De ami a lehetôségeinket illeti, csak ez az egy maradt.
+say.nr501_3_battle_for_rivia.216;És nekem kell kijelölnöm, hogy ki menjen,... és ki vesszen oda.
+say.nr501_3_battle_for_rivia.218;Nem kell kijelölnie senkit sem, mert hogy önként jelentkezem. És csak azokat viszem magammal, akik úgyszintén hajlandóak ekképpen tenni.
+say.nr501_3_battle_for_rivia.220;Nyomorult egy terv ez.
+say.nr501_3_battle_for_rivia.222;Van jobb terve talán?
+say.nr501_3_battle_for_rivia.224;Természetesen. Én megyek.
+say.nr501_3_battle_for_rivia.226;Hogy mondja? Én nem––
+say.nr501_3_battle_for_rivia.228;Lássuk be, Reynard, még egy hulla mellett se tudna elosonni észrevétlenül. Úgy zörög abban a páncélban, mint egy nyavalyás csörgôdob.
+say.nr501_3_battle_for_rivia.23;Menekülnünk kell. Elismerem, nem túl hôsies cselekedet,... de ezerszer jobb, mint ha a sárba tipornának bennünket.
+say.nr501_3_battle_for_rivia.230;Arról nem is beszélve,... hogy maga Meve jobbkeze. Mellette kell lennie, amikor elkezdôdik a harc.
+say.nr501_3_battle_for_rivia.236;Gascon, merre is található pontosan a kapunyitó szerkezet?
+say.nr501_3_battle_for_rivia.238;Ha jól sejtem, akkor valahol a vár kikötôvel átellenes felén.
+say.nr501_3_battle_for_rivia.24;Könnyû azt mondani. De volna itt egy probléma: a seregünket javarészt a gyalogság teszi ki. A közeledô seregben pedig több regimentnyi nehézlovasság érkezik. Nem remélhetjük, hogy elmenekülhetünk, sem pedig hogy elbújhatunk elôlük.
+say.nr501_3_battle_for_rivia.240;Reynard?
+say.nr501_3_battle_for_rivia.242;A bal oldali kaputorony felsô szintjén, az acélrács mögött.
+say.nr501_3_battle_for_rivia.244;Ez eldöntetett. Értékelem a szolgálatkészséged, Gascon, nagyon is. De Reynard fogja vezetni a támadást.
+say.nr501_3_battle_for_rivia.246;Hálás vagyok a belém vetett bizalmáért, Felség.
+say.nr501_3_battle_for_rivia.248;Én vagyok hálás Önnek – mindenért, amit értem tett.
+say.nr501_3_battle_for_rivia.25;Akkor mit javasol?
+say.nr501_3_battle_for_rivia.252;Az istenek óvják útján. És kérem,... ne ölesse meg magát!
+say.nr501_3_battle_for_rivia.253;Reynardnak nem okozott nehézséget, hogy önkénteseket találjon. Valójában sokkal több ember lépett elô annál, mint ahányakat magával vihetett. A sötétség leple alatt indultak el a vár felé, aminek a fényeit az esti köd homályosította el elôttük.
+say.nr501_3_battle_for_rivia.256;Elôször is, Reynard... Hálás vagyok. Kiváló munka, barátom.
+say.nr501_3_battle_for_rivia.258;Köszönöm, Felség.
+say.nr501_3_battle_for_rivia.26;Két lehetôségünk maradt. A fegyverletétel––
+say.nr501_3_battle_for_rivia.260;Ám – az igazat megvallva – valóban hallottam, amint a sátorhoz közeledik... Már a tábor másik végétôl.
+say.nr501_3_battle_for_rivia.261;És tényleg mindenki másnál jobban ismeri Rívia várát. De a támadásnak csendben kell lezajlania. Gascon fogja vezetni az egységet.
+say.nr501_3_battle_for_rivia.263;Megértettem, Felség.
+say.nr501_3_battle_for_rivia.265;Köszönöm, Meve. Igyekszem nem csalódást okozni.
+say.nr501_3_battle_for_rivia.267;Nem fogsz csalódást okozni, ebben biztos vagyok.
+say.nr501_3_battle_for_rivia.271;Az istenek vezéreljenek az úton. És kérlek,... próbálj nem meghalni, ha lehet.
+say.nr501_3_battle_for_rivia.273;Gascon maga választotta ki az embereit – azokat, akik a legügyesebben bántak a tôrrel és a fojtóhurokkal. Hangtalanul suhantak a vízen a sötétbe burkolózó vár felé, aminek a fényeit az esti köd homálya fedte.
+say.nr501_3_battle_for_rivia.276;A lyriaiak teljes némaságba burkolózva, a sötétben készültek fel a harcra, nem volt fény más, csak a sápadt holdvilág. Meve nyugtalan volt. Idegesen rótta a köröket, várva a megbeszélt jelre.\n
+say.nr501_3_battle_for_rivia.278;Végre egy fáklya halovány fénye jelent meg a vidék fölé tornyosuló falak magasában. Eltûnt, majd újra felgyulladt, aztán még egyszer megismételte ezt. Meve a levegôbe szökkent, és közben alig bírta visszafojtani a torkából feltörni akaró örömkiáltást.\n
+say.nr501_3_battle_for_rivia.28;...vagy a vár bevétele. Még ma éjjel.
+say.nr501_3_battle_for_rivia.280;Néhány minutum múlva lyriaiak százai rontottak elô a fák közül.\n
+say.nr501_3_battle_for_rivia.282;Aztán láncok csörgését és csikorgását hallották, és ettôl a hangtól kirázta ôket a hideg. Zavarodottan figyelték, ahogy felemelkedik a fôkapu rostélya, és támadók serege özönlik be alatta.\n
+say.nr501_3_battle_for_rivia.284;Meve a nap elején még nagy harcos volt. Másnap hajnalra már legendává vált. Egyik hatalmas csapás vásott el a másik után pajzsán, kardja pedig a legkisebb réseket is meglelte a fekete páncélok lemezei között. Abban a reményben, hogy hôsökké válhatnak, a harc kezdetén még a nilfgaardiak igyekeztek elérni a királynôt. Ám hamarosan ô lett az üldözô, amazok pedig menekülôre fogták a halál dalát éneklô pengéje elôl.\n
+say.nr501_3_battle_for_rivia.286;Mi lehetett az a rendkívüli erô, ami átjárta Meve-et? Természetesen nem más, mint a vágy, hogy felszabadítsa királyságát és népét, kiûzze a megszállókat, és leszámoljon az öntelt aep Dahy tábornokkal...\n\n
+say.nr501_3_battle_for_rivia.29;Az ki van zárva.
+say.nr501_3_battle_for_rivia.291;De abban a pillanatban, mindenek elôtt, át akarta verekedni magát a kaputoronyig, hogy felmentô seregével kiszabadítsa Gascon csapatát szorongatott helyzetébôl.\n
+say.nr501_3_battle_for_rivia.292;De abban a pillanatban, mindenek elôtt, át akarta verekedni magát a kaputoronyig, hogy felmentô seregével kiszabadítsa Reynard csapatát szorongatott helyzetébôl.
+say.nr501_3_battle_for_rivia.3;Rívia vára ott magasodott a lyriaiak elôtt. Három oldalról víz, azon túl pedig kettôs falgyûrû övezte a belsô várat, ráadásként testes fiatornyok díszítették a védmûveket. Híresen nehéz volt bevenni, és története során mindössze csak egyszer cserélt gazdát: néhány hónappal korábban, amikor árulók tárták szélesre kapuját a nilfgaardiak elôtt.\n\n
+say.nr501_3_battle_for_rivia.305;Meve a legrosszabbra számított: vérfürdôre és hullahegyekre. Ám a kaputoronyban minden csendes és nyugodt volt. Igaz ugyan, hogy a kapunyitó szerkezet helyiségébe vezetô ajtó szétroncsolódva hevert a padlón, de ez volt az egyetlen jele annak, hogy dulakodás zajlott odabent. "Mi történhetett itt?" – kérdezte magában.\n\n
+say.nr501_3_battle_for_rivia.309;Nagy óvatosan lépett be és nézett körül, Gascon és harcosainak nyomai után kutatva.
+say.nr501_3_battle_for_rivia.310;Nagy óvatosan lépett be és nézett körül, Reynard és embereinek nyomai után kutatva.
+say.nr501_3_battle_for_rivia.312;Helyettük azonban Villemet pillantotta meg,... egy sarokba lerogyva, amint vértôl nedvesen csillogó hasát szorongatta, nem lévén elég ujja ahhoz, hogy az összes sebet lefogja. Meve letépte magáról a palástját, és odarohant, hogy a posztóval állítsa el a vérzést.
+say.nr501_3_battle_for_rivia.314;"Villem... Mi-mi történt itt?"\n
+say.nr501_3_battle_for_rivia.316;"A hibáimat... próbáltam meg jóvá tenni"
+say.nr501_3_battle_for_rivia.318;– zihálta a herceg. –
+say.nr501_3_battle_for_rivia.320;"Kérlek,... bocsáss me––"\n
+say.nr501_3_battle_for_rivia.321;Az ifjú hercegnek torkán akadt a szó. Már nem sikerült befejeznie a mondandóját, mielôtt a tekintete elhomályosult.\n\n
+say.nr501_3_battle_for_rivia.323;Gascon nyomakodott át a gyalogok tétova sorai között.
+say.nr501_3_battle_for_rivia.327;Reynard nyomakodott át a gyalogok tétova sorai között.
+say.nr501_3_battle_for_rivia.328;Odatérdelt a királynô mellé, és elmondta neki, mi történt. Nekik nem sikerült idôben eljutniuk a kaputoronyig, de Villemnek igen. Amikor meglátta, hogy a lyriai csapatok odakint gyülekeznek, a herceg felrohant a csörlôkhöz, és egymaga nyitotta ki a kaput. Mire a nilfgaardiaknak sikerült újra becsukniuk azt, már késô volt: a lyriaiak bejutottak.
+say.nr501_3_battle_for_rivia.329;"Nem a gyásznak van most itt az ideje"
+say.nr501_3_battle_for_rivia.331;– forrongott Meve azon küzdve, hogy higgadt maradjon, –
+say.nr501_3_battle_for_rivia.333;"hanem a háborúnak. A mészárlásnak. A bosszúnak. Miután ma gyôzelmet aratunk, visszaszerezzük az otthonunkat, visszatérünk a családjainkhoz, és végre letesszük a fegyvert. De amíg nem lesz miénk a gyôzelem, addig pengéinket vérben kell fürösztenünk. A nilfgaardiak vérében!"
+say.nr501_3_battle_for_rivia.334;A lyriaiak küzdelme fordulóponthoz érkezett. Követték Meve-et mérföldek ezrein át, hamuval hintett mezôkön át, hófödte hegyeken át, rémisztô mocsarakon át. Az oldalán megvívtak és túléltek számtalan csatát. És bár tekintetük elcsigázottságról árulkodott, a királynô tudta, hogy akár a tûzbe is követnék ôt.\n
+say.nr501_3_battle_for_rivia.338;"Felség... A Feketék a Felsôvárba vették be magukat. Megpróbáltunk áttörni, de nem jártunk sikerrel..."\n
+say.nr501_3_battle_for_rivia.339;Meve bólintott, letörölte a pengéjét, majd lóra ült. Tekintetébôl színtiszta elszántság sugárzott.\n
+say.nr501_3_battle_for_rivia.34;Reynard, ismer engem... Elsôként rontanék a harc sûrûjébe, és ontanám a birodalmiak vérét. De ez, ez ôrültség lenne.
+say.nr501_3_battle_for_rivia.340;"Akkor megpróbáljuk újra."
+say.nr501_3_battle_for_rivia.341;Meve irgalmat tanúsított a hadifoglyokkal szemben, tudván, hogy azok csak parancsot teljesítettek. Halál csak arra az emberre várt, aki kiadta a parancsokat: Ardal aep Dahy-ra.
+say.nr501_3_battle_for_rivia.343;Ám a tábornoknak nyoma veszett. Az egyik fogoly elárulta, hogy aep Dahy elmenekült, amint a lyriaiak megrohamozták a Felsôvárat. Egy, az élelem felvonására használt vesszôkosárban siklott alá az Alsóvárba. Úgy iszkolt el a krumplihéjak és egyéb ételmaradékok között kuporogva, mint egy nem hétköznapi féreg.
+say.nr501_3_battle_for_rivia.344;Meve átkozta a balszerencséjét, és nekidôlt a pártázatnak. A hajnal még órákra volt, de a látóhatár már vérvörösen derengett keleten. Ugyan a nilfgaardi utánpótlás egyre közeledett, de túlságosan is megkésve ahhoz, hogy megakadályozhatták volna a vár elestét.\n
+say.nr501_3_battle_for_rivia.345;"El fogom kapni"
+say.nr501_3_battle_for_rivia.347;– morogta a királynô, bár leginkább csak önmagának. –
+say.nr501_3_battle_for_rivia.349;"Esküszöm mindenre, ami szent, hogy elkapom a szukafattyát. De most sürgetôbb dolgunk is akad: fel kell készülnünk a védelemre."
+say.nr501_3_battle_for_rivia.350;Tudja, minden legyôzött sereg helyét újabbak veszik majd át. Nagyobbak és jobban felszereltek, mint a korábbiak. Még most is, miközben mi ilyen kedélyesen elcseverészünk itt, a "Kelet" Hadseregcsoport épp erre tart, hogy felszabadítsa a várat az ostrom alól.
+say.nr501_3_battle_for_rivia.351;A nilfgaardi védôk megtöltötték a kôhajítókat és a dárdavetôket. De nem siették el, ugyanis meg voltak róla gyôzôdve, hogy a falak továbbra is áthatolhatatlanok.
+say.nr501_3_battle_for_rivia.353;"Lyriaaaa!!!"\n
+say.nr501_3_battle_for_rivia.36;A vár közönséges támadással bevehetetlen, már ha egyáltalán bevehetô bármiképp. És úgy, hogy alig nyolc óránk maradt...? Nem.
+say.nr501_3_battle_for_rivia.37;Feltételezzük egy pillanatra, hogy lehetséges volna. Mondja el, miképp, és milyen áron. Hordjuk halomba a bajtársak hulláit mindaddig, amíg el nem érjük a fal tetejét?
+say.nr501_3_battle_for_rivia.378;"Megcsinálták! Sikerült nekik!"
+say.nr501_3_battle_for_rivia.379;Rövidesen férfiak léptek be a helyiségbe, és a királynôt térdre rogyva találták, amint öklével a falat veri, és könnyek patakzanak a szemébôl. Villem mozdulatlanul feküdt mellette, a palástjával letakarva.
+say.nr501_3_battle_for_rivia.39;Tudom, hogy háború van, és az veszteségekkel jár... De arra utasítani a csapatainkat, hogy vegyék be a fellegvárat, az felér egy halálos ítélettel.
+say.nr501_3_battle_for_rivia.391;"Sok szerencsét..."
+say.nr501_3_battle_for_rivia.392;– suttogta, tekintetét az erôdítmény falaira függesztve, amiket úgy takart a sötétség, mint valami lepel.
+say.nr501_3_battle_for_rivia.393;"A kutyafáját, de sokáig tart... Túlságosan is sokáig."
+say.nr501_3_battle_for_rivia.394;Aep Dahy tábornok egy elitalakulatot küldött a kaputorony visszafoglalására. De ô is tudta, hogy hiábavaló volt, és hogy minden elveszett, amint meglátta Meve-et bevágtatni a belsôudvarra.
+say.nr501_3_battle_for_rivia.395;"Ess'sheyss! Acht cuan aen Lyrien!"\n
+say.nr501_3_battle_for_rivia.396;"Ratreut! Ratreut!!!"\n
+say.nr501_3_battle_for_rivia.397;"Kövessetek! Mozgás! Gyerünk!"\n
+say.nr501_3_battle_for_rivia.398;"Tròcair! Neen tuvean!"\n\n
+say.nr501_3_battle_for_rivia.4;Idegen lobogókat lengetett a falakon a szél, rajtuk az arany nappal és aep Dahy tábornok címerével. Rívia várának falain. Az otthon falain. Komor csend telepedett a csapatokra, s a számos diadal fölött érzett öröm és büszkeség azonnal elillant. Mert mindannyian tudták, hogyha a királynô elrendeli az ostromot, akkor sokan közülük odavesznek, mire másnap felkel a nap.\n
+say.nr501_3_battle_for_rivia.407;"Légy óvatos, Anyám"
+say.nr501_3_battle_for_rivia.408;– mondta neki Villem. –
+say.nr501_3_battle_for_rivia.409;"Jobban ismerem aep Dahy-t, mint bárki más... Annak az embernek mindig van valami meglepetés a tarsolyában."\n
+say.nr501_3_battle_for_rivia.410;"Akad nekünk is néhány tarsolynyi meglepetésünk számára. De köszönöm a figyelmeztetést és az aggódásod."
+say.nr501_3_battle_for_rivia.413;Igen, valami nem volt rendjén... Túl sima volt az utunk, túl zavartalan.
+say.nr501_3_battle_for_rivia.417;Ez... öngyilkosság!
+say.nr501_3_battle_for_rivia.420;Villem! Itt az idô! Fújasd meg a kürtöket! Támadunk!
+say.nr501_3_battle_for_rivia.43;Meve vére a fülében dübörgött, miközben feszülten figyelte, ahogy a csónakok tovasuhannak a tó vizén. Minden ezen a küldetésen állt vagy bukott: a királyságai sorsa, talán egész Észak sorsa, a maga és az emberei élete. Ám egyelôre nem tehetett mást, mint hogy várt...\n\n
+say.nr501_3_battle_for_rivia.5;Neeeeem!!!
+say.nr501_3_battle_for_rivia.6;"Felség..."
+say.nr501_3_battle_for_rivia.66;Ahogy Meve átlépett a toronyba vezetô ajtón, a csendbôl már tudta, hogy elkésett. Reynard emberei lemészárolva, önnön vérük tócsáiban feküdtek, a férfi pedig falnak vetett háttal ült, a mellkasából kiálló kettétört lándzsát markolászva. Meve letépte magáról a palástját, és a sebre szorítva azt kétségbeesetten próbálta meg elállítani a vérzést.
+say.nr501_3_battle_for_rivia.67;"Úton a segítség. Kérem, tartson ki...!"\n
+say.nr501_3_battle_for_rivia.68;"Bocsánatát kérem... még ez egyszer..."
+say.nr501_3_battle_for_rivia.69;"de nem engedelmeskedhetem a parancsának,... Királynôm..."\n\n
+say.nr501_3_battle_for_rivia.70;– zihálta Reynard, –
+say.nr501_3_battle_for_rivia.71;A kaputorony lépcsôjén felfelé igyekvô felcserek csupán pár lépésnyire voltak,... amikor eljutott hozzájuk az elnyújtott, velôt rázó jajveszékelés. A helyiségbe érvén a királynôt térdre rogyva találták, amint az öklével verte a falat, és szemeibôl patakzott a könny. Reynard mozdulatlanul feküdt mellette, a királynô palástjával letakarva.
+say.nr501_3_battle_for_rivia.72;Ahogy Meve átlépett a toronyba vezetô ajtón, a csendbôl már tudta, hogy elkésett. Gascon emberei lemészárolva, önnön vérük tócsáiban feküdtek, a férfi pedig falnak vetett háttal ült. A mellkasából kiálló három nyílvesszô együtt emelkedett és süllyedt minden egyes lélegzetvételével. Meve letépte magáról a palástját, és a sebre szorítva azt kétségbeesetten próbálta meg elállítani a vérzést.
+say.nr501_3_battle_for_rivia.73;"Úton a segítség. Meg ne próbálj itt meghalni nekem!"\n
+say.nr501_3_battle_for_rivia.74;"Tudod..."
+say.nr501_3_battle_for_rivia.75;"ah,... mindig is élveztem,... ha olyasmit csinálhatok, amivel felbosszanthatlak..."\n\n
+say.nr501_3_battle_for_rivia.76;– zihálta Gascon egy halovány mosollyal az ajkain, –
+say.nr501_3_battle_for_rivia.77;A kaputorony lépcsôjén felfelé igyekvô felcserek csupán pár lépésnyire voltak,... amikor eljutott hozzájuk az elnyújtott, velôtrázó jajveszékelés. A helyiségbe érvén a királynôt térdre rogyva találták, amint az öklével verte a falat, és szemeibôl patakzott a könny. Gascon mozdulatlanul feküdt mellette, a királynô palástjával letakarva.
+say.nr501_3_battle_for_rivia.88;A királynô mereven tartott vállakkal, ökölbe szorított kezekkel és elfehéredett ujjakkal állt fel. Arcán nem tükrözôdött sem bánat, sem elkeseredettség... Csak mérhetetlen, forrón izzó harag.\n
+say.nr501_3_battle_for_rivia.9;Én is csak ugyanezt mondhatom el Önrôl. Meglepett, nem is, lenyûgözött azzal, hogy nem fogta el és fejeztette le a küldöncömet.
+say.nr501_3_battle_for_rivia.90;Nilfgaardnál volt az elôny, ám a Feketék lelkülete megtört. Eztán már több hasznát látták a pajzsaiknak, mint a kardjaiknak. Amikor Meve végül áttört a soraikon, a megadás jeleként a magasba emelték fegyvereiket. Rívia vára elesett, újra az övé lett.\n
+title.nr501_3_battle_for_rivia.357;A Rívia váráért vívott ütközet
+title.nr501_3_battle_for_rivia.471;A Rívia váráért vívott ütközet
+title.nr501_3_battle_for_rivia.472;A Rívia váráért vívott ütközet
+title.nr501_3_battle_for_rivia.473;A Rívia váráért vívott ütközet
+

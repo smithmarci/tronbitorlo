@@ -1,0 +1,63 @@
+menu.nr510_1_race_equality.11;Elrendeled a támadást Fokvár ellen.
+menu.nr510_1_race_equality.12;Felhagysz az ostrommal.
+menu.nr510_1_race_equality.128;Elrendeled a támadást Fokvár ellen.
+menu.nr510_1_race_equality.129;Felhagysz az ostrommal.
+menu.nr510_1_race_equality.58;Teljesíted a kereskedôk kérését, és hatálytalanítod az újításokat.
+menu.nr510_1_race_equality.59;Helybenhagyod a nilfgaardiak reformjait.
+say.nr510_1_race_equality.1;Meve Fokvár falai alá érkezett, amely város messze földön is híres volt pazar szônyegeirôl és fali szôtteseirôl. A város kézmûvesei nagy munkában voltak, vélhetôen nilfgaardi nyomásra. Mert hogy a városháza legmagasabb tornyán egy zászló hullámzott a szélben fényes feketén, aranyló napkoronggal a közepében.
+say.nr510_1_race_equality.10;"Számszeríjászok végig a falak mentén. Forró kátrány bûze a levegôben..."
+say.nr510_1_race_equality.100;"Ezért most figyelmezzetek rám jól, mindannyian. Legyenek akár tündék, törpök, gnómok vagy emberek – nem számít. Az alattvalóim mind egyenlôk."\n
+say.nr510_1_race_equality.102;"Felség, hiszen maga mondta, hogy ha mi nem lettünk volna––"\n
+say.nr510_1_race_equality.104;"Az embereim meghaltak volna, igen. De a halottak között ott vannak Mahakam törpjei is, ha nem tévedek. Törpök, akik úgy döntöttek, hogy az oldalamon harcolnak akkor, amikor senki sem hitt benne, hogy gyôzedelmeskedhetünk."
+say.nr510_1_race_equality.106;A kereskedôk dúltak és fúltak, de Meve karja egyetlen erôs lendítésével elhallgattatta ôket. {audio=nr510_1_race_equality_march}Még aznap elhagyta Fokvárt, és menet közben a kereskedôk elôítéletessége miatt füstölgött magában. Mert ott motoszkált benne az a kellemetlen igazság, miszerint van, amit a hitvány nilfgaardiak képesek voltak jól csinálni.
+say.nr510_1_race_equality.119;Leszállt az est, és a lyriaiak tábort vertek. Meve leült a tábortûz mellé, és a lángokat bámulta merôn. Tisztjei és hadsegédei távolságot tartottak tôle, nem tudván, vajon a királynônek csak a tûztôl vörösödött-e ki a szeme,.... vagy a benne tomboló dühtôl. Egyedül Gábor merészkedett oda hozzá.\n
+say.nr510_1_race_equality.121;"Tudod,... nem is olyan rég megkérdeztem magamtól, hogy 'Gábor, te ütôdött, hát meggárgyultál? Hátrahagytál otthont, klánt, családot,... És miért? Csak hogy egy ember királynôt kövess?' De ma megmutattad, hogy helyesen döntöttem."\n\n
+say.nr510_1_race_equality.123;Gábor felállt, és visszament a gyülekezôsátorba. Ha egy kicsivel tovább elidôzik, láthatta volna, hogy Meve elmosolyodik...
+say.nr510_1_race_equality.138;A lyriaiak újfent feltekintettek Fokvár falaira, és a fölöttük lengô szénfekete lobogókra.\n
+say.nr510_1_race_equality.139;"Ahogy már korábban is mondtam, Felség"
+say.nr510_1_race_equality.141;– szólalt meg halkan Reynard, –
+say.nr510_1_race_equality.143;"drágán megfizetnénk egy gyôzelemért..."
+say.nr510_1_race_equality.15;"És ezt az árat nem vagyok hajlandó megfizetni"
+say.nr510_1_race_equality.17;– közölte Meve feszülten. –
+say.nr510_1_race_equality.19;"Hadd fôjenek csak a levükben. Fokvár bevétele nem életbevágó a gyôzelmünk szempontjából."\n\n
+say.nr510_1_race_equality.21;A lyriaiak folytatták a menetelést, habár néhányuk idônként hátra-hátra pillantott a válla fölött. A nagy, fényes fekete lobogó mintha visszapillantott volna rájuk, sötét emlékeztetôül arra, miszerint Nilfgaard egy olyan erô volt, amit nem lehetett még leírni.
+say.nr510_1_race_equality.22;"A gyôzelemért semmi sem lehet drága..."
+say.nr510_1_race_equality.24;– felelte Meve, és a hangjában acélozottság csendült. –
+say.nr510_1_race_equality.26;"Reynard! Gascon! Készítsék fel az embereket a támadásra!"\n\n
+say.nr510_1_race_equality.28;A lyriaiaknak nem kellett több bátorítás. Megérkezésük óta arról álmodoztak, hogy beveszik a várost, és letépik a tornyairól a hivalkodó lobogókat.
+say.nr510_1_race_equality.3;A lobogó akkora volt, hogy Gascon elismerôen füttyentett egyet.\n
+say.nr510_1_race_equality.381;Ugyanis a támadás egyik legkritikusabb pillanatában váratlan segítség érkezett olyan hôsök személyében, akikre a legkevésbé sem számítottak volna. A város céhei által összecsôdített kereskedôk és polgárok {audio=nr510_1_race_equality_battle_gate_open}tömege támadta hátba és verte le a Feketéket a kapuknál, és tárta azokat szélesre a lyriaiak elôtt.\n
+say.nr510_1_race_equality.383;"Elôre! Kövesseteeek!!"
+say.nr510_1_race_equality.384;"Háromszoros éljen! Hip–hip–hurrá!"
+say.nr510_1_race_equality.386;"Attól tartok, nem úsznánk meg olcsón a gyôzelmet."
+say.nr510_1_race_equality.389;"És, mint a felderítôk jelentik, a Feketék állig fel vannak fegyverkezve a legjobb harceszközökkel, amiket Mahakam csak adhatott."\n
+say.nr510_1_race_equality.4;"Magabiztosak a Feketék, meg kell hagyni."\n
+say.nr510_1_race_equality.42;A Fokvárért folyó küzdelem kemény volt... De korántsem olyan kemény, mint azt a legelején gondolták.\n\n
+say.nr510_1_race_equality.44;Ahogy a csatározások is véget értek, Meve a városházához lovagolt – egy személyes jellegû küldetésben. Nilfgaard fénylô lobogója hullámzott a magasban, a feje fölött. {audio=nr510_1_race_equality_flag_cut_off}Miután a felhúzókötelét elmetszette, az úgy zuhant alá, mint valami szárnya szegett hatalmas, fekete madár. Ez volt az utolsó alkalom, hogy bárki Aranyló Napkorongot látott Fokvár fölött.\n
+say.nr510_1_race_equality.46;A lyriaiak gyôzedelmeskedtek, igaz, némi segítséggel. Meve találkozott a kereskedôkkel, akik felbújtották a polgárokat, felkelésre és harcra buzdították azokat.\n
+say.nr510_1_race_equality.48;"Sokan a katonáim közül, több tucatnyian, ha nem több száznyian, nektek köszönhetik ma az életüket"
+say.nr510_1_race_equality.50;– mondta a királynô. –
+say.nr510_1_race_equality.52;"És ezért rendkívül hálás... Nem! Az adósotok vagyok! Ha volna bármi, amivel meghálálhatnám ezt nektek,... egy pillanatig se habozzatok kérni."
+say.nr510_1_race_equality.54;A kereskedôk egymásra néztek, bólintottak, hümmentettek, és anélkül, hogy egy szót is váltottak volna, megegyeztek. Egyikük – a legdíszesebben öltözött és legnagyobb bajuszú férfiú – elôlépett, mélyen meghajolt, majd nyilatkozott, mindannyiuk nevében.\n
+say.nr510_1_race_equality.55;"Felség... A megszállók törvényeket hoztak. Olyan törvényeket, amelyek nem vágnak egybe a régi szokásokkal. Arra kényszerítettek minket, hogy fogadjunk másfajúakat is a céheinkbe, és a városi tanácsba. Ez egyenesen nevetséges. És hogy miért tették? Mert ezek az áruló törpök mindvégig a cinkosaik voltak. Nos, szóval, azt szeretnénk, ha hatálytalanítaná a nilfgaardiak rendelkezéseit. A másfajúaknak tudniuk kell, hol a helyük."\n\n
+say.nr510_1_race_equality.57;Kínos csend ereszkedett közéjük. Mindannyian a királynôre figyeltek, és várták a válaszát...
+say.nr510_1_race_equality.6;"Emlékeztetném rá, hogy a hatalmas és erôs hadseregük sem utolsó..."
+say.nr510_1_race_equality.62;"A ti városotok"
+say.nr510_1_race_equality.64;– kezdett bele Meve lassan, rövid hallgatás után, –
+say.nr510_1_race_equality.66;"a ti szokásaitok. Legyen. Ezennel minden nilfgaardi reformot érvénytelenítek."\n\n
+say.nr510_1_race_equality.68;A polgárok felderültek, vigyorogtak, megragadták egymás vállait, és buzgó kézrázásba kezdtek egymással. Ám amikor arra kérték a királynôt, hogy maradjon, és ünnepeljen velük, az udvariasan visszautasította ôket. {audio=nr510_1_race_equality_march}A sereg még aznap elhagyta Fokvárt. Meve a menet élén lovagolt, csöndben és bosszúsan.
+say.nr510_1_race_equality.69;"Tudom"
+say.nr510_1_race_equality.71;– fakadt ki végre Meve Reynardnak, arcát közben mindvégig az elôttük álló út felé fordítva, –
+say.nr510_1_race_equality.73;"tudom, hogy alattomos kérést teljesítettem. De nem remélhetem, hogy egyetlen rendelettel véget vethetek a gyûlölködésnek, és eltörölhetem hosszú évek vérontásainak emlékét és a bizalmatlankodást. Azzal, ha köteleztem volna a kereskedôket, hogy fogadjanak a soraikba másfajúakat is, nem változtattam volna semmin. Megérti ezt, Reynard?"\n\n
+say.nr510_1_race_equality.75;De nem derült ki számára, ugyanis Reynard inkább fékezte a nyelvét.
+say.nr510_1_race_equality.8;– vettette közbe Reynard. –
+say.nr510_1_race_equality.81;Nem úgy Gábor Zigrin, aki nem volt az a hallgatag fajta, és szokása volt nyersen fogalmazni. Az elsô adandó alkalommal kihallgatást kért a királynôtôl.\n
+say.nr510_1_race_equality.89;"Nem értünk mindig mindenben egyet"
+say.nr510_1_race_equality.91;– kezdte a törp némi keserûséggel a hangjában. –
+say.nr510_1_race_equality.93;"de mindig tiszteletben tartottam a döntéseidet. Azaz hogy egészen a mai napig. Attól tartok, itt elválnak útjaink, Leány. Mennem kell, így hát ég veled!"\n
+say.nr510_1_race_equality.95;Meve még csak meg sem próbálta maradásra bírni. Tudta, hogy hasztalan lett volna. Gábor elhagyta, és soha többé nem tért vissza.
+say.nr510_1_race_equality.96;"Egyetértek. A másfajúaknak tudniuk kell, hogy hol a helyük"
+say.nr510_1_race_equality.98;– fogott bele mondandójába a királynô. –
+title.nr510_1_race_equality.380;A megszállók és a törvényeik
+title.nr510_1_race_equality.482;A megszállók és a törvényeik
+

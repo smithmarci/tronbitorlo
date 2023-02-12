@@ -1,0 +1,4 @@
+say.nr510_1_race_equality_combat.1;Nem lesz könnyû, Felség... Erôsek azok a falak.
+say.nr510_1_race_equality_combat.3;Gyôzelem, Felség! A város a miénk!
+say.nr510_1_race_equality_combat.5;A kaput... Valaki kinyitja a kaput! Menetelés indul!
+

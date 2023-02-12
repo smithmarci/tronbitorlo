@@ -1,0 +1,4 @@
+say.nr506_1_labour_camp_combat.1;A szukafattyak...! A saját alattvalóimat kényszerítik harcra ellenünk!
+say.nr506_1_labour_camp_combat.3;A munkafelügyelôk meghaltak, Felség.
+say.nr506_1_labour_camp_combat.5;Felség, ha a munkafelügyelôket támadjuk, a munkások is ellenük fordulnak majd!
+

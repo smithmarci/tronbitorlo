@@ -1,0 +1,3 @@
+say.nr505_1_caldwell_family_combat.1;Nem hagyom, hogy tönkretegye a családomat! Nem engedem!
+say.nr505_1_caldwell_family_combat.3;Apámnak... igaza volt... Önt illetôen.
+

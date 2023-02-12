@@ -1,0 +1,44 @@
+menu.nr502_1_nilfgaardian_settlers.16;Megengeded a nilfgaardi telepeseknek, hogy maradjanak.
+menu.nr502_1_nilfgaardian_settlers.17;Elûzöd Füzesligetbôl a nilgaardi telepeseket.
+menu.nr502_1_nilfgaardian_settlers.2;Elrendeled a támadást.
+menu.nr502_1_nilfgaardian_settlers.3;Megkerülöd Füzesligetet.
+menu.nr502_1_nilfgaardian_settlers.78;Elrendeled a támadást.
+menu.nr502_1_nilfgaardian_settlers.79;Elvonulsz Füzesliget alól.
+say.nr502_1_nilfgaardian_settlers.1;Meve egy számára is ismerôs kis településhez, Füzesligethez érkezett. Onnan ismerte, hogy az közel feküdt Kerekberekhez, ahová királynôi teendôi elôl szokott volt elmenekülni, hogy átadhassa magát a vadászat izgalmainak.\n
+say.nr502_1_nilfgaardian_settlers.14;"Adja ki a parancsot a támadásra, de senki nem merjen hôsködni. Együtt törjük át vagy másszuk meg a palánkot. Ostobaság lenne itt veszni, ilyen közül az otthonhoz."\n\n
+say.nr502_1_nilfgaardian_settlers.18;Amikor végre elült a csata pora, Meve utasította a katonáit, hogy tereljék össze Füzesliget lakóit. Azok, amint megpillantották fegyveres felszabadítóikat, rettegéssel telve kuporodtak a földre.\n
+say.nr502_1_nilfgaardian_settlers.21;"Nem kell többé félnetek!"
+say.nr502_1_nilfgaardian_settlers.24;"Maradhatnak – két feltétellel. Mondja meg nekik! Tizenöt éven át kétszeres adót fizetnek. És ha a korábbi lakók bármelyike visszatérne, késedelem nélkül visszakapja a kunyhóját, a földjét, és a távollétében megtermelt termény rá esô részét."\n\n
+say.nr502_1_nilfgaardian_settlers.25;"Mondja meg nekik...! Vagy inkább mégse. Magam mondom meg nekik."\n
+say.nr502_1_nilfgaardian_settlers.27;Azonban úgy tûnt, hogy a háború még az erdôt is megtépázta. Ahol korábban csak úgy burjánzott az élet, mostanra gyantás fatönkök maradtak. És a falucska is elvesztette régi báját és varázsát, ugyanis most kettôs cölöpkerítés vette körül, és aranyló napkorong ragyogott fölötte.\n
+say.nr502_1_nilfgaardian_settlers.29;Egykor hôn szeretett erdôje lehangoló látványt nyújtott, és e látkép most súlyosan telepedett a királynô lelkére. Kerekbereket, ahol annak idején pihenhetett, és megfeledkezhetett koronája súlyáról, pedig mintha eltörölték volna a föld színérôl. Reynard hangja riasztotta fel Meve-et szomorú ábrándozásából.\n
+say.nr502_1_nilfgaardian_settlers.31;"Egy nilfgaardi helyôrség tartja a falut"
+say.nr502_1_nilfgaardian_settlers.32;– közölte. –
+say.nr502_1_nilfgaardian_settlers.34;"Ki kellene füstölnünk ôket, ha el szeretnénk kerülni, hogy késôbb meglepetésszerûen hátba támadjanak bennünket."
+say.nr502_1_nilfgaardian_settlers.35;– felelte Meve, és sarkával megnógatta a lovát. –
+say.nr502_1_nilfgaardian_settlers.37;"Egy falu sorsa nem befolyásolja az egész háború kimenetelét. Talán még visszatérünk majd,... de most továbbmegyünk."
+say.nr502_1_nilfgaardian_settlers.41;Reynard bólintott. Pár pillanat múlva a lyriaiak megrohamozták a cölöpkerítést.
+say.nr502_1_nilfgaardian_settlers.45;– kiabálta a királynô. –
+say.nr502_1_nilfgaardian_settlers.47;"Nem kell tovább az otthonaitok és a szeretteitek miatt aggódnotok. A háború hamarosan véget ér!"
+say.nr502_1_nilfgaardian_settlers.49;Hirtelen az egyik falusi térdre vetette magát, és esdeklôn emelte az égre kezeit.\n
+say.nr502_1_nilfgaardian_settlers.51;"Tròcair! Gaedweich vaen!"\n\n
+say.nr502_1_nilfgaardian_settlers.52;Furcsa mód Meve leblokkolt, meghökkent a férfi kirohanásától. És akkor végre megértette. Füzesliget rívjeit elûzték, és a helyükre nilfgaardi telepesek érkeztek, hogy termô ültetvényes birtokokká alakítsák a helyiek szántóföldjeit és gyümölcsöseit a Birodalom számára.
+say.nr502_1_nilfgaardian_settlers.53;Reynardnak sikerült kihámoznia a lényeget a nilfgaardi parasztok rimánkodásaiból.\n
+say.nr502_1_nilfgaardian_settlers.55;"Maradni szeretnének – megszerették ezt a vidéket... Ígéretet tesznek arra, hogy megtagadják a Császárt, és Önnek, mint jogos uralkodójuknak esküsznek hûséget. Ôk...
+say.nr502_1_nilfgaardian_settlers.57;Meve már nem figyelt oda rá, helyette a falucskát szemrevételezte. A kunyhók falai friss vakolást kaptak, a szerszámok katonás rendben sorakoztak a fészerek oldalán, és a virágágyások is gondozottak voltak... Egy hat vagy hét telet látott lányka kukucskált elô rejtekhelyérôl a napraforgók közül.\n
+say.nr502_1_nilfgaardian_settlers.59;"Felség?"
+say.nr502_1_nilfgaardian_settlers.61;– kérdezte Reynard, aki észrevette, hogy Meve épp elkalandozott. –
+say.nr502_1_nilfgaardian_settlers.63;"Mik a parancsai? Mi tévôk legyünk?"
+say.nr502_1_nilfgaardian_settlers.65;Meve felállt egy padra, kivonta a kardját, és onnan fentrôl ordított rájuk, teli torokból:\n
+say.nr502_1_nilfgaardian_settlers.67;"Kifelé! Menjetek! Takarodjatok! Ez a mi földünk, a mi országunk! Megértettétek?!"\n\n
+say.nr502_1_nilfgaardian_settlers.69;A telepesek anélkül is megfejtették a királynô mondandójának lényegét, hogy egy szót értettek volna belôle. Kapkodva szedték össze a motyójukat, aztán eliszkoltak. Meve visszacsúsztatta tokjába a pengéjét, majd továbbindult. És Füzesliget, ez az egykor élettel teli kis település csendes lett és kihalt, csak a szél sóhajtozott elhagyatott kunyhói között.
+say.nr502_1_nilfgaardian_settlers.70;A nilfgaardi telepesek megkönnyebbüléssel fogadták el Meve feltételeit... Azonban az emberei már kevésbé voltak elragadtatva a döntéstôl. Miközben a sereg elhagyta Füzesligetet, a katonák kisebb cirkuszt rendeztek, amikor távoztukban sorra ütötték ki a parasztok kezébôl a felajánlott ételt és italt.
+say.nr502_1_nilfgaardian_settlers.85;Meve visszatért Füzesligethez és az azt körülvevô tuskórengeteghez.
+say.nr502_1_nilfgaardian_settlers.87;"Van itt fácán, fajdkakas és fogoly is bôségesen – majd meglátod"
+say.nr502_1_nilfgaardian_settlers.89;– mondta elfojtott izgalommal a hangjában Meve, miközben odafordult nyergében Gasconhoz.
+say.nr502_1_nilfgaardian_settlers.9;"Ideje megvívnunk a sorsdöntô csatáinkat, Reynard"
+say.nr502_1_nilfgaardian_settlers.90;"A szukafattyak még a szerencsétlen fáknak sem hagytak békét..."
+say.nr502_1_nilfgaardian_settlers.92;– forrongott Gascon.
+title.nr502_1_nilfgaardian_settlers.466;Új otthon
+title.nr502_1_nilfgaardian_settlers.86;Új otthon
+

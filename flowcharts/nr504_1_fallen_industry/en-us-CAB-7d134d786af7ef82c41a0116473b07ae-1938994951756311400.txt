@@ -1,0 +1,79 @@
+menu.nr504_1_fallen_industry.12;Harc nélkül foglalod el a várost.
+menu.nr504_1_fallen_industry.13;Üldözôbe veszed a menekülô nilfgaardiakat.
+menu.nr504_1_fallen_industry.147;Befektetsz a város hanyatló iparába.
+menu.nr504_1_fallen_industry.148;Nem törôdsz Szélesfej jólétével.
+menu.nr504_1_fallen_industry.150;Barnabásra bízod a város jövôjét.
+menu.nr504_1_fallen_industry.87;A törpök a szövetségeseink.
+menu.nr504_1_fallen_industry.89;Ilyen a háború. A gyôzelemért meg kell tennem mindent.
+menu.nr504_1_fallen_industry.90;Botozzák meg ezt az embert!
+say.nr504_1_fallen_industry.1;A távolban Szélesfej tûnt fel a láthatáron. Az egykor öntödéirôl és munka zajától hangos mûhelyeirôl híres város most némán terpeszkedett Meve és serege elôtt. Miért? Kérdezhetnétek.\n\n
+say.nr504_1_fallen_industry.10;"Nézd csak meg! Két ló van minden szekér elé befogva, a kerekek pedig mélyen belemerülnek az út sarába."
+say.nr504_1_fallen_industry.100;A törpök hû szövetségeseink. Azért segítenek nekünk, mert––
+say.nr504_1_fallen_industry.102;Mert nyerhetnek általa valamit. Ennyire egyszerû az egész.
+say.nr504_1_fallen_industry.104;Háború van. Megteszek bármit a gyôzelemért.
+say.nr504_1_fallen_industry.106;Azt látom, Felség. Még adósságba is verte magát a törpöknél. Egy adósságba, amit vissza kell majd fizetnie. A saját mesteremberei árán!
+say.nr504_1_fallen_industry.111;Elég! Csendet! Szerencséd, hogy a királynôd elnézô! Én már rég a fejedet vettem volna. Takarodj!
+say.nr504_1_fallen_industry.124;Még mielôtt Meve elhagyta volna a piacteret, Barnabás szólította meg udvariasan...
+say.nr504_1_fallen_industry.126;Khm... Ha beszélhetek ôszintén,... van némi igazság abban, amit ez az ember mond.
+say.nr504_1_fallen_industry.128;Tökéletesen tisztában vagyok vele. De mit akarsz?
+say.nr504_1_fallen_industry.130;Távol álljon tôlem, hogy a saját malmomra akarnám hajtani a vizet, de... talán én a segítségére lehetnék.
+say.nr504_1_fallen_industry.132;Áruld el, hogyan! Csupa fül vagyok.
+say.nr504_1_fallen_industry.134;Bármit, amit az emberei itt készítenek, azt a törpök kétszer olyan gyorsan és kétszer olyan jól készítik el. Találnia kell egy úgy nevezett piaci rést, valamiféle újítást. És ha már az újításoknál tartunk––
+say.nr504_1_fallen_industry.136;Azok a te szakterületed.
+say.nr504_1_fallen_industry.138;Minden szerénység nélkül állíthatom, hogy így van! Emellett pedig talán a békét is szolgálnánk azáltal, ha bebizonyítanánk, hogy nem minden másfajú komisz. Hogy a segítségükre is lehetnek, ahelyett, hogy csak elvennék a munkájukat, vagy beleköpnének a levesükbe.
+say.nr504_1_fallen_industry.140;Fontolóra veszem, Barnabás. Átgondolom, és majd tudatom veled, mire jutottam.
+say.nr504_1_fallen_industry.145;Eljött az ideje, hogy továbbálljanak Szélesfejbôl, ezért a királynô összehívta a hadsegédeit, kíváncsian várva a javaslataikat. Azok számos – köztük néhány kiváló – ötlettel is elôálltak, de a királynôn múlt, hogy eldöntse, mi legyen a város jövôje.
+say.nr504_1_fallen_industry.155;Gondos mérlegelés után a királynô jóváhagyta Barnabás javaslatát. A gnóm vette kezébe a város hanyatló iparának talpra állítását.\n
+say.nr504_1_fallen_industry.156;Meve úgy döntött, hogy nem hajlandó itt és most megvitatni a gazdaság és a vállalkozások ügyét.\n
+say.nr504_1_fallen_industry.157;Meve tudta, hogy nem hagyhatja cserben Szélesfej polgárait, nem hagyhatja ôket kétségek között a sorsukat illetôen.\n
+say.nr504_1_fallen_industry.158;Ám még a királynô támogatása révén sem versenyezhettek a mesteremberek a konkurenciával. A mahakam törpjeinek öntödéibôl kikerülô áruk alig néhány hónap alatt ellehetetlenítették a város mûhelyeit. Meve sokat kockáztatott, ám nem nyert vele semmit...
+say.nr504_1_fallen_industry.159;"Ideje újra kalapácsot fogni, és felizzítani a kohókat! Fogjátok ezt az aranyat, és mutassátok meg egész Északnak, mennyit ér a szélesfeji acél!"\n\n
+say.nr504_1_fallen_industry.160;Néhány katonát szíven ütött a városlakók panasza. Elkeseredettek voltak, és csalódtak a királynô döntésében... De amikor Meve kiadta a parancsot az indulásra, egyikük sem szólalt fel tiltakozásképp.
+say.nr504_1_fallen_industry.161;"Legyôzni Nilfgaardot – ez most az egyetlen feladatunk"
+say.nr504_1_fallen_industry.163;– mondta Meve emelt hangon, elhallgattatva ezzel a tanácsadóit. –
+say.nr504_1_fallen_industry.165;"És ennek az egy célnak kell alárendelnünk minden erôforrásunkat."\n\n
+say.nr504_1_fallen_industry.166;A ríviai polgárok kétkedéssel fogadták a királynô döntését, de Barnabás ügyeskedései célt értek. Az öntödék és az üzemek hamarosan újra élettôl nyüzsögtek. Nem telt bele sok idôbe, és Meve-hez is eljutottak a szélesfeji mûhelyekbôl kikerülô új termékek.
+say.nr504_1_fallen_industry.168;"Barnabás, csak arra kérlek, ha lehet, ne legyen itt semmiféle robbanás..."\n
+say.nr504_1_fallen_industry.169;"Egyet se féljen Felséged! Az egyetlen "robbanás" ebben a városban kizárólag gazdasági jellegû lesz!"
+say.nr504_1_fallen_industry.28;"Amit a városomtól vesznek el"
+say.nr504_1_fallen_industry.3;Amikor a városban állomásozó Feketék megpillantották a közeledô lyriaiakat, azon nyomban megfutamodtak, még a város kapuit is tárva-nyitva hagyták sietségükben. De nem távoztak üres kézzel. Vagy egy tucat, rogyásig megpakolt szekérbôl álló konvojjal menekültek.\n
+say.nr504_1_fallen_industry.30;– szólt a királynô, –
+say.nr504_1_fallen_industry.32;"azt tôlem veszik el – és azt vissza fogom szerezni. Utánam!"\n\n
+say.nr504_1_fallen_industry.34;Meve megsarkantyúzta a lovát, és a távolodó menetoszlop nyomába eredt. Amikor a Feketék rájöttek, hogy esélyük sincs a menekülésre, megálltak, leplántálták a lándzsáikat, megvetették a lábukat, és felkészültek a támadásra...
+say.nr504_1_fallen_industry.35;"Alig néhány hónappal ezelôtt mi voltunk azok, akik megfutottunk a Feketék hordái láttán"
+say.nr504_1_fallen_industry.37;– mondta Meve undorról árulkodó hangon. –
+say.nr504_1_fallen_industry.376;Mahakam miatt. Miután a törpök birodalma néhány évtizeddel korábban megnyitotta kapuit az emberek kereskedôi elôtt, ezáltal a kiváló minôségû – és, nem utolsó sorban, az emberekénél olcsóbb – fegyvereinek kiáramlása elôtt, a karavánok többé nem jöttek Szélesfejbe áruért...
+say.nr504_1_fallen_industry.377;"A fenébe! Vissza Szélesfejbe! Vágta!"
+say.nr504_1_fallen_industry.378;Meve úgy döntött, hogy beszédet intéz a tömeghez...
+say.nr504_1_fallen_industry.379;Egészen addig, amíg meg nem pillantották Villemet. Akkor aztán pusmogni és morgolódni kezdtek.
+say.nr504_1_fallen_industry.384;És mögöttük meg Villem herceget, aki nem is oly rég térdet hajtott a Feketéknek.
+say.nr504_1_fallen_industry.39;"Mostanra fordult a kocka – mi lettünk az elnyomók. Azt mondom, hadd fussanak. Hadd lássa egész Rívia, ahogy Nilfgaard fülét-farkát behúzza ahelyett, hogy szembeszállna velünk."\n\n
+say.nr504_1_fallen_industry.41;A királynô a nyitott városkapu felé léptetett, szándékolt lassúsággal, és közben azon tûnôdött, miféle zsákmányt vihettek magukkal a megszállók.
+say.nr504_1_fallen_industry.44;Meve személyesen – és minden finomkodás nélkül – rázta meg a nilfgaardi parancsnokot, egy fazonra borotvált bajuszú fiatal nemest. Mint sok birodalmi nemes, az ifjú is folyékonyan beszélte a közöst.\n
+say.nr504_1_fallen_industry.46;"Mi van a szekereken, Százados?"\n
+say.nr504_1_fallen_industry.48;"Fémhulladék, Felség"
+say.nr504_1_fallen_industry.5;"Vajon miket visznek magukkal?"\n
+say.nr504_1_fallen_industry.50;– bökte ki minden kertelés nélkül a birodalmi tiszt. Látva a királynô értetlen tekintetét, jobbnak látta kifejteni a dolgot. –
+say.nr504_1_fallen_industry.52;"Megolvasztani, új nyíl- és lándzsahegyek öntéséhez. A mérnökeink Szélesfej öntödéit szerették volna felhasználni erre a célra, ám azok túl primitívnek bizonyultak. Azt a parancsot kaptuk, hogy vigyük máshova a fémet."
+say.nr504_1_fallen_industry.53;A diadaluk fölött érzett bármiféle büszkeség nyomban elenyészett. Meve-et majd' szétvetette a düh,... és a szégyen. A szégyen, amit amiatt érzett, hogy a megszállók a királyságát csupán egy gyenge, visszamaradott koszfészeknek tartják.\n\n
+say.nr504_1_fallen_industry.55;Meve lecsapta a felnyitott láda tetejét.\n
+say.nr504_1_fallen_industry.6;"Akármik is legyenek azok, jó nehezek"
+say.nr504_1_fallen_industry.60;Málladozó falak, betört ablakok, korhadó faépítmények... Szélesfej lepusztult volt, csak halvány árnyéka régi önmagának. Ahogy a lyriaiak bevonultak, városlakók figyelték az érkezôket szótlanul, elkomorult ábrázattal...
+say.nr504_1_fallen_industry.62;Szélesfej jó népe! Ezennel szabadok vagytok! A nilfgaardi megszállásnak vége––
+say.nr504_1_fallen_industry.64;Úgy biza', és egy új kezdôdik mostan!
+say.nr504_1_fallen_industry.71;Bolond vagy, ember? Talán nem ismered fel a lobogóinkat? A lyriai hadsereg áll elôttetek!
+say.nr504_1_fallen_industry.73;Ó, felismerem én a lobogókat. Tizenöt hosszú esztendôt szolgáltam alattuk ôrmesterként.
+say.nr504_1_fallen_industry.75;Aztán visszatértem a szülôvárosomba. És tudja, mit találtam? Nélkülözést és mocskot, Felség...
+say.nr504_1_fallen_industry.77;Minden elszaródott. A nyavalyás törpök miatt! Évek óta özönlik tôlük a fémáru Ríviába, és nekünk, kovácsoknak, már annyira se fussa, hogy befûtsünk a kohóinkba!
+say.nr504_1_fallen_industry.79;A lyriai hadseregnek mondják magukat. A lobogók meg a páncélok is alátámasztani látszanak ezt. De mi a helyzet a fegyverekkel? Úgy látom, nem a mi mûhelyeinkbôl kerültek ki. Hanem Mahakaméból – a legmegátalkodottabb ellenlábasainkéból. A teringettét, látok is a soraikban néhány golyófejût...
+say.nr504_1_fallen_industry.8;– felelte Gascon hunyorogva. –
+say.nr504_1_fallen_industry.81;Szóval miféle szabadság az, amit adott itt nekünk, Felség? Hogy a közös nyelven kéregessünk inkább, ne pedig Nilfgaard korcs nyelvén?
+say.nr504_1_fallen_industry.83;Kéregetni?! Mirôl hadoválsz itt, ember?
+say.nr504_1_fallen_industry.85;Nincs adó kivetve a Mahakamból bejövô termékekre. Anélkül viszont a mi mûhelyeinknek esélyük sincsen velük szemben. És Ön, Felség? A páncéljukban parádézik, a fegyvereiket forgatja,... és még a szakállas szarháziakat is idehozza a küszöbünkre.
+say.nr504_1_fallen_industry.94;Nem kell ezt tovább hallgatnom. Ôrség! Húsz botütést neki!
+say.nr504_1_fallen_industry.96;Hahh! Hallottátok ezt, jó emberek?! Látjátok most már? Ez az a szabadság, amit a királynônk oly nagy kegyesen nekünk adományoz!
+say.nr504_1_fallen_industry.98;Csendet, te ostoba!
+title.nr504_1_fallen_industry.1119;Járulékos veszteség
+title.nr504_1_fallen_industry.374;Járulékos veszteség
+title.nr504_1_fallen_industry.474;Járulékos veszteség
+

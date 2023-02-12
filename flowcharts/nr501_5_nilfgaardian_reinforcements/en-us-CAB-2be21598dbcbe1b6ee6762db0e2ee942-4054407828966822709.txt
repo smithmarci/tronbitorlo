@@ -1,0 +1,28 @@
+say.nr501_5_nilfgaardian_reinforcements.1;A lyriai hadsereg egy óriási csúszómászóvá nôtte ki magát. Olyannyira, hogy a menetoszlop végére lovagolva Meve már nem is látta az elejét. A gyalogság, a lovasság és az íjászok sorai úgy nyúltak el két horizont között, mint egy csillogó bôrû kígyó. Meve valóban hosszú utat tett meg, és büszke volt magára...
+say.nr501_5_nilfgaardian_reinforcements.2;Meve a felderítôk jelentéseit hallgatta, amikor hirtelen a rabok szekere felôl sikolyok harsantak. Egy pillanat múltán Meve hátborzongató látványnak lehetett szemtanúja. A nilfgaardi foglyok, akikkel szemben könyörületes volt, most holtan, lemészárolva hevertek a tábor sátrai között...
+say.nr501_5_nilfgaardian_reinforcements.24;Meve egyszer csak dühös kiáltásokat és összecsapó, egymásnak feszülô pengék hangjait hallotta a menet elejérôl.\n
+say.nr501_5_nilfgaardian_reinforcements.25;Megláncolt foglyok ücsörögtek a poros út mentén. Meve megállt egyikük elôtt. A rab borotválatlan volt, ruhája lerongyolódott, és legyek zümmögtek hevenyészve bekötözött karsebe körül. Az, amint észrevette a királynôt, lesunyta a fejét, és reszketni kezdett, mint a nyárfalevél.
+say.nr501_5_nilfgaardian_reinforcements.27;"Tudom, hogy vadembereknek gondoltok minket"
+say.nr501_5_nilfgaardian_reinforcements.29;– kezdte Meve, közben tekintete egyik lesoványodott Feketérôl a másikra vándorolt. –
+say.nr501_5_nilfgaardian_reinforcements.31;"De nem kell félnetek. Nem fogunk elevenen megnyúzni, sem pedig vacsorára megenni benneteket. És amikor aláírjuk a békeszerzôdést, mindannyiótokat hazaküldjük... Ahol, és ezt ôszintén remélem, majd ott is maradtok."\n\n
+say.nr501_5_nilfgaardian_reinforcements.33;Ahogy a királynô a lova nyergébe lendült, nem is próbálta elrejteni az arcára kiülô grimaszt. A combjai kidörzsölôdtek és sajogtak a nyereg miatt, tenyerén a bôr kérgessé vált a gyeplôtôl. De beharapta az ajkát, és továbblovagolt, mert a jutalma immár alig karnyújtásnyira volt csak...
+say.nr501_5_nilfgaardian_reinforcements.34;Ám az egységei egyre türelmetlenebbé váltak a királynô bosszúval kapcsolatban tett ígéretét illetôen. Amikor a menet legközelebb megállt, elégedetlen katonák egy csoportja vagy egy tucat nilfgaardi foglyot legyilkolt.
+say.nr501_5_nilfgaardian_reinforcements.36;Mindaz a sérelem, amit a nilfgaardiak ostorai és kegyetlenkedései miatt elszenvedni voltak kénytelenek, megkeserítette a szívüket, és befurakodott az elméjükbe. A ríviaiak nem tudták elviselni, hogy elnyomóik csak úgy, büntetlenül megússzák. Ezért, a királynô akaratának ellenszegülve, a saját kezükbe vették az igazságszolgáltatás ügyét.\n
+say.nr501_5_nilfgaardian_reinforcements.37;A csôcselék igazságszolgáltatása volt ez, és Meve tisztában volt vele, hogy nem maradhat megtorolatlanul. Végül, figyelmen kívül hagyva a hadsegédei tanácsait, a parancsnokaira bízta az egykor volt rabszolgák sorsát. Mert hogy a királynô már belefáradt abba, hogy mindig csak két gonosz közül választhat – amely gonoszok közül az egyik sötétebb volt, mint a másik.
+say.nr501_5_nilfgaardian_reinforcements.38;Meve elôrántotta a kardját, megsarkantyúzta a lovát, és a csapatai sora mentén a menetoszlop elejére vágtatott. Ahol aztán a harc nyomán kavargó porfelhôben aranyló napokat pillantott meg...
+say.nr501_5_nilfgaardian_reinforcements.39;"Zárkózz! Balra, a bal szárnyra, erôsítsétek meg a bal szárnyat!"\n
+say.nr501_5_nilfgaardian_reinforcements.41;"Dezertôrök. Vezér nélkül, Felség"
+say.nr501_5_nilfgaardian_reinforcements.42;– jelentette az egyik felderítô. –
+say.nr501_5_nilfgaardian_reinforcements.44;"Dél felé tartottak, a határ irányába."\n\n
+say.nr501_5_nilfgaardian_reinforcements.45;Mint kiderült, a tettet a korábbi rabszolgák, a Kányakatlan kôfejtôjébôl kiszabadított parasztok követték el – azok, akiket Meve a soraikba fogadott.\n\n
+say.nr501_5_nilfgaardian_reinforcements.46;"A szentségit..."
+say.nr501_5_nilfgaardian_reinforcements.48;– sziszegte a királynô a véres holttesteket nézve.\n
+say.nr501_5_nilfgaardian_reinforcements.49;"Démonok ezek, nem emberek!"
+say.nr501_5_nilfgaardian_reinforcements.51;– ordították az egyenruhába öltözött, felfegyverzett parasztok. –
+say.nr501_5_nilfgaardian_reinforcements.53;"Az adósaik voltunk, ilyen egyszerû az egész!"
+say.nr501_5_nilfgaardian_reinforcements.56;Akárcsak Villem, aki mellette lovagolt. Kezdetben a csapatok gyanakvó – ha nem éppen gyûlölködô – tekintetekkel méregették a herceget... Ám heteken át volt lehetôségük figyelni, amint harcol, mostanra pedig úgy tekintettek rá, mint maguk közül valóra...
+say.nr501_5_nilfgaardian_reinforcements.6;A nilfgaardiak mindig fegyelmezettek, és a végletekig elszántak voltak... Nem úgy ezek a nilfgaardiak – mert ezek hamar hátrahagyták az egységüket, és menekülésbe fogtak.\n
+title.nr501_5_nilfgaardian_reinforcements.1;A bukás
+title.nr501_5_nilfgaardian_reinforcements.40;A bukás
+title.nr501_5_nilfgaardian_reinforcements.62;A bukás
+

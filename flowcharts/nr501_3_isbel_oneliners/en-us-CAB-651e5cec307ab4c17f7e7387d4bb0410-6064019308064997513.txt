@@ -1,0 +1,4 @@
+say.nr501_3_isbel_oneliners.1;Sokan fognak ma meghalni... Túl sokan.
+say.nr501_3_isbel_oneliners.2;Reméljük, ez lesz az a háború, ami véget vet minden háborúnak.
+say.nr501_3_isbel_oneliners.3;Mindig hajnal elôtt van a legsötétebb...
+

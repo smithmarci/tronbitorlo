@@ -1,0 +1,10 @@
+say.nr501_6_cs2_rivia_outro.1;Aep Dahy tábornok Lyria és Rívia megszállásának elôestéjén egy sor arcátlan követeléssel állt elô. A nilfgaardi pökhendi volt, mert biztos volt abban, hogy gyors és döntô gyôzelmet arat majd.
+say.nr501_6_cs2_rivia_outro.11;Mondhatjuk így is.
+say.nr501_6_cs2_rivia_outro.13;Hát, legyek átkozott... És? Talá't magának fickót végül?
+say.nr501_6_cs2_rivia_outro.14;Hagyd mán! A csóka egész éjjel csak mesélt. A történetnek vége, ideje ledô'ni.
+say.nr501_6_cs2_rivia_outro.16;Igaz... Még hosszú út áll elôttünk.
+say.nr501_6_cs2_rivia_outro.3;Mégis, néhány hónappal késôbb ô is megkapta a maga fenyegetését. Egy ultimátumot, amit Emhyr var Emreis császár sajátkezûleg szignózott. Az üzenet tömör volt és velôs, nem hagyott teret a félreértelmezésnek.
+say.nr501_6_cs2_rivia_outro.5;Aep Dahy tábornok halálával a nilfgaardi hadseregen fejetlenség lett úrrá. Észak királyai végül egyesültek, és a helyzetet kihasználva lecsaptak a közös ellenségre. A gyôzelmük elsöprô volt. Az északi seregek éltették a parancsnokaikat és uralkodóikat,... de egyiket sem olyan hevesen, mint a harcos királynôt.
+say.nr501_6_cs2_rivia_outro.7;Sokan álmodoznak arról, hogy elérik a lehetetlent. Meve meg is cselekedte azt. Fortéllyal, elszántsággal és bátorsággal hárította el a nilfgaardi inváziót. A királynô még sok éven át uralkodott. Szigorral,... de igazságosan.
+say.nr501_6_cs2_rivia_outro.9;Hahh! Szóval egy fehérnép mentette meg Északot a Feketéktô'?
+

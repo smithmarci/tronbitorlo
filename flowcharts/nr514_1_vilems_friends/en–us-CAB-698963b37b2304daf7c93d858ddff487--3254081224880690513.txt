@@ -1,0 +1,78 @@
+menu.nr514_1_vilems_friends.10;Az Obert-ház támogatását kéred.
+menu.nr514_1_vilems_friends.13;Továbbmész.
+menu.nr514_1_vilems_friends.31;Megtámadod az Oberteket.
+menu.nr514_1_vilems_friends.32;Elhagyod a várat.
+menu.nr514_1_vilems_friends.8;Továbbmész.
+menu.nr514_1_vilems_friends.9;Az Obert–ház támogatását kéred.
+say.nr514_1_vilems_friends.1;Látván, hogy a harc elkerülhetetlen, Gréta Obert az erôdtoronyban keresett menedéket. A márkiné katonái a végsôkig készek voltak megvédelmezni ôt...
+say.nr514_1_vilems_friends.100;"Akit Te, Felség, jogtalanul ejtettél foglyul. Bár nem rendelkezem annyi ember fölött, amennyivel kiszabadíthatnánk a rabságból,... de annyi fölött igen, amennyivel a hátam mögött már bátran visszautasítalak."\n
+say.nr514_1_vilems_friends.101;"Bátorságról mersz itt beszélni?"
+say.nr514_1_vilems_friends.102;– sziszegte Meve. –
+say.nr514_1_vilems_friends.103;"Te, aki harc nélkül nyújtottad át a szülôföldedet az ellenségeinknek?"\n
+say.nr514_1_vilems_friends.104;"A Fônemesek Tanácsának döntése szerint cselekedtem. Nincs számodra több mondanivalóm. Hagyd el az otthonomat, távozz a földjeimrôl!"
+say.nr514_1_vilems_friends.109;"Aki ellen fegyvert fogtál."\n
+say.nr514_1_vilems_friends.110;"Villem egy trónbitorló. Jogtalanul fosztott meg a koronámtól!"\n
+say.nr514_1_vilems_friends.111;"A Fônemesek Tanácsa fosztott meg a koronádtól"
+say.nr514_1_vilems_friends.112;– mondta Gréta, közben szúrós tekintettel méregette Meve–et, –
+say.nr514_1_vilems_friends.113;"abbéli félelmében, hogy netalántán belekényszerítenéd ezt az országot egy értelmetlen háborúba. Félelmükben, ami, mint világosan látszik, nem volt alaptalan."\n
+say.nr514_1_vilems_friends.114;"Gyôztesként tértem haza. Legyôztem Nilfgaardot Angrenben!"\n
+say.nr514_1_vilems_friends.115;"Amiben nem kis szerepe volt a szerencsének. Azt gondolod talán, hogy mert Caldwellt sikerült legyôznöd, akkor a császárt is sikerülni fog? Ez ôrültség, kedves Meve. És az embereim nem fognak meghalni egy ôrültség miatt. Hagyd el az otthonomat, távozz a földjeimrôl!"
+say.nr514_1_vilems_friends.124;A nevét hallván Villem elôlépett.\n
+say.nr514_1_vilems_friends.125;"Szeretnék jómagam is csatlakozni anyám kéréséhez"
+say.nr514_1_vilems_friends.126;– mondta a herceg. –
+say.nr514_1_vilems_friends.127;"Megpróbáltunk egyezségre jutni a Birodalommal, bíztunk aep Dahy tábornok ígéretében,... ám ô egyiket a másik után szegte meg."\n
+say.nr514_1_vilems_friends.128;Gréta márkiné lesütötte a szemét. Az Oberteknek ugyancsak elkobozták a földjei jó részét, a jobbágyait pedig kitoloncolták. Nilfgaard uralma alatt legalább annyit veszítettek, mint a többi nagy nemesi család.\n
+say.nr514_1_vilems_friends.129;"Nem késlekedhetünk tovább... Támadnunk kell. Egyesült erôvel, minden hatalmunkkal. Csak ekképp remélhetjük kivívni a gyôzelmet."
+say.nr514_1_vilems_friends.132;"Én már rég elvesztettem a reményt"
+say.nr514_1_vilems_friends.133;– felelte csöndesen a nemesasszony. –
+say.nr514_1_vilems_friends.134;"A toronyból néztem, ahogy tovavonulnak... Mint fekete páncélok végtelen hullámzó tengere. De... igaza van, Felség. Eljön a pillanat, amikor az embernek azt kell mondania, hogy 'Elég...' – még akkor is, ha ez az utolsó szava lesz."\n
+say.nr514_1_vilems_friends.135;Villem megragadta a márkiné törékeny kezeit, és meghajolt.\n
+say.nr514_1_vilems_friends.136;"Köszönöm Önnek! A magam, az anyám, és egész országunk nevében!"
+say.nr514_1_vilems_friends.138;Meve az Obertek egységeivel megerôsödve, és Villem tette miatt bizakodva hagyta maga mögött Ébenzug várát. Ha korábban kétségek is gyötörték amiatt, hogy hajlandó volt megbocsátani fiának az árulást, most már meg volt arról gyôzôdve, hogy helyesen cselekedett.
+say.nr514_1_vilems_friends.141;"Távozom"
+say.nr514_1_vilems_friends.142;– mondta a királynô. –
+say.nr514_1_vilems_friends.143;"De visszatérek, amint megnyertem ezt a háborút. És akkor leszámolok veled és az egész házaddal."\n\n
+say.nr514_1_vilems_friends.144;Meve megsarkantyúzta paripáját, és elvágtatott. Lova patkói szikrákat szórtak, ahol a macskakövet karistolták. Ezután még sokáig szitkozódott, némán mozgó ajkakkal káromolta az Oberteket és öreg márkinéjüket...
+say.nr514_1_vilems_friends.147;"Távozom"
+say.nr514_1_vilems_friends.150;– mondta a királynô. –
+say.nr514_1_vilems_friends.151;"De magammal viszem a hadigépeidet."\n
+say.nr514_1_vilems_friends.152;"Nem fejeztem volna ki magamat világosan? Megtagadtam tôled a segítségemet!"\n
+say.nr514_1_vilems_friends.153;"Én pedig felhagytam a kéréssel"
+say.nr514_1_vilems_friends.154;– közölte Meve, és kivonta a kardját. –
+say.nr514_1_vilems_friends.155;"Katonák! támadás!"\n\n
+say.nr514_1_vilems_friends.161;A hirtelen támadástól ledöbbenve az Oberteknek esélyük sem volt Meve–vel szemben. Mikor rájöttek, hogy a vereségük elkerülhetetlen, {audio=nr514_1_vilems_friends_greta_death_01}Gréta márkiné menekülni próbált,... de a lova megriadt a harc zûrzavarában, és levetette ôt a nyergébôl, majd elviharzott.\n\n
+say.nr514_1_vilems_friends.162;Meve az Obertek hadigépei által megerôsödött sereggel, ám feldúlt hangulatban hagyta el Ébenzug várát. Tudta, ha meg is nyeri ezt a háborút, és visszaûzi Nilfgaardot a Jaruga túlfelére, a földjein akkor is maradnak még ellenségei...
+say.nr514_1_vilems_friends.51;Meve a láthatáron megpillantotta Ébenzug–vár körvonalait, és nyomban elkomorult. Igaz, hogy a vár tornyain nem lengtek arany napkorongos lobogók,... de ez még nem jelentette azt, hogy a lakói ôt támogatták. Ébenzug az Obert–házé volt, amely régóta szemben állt Meve házával,... és Meve–vel magával is.\n
+say.nr514_1_vilems_friends.53;"A mellvédek mögött. Maga is látja, Reynard?"
+say.nr514_1_vilems_friends.54;– kérdezte fejcsóválva Meve. –
+say.nr514_1_vilems_friends.55;"Számtalan dárdavetô... És csak porfogónak vannak, miközben körös–körül a háború dúl."
+say.nr514_1_vilems_friends.56;"Talán az Obertek hajlandóak lennének segítséget nyújtani"
+say.nr514_1_vilems_friends.59;– vélekedett Reynard. –
+say.nr514_1_vilems_friends.60;"Valóban hadilábon álltak egymással a múltban,... de talán most, hogy közös ellenséggel kell szembenézniük..."\n
+say.nr514_1_vilems_friends.61;"Közös ellenséggel?"
+say.nr514_1_vilems_friends.62;– horkantott a királynô. –
+say.nr514_1_vilems_friends.63;"Nilfgaardra gondol, akinek kinyitották a kapukat? Vagy Caldwellre, akit ôk is támogattak?"\n
+say.nr514_1_vilems_friends.67;"Engem támogattak, Anyám"
+say.nr514_1_vilems_friends.68;– jegyezte meg Villem. –
+say.nr514_1_vilems_friends.69;"És bizton tudom, hogy velem együtt ôk is csalódottak voltak aep Dahy tetteit illetôen. Ha meglátják, hogy az oldaladon állok,... talán elfeledik a régi sérelmeket."
+say.nr514_1_vilems_friends.70;"Meg voltak róla gyôzôdve, hogy a Birodalom megnyeri ezt a háborút, és hogy minden ellenállás hasztalan. Ám Felséged egész Északnak megmutatta, hogy a Feketék legyôzhetôk,... szóval talán hajlandóak lesznek szemet hunyni a régi sérelmek fölött."\n
+say.nr514_1_vilems_friends.72;"Ha eljön a nap, amikor elveszítem minden reményemet, amikor úgy érzem, hogy az Obertek támogatása nélkül nem lett volna szabad szembeszállnom Nilfgaarddal"
+say.nr514_1_vilems_friends.73;– mondta a királynô, –
+say.nr514_1_vilems_friends.74;"akkor majd kérni fogom a segítséged. De egy nappal sem korábban."\n\n
+say.nr514_1_vilems_friends.75;A királynô továbbvonult, távolodó seregét Ébenzug–vár ôreinek gyanakvó pillantásai kísérték...
+say.nr514_1_vilems_friends.80;A királynô visszatért Ébenzug-vár falai alá,... és elméjében egyik gondolat birokra kelt a másikkal. Dörömböljön a kapun, vagy sem? Kérje ôsi ellensége támogatását, vagy inkább hagyja nyerni a saját büszkeségét?
+say.nr514_1_vilems_friends.83;"Hogy mi mindent meg nem teszek az országomért..."
+say.nr514_1_vilems_friends.84;– sóhajtott fel Meve. –
+say.nr514_1_vilems_friends.85;"Legyen hát. Reynard, küldjön egy futárt a várhoz. Mondja meg az Oberteknek, hogy a királynôjük beszélni kíván velük."\n\n
+say.nr514_1_vilems_friends.86;Percekkel késôbb már ki is tárult csikorogva a vár nehéz vaskapuja. Meve belovagolt a macskakövekkel borított belsôudvarra, ahol Gréta márkiné, a ház feje üdvözölte. Habár az "üdvözölte" talán nem a legtalálóbb kifejezés, mert hogy Gréta úrnô csak alig észrevehetôen biccentett feléje.
+say.nr514_1_vilems_friends.88;"Miben lehetek a segítségedre, Meve?"\n
+say.nr514_1_vilems_friends.90;"A háborúban, Drágám. Abban, amit épp a várad falain túl vívnak."\n
+say.nr514_1_vilems_friends.91;Gréta elmosolyodott, aztán összefonta gyûrûkkel ékített ujjait.\n
+say.nr514_1_vilems_friends.92;"Attól tartok, az lehetetlen."\n
+say.nr514_1_vilems_friends.93;"Egy vazallus szent kötelessége szolgálnia a hûbérurát, és––"\n
+say.nr514_1_vilems_friends.94;"És az én hûbéruram Villem király"
+say.nr514_1_vilems_friends.95;– vágott vissza nyugodt hangon Gréta.
+title.nr514_1_vilems_friends.159;Ellenséges vonalak
+title.nr514_1_vilems_friends.49;Ellenséges vonalak
+title.nr514_1_vilems_friends.78;Ellenséges vonalak
+

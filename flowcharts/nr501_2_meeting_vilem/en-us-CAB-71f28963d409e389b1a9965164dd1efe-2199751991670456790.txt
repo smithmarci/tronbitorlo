@@ -1,0 +1,67 @@
+menu.nr501_2_meeting_vilem.28;Ne játsszd itt az áldozatot.
+menu.nr501_2_meeting_vilem.29;Nem azért vagyunk itt, hogy kettônkrôl diskuráljunk. Hanem hogy a háborúról beszéljünk.
+menu.nr501_2_meeting_vilem.66;Elfogadom a feltételeidet.
+menu.nr501_2_meeting_vilem.67;Ezek a feltételek... elfogadhatatlanok.
+menu.nr501_2_meeting_vilem.68;Lefogatod Villemet.
+say.nr501_2_meeting_vilem.1;A királynô az Ürdöng Tornyát választotta a Villemmel esedékes találkozó helyszínéül – és nem ok nélkül. Az építmény egy szigeten állt, így az ellenség nem közelíthette meg anélkül, hogy fel ne fedte volna magát, ha át akart kelni a szigetre vezetô keskeny hídon. Ráadásul a szárazulaton alig volt növényzet, amiben nagyobb különítmény megbújhatott volna. Egy kisebb egység elkerülhette ugyan a lebukást, de összességében nem volt mitôl tartania.
+say.nr501_2_meeting_vilem.10;"Tehát mit javasolsz?"\n
+say.nr501_2_meeting_vilem.101;Bízom benne, hogy ha eljön az idô, a csatatéren is ilyen magabiztos leszel.
+say.nr501_2_meeting_vilem.1014;Röviddel ezután Meve serege megindult Rívia vára felé. Már nem volt messze a mindent eldöntô ütközet...
+say.nr501_2_meeting_vilem.103;Keresni fogom a lobogódat. Az istenek kegyelmére bízom, hogy rendezzék ezt a vitát egyszer s mindenkorra. Ég veled, Anyám.
+say.nr501_2_meeting_vilem.105;Villem meghajolt, aztán sarkon fordult, és távozott. Meve gyomra összeszorult a dühtôl,... szíve pedig bánattal lett teli.
+say.nr501_2_meeting_vilem.107;Bevallom,... tévedtem Veled kapcsolatban.
+say.nr501_2_meeting_vilem.109;Nem biztos,... hogy értem, mire gondolsz... Miben?
+say.nr501_2_meeting_vilem.11;"Szerény személyem és még négy pajtásom elbújunk a falak mögött. Ha jelt adsz – bármilyen jelet –, azonnal melletted termünk."\n
+say.nr501_2_meeting_vilem.111;Mindig is azt gondoltam, hogy jelentéktelen vagy, átlagos. De ez a ma tanúsított szemtelenség,... minden, csak nem jelentéktelen. Ez példátlan!
+say.nr501_2_meeting_vilem.113;Valóban úgy gondoltad, hogy képes lennék megbocsátani neked? Miután elárultál? Hogy ennyire megaláztál?
+say.nr501_2_meeting_vilem.115;Nem vagy érdemes a koronámra. Sem most, sem soha nem leszel az.
+say.nr501_2_meeting_vilem.117;Egek! Ezek szerint csak a csatamezôn találkozunk újfent.
+say.nr501_2_meeting_vilem.119;A csatamezôn?! Ha-ha-ha-ha! Elôbb fektetlek a két térdemre, és verlek el a lovaglópálcámmal, fiú. Gascon! Fogjátok le!
+say.nr501_2_meeting_vilem.121;A legnagyobb örömmel.
+say.nr501_2_meeting_vilem.123;Hogy mi? De mi–– Hogy teheted ezt?!
+say.nr501_2_meeting_vilem.125;Úgy látszik, árulás szennyezte be a vérünket, fiam. Vigyétek innét!
+say.nr501_2_meeting_vilem.127;Meve hátat fordított Villemnek... most és mindörökre. A herceg a háború végéig láncra verve raboskodott... És azután? Hamarosan ezt is elmesélem.\n
+say.nr501_2_meeting_vilem.13;Meve a lelkiismeretével hadakozott. Nem volt semmi becsületesség Gascon tervében, de megfontoltság annál inkább. Végül egyetértése jele képp bólintott. De bûntudattal tette.\n
+say.nr501_2_meeting_vilem.14;Nem sokkal késôbb Villem is megérkezett – láthatóan a kíséretét képezô nehézlovasság jelenlétébôl merített bátorságot. Amazoknak meghagyta, hogy a híd túlfelén várakozzanak, majd egymagában kelt át a szigetre. Egy, a folyó felôl érkezô erôsebb fuvallat majdnem letépte róla hermelinprém palástját.
+say.nr501_2_meeting_vilem.16;Villem és az anyja szemtôl szemben álltak egymással. Egymás szemeit fürkészték, azt várva, hogy melyikük kapja elôbb félre a tekintetét. Mikor aztán egyikôjük sem tette, Meve volt az, aki megtörte a csendet.
+say.nr501_2_meeting_vilem.18;Múlnak a napok, és nekem még fel kell szabadítanom egy királyságot. Ne húzzuk hát az idôt. Mondd el, mi ez az egész!
+say.nr501_2_meeting_vilem.20;Azt hittem, a küldöncöm már megtette.
+say.nr501_2_meeting_vilem.22;Ó, ô megtette... És hogyan! "Villem, ki elsô ezen a néven, tárgyalni kíván egy esetleges fegyverszünetrôl."
+say.nr501_2_meeting_vilem.24;Csakhogy... Villem, ki elsô ezen a néven, nincs abban a helyzetben, hogy egyenlô félként tárgyaljon. I. Villem legfeljebb a feltétel nélküli megadását ajánlhatja fel. Mert I. Villem vesztésre áll ebben a háborúban.
+say.nr501_2_meeting_vilem.26;Igen, Anyám... Így van. És látom, hogy legalább a bukásommal elérhettem, hogy elégedett légy.
+say.nr501_2_meeting_vilem.3;– szólalt meg Gascon némi huncutsággal a hangjában. –
+say.nr501_2_meeting_vilem.33;Ne játszd itt nekem a mártírt. Mi jön ez után? Azt fogod mondani, hogy csak azért árultál el, mert anyuci soha nem volt hozzád kedves, és nem mutatta ki az irántad táplált érzelmeit?
+say.nr501_2_meeting_vilem.35;Igazságtalanság lenne részemrôl, ha effélét állítanék. Tápláltál irántam érzelmeket: leginkább ellenszenvet és megvetést.
+say.nr501_2_meeting_vilem.37;Ám nem ezért árultalak el. Nem. Egyszerûen csak nem értettem egyet a bírálataiddal és a döntéseiddel.
+say.nr501_2_meeting_vilem.39;Minden jogom megvolt hozzá, hogy azt tegyem, amit igazságosnak és helyesnek véltem.
+say.nr501_2_meeting_vilem.4;"Semmi kíséret – ez volt a feltételed"
+say.nr501_2_meeting_vilem.41;És nekem minden jogom megvolt ahhoz, hogy a véleményemnek hangot adjak... Amit viszont mindig figyelmen kívül hagytál.
+say.nr501_2_meeting_vilem.43;Ó, de nem most van itt az ideje és helye, hogy ezt megvitassuk. Tárgyaljunk idegenekként.
+say.nr501_2_meeting_vilem.46;Villem... Nem anya és fia minôségünkben találkoztunk itt. Csak mint két, egymással háborúban álló sereg vezérei.
+say.nr501_2_meeting_vilem.48;Igazán képes vagy e kettôt egymástól különválasztani?
+say.nr501_2_meeting_vilem.5;"De... mindig is azt vallottam, hogy jobb félni, mint megijedni."\n
+say.nr501_2_meeting_vilem.50;Muszáj. Ha nem akarom az eszemet veszteni.
+say.nr501_2_meeting_vilem.52;Értem... Akkor alkudozzunk.
+say.nr501_2_meeting_vilem.54;Vesztésre állok, azt mondod... És igazad van. De még nem vesztettem, és nem áll szándékomban megadni magam.
+say.nr501_2_meeting_vilem.56;Azonban kész vagyok megszegni a császárnak tett eskümet, és felajánlani Neked a seregeimet... Mindaddig, amíg teljesíted a feltételeimet.
+say.nr501_2_meeting_vilem.58;Mhm. Halljam ôket!
+say.nr501_2_meeting_vilem.60;Elôször is, nem érvényteleníted azokat a reformokat, amiket eszközöltem – egyiket sem.
+say.nr501_2_meeting_vilem.62;Másodszor, garantálod mind az én, mind pedig a tanácsadóim biztonságát.
+say.nr501_2_meeting_vilem.64;Harmadszor, én maradok az örökösöd, és a következô az örökösödési sorban.
+say.nr501_2_meeting_vilem.72;Pimasz gyermek. Mérhetetlen ez az arcátlanság.
+say.nr501_2_meeting_vilem.74;Nos,... meg kellett próbálnom. Ég veled, Anyám. És legyen––
+say.nr501_2_meeting_vilem.76;Megállj! Egy szóval sem mondtam, hogy elutasítom a feltételeidet.
+say.nr501_2_meeting_vilem.78;Khm. Rajtam hát a sor, hogy hallgassalak.
+say.nr501_2_meeting_vilem.80;Engedetlen vagy, Villem... Amilyennek lenned is kell. Bármely jövôbeni királynak biztosnak kell lennie magában és az ítéleteiben, mert csak önmagára számíthat.
+say.nr501_2_meeting_vilem.82;Én... köszönöm. Sosem feltételeztem volna––
+say.nr501_2_meeting_vilem.84;Még nem végeztem. Ideje, hogy halld az én feltételeimet.
+say.nr501_2_meeting_vilem.86;Lemondasz a koronáról és a királyi palástról. Napkeltétôl napnyugtáig munkálkodni fogsz. És minden egyes csatában az elsô sorban harcolsz majd. Érthetô voltam?
+say.nr501_2_meeting_vilem.88;Igen... Igen, Felség.
+say.nr501_2_meeting_vilem.90;Akkor ezt elrendeztük. Vár ránk az út.
+say.nr501_2_meeting_vilem.92;Villem meghajolt, sarkon fordult, és távozott. Meve, bár felindultan indult a nyomába, nem tudta elnyomni az arcára kiülô mosolyt...
+say.nr501_2_meeting_vilem.93;Ezeket a feltételeket nem fogadhatom el.
+say.nr501_2_meeting_vilem.95;Nos,... meg kellett próbálnom, Anyám.
+say.nr501_2_meeting_vilem.97;Azonban nem tagadom, hogy bátorságra vallott a részedrôl. Gyere ide! Nézz a szemembe. Ez... nem lehetett könnyû.
+say.nr501_2_meeting_vilem.99;Nem. Nem volt az.
+title.nr501_2_meeting_vilem.315;A tékozló fiú
+
