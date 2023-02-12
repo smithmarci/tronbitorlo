@@ -1,0 +1,4 @@
+say.nr2_npc16.10;Azzal, hogy magamra öltöttem a Nagy Napkorongot, szégyent hoztam magamra.
+say.nr2_npc16.4;Igazán kár, hogy Felségednek nincs ideje velünk ünnepelni...
+say.nr2_npc16.7;Mostantól a Fekete megszállók fáradhatatlan ellensége leszek!
+

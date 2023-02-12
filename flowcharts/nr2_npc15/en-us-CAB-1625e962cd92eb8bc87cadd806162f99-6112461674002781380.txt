@@ -1,0 +1,4 @@
+say.nr2_npc15.10;Forduljanak vissza! Forduljanak vissza, amíg még van erejük futni, amíg még élnek! Aldersberg elesett! Aldersberg elveszett!
+say.nr2_npc15.4;A falak áttörve és leomolva... Az alsóváros lángokban áll... Sebesültek száz és ezerszám... És még ennél is többen elmenekültek...
+say.nr2_npc15.7;Demavend király a végsôkig harcolni fog! Megmenti a várost, vagy vele pusztul!
+

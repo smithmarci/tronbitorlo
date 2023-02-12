@@ -1,0 +1,4 @@
+say.nr3_npc14.16;Karbonhegy törpjei vagyunk, ho–hó–hah, ho–hó–hah, két kalapács a jelünk, a jelünk!
+say.nr3_npc14.19;Ki éhezik, jóllakatjuk, ho–hó–hah, ho–hó–hah, de az ellent kettécsapjuk, úgy–úgy–ám, úgy–úgy–ám!
+say.nr3_npc14.22;A sört töltsed, dobban a szív', ho–hó–hah, ho–hó–hah, ilyen, mikor a hegy gyomra hív, úgy–úgy–ám, úgy–úgy–ám!
+

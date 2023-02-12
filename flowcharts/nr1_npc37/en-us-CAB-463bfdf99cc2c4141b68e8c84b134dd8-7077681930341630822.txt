@@ -1,0 +1,4 @@
+say.nr1_npc37.10;Bár a héjuk fekete, de belül a húsuk vörös!
+say.nr1_npc37.4;Van itt hely az Arany Napocskáknak – a hosszúhajóm evezôinél!
+say.nr1_npc37.7;Jó fogoly lesz a nilfgaardiakból. És még jobb rabszolga!
+

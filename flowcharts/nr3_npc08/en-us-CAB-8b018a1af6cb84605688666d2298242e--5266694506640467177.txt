@@ -1,0 +1,5 @@
+say.nr3_npc08.1;Ácsi'... Elébb tölts egy kis pálinkát. Még ha be is fagy a valagunk, vidámabb lesz a menetelés tôle.
+say.nr3_npc08.10;Soha, de soha ne füttyögj a bányákban!
+say.nr3_npc08.4;Minden éven egyre több szörny mászik elô a Tavaszi Nagytakarításkor.
+say.nr3_npc08.7;Ne feledd – ha csigával találkozol a bányába menet, oszd meg vele az eledeled!
+

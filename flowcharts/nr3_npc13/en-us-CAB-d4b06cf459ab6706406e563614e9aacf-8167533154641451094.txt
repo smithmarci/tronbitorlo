@@ -1,0 +1,4 @@
+say.nr3_npc13.10;Felkelnék, Felség, fel én! De odafagyott a valagam a földhöz.
+say.nr3_npc13.2;A Törpôsök Kódexe világosan megmondja: ha valami kopog, amikor a bányában vagy, ne kopogj neki vissza – soha!
+say.nr3_npc13.7;Na, fiúk, csak egy kis itókázás, aztán megyünk is vissza dolgozni!
+

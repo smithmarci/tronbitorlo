@@ -1,0 +1,4 @@
+say.nr2_npc18.10;Aenyell'hael yn'aeres.
+say.nr2_npc18.4;N'te dice'en!
+say.nr2_npc18.7;Psst! Dh'oine aen evall a straede.
+

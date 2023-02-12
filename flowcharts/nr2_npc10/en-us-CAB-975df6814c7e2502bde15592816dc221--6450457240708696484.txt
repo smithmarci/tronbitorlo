@@ -1,0 +1,4 @@
+say.nr2_npc10.10;Füst mindenütt, szinte harapni lehet... Csípi a szemed, kaparja a torkod... Pfuj!
+say.nr2_npc10.4;Már megint egy zsákutca?! Hogy a démonokba keveredek ki innen?! Hogy hagyhatnám itt ezt a helyet végleg?!
+say.nr2_npc10.7;Elátkozott egy föld ez... Csak a hullák és a hamu – hullák és hamu, ameddig a szem ellát...
+

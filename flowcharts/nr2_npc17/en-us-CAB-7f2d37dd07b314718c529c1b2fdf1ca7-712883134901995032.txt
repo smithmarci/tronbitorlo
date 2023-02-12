@@ -1,0 +1,5 @@
+say.nr2_npc17.1;Úrnôm... Elástuk a kis vagyonkánkat, mielôtt a Feketék megérkeztek... Az erdôben, ahhoz a nagy sziklatömbhöz közel. Van egy kis szenük kézközelben? Lerajzolom odáig az utat.
+say.nr2_npc17.10;Mi lesz eztán? Mihez kezdek így? Egyedül... Magamra hagyva...
+say.nr2_npc17.4;Milka, Bezrad, Krystan... Mindôjüket megölték, kioltották az életüket.
+say.nr2_npc17.7;Segítségért szaladhattam volna, tudom... De féltem, hogy a Feketék meghallanak, észrevesznek.
+

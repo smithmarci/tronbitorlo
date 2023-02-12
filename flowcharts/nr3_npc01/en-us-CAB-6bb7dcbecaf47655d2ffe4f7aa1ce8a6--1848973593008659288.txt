@@ -1,0 +1,4 @@
+say.nr3_npc01.10;JÓ DÉMONSZART!!!
+say.nr3_npc01.2;Csöndesebben, némber! Még elriasztod a halat!
+say.nr3_npc01.7;Teringettét! A pisztráng már épp a csalit csipegette. Aztán jössz, és jól elijeszted!
+

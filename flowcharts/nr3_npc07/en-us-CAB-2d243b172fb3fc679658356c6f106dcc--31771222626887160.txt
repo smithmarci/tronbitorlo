@@ -1,0 +1,4 @@
+say.nr3_npc07.10;Eh, nos, fene nagy kár... Pedig milyen jók ma a látási viszonyok.
+say.nr3_npc07.4;Á, merem állítani, ez volt a legcsinosabb repülés, amit valaha láttam! Egy tökéletes parabola!
+say.nr3_npc07.7;Ha meggondolod magad, te leány, csak szólj! A hordó idekészítve vár.
+

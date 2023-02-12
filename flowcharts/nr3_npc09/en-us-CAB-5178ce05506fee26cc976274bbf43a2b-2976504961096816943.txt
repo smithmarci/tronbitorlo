@@ -1,0 +1,4 @@
+say.nr3_npc09.10;Levágnám én a szakállamat... De még nem kaptam rá írásos engedélyt.
+say.nr3_npc09.4;Ne csámborogjatok a Borófenéken. Hacsak nem kedvelitek a shaelmaarokat.
+say.nr3_npc09.7;Az Elöljáró évrôl évre kicsit furább lesz... Ijesztô belegondolni, milyen lesz majd száz esztendô múltán!
+

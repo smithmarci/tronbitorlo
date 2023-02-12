@@ -1,0 +1,4 @@
+say.nr2_npc14.10;Ezt a nyakláncot, Felség... Hordja mindig a nyakán, és távol tartja a gonoszt.
+say.nr2_npc14.4;Biztonságban vagyunk a falak mögött. Legalábbis egyelôre...
+say.nr2_npc14.7;Már kétszer tanúsított irántunk könyörületet, Úrnôm. Melitele kétszer áldja meg ekképp.
+

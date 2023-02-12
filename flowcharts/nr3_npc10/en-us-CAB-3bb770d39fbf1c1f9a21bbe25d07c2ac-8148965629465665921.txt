@@ -1,0 +1,5 @@
+say.nr3_npc10.10;Várakozni gyötrelmes. Felejteni gyötrelmes. De az igazi gyötrelem az, ha csupasz fenékkel végighúzkodnak a zsarátnokon.
+say.nr3_npc10.14;Ha elbuksz hetedszer is, kelj fel nyolcadjára is. Aztán agyabugyáld el azt az idiótát, aki folyton lökdös.
+say.nr3_npc10.5;Légy bátor. Küzd le a kihívásokat, vállalj kockázatot is akár. De még mielôtt így tennél, köss megfelelô biztosítást.
+say.nr3_npc10.8;Mindig hajnal elôtt van a legsötétebb. Vagy mielôtt az utolsó gyertya a bányában kialszik.
+

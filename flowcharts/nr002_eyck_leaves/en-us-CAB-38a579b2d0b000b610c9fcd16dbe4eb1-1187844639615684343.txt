@@ -1,0 +1,10 @@
+say.nr002_eyck_leaves.1;Felség, nincs ez így rendjén!
+say.nr002_eyck_leaves.16;Hogy miféle gond? Megszegte a saját esküjét! Hazugságok által csalt a Gonosz ölelésébe – eltérítve a küldetésemtôl!
+say.nr002_eyck_leaves.23;Elég! Nem hallgatok és nem követek többé olyasvalakit, aki önmagát fosztotta meg a becsületétôl! Ég vele, és az istenek tanúsítsanak Ön iránt kegyelmet.
+say.nr002_eyck_leaves.24;A mantikórra gondolsz? Meg kell értened, súlyosabb ügyekkel voltunk elfoglalva akkor, és...
+say.nr002_eyck_leaves.3;Eyck lovag...
+say.nr002_eyck_leaves.4;Tudja meg: én soha nem mutatok közömbösséget! Persze meg nem gátolhatom abban, hogy ilyetén módon cselekedjék, ezért most távozom. Tovább nem vagyok hajlandó részt venni ama alantasságokban, amiket megcselekedni nem átall.
+say.nr002_eyck_leaves.5;A gaztettek, amiket elkövetett,... fölöttébb aljasak. Ahogy a Jóság Könyve mondja, "Annak, aki tétlenül áll a gonoszság láttán, a bûne legalább akkora."
+say.nr002_eyck_leaves.6;Nyugodj meg, Eyck lovag. Mondd, miféle gond nyomaszt!
+say.nr002_eyck_leaves.7;Ég vele, Királynô! És az istenek irgalmazzanak a lelkének.
+

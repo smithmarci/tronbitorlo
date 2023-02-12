@@ -1,0 +1,4 @@
+say.nr2_npc07.10;Megmondtam neked, hogy a királynô nem egy halaskofa! Megmondtam neked, jobb, ha nem alkudozol vele. Hogy le fog nyelni egészben!
+say.nr2_npc07.4;Amikor két kutya marakodik, a csont a harmadiknak jut...
+say.nr2_npc07.7;Mienk lett az arany, a tündéket meg jól megsuhintják... Ezt nevezem én jó üzletnek!
+

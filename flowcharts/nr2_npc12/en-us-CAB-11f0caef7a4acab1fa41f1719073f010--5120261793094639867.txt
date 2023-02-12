@@ -1,0 +1,4 @@
+say.nr2_npc12.10;A saját királyunk a sorsunkra hagyott bennünket... De te, Úrnôm, bár idegen országból való vagy, megmentetted a falunkat, megmentetted az életünket!
+say.nr2_npc12.4;Asszonyom... Irgalmazz nekünk...! Csak senyvedünk, és éhen halunk!
+say.nr2_npc12.7;A tolvaj, aki csak a fele pénzedet viszi el, még ugyanúgy tolvaj, mint az, aki az összeset. Emlékezz ezekre a szavakra!
+

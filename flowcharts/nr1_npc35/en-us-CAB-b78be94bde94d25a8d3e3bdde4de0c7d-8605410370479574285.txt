@@ -1,0 +1,4 @@
+say.nr1_npc35.10;Khm, Felségedék is a folyó irányába tartanak? Talán le is táboroznának ott?
+say.nr1_npc35.4;Mozgolódnak a népek mostanság... Hmmm.
+say.nr1_npc35.7;Az otthonunk, szép Lyria - elbûvölô, termékeny és határtalan...
+

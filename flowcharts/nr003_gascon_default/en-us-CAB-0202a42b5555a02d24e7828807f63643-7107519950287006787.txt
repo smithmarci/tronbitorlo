@@ -1,0 +1,71 @@
+menu.nr003_gascon_default.15;Miért hívnak az Ebek Hercegének?
+menu.nr003_gascon_default.20;Ideje mennem.
+menu.nr003_gascon_default.237;Játsszunk egy kis gwentet?
+menu.nr003_gascon_default.242;Hogyan jutottak be az embereid a lyriai tömlöcbe?
+menu.nr003_gascon_default.243;Mihez kezdesz majd, ha véget ér a háború?
+menu.nr003_gascon_default.244;Ami a Brossardokat illeti...
+menu.nr003_gascon_default.245;Hogy jöttök ki Reynarddal?
+menu.nr003_gascon_default.246;Megbántad valaha, hogy haramia lettél?
+say.nr003_gascon_default.231;Esetleg volna kedved gwentezni?
+say.nr003_gascon_default.232;Kérdezned sem kell! Hát persze!
+say.nr003_gascon_default.35;Szóval, Gascon, hogy tetszik a katonalét?
+say.nr003_gascon_default.36;Hm. Csakúgy, mint az útonállóké.
+say.nr003_gascon_default.37;Hogy mondod?
+say.nr003_gascon_default.38;A sátorban hideg van, az ennivaló trágya. De van jó oldala is... Akad elég innivaló, legalábbis legtöbbször.
+say.nr003_gascon_default.39;Egy csetepaté emitt, egy dulakodás amott, az egyik napon a nilfgaardiakkal, a következôn meg tündékkel... És bárkit is gyôzzünk le, annak mindenét elvesszük.
+say.nr003_gascon_default.40;Úgy érted, rekviráljuk. A hadviselés szabályainak megfelelôen.
+say.nr003_gascon_default.41;Ugyan, kérlek... Hagyd meg a mentegetôzést a gyóntatódnak.
+say.nr003_gascon_default.42;Hej-hó! Hogy van az én kedvenc északi királynôm?
+say.nr003_gascon_default.43;Meve... Még egyszer el kell mondanom: sajnálom. És köszönöm, hogy megbocsátottál nekem.
+say.nr003_gascon_default.44;Ne is beszéljünk róla többet, Gascon.
+say.nr003_gascon_default.45;De tudnod kell––
+say.nr003_gascon_default.46;Minden alkalommal, amikor ezt felhozod, hajlok arra, hogy meggondoljam magam. Koncentráljunk inkább a feladatra.
+say.nr003_gascon_default.47;Csak az járt a fejemben, hogy... hogyan voltak képesek a Bitangok bejutni a lyriai várbörtön tornyába.
+say.nr003_gascon_default.48;Úgy, hogy kihasználták annak legfôbb gyengeségét.
+say.nr003_gascon_default.49;És milyen gyengeség volna az? Saját magam felügyeltem a tervezését. Öt láb vastag falak, rácsok és kapurostélyok a legerôsebb vasból––
+say.nr003_gascon_default.50;Biztos vagyok benne, hogy mindene nagy és vastag. Na, de mennyit fizetsz a kapuôröknek?
+say.nr003_gascon_default.51;Tessék? Én... nem tudom. A kaszárnya parancsnoka van megbízva ezzel a feladattal.
+say.nr003_gascon_default.52;Akkor hadd világosítsalak fel! Nem sokat, Meve. Sôt, a kevésnél is kevesebbet.
+say.nr003_gascon_default.53;A trónról letekintve nehéz észrevenni az apró-cseprô dolgokat. Például egy pénz szûkében lévô, vagy nagyravágyó katonát... Ám az ilyesmik észrevétele még egy közönséges banditának is, úgymond, veleszületett képessége.
+say.nr003_gascon_default.54;Vegyük például bármely kastély ajtajait. Kinyitni egyet, vagy kinyitni az összeset? Elég, ha van nálad egy erszénnyi arany.
+say.nr003_gascon_default.55;Az Ebek Hercege? Honnan e név?
+say.nr003_gascon_default.56;Nem vagyok benne biztos, hogy el kellene mondanom... Ez egy... némiképp személyes történet.
+say.nr003_gascon_default.57;Ragaszkodom hozzá.
+say.nr003_gascon_default.58;Nos, a helyzet az,... hogy vérfarkas vagyok. Vagy valami olyasmi.
+say.nr003_gascon_default.59;Jól hallottam? Vérfarkas?
+say.nr003_gascon_default.60;Olyasmi... Tudod, amikor a telihold fennen ragyog az éjszakai égbolton, akkor valamiféle teremtménnyé változom át, ami félig ember, félig meg... tacskó!
+say.nr003_gascon_default.61;És akkor az éjszakában a kutyák összesereglenek a parancsomra... VAÚÚÚ!!!
+say.nr003_gascon_default.62;Ó... Felejtsd el, hogy megkérdeztem!
+say.nr003_gascon_default.63;Hahh...! Örömmel.
+say.nr003_gascon_default.64;Volt benned valaha is megbánás? Éreztél már bûntudatot?
+say.nr003_gascon_default.65;Miért kellett volna?
+say.nr003_gascon_default.66;Ó, hát nem is tudom... Talán mondjuk ártatlanok legyilkolása miatt? Utazók, zarándokok megölése miatt...?
+say.nr003_gascon_default.67;Mindig jó elôre figyelmeztettem ôket: "Hajatok szála sem fog görbülni,... amennyiben nem tanúsítotok ellenállást." Mint láthatod, hagytam nekik választást.
+say.nr003_gascon_default.68;Mellesleg – "ártatlanok"? Ugyan, kérlek, Meve. Mindketten tudjuk, hogy azok mitikus teremtmények. Mindenkinek van valami rejtegetnivalója.
+say.nr003_gascon_default.69;Ezért mindig van ok a gyilkolásra?
+say.nr003_gascon_default.70;Úgy, ahogy mondod. De egyszer majd felelned kell érte.
+say.nr003_gascon_default.71;Te és Reynard? Kijöttök egymással?
+say.nr003_gascon_default.72;Mint a kutya és a macska... Ha-ha-ha! Érted? Mert ugye engem úgy neveznek, hogy––
+say.nr003_gascon_default.73;Igen-igen. Nem okoz nehézséget megérteni a tréfáidat. De mulatni rajtuk? Már annál inkább.
+say.nr003_gascon_default.74;Ez feltehetôleg így van... a Nagyságos Fenségességed esetében.
+say.nr003_gascon_default.75;Megfelelsz a kérdésemre?
+say.nr003_gascon_default.76;Ah. Kijövünk, mert ki kell jönnünk. Bár sokkal könnyebb volna, ha kihúzná a lándzsa végét a valagából.
+say.nr003_gascon_default.77;Rég hallottam ennél igazabb megállapítást...
+say.nr003_gascon_default.78;Mi volt ez?
+say.nr003_gascon_default.79;Á, semmi, semmi...
+say.nr003_gascon_default.80;Figyelj, szeretnék megint beszélni arról a––
+say.nr003_gascon_default.81;Várj, tudom mirôl szeretnél. És tudod, hogy ez olyan téma, amirôl nem szeretnék diskurálni.
+say.nr003_gascon_default.82;Az nem segít, ha hagyod, hogy azok a gondolatok mételyezzenek.
+say.nr003_gascon_default.83;És mi segítene? Talán csak egy varázslatos visszaugrás a múltba, úgy sejtem.
+say.nr003_gascon_default.84;Jaj, Meve, higgy nekem! Elég könnyet ejtettem már a családom miatt. Nincs arra szükségem, hogy gondoljak rá, sem pedig, hogy beszéljek róla. És legfôképp nem veled.
+say.nr003_gascon_default.85;Szóval... Mihez kezdesz? Mi tévô leszel?
+say.nr003_gascon_default.86;Töprengtem rajta mostanában. Gondoltam rá, hogy visszatérek a korábbi életemhez, bár nem hinném, hogy áldásod adnád rá...
+say.nr003_gascon_default.87;Jól hiszed. Nem adnám. Ezért is szeretném biztosítani, hogy ne csábulj el újra.
+say.nr003_gascon_default.88;Gascon, ezennel neked adományozok néhány Scala-közeli birtokot.
+say.nr003_gascon_default.91;És igen, "néhányat" mondtam. A Brossardok ôsi birtokait, hogy pontos legyek.
+say.nr003_gascon_default.92;Micsoda? Meve, én–– Fenébe... Nem is tudom, mit mondjak.
+say.nr003_gascon_default.93;Hahh! Ez az elsô eset.
+say.nr003_gascon_default.94;Köszönöm, Meve. Ezer hála és köszönet!
+say.nr003_gascon_default.95;Én vagyok, aki köszönettel tartozik. Teljes szívembôl.
+say.nr003_gascon_default.96;Ideje, hogy más ügyekkel is foglalkozzam. Most búcsúzom.
+

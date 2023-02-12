@@ -1,0 +1,4 @@
+say.nr3_npc16.10;Tudtam, hogy emiatt még bûzleni fog valami.
+say.nr3_npc16.4;Most, hogy a törpôsök szavaival éljek: rohadj el lassan, te kurafi!
+say.nr3_npc16.7;No, hát... Talán egy pöttyet elragadtattuk magunkat. Jó, hogy sikerült némi rendet teremteni.
+

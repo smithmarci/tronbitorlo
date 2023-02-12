@@ -1,0 +1,4 @@
+say.nr1_npc34.10;Jóságos Anya, tekints le ezekre a megsebzett lelkekre, kik oly sokat szenvedtek - védelmezd és vigasztald ôket...
+say.nr1_npc34.4;Egy ujjperc, annyi se maradt, amit el lehetne földelni... Csak vér mindenütt.
+say.nr1_npc34.7;Az egész falu egy nagy temetô.
+

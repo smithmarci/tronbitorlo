@@ -1,0 +1,4 @@
+say.nr3_npc11.10;Ho–hó–hah, ho–hó-hah, beköszöntött most a tél! Nem árthat meg se hó, se szél, faggyal dacol, ki sörön él!
+say.nr3_npc11.4;A Feketecsermely-völgy rengeteg titkot rejt... és megannyi kincset!
+say.nr3_npc11.7;Legjobb meghúzni magunkat a hegy gyomrában.
+

@@ -1,0 +1,4 @@
+say.nr2_npc01.10;Gondolod, hogy elmentek...?
+say.nr2_npc01.4;A seregeket mindig varjak követik... Varjak és szörnyek.
+say.nr2_npc01.7;Elrejtettem egy véka búzát a kunyhómban... De túlságosan félek visszamenni érte.
+

@@ -1,0 +1,4 @@
+say.nr2_npc08.10;Bôségesen termett a tök idén.
+say.nr2_npc08.4;Messze még a vadász az otthonától s a tûz melegétôl.
+say.nr2_npc08.7;Óvakodjatok az acromantulától...
+

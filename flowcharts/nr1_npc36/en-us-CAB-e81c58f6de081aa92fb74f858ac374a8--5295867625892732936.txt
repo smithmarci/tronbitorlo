@@ -1,0 +1,4 @@
+say.nr1_npc36.10;Jó, hogy visszatért, Asszonyom. Lyriának szüksége van Önre.
+say.nr1_npc36.4;Üdvözöljük itthon, Felség.
+say.nr1_npc36.7;Villem herceg már várja az érkezését, Felség.
+

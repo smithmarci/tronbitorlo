@@ -1,0 +1,5 @@
+say.nr3_npc04.1;Miért zargatsz? Á, pénzt lejmolnál, nyakamat rá. Jól van már – nesze, itt ez a szütyô, de most már légy oly kedves, és húzz a sunyiba.
+say.nr3_npc04.10;Brrr. Nem vacogsz szakáll nélkül?!
+say.nr3_npc04.4;Számíthatsz ránk, Királynôcske. Ivor igazi fal lesz a hátad mögött. Vaskos és erôs!
+say.nr3_npc04.7;Csinos kis kéglik, mi? Pöttyet különböznek a szalmával fedett vityillóitoktól.
+

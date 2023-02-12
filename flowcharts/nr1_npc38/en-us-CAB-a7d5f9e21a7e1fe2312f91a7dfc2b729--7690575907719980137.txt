@@ -1,0 +1,4 @@
+say.nr1_npc38.10;Táncoljunk, míg meghalunk, vagy míg megvirrad napunk! Táncoljunk, míg meghalunk, vagy míg megvirrad napunk!
+say.nr1_npc38.4;A lakodalomba, Asszonyom? Keljen át a hídon emitt, aztán csak vágtasson egyenesen, mint a lóhugyozás! Akarom mondani,... mint a nyíl.
+say.nr1_npc38.7;Mézet hozok a vôlegénynek és szépséges arájának. Legalább ily édes legyen az életük!
+

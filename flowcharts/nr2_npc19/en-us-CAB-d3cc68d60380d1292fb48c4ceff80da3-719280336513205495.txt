@@ -1,0 +1,4 @@
+say.nr2_npc19.10;Eigean evelienn deireadh.
+say.nr2_npc19.4;Dearme, dh'oine. Ne'en eff're.
+say.nr2_npc19.7;Que'n esse, va en esseath.
+

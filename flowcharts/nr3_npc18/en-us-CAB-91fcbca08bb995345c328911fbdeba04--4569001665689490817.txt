@@ -1,0 +1,4 @@
+say.nr3_npc18.10;Jó újra látni Téged!
+say.nr3_npc18.4;Üdvözöllek az ivómban!
+say.nr3_npc18.7;Vannak ma népek rendesen, de mindig akad elég hely még többnek!
+

@@ -1,0 +1,5 @@
+say.nr2_npc03.1;Felség, könyörögve kérem, hadd csatlakozzak a seregéhez! Itt csak az éhínség és a halál vár.
+say.nr2_npc03.10;A Feketékkel jöttek azok a szörnyetegek. Biztos vagyok benne!
+say.nr2_npc03.4;Egy hét múlva arattunk volna... De már nem maradt mit, csak a hamut.
+say.nr2_npc03.7;Talán a mi zabunk nem elég jó a császárnak? Hát mit vétett ellene a zabunk és a többi veteményünk?
+

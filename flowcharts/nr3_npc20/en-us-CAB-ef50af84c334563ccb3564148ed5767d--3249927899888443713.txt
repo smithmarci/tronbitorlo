@@ -1,0 +1,3 @@
+say.nr3_npc20.3;Ideje, hogy egyszer s mindenkorra véget vessünk ennek az ostoba viszálykodásnak!
+say.nr3_npc20.6;A Dahlbergekre van szükség! Félkegyelmû minden Hoog!
+

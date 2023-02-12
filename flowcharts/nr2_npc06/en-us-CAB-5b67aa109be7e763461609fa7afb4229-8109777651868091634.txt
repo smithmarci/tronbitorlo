@@ -1,0 +1,4 @@
+say.nr2_npc06.10;Elvittek mindent... Bevenném magam az erdôbe, de félek a Scoia'taeltôl...
+say.nr2_npc06.4;A törpök áttörtek a falakon... Szájbatúrt árulók!
+say.nr2_npc06.7;Hol van most a király? Miért hagy itt bennünket a Feketék kényére-kedvére?
+

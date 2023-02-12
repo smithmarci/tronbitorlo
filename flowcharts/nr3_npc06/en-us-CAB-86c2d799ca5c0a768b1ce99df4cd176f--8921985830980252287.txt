@@ -1,0 +1,5 @@
+say.nr3_npc06.1;Várjatok! Veletek megyek! Úgy eltángálom azt a pikkelyes férget, hogy még a seggébôl is tüzet lövell majd!
+say.nr3_npc06.10;Barna, vörös, arany... az összes sárkány féreg, egytôl egyig!
+say.nr3_npc06.4;Áá... Óó... Ahh... Ez éget... Meg kell lapogatnom egy kicsit...
+say.nr3_npc06.7;Bízz meg egy simaképûben, és mi lesz a jutalmad? Egy megpörzsölt valag!
+

@@ -1,0 +1,4 @@
+say.nr3_npc19.10;Micsoda rumli... Annyira sajnálom! Tiszta szívembôl!
+say.nr3_npc19.4;Az ôsök pofaszakállára, én... Nekem fogalmam sem volt arról, hogy bárki is lenne a völgyben!
+say.nr3_npc19.7;A Nilfgaardiak azt mondták, tiszta az út... A kurafik!
+

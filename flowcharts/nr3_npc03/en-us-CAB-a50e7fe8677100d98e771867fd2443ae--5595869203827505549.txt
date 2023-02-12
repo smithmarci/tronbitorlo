@@ -1,0 +1,4 @@
+say.nr3_npc03.10;Apuska makacs, de végül mindig megtalálom a módját vele. Csak a kellô furfangra van szükség, és máris elolvad a kezeim között.
+say.nr3_npc03.4;Eudóra Breckenriggs–Chivay! Hejj, igazán tetszik a csengése!
+say.nr3_npc03.7;Hejj, a nôszemélyek közötti összetartáshoz semmi sem fogható! Semmi az égvilágon!
+

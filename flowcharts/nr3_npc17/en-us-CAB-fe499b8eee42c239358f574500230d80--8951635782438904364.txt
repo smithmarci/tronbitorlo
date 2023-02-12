@@ -1,0 +1,5 @@
+say.nr3_npc17.1;Nekivágni a havazásnak abban a semmi kis kabátkában? Igazán? Brrr... Melengessétek magatok itt egy kicsinység, mielôtt továbbmennétek!
+say.nr3_npc17.10;Brrrr, olyan hideg van, mint egy shaelmaar seggében.
+say.nr3_npc17.4;Hull a hó, hull a hó, vacog a fog, süvít a szél, harap a fagy, la–la–la–la–la!
+say.nr3_npc17.7;Hejj, szép kis takaró lett a mai friss hóból. Kiadós szélfúvás kell ahhoz, hogy aztán elvékonyodjon.
+

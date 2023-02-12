@@ -1,0 +1,101 @@
+menu.nr002_eyck_default.100;Van benne bölcsesség...
+menu.nr002_eyck_default.101;Nem valami nagy segítség, mégis...
+menu.nr002_eyck_default.114;Megtagadtad a parancsaimat.
+menu.nr002_eyck_default.127;Akkor távozz a sorainkból.
+menu.nr002_eyck_default.128;Igazad van. A megállapodásunkat tiszteletben kell tartanom.
+menu.nr002_eyck_default.141;Valóban, a vajákokban nem lehet megbízni.
+menu.nr002_eyck_default.151;Jobban nem is érthetnék egyet.
+menu.nr002_eyck_default.152;Egynémely szörnyek békésen együttélnek az emberrel.
+menu.nr002_eyck_default.166;Mik a terveid?
+menu.nr002_eyck_default.210;Ég veled!
+menu.nr002_eyck_default.237;Mit szólnál egy kör gwenthez?
+menu.nr002_eyck_default.60;Mióta vadászol szörnyekre?
+menu.nr002_eyck_default.85;Mesélj még nekem a Jóság Könyvérôl!
+say.nr002_eyck_default.105;Hm... Van bölcsesség azokban a szavakban...
+say.nr002_eyck_default.107;Igen, Felség. Mélyen az énekek sorai közé kell pillantanunk,... ahogy közben önmagunkba is!
+say.nr002_eyck_default.11;Szükségtelen, Felség. Én kértem az italt.
+say.nr002_eyck_default.110;Hm... Roppant hasznos volt, Eyck lovag. Fogadd köszönetemet.
+say.nr002_eyck_default.115;Sir Eyck,... megtagadtad a parancsom.
+say.nr002_eyck_default.117;Igen, de––
+say.nr002_eyck_default.119;Nincs itt semmiféle "de". A királynô szava nem a Jóság Könyvének valamely éneke, amit kedved szerint értelmezhetsz. Azokat a szavakat el kell fogadni – feltétel nélkül.
+say.nr002_eyck_default.121;Felség,... amikor a seregéhez csatlakoztam, egyértelmûvé tettem, hogy nem fogadok hûséget Önnek, mert azt már megtettem az isteneknek és a Jóság Könyvében foglalt tanításaiknak.
+say.nr002_eyck_default.123;Nilfgaard elleni harcában önként segítettem Kegyedet, mert amaz erkölcstelen birodalom mélységes igazságtalanságáról tett bizonyságot.
+say.nr002_eyck_default.125;De ez nem jelenti azt, hogy szemet hunyhatok mindazon törvénysértések fölött, amiket Ön elkövetett, sem azt, hogy ne próbálhatnám meg jóvá tenni azokat.
+say.nr002_eyck_default.13;Így állunk? Nos, akkor...
+say.nr002_eyck_default.131;Ebben az esetben nincsen számodra hely az embereim között.
+say.nr002_eyck_default.133;Megértettem. Akkor ezennel elindulok, és késlekedés nélkül folytatom magányos utamat. Ég Önnel, királynô!
+say.nr002_eyck_default.136;Színigaz... Mint ahogy a megállapodásunk is. Tiszteletben kell tartanom, nincs más választásom.
+say.nr002_eyck_default.138;Köszönöm, Felség. Kik vándorolnak, közülük sokan megtévelyednek,... és igazán kevesen vannak azok, akik ezt beismerik.
+say.nr002_eyck_default.143;Igazad volt – a vajákokban nem lehet megbízni. Címet adományoztam Geraltnak, járandósággal is megjutalmaztam. Ô mégis cserben hagyott... Engem is, és a seregemet is.
+say.nr002_eyck_default.145;A becsületet, mint olyat, el nem ismerik, csak az iskolájuk szabályaihoz ragaszkodnak – vagy inkább a tengernyi kifogásaikhoz.
+say.nr002_eyck_default.147;"Ne irts el olyan bestiát, amelyben az értelem lángja lobog, és nem jelent fenyegetést." Színtiszta ostobaság, Felség. Elnézését kérem, ha közönségesen fogalmaztam!
+say.nr002_eyck_default.149;Minden bestia fenyegetést jelent – az, hogy még nem csapott le, semmin nem változtat! Kivárni, amíg ártatlanok vére ontatik? Ôrültség! Meg kell elôzni, gátat kell neki vetni, meg kell tisztítani a világot a mocsoktól, egyszer s mindenkorra!
+say.nr002_eyck_default.15;A Jóság Könyve érthetôen kimondja: "Az fantomok árnya még a legigazabbak fényét is elhomályosítá, és letéríté amazokat az erénynek ösvényérôl."
+say.nr002_eyck_default.156;Csak egyetérteni tudok az érveléseddel, Eyck lovag.
+say.nr002_eyck_default.159;A magam részérôl nem vagyok ebben ennyire bizonyos... Vegyük például a trollokat. Sokan közülük képesek békésen együtt élni az emberekkel.
+say.nr002_eyck_default.161;Amíg nem provokálják ôket. És utána? Falvakat rombolnak a földig, nôket és gyermekeket zúznak szét a markukban, mintha holmi szikladarabok lennének csupán!
+say.nr002_eyck_default.163;Nem, Felség. A gonosz, az gonosz. És ez alól nincs kivétel.
+say.nr002_eyck_default.17;Nos... Van benne valami.
+say.nr002_eyck_default.180;A háború hamarosan véget ér. Mi tévô leszel aztán, Eyck lovag? Velünk maradsz?
+say.nr002_eyck_default.182;Sajnos nem lehet, Ön is tudja, Felség. Fogadalmat tettem, és ahhoz hûnek kell maradnom.
+say.nr002_eyck_default.184;El fog tartani egy darabig, míg az egész világ minden szörnyét elirtod...
+say.nr002_eyck_default.186;Valóban... De ez nem csak egy ember életre szóló feladata. Ez nemes lovagok generációinak a feladata. Bár jómagam fogtam bele ebbe a vállalkozásba, a beteljesítése másokra vár majd.
+say.nr002_eyck_default.188;Megtaláltad már az utódodat? Vagy ígéretes jelölteket?
+say.nr002_eyck_default.19;Örvend a lelkem, hogy ezt mondja, Felség. Ha bármikor a Jóság Könyvének bölcsességeirôl óhajtana beszélgetni, ne habozzon felkeresni.
+say.nr002_eyck_default.190;Az igazat megvallva, még nem... A Jóság Könyve tanításai által elôírt szegénységben töltött élet keveseket vonz.
+say.nr002_eyck_default.192;De ha az istenek is úgy akarják, rátalálok majd arra, aki méltó lesz, hogy felvegye a kardot és a nyomdokaimba lépjen.
+say.nr002_eyck_default.193;Ôszintén kívánom ezt neked, Eyck lovag.
+say.nr002_eyck_default.195;Végtelen a hálám az ajánlatáért, Felség, de félek, el nem fogadhatom.
+say.nr002_eyck_default.197;Visszatérsz hát a küldetésedhez? Hogy levadássz minden szörnyet?
+say.nr002_eyck_default.199;Így van – de nem azonnal. Elôbb egy sokkal ijesztôbb feladat vár rám... Haza kell mennem.
+say.nr002_eyck_default.201;Bizonyos voltam abban, hogy Zigfrid és én soha meg nem békülünk, hogy soha meg nem bocsát.
+say.nr002_eyck_default.203;De látva, hogy Ön és Villem újra közös nevezôre jutottak, felélesztette bennem a remény holt szikráját, hogy valamiképp talán én is áthidalhatom a közöttünk tátongó szakadékot.
+say.nr002_eyck_default.205;Amikor a seregéhez csatlakoztam, úgy hittem, én szolgálhatok példaként Önnek és az embereinek. Most már látom, hogy tévedtem. Mert hogy Ön volt azt, aki megtanított nekem egy leckét – és ki merem jelenteni, talán életem eddigi legfontosabb leckéjét.
+say.nr002_eyck_default.207;Én köszönöm. És sok szerencsét neked, Eyck lovag. Gondolni fogok rád és a fiadra.
+say.nr002_eyck_default.21;Bizonyosan. Erre mindenképp emlékezni fogok.
+say.nr002_eyck_default.213;Én köszönöm. És járj szerencsével, Eyck lovag. Gondolni fogok rád.
+say.nr002_eyck_default.22;Felség, minô szerencse, hogy épp itt van. Nézze, miféle förtelem van itt elôttünk!
+say.nr002_eyck_default.231;Felség?
+say.nr002_eyck_default.234;Igazán? Soha nem nyúltál még kártyához? Még gwenthez sem?
+say.nr002_eyck_default.235;Ne vigyen engem a kísértésbe, Felség.
+say.nr002_eyck_default.24;Én... próbálom... látni, Eyck lovag, de nem vagyok benne biztos, mit is kellene.
+say.nr002_eyck_default.26;Reynard és Gascon, Úrnôm! Rajtakaptam ôket! Amint épp figurás lapokkal játszanak!
+say.nr002_eyck_default.28;Ó, hogy azt. Valóban ezt teszik. Helyes.
+say.nr002_eyck_default.30;Helyes?! Már hogy volna a szerencsejáték helyes?! A Gonosz karma az! Kifacsarja, szétszaggatja a lelket, és mérget csepegtet a szívekbe!
+say.nr002_eyck_default.32;Én nem aggódnék Reynard szíve miatt, Eyck lovag. Ami Gascont illeti,... félek, neki már késô.
+say.nr002_eyck_default.34;Ráadásul, végre úgy–ahogy kijönnek egymással – és csak ez számít. Ha ehhez a kártyán át vezet az út, hát legyen.
+say.nr002_eyck_default.35;Örvend a lelkem, Felség, hogy jó egészségben és jókedvében találom.
+say.nr002_eyck_default.37;Hm. És miért is ne lennék?
+say.nr002_eyck_default.39;Úgy hallottam, Mahakamban sikerült szót váltania Villem herceggel... Egy adok-kapok, ez kétségtelen, tele nehezteléssel, és bántó szavakkal megfûszerezve.
+say.nr002_eyck_default.41;Ó, egyik sem volt rosszabb azoknál, amiket Lyriában mondott nekem, amikor láncra veretett. Amit akkor éreztem,... merem állítani, azt elképzelni sem tudnád.
+say.nr002_eyck_default.43;Nem kell elképzelnem, Felség. Ezt az érzést én is... ismerem.
+say.nr002_eyck_default.45;Nem beszélek róla gyakran, de nekem is van egy fiam. Vagyis pontosabban talán: volt egy fiam. Zigfrid a neve.
+say.nr002_eyck_default.47;Eltávozott tán?
+say.nr002_eyck_default.49;Nem, Felség, rosszabb... Megtagadott engem. Amikor az édesanyja, a feleségem, Szófia megbetegedett, ô könyörgött nekem, hogy kerítsek pénzt a gyógyíttatására.
+say.nr002_eyck_default.5;Látom, megtaláltad a kantint. Milyen a sör? Remélem, nem túl meleg!
+say.nr002_eyck_default.51;De akkor már régen megfogadtam, hogy sohasem fogok pénzt elfogadni azoktól, akiket megvédelmezek. Nem tehettem... Azzal folt esett volna a becsületemen.
+say.nr002_eyck_default.53;Ah, elnézését kérem, Felség. Miért is terhelem Önt a csip–csup problémáimmal?
+say.nr002_eyck_default.55;Nem teher ez nekem, Eyck, hidd el... És köszönöm, hogy megosztottad velem.
+say.nr002_eyck_default.57;Más ügyekrôl óhajtottam volna szót ejteni, de... azok várhatnak. Késôbb visszatérek.
+say.nr002_eyck_default.59;Ég veled, Eyck.
+say.nr002_eyck_default.63;Régóta folytatod a szörnyek elleni hadjáratodat?
+say.nr002_eyck_default.65;Következô Belleteynkor lesz húsz éve, Felség. Bár... volt egyszer egy hosszabb pihenôm.
+say.nr002_eyck_default.67;Mi okból? Belefáradtál talán a kóbor lovagi létbe?
+say.nr002_eyck_default.69;A legkevésbé sem. Sosem hagyok fel ama küldetésemmel, amelynek végeztével megtisztítom majd a világot a förmedvényektôl és rémségektôl. De néhanapján... Néhanapján a gonosz meglehetôsen nagy kihívások elé állít.
+say.nr002_eyck_default.7;Nem az én tisztem ezt megítélni, Felség. A kupámban csak kecsketej lötyög.
+say.nr002_eyck_default.71;Egyszer arra vállalkoztam, hogy levágjak egy sárkányt... Egy arany színût, ami Villetretormeftnek vagy valami ilyesminek nevezte magát... Már a neve is egy merô nyelvtörô, ezzel is bizonyítva a gonoszságát.
+say.nr002_eyck_default.73;Számos zsoldos csatlakozott a hajtóvadászathoz, akiket a halomban álló arany ígérete vonzott. Crinfrid sárkányölôk, Yarpen Zigrin és törpökbôl álló bandája, és még egy megátalkodott vaják is, Yenneferrel, egy buja varázslónôvel az oldalán.
+say.nr002_eyck_default.75;Mmm. Hallottam már ezt a nevet.
+say.nr002_eyck_default.77;De a döntô pillanatban, amikor a bestia kihívást intézett mindannyiunkhoz, egyedül én álltam ki ellene! Szégyenkezve bár, de bevallom: az összecsapásból a sárkány került ki gyôztesen – én pedig darabokban. Szó szerint.
+say.nr002_eyck_default.79;Két éven át feküdtem Melitele ellanderi szentélyében. Nenneke anya – az istenek vigyázzanak rá, – ápolt és hozott vissza az életbe. És csak akkor tértem vissza az általam választott ösvényre, amikor már képes voltam megszorítani a kardom markolatát.
+say.nr002_eyck_default.81;És a sárkánynak mi lett a sorsa?
+say.nr002_eyck_default.83;Egyesek állítják, hogy elrepült Zerrikánia irányába... Ám meglehet, hogy még mindig errefelé bujkál, lesben áll, és csak az alkalomra vár, hogy újfent Észak népeit gyötörhesse.
+say.nr002_eyck_default.86;A Jóság Könyvének minden kérdésre van válasza?
+say.nr002_eyck_default.88;Minden egyes kérdésre. Kivétel nélkül.
+say.nr002_eyck_default.9;Tej? Milyen együgyû tréfa. Tüstént meg is mondom a szállásmesternek, mit gondolok az efféle––
+say.nr002_eyck_default.90;Mit tanácsol egy anyának, akit a saját fia árult el? Szelíd megbocsátást, vagy rendíthetetlen szigort?
+say.nr002_eyck_default.92;Hm... Hadd gondolkozzam egy pillanatig.
+say.nr002_eyck_default.94;Van egy versszak a második fejezetben: "A gyermek, ki konokságában ellenszegül anyjának és apjának, a legszigorúbb fegyelmezést érdemli ki ezáltal. Sújts hát le reá keményen – hacsak karodat szíved meg nem zabolázza."
+say.nr002_eyck_default.96;De... ezt bárki úgy értelmezheti, ahogy ô maga jónak látja.
+say.nr002_eyck_default.98;"Légy tenmagad bírája és uralkodója," – mondotta Lebioda próféta, – "mert csak te felelhetsz a tetteidért tennenmagad elôtt."
+

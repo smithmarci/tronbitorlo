@@ -1,0 +1,3 @@
+say.nr2_npc02b.3;Azt hallottam, hogy Aprókürtben a népek a Scoia'taellel kereskednek... Ráadásul fényes nappal, amikor mindenki láthatja.
+say.nr2_npc02b.6;Lord Falbeson máris a császári póráz másik végén találta magát... Ez a háború elveszett, akárki láthatja.
+

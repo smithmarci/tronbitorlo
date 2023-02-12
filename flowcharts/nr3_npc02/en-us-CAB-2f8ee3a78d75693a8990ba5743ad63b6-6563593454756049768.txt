@@ -1,0 +1,4 @@
+say.nr3_npc02.10;Nem talált semmit? A nyomukat sem? Mi történhetett...?
+say.nr3_npc02.4;Lehet, hogy elkapta ôket egy vihar... Vagy egy barbegazi... Vagy egy vihar és egy barbegazi!
+say.nr3_npc02.7;Lehet, hogy a dutyiban ülnek, de legalább visszatértek. És ez a legfontosabb.
+

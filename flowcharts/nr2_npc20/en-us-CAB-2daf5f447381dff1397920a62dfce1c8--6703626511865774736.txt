@@ -1,0 +1,4 @@
+say.nr2_npc20.10;Ess'sheysse aep leith orde.
+say.nr2_npc20.4;Aen Ard Feain! Esse've iare me vor tuvean, Nordling.
+say.nr2_npc20.7;Esse moran arbaith hwer. Oh, moran.
+

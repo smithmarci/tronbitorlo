@@ -1,0 +1,5 @@
+say.nr2_npc13.1;Volna még hely számomra a seregében, Felség? Szeretnék a szolgálatába állni. Ugyanolyan hûséggel szolgálnám, mint a saját királyomat.
+say.nr2_npc13.10;"Parancsnok, elôre Ebbingnek!"... Átkozott barmok...
+say.nr2_npc13.4;Alig egy hétbe tellett... És szétverték az egész sereget.
+say.nr2_npc13.7;A Feketéknek szét kellett volna morzsolódniuk ezeken a falakon... A vezéreink nyavalyás üres ígéretei.
+

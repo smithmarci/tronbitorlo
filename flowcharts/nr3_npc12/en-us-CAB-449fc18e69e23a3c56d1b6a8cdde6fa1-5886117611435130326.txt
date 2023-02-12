@@ -1,0 +1,4 @@
+say.nr3_npc12.10;Kövessétek a Törpôsök Kódexét! Az életeteket menti meg.
+say.nr3_npc12.4;Az Elöljáró hivatalosan kihirdette a következôt: "Mostantól csak magadra számíthatsz, Némber!"
+say.nr3_npc12.7;A Feketecsermely-völgyben nem tanácsos sem megállni az úton, sem letérni arról!
+

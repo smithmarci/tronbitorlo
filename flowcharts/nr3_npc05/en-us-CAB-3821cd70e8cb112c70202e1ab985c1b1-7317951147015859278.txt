@@ -1,0 +1,4 @@
+say.nr3_npc05.10;Az elöljárójuk olyan, mint egy nagy gyerek... egy különc.
+say.nr3_npc05.4;A törpök szép kis summát kérnek érte, de az acéljuk bármely uralkodóhoz méltó!
+say.nr3_npc05.7;Nem sértésképp mondom, de a ríviai penge a nyomába se ér a mahakami kuzinjainak.
+

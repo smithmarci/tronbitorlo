@@ -1,0 +1,4 @@
+say.nr2_npc04.10;Ha már megmutatjuk nekik, hogy van arany, legalább lehetnének könyörületesek...
+say.nr2_npc04.4;Nincs okunk az örömködésre, barátom. Visszajönnek még a Feketék, meglásd!
+say.nr2_npc04.7;Kegyetlen, zord kilátások. Vagy felaprítanak bennünket,... vagy láncra vernek, és elhurcolnak kényszermunkára.
+
