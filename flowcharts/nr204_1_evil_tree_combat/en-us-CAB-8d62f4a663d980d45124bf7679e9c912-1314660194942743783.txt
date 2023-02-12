@@ -1,0 +1,5 @@
+say.nr204_1_evil_tree_combat.1;Csak a harccal törôdjetek! Megpróbálnak megfélemlíteni bennünket!
+say.nr204_1_evil_tree_combat.3;Öljétek meg ôket! Öljétek meg mindet!
+say.nr204_1_evil_tree_combat.5;Ne hagyjátok, hogy rendezzék a soraikat! Végezzetek a sebesültekkel!
+say.nr204_1_evil_tree_combat.7;De... hogyan lehetséges ez? Láttam, hogy visszavonulnak!
+

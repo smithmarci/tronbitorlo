@@ -1,0 +1,63 @@
+menu.nr201_3_eldain_confrontation.104;Megadom neked a méltó temetést, Eldain.
+menu.nr201_3_eldain_confrontation.105;Nem vagy méltó a könyörületemre.
+menu.nr201_3_eldain_confrontation.63;Legyen. Elhagyjuk a temetôt.
+menu.nr201_3_eldain_confrontation.64;Nem, Eldain. Semmiképp sem.
+say.nr201_3_eldain_confrontation.100;Az emberekre, akiket élve elégetett?
+say.nr201_3_eldain_confrontation.108;Ám legyen. Sírban leszel eltemetve.
+say.nr201_3_eldain_confrontation.110;Felség! Hogy engedheti ezt? Ez egy hidegvérû gyilkos!
+say.nr201_3_eldain_confrontation.112;Ahogy te is, Rayla. Ahogy magam is az vagyok.
+say.nr201_3_eldain_confrontation.114;Évszázadokon át harcoltunk. Gyilkoltuk egymást. Vért ontottunk a kiontott vérért, támadtunk és ellentámadtunk... Minden rá következô még kegyetlenebb és véresebb volt, mint az azt megelôzô.
+say.nr201_3_eldain_confrontation.115;A kör most bezárul. Ami történt, azt nem tudom semmissé tenni... De ezt megtehetem. Megadhatom egy haldoklónak a méltó halált.
+say.nr201_3_eldain_confrontation.116;Köszönöm... Va faill, Rhena.
+say.nr201_3_eldain_confrontation.117;Fekete Rayla elviharzott, valósággal utat törve az összegyûltek között. Meve nem is figyelt rá. A katonák befektették Eldain testét egy üresen álló kriptába. A többi Scoia'taelt pedig egy gödörbe temették, az erdô szélének közelében. Másnap reggel, a hajnal elsô fényénél a lyriaiak felkerekedtek, égve a vágytól, hogy a Mállóerdôt mielôbb maguk mögött tudhassák.
+say.nr201_3_eldain_confrontation.118;Nem érdemelsz kegyelmet, Eldain. Ott foglak hagyni, ahol fekszel. Erdei állatok fogják lerágni a húst a csontjaidról.
+say.nr201_3_eldain_confrontation.120;Hahh... A helyedben... én is ugyanezt tenném.
+say.nr201_3_eldain_confrontation.122;Va'esse deireádh aep eigean...
+say.nr201_3_eldain_confrontation.123;Meve, meg sem várva a napkeltét, még az éjjel kiadta a parancsot a továbbvonulásra. Mielôbb maga mögött akarta tudni a Mállóerdôt, és a tündék Caedv Gaenvid temetôjében heverô, bomló maradványait. Fekete Rayla a királynô jobbján, a menet élén haladt, és egy halvány mosoly bujkált a szája sarkában.
+say.nr201_3_eldain_confrontation.15;Hosszú és véres csata után Eldain egysége megsemmisült, Eldain maga pedig Meve lábainál feküdt. Legyôzötten és haldokolva.
+say.nr201_3_eldain_confrontation.153;Amint a nap lenyugodott, az erdô egy lélegzetvétellel kipárologta a nappali hôséget, és hirtelen köd kezdett gomolyogni a talaj fölött. A ködbôl Reynard felderítôi bontakoztak ki – megkötözve és tündék által taszigálva. Az egyik Scoia'tael, egy hosszú hajú és erôs tünde a temetôkert falán állva kiáltott oda nekik...
+say.nr201_3_eldain_confrontation.16;Egy temetôben meghalni... Van benne valami mulatságos. Nem gondolod?
+say.nr201_3_eldain_confrontation.17;Meglep, hogy humoros hangulatban vagy.
+say.nr201_3_eldain_confrontation.18;Évekkel ezelôtt elhullajtottam az utolsó könnyeimet is. A családomat... egy, az egész fajunk eltörlésére indított mészárlásban gyilkolták le. Értelmetlenül. Teljesen értelmetlenül...
+say.nr201_3_eldain_confrontation.19;"Felség,... valami fontosat fogok mondani, de nem mutathatja ki, hogy valami nincsen rendjén. Nézzen egyenesen elôre, és ne tegyen hirtelen mozdulatot."\n
+say.nr201_3_eldain_confrontation.20;Meve aprót biccentett, és várta, hogy Rayla folytassa.\n
+say.nr201_3_eldain_confrontation.21;"Scoia'tael ôrszemek vannak az erdôben. Minket figyelnek. Eldain is itt lehet valahol a közelben, támadásra készen."\n
+say.nr201_3_eldain_confrontation.22;"Ha hagyjuk, hogy nyílt terepen támadjon ránk, akkor könnyû célpontok leszünk. Ám vannak romok a közelben, egy tünde temetô romjai. A falai mögött fedezékre lelhetünk."\n\n
+say.nr201_3_eldain_confrontation.23;"Mit javasolsz?"
+say.nr201_3_eldain_confrontation.24;– kérdezte a királynô, miközben tekintetét az elôttük lévô útra függesztette.\n
+say.nr201_3_eldain_confrontation.25;Meve a menet élén haladt, amikor Fekete Rayla melléje léptetett, és odahajolt feléje. Suttogva beszélt, kezével takarva el a száját.\n
+say.nr201_3_eldain_confrontation.27;Meve a fontos kérdéseket mindig a tanácsadói jelenlétében vitatta meg, de tudta, hogy nincs idô a tanácskozásra. Most csak Fekete Rayla tanácsára hagyatkozhatott, ezért rögvest kiadta a megfelelô parancsokat.\n\n
+say.nr201_3_eldain_confrontation.28;A sereg még sötétedés elôtt elérte a temetôt. {audio=nr201_3_eldain_confrontation_barricade}A katonák ledöntötték a márványszobrokat, és barikádokat emeltek belôlük, mindeközben az ôrszemek elfoglálták a helyüket a falakon kívül, hogy jelezhessenek, ha az ellen közeleg.\n\n
+say.nr201_3_eldain_confrontation.31;Eldain vagyok! Meve-vel van beszédem!
+say.nr201_3_eldain_confrontation.33;Én vagyok az.... Beszélj!
+say.nr201_3_eldain_confrontation.34;Ceádmil aen Caedva Gaenvid, Rhena. Ez a hely nagyon fontos nekünk, az Aen Seidhe számára.
+say.nr201_3_eldain_confrontation.36;Mesélnék az emlékmûveirôl... A könnyezô Aen Saevherne-rôl, akinek szobrán három generáció mesterei dolgoztak. Vagy Caellad király alabástrom dombormûvérôl, ami oly fenséges volt, hogy még a madarak is odagyûltek, hogy megcsodálhassák.
+say.nr201_3_eldain_confrontation.38;Ám, mint látom, az embereid megtalálták a síremlékeket. És, ahogy az a dh'oine-oknál lenni szokott, gondolkodás nélkül el is pusztították azokat.
+say.nr201_3_eldain_confrontation.40;Nem mondhatnám, hogy meglepetésként ért. Már bizonyságát adtátok annak, hogy az istenek a legközönségesebb anyagból gyúrtak benneteket.
+say.nr201_3_eldain_confrontation.44;Sebesült harcosokat mészároltál le, mikor már nem is jelentettek fenyegetést.
+say.nr201_3_eldain_confrontation.46;Tétlenül nézted, ahogy egy falu minden lakóját meglincselik. Tárgyalás nélkül.
+say.nr201_3_eldain_confrontation.50;Térj a lényegre, Eldain.
+say.nr201_3_eldain_confrontation.52;Úgy lesz. Mint bizonyára sejted, körülvettük a sírkertet. Hamarosan harcra kerül sor.
+say.nr201_3_eldain_confrontation.53;Ám... illetlenség volna egy temetôben harcolni,... ezért megkérlek rá, hogy jöjjetek onnan elô.
+say.nr201_3_eldain_confrontation.55;És azzal feladjuk a helyzeti elônyünket?
+say.nr201_3_eldain_confrontation.57;Gyanítottam, hogy egy olyan lényegtelen dolog, mint a holtak nyugalma, nektek, dh'oine-oknak semmit sem jelent... Ezért mondok még egy érvet: a kikémlelésünkre küldött katonáitok élete.
+say.nr201_3_eldain_confrontation.59;Ha távoztok a temetôbôl, szabadon engedem ôket. Harcolhatnak az oldaladon. Ha pedig nem,... nos, akkor végzek velük. Itt és most.
+say.nr201_3_eldain_confrontation.60;Úrnôm! Ne hallgasson rá! Nem bízhat meg abban, amit mond.
+say.nr201_3_eldain_confrontation.62;Rayla,... ezek jó emberek. Fabian, Gerrit, Matthias... Van már egy évtizede is, hogy alattam szolgálnak. Az alvilágot is megjárnák a királynôjükért. Nem érdemelnek ilyen halált!
+say.nr201_3_eldain_confrontation.69;Elfogadom a feltételeidet.
+say.nr201_3_eldain_confrontation.71;Felség, könyörögve kérem––
+say.nr201_3_eldain_confrontation.73;Katonák! Elhagyjuk a temetôt!
+say.nr201_3_eldain_confrontation.74;Eldain összekulcsolta a tenyereit hálája jeléül, majd... egy villámgyors és már-már nemtörôdöm mozdulattal {audio=nr201_3_eldain_confrontation_slit_throat}elmetszette a hozzá legközelebb álló felderítô torkát.
+say.nr201_3_eldain_confrontation.76;Hallgatnod kellett volna Raylára, Felség. Bennünk, tündékben, valóban nem lehet megbízni. Spar'le!!!
+say.nr201_3_eldain_confrontation.77;Nagy becsben tartom az embereim életét... Ezért sem kockáztathatom az egész egységemet néhány katonáért.
+say.nr201_3_eldain_confrontation.79;Felség, kérem, gondolja át––
+say.nr201_3_eldain_confrontation.81;Visszautasítom az ajánlatodat, Eldain.
+say.nr201_3_eldain_confrontation.82;Ahogy kívánod, Rhena. Squass'me...
+say.nr201_3_eldain_confrontation.84;Egy villámgyors, már-már nemtörôdöm mozdulattal {audio=nr201_3_eldain_confrontation_slit_throat}Eldain elmetszette a hozzá legközelebb álló felderítô torkát, aztán parancsot adott a támadásra.
+say.nr201_3_eldain_confrontation.86;Rhena... Veszítettünk. Én, a Scoia'taeljeim,... az Aen Seidhe. Eltûnünk errôl a földrôl. Az unokáid már csak tündérmesékbôl fognak ismerni bennünket.
+say.nr201_3_eldain_confrontation.89;Megtévesztettelek, tudom, de...
+say.nr201_3_eldain_confrontation.93;Temesd el a csontjaimat... egy sírba. Hadd hagyjam el ezt a világot... méltósággal. Eige draega'red...
+say.nr201_3_eldain_confrontation.95;Ó, kérlek...! Hogy merészeled? Nézze, Felség, hiszen nevet! Hagynunk kellene rothadni a napon, mint a döglött kutyát.
+say.nr201_3_eldain_confrontation.96;Emlékeztetnem kellene a fûzfára? Amire felkötötte azokat az embereket?
+title.nr201_3_eldain_confrontation.249;Az erdô mélyén
+

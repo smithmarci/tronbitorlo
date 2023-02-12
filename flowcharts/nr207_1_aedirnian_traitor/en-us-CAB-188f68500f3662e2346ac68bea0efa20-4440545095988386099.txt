@@ -1,0 +1,39 @@
+menu.nr207_1_aedirnian_traitor.20;Irgalmas leszel.
+menu.nr207_1_aedirnian_traitor.21;Felkötteted Falbesont.
+menu.nr207_1_aedirnian_traitor.4;Megtámadod az árulót.
+menu.nr207_1_aedirnian_traitor.5;Elrendeled a visszavonulást.
+menu.nr207_1_aedirnian_traitor.80;Megtámadod a tábort.
+menu.nr207_1_aedirnian_traitor.81;Visszavonulót fújsz.
+say.nr207_1_aedirnian_traitor.19;Az árulóknak, akik leginkább az általuk meglepettekkel vívott csatához voltak szokva, esélyük sem volt az eltökélt lyriaiakkal szemben. Végül Meve maga ütötte ki a nyergébôl Falbesont, majd a rostélynál fogva kapta le a fejérôl a sisakját.\n
+say.nr207_1_aedirnian_traitor.22;"Többé nem kell tartanod a kínzatástól"
+say.nr207_1_aedirnian_traitor.23;"Falbeson, a különítményedet ezennel feloszlatom. Te pedig... add át a kardodat, és távozz!"\n
+say.nr207_1_aedirnian_traitor.24;Az arc, amit maga elôtt látott, inkább együttérzést keltô volt, semmint ellenszenvet. Falbeson egy sápadt, májfoltos bôrû, betegeskedô öregember volt. Nagy nehézségek árán térdre tápászkodott, és könyörgôn nyújtotta elôre remegô kezét.\n
+say.nr207_1_aedirnian_traitor.25;"Felség... Kegyelmezzen! A nilfgaardiak kényszerítettek az árulásra. Kínzással fenyegettek,..."\n
+say.nr207_1_aedirnian_traitor.276;"Aúú!"\n
+say.nr207_1_aedirnian_traitor.37;"A felderítôink egyike?"
+say.nr207_1_aedirnian_traitor.39;– kérdezte a királynô, láthatóan meghökkenve. A nyergében ülve fordult oda Reynardhoz, aki csak a fejét csóválta.\n
+say.nr207_1_aedirnian_traitor.40;"Különös... Gascon! Jelölj ki néhányat a Bitangjaid közül – olyanokat, akik tudják, hogyan kell elvegyülni. Tudják meg, ki fújja azt a kürtöt,... és miért."\n\n
+say.nr207_1_aedirnian_traitor.42;A felderítôk hamarosan visszatértek. Jelentették, miszerint katonák vertek tábort egy közeli réten. Amazok aedirni egyenruhát viseltek,... amiken aranyló napkorongos fekete vállszalagot vetettek átal. A vezérüket Falbesonnak szólították.\n
+say.nr207_1_aedirnian_traitor.44;"Névrôl már ismerheti"
+say.nr207_1_aedirnian_traitor.46;– mondta Rayla. –
+say.nr207_1_aedirnian_traitor.48;"Falbeson már a háború elsô napján átállt az ellenséghez, és vitte magával az egész különítményét is. Felség,... nem lesz még egyszer hasonló alkalmunk. Tanítsuk móresre az árulókat!"
+say.nr207_1_aedirnian_traitor.50;– mondta Meve. –
+say.nr207_1_aedirnian_traitor.52;"Falbeson hajkurászása nem az én feladatom. Egy napon talán még visszatérünk... De most visszavonulásra adok parancsot."\n
+say.nr207_1_aedirnian_traitor.54;Rayla bólintott, majd odacserdített egyet a lovának a gyeplôvel, és a menet élére lovagolt. Meve-nek kétsége sem volt afelôl, hogy Rayla nem volt elégedett a királynô döntésével...
+say.nr207_1_aedirnian_traitor.56;Rayla láthatóan megelégedéssel bólintott. A lyriaiak körülvették a felderítôk által említett mezôt. Pár pillanattal késôbb egy tüzes nyíl szelte keresztül az eget, megadván a jelet a támadásra...
+say.nr207_1_aedirnian_traitor.58;Az áruló a királynô lábai elé vetette magát.\n
+say.nr207_1_aedirnian_traitor.6;"Egy határozott üzenetet kell küldenünk – olyat, amit az egész Észak megért, a Jarugától egészen a Sárkány–hegységig"
+say.nr207_1_aedirnian_traitor.60;"A könyörület, amit irántam tanúsított, Felség, csak az igazán nagy uralkodók sajátja. Ezer köszönetem! Innét nyugatra terülnek el a földjeim. Látogasson el hozzám, és én pazar lakomát rendezek a tiszteletére, valamint rendkívül nagy hozzájárulást is szándékozom tenni a közös ellenségünkkel szemben vívott harcához!"\n\n
+say.nr207_1_aedirnian_traitor.62;Meve utasította Falbesont, hogy az álljon fel. A lyriaiak vonakodva léptek félre az áruló útjából. Amikor Fekete Raylához ért, a harcos a lába elé köpött.
+say.nr207_1_aedirnian_traitor.64;– mondta Meve. –
+say.nr207_1_aedirnian_traitor.66;"A halálod gyors lesz."\n\n
+say.nr207_1_aedirnian_traitor.68;Falbeson kegyelemért könyörögve még utoljára megmarkolta a királynô csizmájának a szárát, de az egy durva mozdulattal lesöpörte magáról a kezét. Nem sokkal késôbb már egy fáról lógott alá {audio=nr207_1_aedirnian_traitor_hangman}ugyanazzal a selyemszalaggal felkötve, amit a vértje körül volt szokása átalvetni...
+say.nr207_1_aedirnian_traitor.7;A lyriaiak egy erdôn haladtak keresztül, amikor meghallották egy kürt elnyújtott harsogását.\n
+say.nr207_1_aedirnian_traitor.8;"Lyria és Rívia királynôje vagyok, nem Aedirné"
+say.nr207_1_aedirnian_traitor.84;Meve visszavezette az embereit Falbeson tábora felé. Nem tudta elhessegetni magától az érzést, hogy az áruló rászolgált a büntetésre...
+say.nr207_1_aedirnian_traitor.85;– jelentette ki a királynô. –
+say.nr207_1_aedirnian_traitor.87;"Aki lepaktál az ellenséggel, az a fejével fizet érte. Készüljetek a támadásra!"\n\n
+say.nr207_1_aedirnian_traitor.88;Meve magán érezte az emberei tekintetét. Várták, miképp határoz az áruló sorsa felôl. Vajon tényleg kivégezteti majd, figyelmeztetésül a többi köpönyegforgató számára?
+title.nr207_1_aedirnian_traitor.260;Fekete szalagok
+title.nr207_1_aedirnian_traitor.289;Fekete szalagok
+

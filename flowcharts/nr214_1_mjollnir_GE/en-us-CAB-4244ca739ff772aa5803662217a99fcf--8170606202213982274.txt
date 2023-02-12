@@ -1,0 +1,37 @@
+menu.nr214_1_mjollnir.24;Magaddal viszed a kutyát.
+menu.nr214_1_mjollnir.25;Ott hagyod a kutyát.
+say.nr214_1_mjollnir.1;"Nagyon nem tetszik ez nekem"
+say.nr214_1_mjollnir.11;"Úrnôm..."
+say.nr214_1_mjollnir.12;– kezdett bele a katonák egyike, akinek az arca szégyentôl vöröslött, miközben egy, a nadrágján lévô lyukat próbált eltakarni a kezeivel. –
+say.nr214_1_mjollnir.13;"Sötét volt odabent, és ez az eb csak úgy hirtelen nekünk rontott, harapott és marcangolt..."\n
+say.nr214_1_mjollnir.14;"Rossz fiú!"
+say.nr214_1_mjollnir.15;– mondta vigyorogva Gascon, majd elôhúzott a táskájából egy szárazkolbászt. Eme csodás felajánlást látva a kutya azon nyomban elkushadt.\n\n
+say.nr214_1_mjollnir.19;Jobban megvizsgálva a helyzetet kiderült, hogy az eb volt a kunyhó egyetlen lakója – mint ahogy oly soknak Aedirnben, ennek a gazdái is nyom nélkül eltûntek. Hûséges négylábújuk pedig továbbra is ôrizte a rá bízott birtokot a gazdái visszatértét várva...\n
+say.nr214_1_mjollnir.20;"Vigyük magunkkal"
+say.nr214_1_mjollnir.21;– indítványozta Gascon. –
+say.nr214_1_mjollnir.22;"Máskülönben csak elpusztul itt... Vagy a saját, vagy más éhsége által."
+say.nr214_1_mjollnir.3;– mondta homlokráncolva Gascon.\n
+say.nr214_1_mjollnir.31;"Egy ilyen éber ôrszemnek hasznát látnánk a táborunkban"
+say.nr214_1_mjollnir.32;– vélekedett a királynô. –
+say.nr214_1_mjollnir.33;"Ám legyen. Csatlakozhat... De szüksége lesz egy névre."\n
+say.nr214_1_mjollnir.34;"Mit szólnál a 'Reynardhoz'?"
+say.nr214_1_mjollnir.35;– A királynô jól szemügyre vette a kutyát, ami immár a szárazkolbászt csócsálta. –
+say.nr214_1_mjollnir.36;"Elég legyen, fejezzék be! Ez parancs. Ami pedig téged illet..."
+say.nr214_1_mjollnir.37;A kutya élénken csóválni kezdte a farkát, mintha csak rendkívül megelégedésére szolgálna az új neve. Meve serege továbbállt, immár egy szôrös újonccal bôvülve.
+say.nr214_1_mjollnir.4;Meve követte a tekintetét. Elôttük, az út mellett, egy megfeketedett nádfedelû házikó állt.\n
+say.nr214_1_mjollnir.40;"Van elég kóbor bitang a seregemben"
+say.nr214_1_mjollnir.42;– jelentette ki a királynô. –
+say.nr214_1_mjollnir.43;"Nincs szükségem még egyre. Haladjunk tovább! Ne vesztegessük az idônket."\n
+say.nr214_1_mjollnir.44;A lyriaiak meneteltek tovább,... a bátor kutya pedig lefeküdt a kunyhó elé, és maga köré kanyarította a farkát.
+say.nr214_1_mjollnir.5;"Miért?"\n
+say.nr214_1_mjollnir.6;"A házikó elhagyatottnak tûnik,... ám szárított gyümölcsök és gombák lógnak az eresz alatt. Köröskörül az éhínség dúl, és senki még csak el sem csábult? A helyedben egy felderítôt küldenék oda."\n\n
+say.nr214_1_mjollnir.7;A királynô úgy tett, ahogy Gascon javasolta, és három talpast küldött felderíteni a terepet. Azok, amikor a házikóba léptek, csak a nagy csendet találták... {audio=nr214_1_mjollnir_dog_attack}Amit kisvártatva vérfagyasztó vonyítás tört meg. A katonák hanyatt-homlok menekültek kifelé, megbotolva a saját lábukban.
+say.nr214_1_mjollnir.724;– javasolta Gascon pimasz vigyorral a képén. –
+say.nr214_1_mjollnir.725;"Így mindig jönni fog, ha hívod, parancsra ül majd, és a sarkadban lesz... Akarom mondani: lábhoz kerül."\n
+say.nr214_1_mjollnir.726;"Vigyázzon a szájára"
+say.nr214_1_mjollnir.727;– mondta Reynard, és a keze ökölbe szorult a kardja gombján. –
+say.nr214_1_mjollnir.728;"Vagy megtanulja, hogy nem vagyok olyan jámbor, mint azt gondolja!"\n
+say.nr214_1_mjollnir.729;"Mivel az alsófertályon viselt ruhanemûket kedveled, ezért legyen a neved... Gatyás! Megfelel?"\n
+say.nr214_1_mjollnir.9;Meve elôvonta kardját, feltételezvén, hogy egy hordányi nekker vagy ghúl támadt az embereire... Ám a félelme alaptalannak bizonyult. Szörnyek helyett csak egy borzas kutya caplatott elô a házikóból, {audio=nr214_1_mjollnir_show_up}fogai közül egy szövetdarab himbálózott alá...\n
+title.nr214_1_mjollnir.39;Szôrös újonc
+

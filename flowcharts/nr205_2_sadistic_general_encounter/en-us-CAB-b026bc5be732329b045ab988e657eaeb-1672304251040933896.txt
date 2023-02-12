@@ -1,0 +1,34 @@
+menu.nr205_2_sadistic_general_encounter.37;Váltságdíjat követelsz a tábornokért.
+menu.nr205_2_sadistic_general_encounter.38;Kivégezteted a tábornokot.
+menu.nr205_2_sadistic_general_encounter.5;Megtámadod Vrygheff tábornok különítményét.
+menu.nr205_2_sadistic_general_encounter.6;Nem bocsátkozol harcba.
+menu.nr205_2_sadistic_general_encounter.67;Megtámadod Vrygheff tábornok különítményét.
+menu.nr205_2_sadistic_general_encounter.68;Nem bocsátkozol harcba.
+say.nr205_2_sadistic_general_encounter.14;Végül a lyriaiak gyôzedelmeskedtek – az ellenség számottevô fölénye dacára. Historikusok Meve gyôzelmét a könnyûvértes gyalogság nehéz terepen való jobb manôverezhetôségével magyarázták a nehézvértezetbe öltözött nilfgaardiakéval szemben.\n\n
+say.nr205_2_sadistic_general_encounter.2;A lyriaiaknak nem esett nehezére rálelni Vrygheff táborára – amaz ugyanis akkora területen terpeszkedett el, akár egy kisebb város. Meve megállította a menetet, és összehívta a tanácsadóit. Reynard szólalt meg elsôként:\n
+say.nr205_2_sadistic_general_encounter.24;"Úgy fest, a felderítôink egyszerre állítottak valót, és tévedtek is, Felség. A fellelt nyomok alapján valóban jól behatárolták Vrygheff tábornoknak, Dérfalva mészárosának a tartózkodási helyét... Ám, ugyanakkor, nagyon is alulbecsülték a különítménye méretét. Amely számosabb is, és jobban felfegyverzett, mint a sajátunk."
+say.nr205_2_sadistic_general_encounter.25;Reynard meghajolt, majd továbbította a lyriaiak felé a parancsot. Meve és Vrygheff hadereje még aznap szemtôl szemben állt egymással a csatamezôn.
+say.nr205_2_sadistic_general_encounter.257;A tábornok néhány szavából is fájdalom és gyász sütött... És bosszúszomj, ami soha nem csillapodhatik.\n\n
+say.nr205_2_sadistic_general_encounter.26;Meve színe elé vonszolták a legyôzött tábornokot. A királynô meg akarta tudni, Vrygheff miért adott parancsot egy egész falu lemészárlására, hogy mégis mivel tudnák a nilfgaardiak igazolni ezt a gaztettet.\n
+say.nr205_2_sadistic_general_encounter.28;"Két héttel ezelôtt különítményt menesztettem Dérfalvára élelem szerzése céljából. A különítménynek Gaenor százados parancsolt. Miközben épp a felhalmozott búzakészleteket szemlézte, a falusiak bezárták ôt a magtárba. Majd rágyújtották azt."\n
+say.nr205_2_sadistic_general_encounter.30;Mialatt a királynô a tábornok történetét hallgatta, az arcán nem tükrözôdött semmiféle érzelem, ami elárulhatta volna.\n
+say.nr205_2_sadistic_general_encounter.31;"Egy embert öltek meg... Egyetlen egyet."\n
+say.nr205_2_sadistic_general_encounter.32;Vrygheff Meve-re emelte a tekintetét. A királynô meglepôdve látta, hogy a tábornok arcát könnyek szántották.\n
+say.nr205_2_sadistic_general_encounter.34;"Igen, Asszonyom. A fiamat."\n
+say.nr205_2_sadistic_general_encounter.36;A királynônek el kellett döntenie, mi tévô legyen Vrygheffel. Senkinek sem lehetett kétsége afelôl, hogy a tábornok büntetést érdemelt, abból is a legsúlyosabbat. Mégis,... egy ilyen fontos személyért igazán busás váltságdíjat kérhettek – és Meve seregének igencsak szüksége volt az aranyra.
+say.nr205_2_sadistic_general_encounter.41;"Az apám arra tanított, tiszteljem az ellenségem tábornokait. Arra, hogy ennyire kiemelkedô személyek még fogságban is megtarthatják a fegyvereiket, valamint az ôreik üdvözlésükkor kötelesek tisztelegni nekik."
+say.nr205_2_sadistic_general_encounter.43;– mondta a királynô. –
+say.nr205_2_sadistic_general_encounter.45;"De ön, Vrygheff, ön nem tábornok... Csupán egy tábornoknak öltözött közönséges gyilkos. Úgy fog meghalni, ahogy Dérfalva jó lakói tették – gyorsan és véglegesen."
+say.nr205_2_sadistic_general_encounter.47;Vrygheff hidegvérrel fogadta a királynô ítéletét – nem ellenkezett, sem nem könyörgött kegyelemért. {audio=nr205_2_sadistic_general_encounter_decapitation}Egyszerûen csak a bakó pengéje alá hajtotta a fejét. Amely fej egy minutum múlva már a földön gurult, a lyriaiak dobhártyaszaggató üdvrivalgása közepette.
+say.nr205_2_sadistic_general_encounter.48;Végül a királynô úgy határozott, a tábornokot váltságdíj fejében visszaszolgáltatják. Talán könyörületességbôl választotta ezt az utat, mert meghatották a nilfgaardi könnyei, vagy pusztán hideg számítás volt a mozgatója, amikor élt ama lehetôséggel, hogy feltöltheti a serege kincsesládáit. Nehéz lenne megmondani.\n\n
+say.nr205_2_sadistic_general_encounter.49;Egy dolog azonban bizonyos: az emberei elcsüggedtek a döntés hallatán. Az igazság nevében, és nem aranyakért cserébe hívták ki Vrygheff minden tekintetben nagyobb fölénnyel rendelkezô seregét.
+say.nr205_2_sadistic_general_encounter.50;De ha engem kérdeztek: nem ez volt az igazi oka a felülkerekedésüknek. Hanem a lyriaiak szívében csöndben gyûlô harag, a düh egyre tornyosuló viharfellegei, amiket a nilfgaardiaknak a leigázottakkal szemben tanúsított példátlan kegyetlenkedései tápláltak. És ezt a kegyetlenséget senki sem testesítette meg számukra jobban, mint Vrygheff tábornok maga. Ezért Meve emberei bármit készek lettek volna feláldozni azért, hogy ôt bûnhôdni lássák.\n\n
+say.nr205_2_sadistic_general_encounter.62;– mondta Meve ellentmondást nem tûrve. –
+say.nr205_2_sadistic_general_encounter.63;"Ha megtorlatlanul hagyom a gyilkolást, vagy meg sem próbálom megtorolni, akkor... Soha nem leszek képes újra a tükörbe nézni. Támadnunk kell!"\n
+say.nr205_2_sadistic_general_encounter.64;A lyriaiak újra Vrygheff tábornok tábora közelében találták magukat. Reynard leárnyékolta a szemét a nap fénye elôl, és megszámolta a sátrakat.\n
+say.nr205_2_sadistic_general_encounter.66;"Minden emberünkre legalább két nilfgaardi jut, Felség..."
+say.nr205_2_sadistic_general_encounter.7;"Ez nem változtat semmin sem"
+say.nr205_2_sadistic_general_encounter.8;Meve hosszasan gondolkodott. Kevesen voltak, kik jobban megérdemelték a büntetést, mint Vrygheff – ám arra jutott, hogy a fölényben lévô sereg megtámadása túl nagy kockázattal bírt.
+title.nr205_2_sadistic_general_encounter.256;Karmazsin színû hullámok
+title.nr205_2_sadistic_general_encounter.283;Karmazsin színû hullámok
+

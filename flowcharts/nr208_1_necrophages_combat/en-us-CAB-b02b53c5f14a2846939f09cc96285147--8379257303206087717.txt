@@ -1,0 +1,7 @@
+say.nr208_1_necrophages_combat.1;Engedjétek le a fegyvereiteket! A megmentésetekre jöttünk!
+say.nr208_1_necrophages_combat.11;Gyökerestôl fogom kiirtani ezt a gonoszt!
+say.nr208_1_necrophages_combat.3;Sikerült, Felség! A szörnyek elinalnak.
+say.nr208_1_necrophages_combat.5;Mi-miért segít nekünk?
+say.nr208_1_necrophages_combat.7;Pfuj... Hadd zabálják fel ôket a ghúlok, én azt mondom!
+say.nr208_1_necrophages_combat.9;Csendet! A királynô határozott!
+

@@ -1,0 +1,36 @@
+menu.nr213_1_field_hospital.12;Megtámadod a tündék búvóhelyét.
+menu.nr213_1_field_hospital.13;Nem törôdsz a barlanggal.
+menu.nr213_1_field_hospital.20;Hagyod, hogy Rayla végezzen a sebesült tündékkel.
+menu.nr213_1_field_hospital.21;Nem hagyod, hogy Rayla megölje a sebesült tündéket.
+say.nr213_1_field_hospital.11;Meve épp Gasconnal vitatott meg bizonyos ügyeket, amikor odalépett hozzájuk a felderítôk egyike. Vérrel szennyezett egyenruhája az ügy fontosságáról árulkodott, így hát a királynô rövidre zárta a korábbi beszélgetést, és jelentést kért.\n
+say.nr213_1_field_hospital.16;Meve fontolóra vette, majd megkérdezte a felderítôtôl, hogy hány bejáratot találtak a barlangba.\n
+say.nr213_1_field_hospital.17;"Akkor hát cselekedjünk. Gyûjts magad mellé néhány embert, és készüljetek a támadásra... Ne csapjunk zajt!"\n\n
+say.nr213_1_field_hospital.19;Amikor a lyriaiak szétzilálták a tünde egységet, Meve meg volt róla gyôzôdve, hogy az ellen majd visszavonul, és rendezi sorait. Ám meglepetésére a Scoia'tael az utolsó csepp véréig harcolt. Arra a következtetésre jutott, hogy a barlangban minden bizonnyal lennie kell valami igazán értékesnek...\n\n
+say.nr213_1_field_hospital.22;Meve nehezen nyelt. Az áporodott, nyirkos levegô megtapadt a torkán.\n
+say.nr213_1_field_hospital.23;Meve a harcosnô szemébe nézett, és megrémült attól, amit azokban látott.\n
+say.nr213_1_field_hospital.24;"Felderítésen voltunk, Úrnôm,... és ráleltünk egy barlang bejáratára. Egy kisebb tünde különítmény ôrizte, de mi végeztünk velük."\n
+say.nr213_1_field_hospital.25;"Csak egyet láttunk, Úrnôm,"
+say.nr213_1_field_hospital.26;– felelte a katona.\n
+say.nr213_1_field_hospital.27;"Pont ahogy sejtettem. Tökéletes hely egy kelepcéhez – a tündék könnyedén elvághatnák elôlünk a menekülés útját... Túl kockázatos. Továbbmegyünk."
+say.nr213_1_field_hospital.28;A lyriaiak bemerészkedtek a barlangba. Óvatosan mozogtak, szinte hangtalanul, így jó ideig sikerült elkerülniük a feltûnést. Ennek ellenére hamarosan tünde harcosok kezdtek özönleni az oldaljáratokból.
+say.nr213_1_field_hospital.29;Ahogy Meve belépett a következô üregbe, orrába vér, gennyes váladék és vizelet szaga tolult. Ekkor értette meg: a tündék kórháznak használták a barlangot. Az üreg falainak tövében sebesült harcosok feküdtek. Meg sem próbáltak védekezni, sem pedig könyörögni, vagy megbékélni az isteneikkel. Csak csöndben és megvetéssel figyelték a lyriaiakat.\n\n
+say.nr213_1_field_hospital.30;"Úrnôm..."
+say.nr213_1_field_hospital.31;Reynard, aki rendszerint nyugodt volt, ezúttal nem bírta tûrtôztetni magát, és Rayla szavába vágott:\n
+say.nr213_1_field_hospital.32;"Mégis, mire céloz?! Hogy gyilkoljuk le a sebesülteket?"\n
+say.nr213_1_field_hospital.33;A harcos suttogva válaszolt, jól kihangsúlyozva minden egyes szót:\n
+say.nr213_1_field_hospital.34;"Arra céloztam, hogy távozzanak. Hagyják, hogy én és az embereim... megtegyük, amit meg kell."
+say.nr213_1_field_hospital.35;"Odakint megvárunk, Rayla."\n\n
+say.nr213_1_field_hospital.36;A királynô a elindult a kijárat irányába, a falak közelben lépdelve. Hosszas habozás után Reynard is követte. Rayla csak késôbb, este csatlakozott hozzájuk: idôbe telt, amíg lemosta páncéljáról a vért.
+say.nr213_1_field_hospital.37;"Nem, Rayla. Nem teszünk velük semmi ilyesmit. Megértetted?"\n\n
+say.nr213_1_field_hospital.38;Rayla egy hosszú pillanatig hallgatott. Végül bólintott, majd elhagyta a barlangot. Reynard a tekintetével követte, keze mindvégig a kardja markolatát szorította.\n
+say.nr213_1_field_hospital.39;"Reynard, figyeljen rám! Árgus szemekkel figyelje Raylát mindaddig, amíg legalább egy napi lovaglásnyira nem kerülünk ettôl a barlangtól. Ha kiválna a menetoszlopból, ha megpróbálna visszafordulni,... arról mindenképp tudni akarok. Megértette?"\n
+say.nr213_1_field_hospital.40;Reynard bólintott. A gyôzedelmes nap ellenére búskomor hangulatban hagyták el a barlangot.
+say.nr213_1_field_hospital.46;"Hmm..."
+say.nr213_1_field_hospital.48;"Lefogadom tíz novigrádi koronába', hogy odabent akad több Mókus is. Ha még azelôtt lecsapunk rájuk, hogy feltûnne nekik az ôrök hiánya, akkor talán meglephetjük ôket... Ám gyorsan kell cselekednünk!"
+say.nr213_1_field_hospital.50;– mondta Gascon az állát dörzsölgetve. –
+say.nr213_1_field_hospital.59;Amikor Meve visszatért a barlanghoz, odabent semmit sem talált. A tündék bizonyára érezték, hogy ez a búvóhely többé nem biztonságos számukra, és odébbálltak.
+say.nr213_1_field_hospital.64;"látta, mire képes a Scoia'tael, hogy mit tesznek az emberekkel... Ôk nem kegyelmeznének––"\n
+say.nr213_1_field_hospital.66;– suttogta Rayla, – 
+title.nr213_1_field_hospital.271;Titkos üregek
+title.nr213_1_field_hospital.291;Titkos üregek
+

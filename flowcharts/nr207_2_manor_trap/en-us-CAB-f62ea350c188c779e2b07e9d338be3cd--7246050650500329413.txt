@@ -1,0 +1,26 @@
+menu.nr207_2_manor_trap.20;Elfogadod Falbeson ajánlatát.
+menu.nr207_2_manor_trap.21;Visszautasítod Falbeson ajánlatát.
+say.nr207_2_manor_trap.1;Meve és a lyriaiak megérkeztek Falbeson birtokaira, ama árulónak az otthonába, akinek Meve megkímélte az életét. Amaz teljes díszben, ünnepi öltözékben köszöntötte a királynôt, egy ezüsttálcán kenyeret és sót nyújtva feléje.\n
+say.nr207_2_manor_trap.10;"Felség, megtisztelô, hogy szerény hajlékomban köszönthetem. Kérem, fáradjon beljebb! Már a nyárson forog a malacka, és tüstént a pincébe küldetek a legjobb boromért..."\n
+say.nr207_2_manor_trap.24;Mert hogy Meve hetekig máson sem élt, mint sózott szárított húson és zabkásán, hajlott rá, hogy elfogadja a meghívást. Fekete Rayla azonban határozottan ellene volt.\n
+say.nr207_2_manor_trap.26;"Asszonyom,... bocsásson meg az arcátlanságomért, de... ostoba dolog volna helyet foglalni egy áruló asztalánál. Ne tegye!"
+say.nr207_2_manor_trap.27;Megfogadván Rayla tanácsát a királynô visszautasította Falbeson meghívását. Az öregember láthatóan csalódottan kísérte el a királynôt és embereit a birtoka határáig.\n
+say.nr207_2_manor_trap.29;Meve figyelmen kívül hagyta Rayla figyelmeztetését, amiért Rayla a távolmaradásával tüntetett. A királynô legbizalmasabb tanácsadóival az oldalán jelent meg a fogadáson. Az asztalok rogyásig voltak tele finomságokkal, és szinte végeláthatatlanul folyt a bor. Falbeson igazán hízelgô köszöntôt mondott Meve tiszteletére:\n
+say.nr207_2_manor_trap.31;"Keresztül-kasul bejárhatnánk a világot, de akkor se találnánk még egy uralkodót, aki ily bátor, ily könyörületes,... és ennyire naiv!"\n
+say.nr207_2_manor_trap.33;Amint az utolsó szó is elhangzott, nehézvértes nilfgaardiak özönlöttek be a terembe a szomszédos helyiségekbôl.\n
+say.nr207_2_manor_trap.34;Meve-nek épp csak hogy sikerült hátrébb szökkenie az asztaltól, hogy elkerüljön egy neki szánt nyílvesszôt. Azon nyomban kivonta a kardját.
+say.nr207_2_manor_trap.35;"Ard Feain ess na'ar!"\n
+say.nr207_2_manor_trap.36;"Köszönöm még egyszer, Felség"
+say.nr207_2_manor_trap.38;– mondta Falbeson, miközben meghajolt, hogy megcsókolja a királynô kezét.
+say.nr207_2_manor_trap.40;"És fogadom, eztán minden tôlem telhetô módon Északot fogom támogatni."\n\n
+say.nr207_2_manor_trap.45;Meve bólintott, majd útjára indult. Azon gondolkodott, vajon az öregember tartja-e magát az ígéretéhez, vagy amint a lyriaiak eltûnnek a láthatárról, újfent magára ölti-e a birodalmi címeres vállszalagot.
+say.nr207_2_manor_trap.46;"Reynard?"\n
+say.nr207_2_manor_trap.48;– mondta a királynô, közben pedig egy csipkével szegett abroszba törölte a kardját, –
+say.nr207_2_manor_trap.50;"Igen, Felség?"\n
+say.nr207_2_manor_trap.52;"Ha ezután bármikor késznek mutatkoznék megbocsátani, büntetlenül hagyni az árulást,"
+say.nr207_2_manor_trap.53;"legyen szíves Falbeson lakomájára emlékeztetni."\n
+say.nr207_2_manor_trap.55;Meve amint tehette, útnak indult, magával víve egy jókora rakományt az áruló uraság ingóságaiból... és értékes tapasztalatokból.
+say.nr207_2_manor_trap.7;Meve keresztülverekedte magát a kelepcén, a kétszeresen is áruló Falbeson pedig akképp végezte, mint megérdemelte – kardélre hányva és tócsányi vérben.\n
+title.nr207_2_manor_trap.261;Fekete szalagok
+title.nr207_2_manor_trap.290;Fekete szalagok
+

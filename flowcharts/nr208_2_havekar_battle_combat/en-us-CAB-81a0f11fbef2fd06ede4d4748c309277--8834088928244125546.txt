@@ -1,0 +1,4 @@
+say.nr208_2_havekar_battle_combat.1;Havekár mocskok!
+say.nr208_2_havekar_battle_combat.3;A tündékkel való üzletelésnek csak egyetlen büntetése lehet.
+say.nr208_2_havekar_battle_combat.5;Daefed vara!
+

@@ -1,0 +1,33 @@
+menu.nr204_1_evil_tree.3;Kiszabadítod a foglyokat.
+menu.nr204_1_evil_tree.4;Távol tartod magad a fától.
+say.nr204_1_evil_tree.1;Meve és kompániája egyre közelebb ért a Mállóerdôhöz, egy sûrû, ôsi rengeteghez, amelynek egymásba fonódó ágai már a Szférák Együttállásakor is egymás felé nyújtóztak. Egészen Videmont király uralkodásáig kellett várni arra, hogy utat vágjanak az ôserdô aljnövényzetébe, ezáltal jelentôsen lerövidítve a Rosberg és Aldersberg közötti utat.\n
+say.nr204_1_evil_tree.10;"Nos?! Egész álló nap ott fogtok állni?!"
+say.nr204_1_evil_tree.11;A lyriai katonák tôrrel a kezükben álltak, arra várva, hogy elvágják a köteleket, és kiszabadítsák a fogvatartottakat – ám Meve egy határozott kézmozdulattal megálljt parancsolt nekik.\n
+say.nr204_1_evil_tree.14;A csata véget ért, és Meve, miközben még mindig zihált, szemügyre vette a vérontást. A vér, a gyanta és a hamu nehéz szagától felfordult a gyomra, és émelyegni kezdett.\n
+say.nr204_1_evil_tree.26;Az erdô szélén, az út mellett állt egy hatalmas fûz. Az ágai olyannyira lehajlottak, hogy teljesen elfedték a törzsét, amitôl a fa egészen olyannak tûnt, mintha hajfürtök takarták volna egy nô orcáját. Meve-et baljós érzés kerítette hatalmába. Egyáltalán nem tetszett neki az az édeskés szag, ami a fát körüllengte, sem az a fémes zizegés, ami bogarak döngésének tûnt. Egy emberét küldte a hely felderítésére.\n\n
+say.nr204_1_evil_tree.29;A felderítô félrehajtotta a lelógó ágakat,... és hátrahôkölt. Férfiak voltak a fához kötözve, akiket a törzsön ejtett vágásokból szivárgó ragacsos nedv borított be egészen. A folyadék nehéz illata rovarok – legyek, darazsak, méhek és más bogarak – raját vonzotta magához. Csak úgy hemzsegtek a megkötözött embereken, ki–be masíroztak a füleiken és az orrlyukaikon.\n
+say.nr204_1_evil_tree.31;"Eldain üdvözöl bennünket az erdejében..."
+say.nr204_1_evil_tree.33;– suttogta Rayla.\n
+say.nr204_1_evil_tree.35;"Megálljatok! A legtöbbjükön már nem segíthetünk, és ez akár csapda is lehet. Tartsátok magatokat távol a fától! Ez parancs!"\n\n
+say.nr204_1_evil_tree.37;Meve parancsait az emberei általában minden tétovázás nélkül hajtották végre. Ám ezúttal csak nézték ôt, miközben arcuk a viszolygás maszkjává merevedett. Csak miután Reynard megismételte a parancsot, tolták vissza kardjukat azok hüvelyébe, és indultak el lassan az út felé. Az öreg fûz irányából még jó ideig követték ôket a jajgatások hangjai.
+say.nr204_1_evil_tree.39;– Meve-nek úgy kellett ráripakodnia ledermedt embereire. –
+say.nr204_1_evil_tree.41;"Szabadítsátok ki ôket! De tüstént!"\n
+say.nr204_1_evil_tree.43;A katonáknak nem kellett több nógatás. Azonnal nekiláttak a pengéikkel a kötelek elnyiszálásának.
+say.nr204_1_evil_tree.44;Amint kiszabadították az elsô foglyot, a szerencsétlennek még arra sem volt érkezése, hogy köszönetet hebegjen, máris egy lángoló csík szelte keresztül a levegôt, és csapódott a fa törzsébe. A csorgó gyanta azonnal tûzbe borult, lángnyelvek nyaldosták a fogságba esetteket és a kiszabadításukhoz látott katonákat egyaránt. Csatakiáltások harsantak az ôsi nyelven a környezô fák közül, és tünde harcosok vetették magukat a lyriaiakra.\n
+say.nr204_1_evil_tree.46;"Ez egy csapda!"
+say.nr204_1_evil_tree.48;– kiáltotta Reynard. –
+say.nr204_1_evil_tree.49;"Védjétek a királynôt!"
+say.nr204_1_evil_tree.50;"Hallottam már a Scoia’tael kegyetlenkedéseirôl, de ez..."
+say.nr204_1_evil_tree.52;– mondta a királynô, miközben visszatolta kardját a helyére. –
+say.nr204_1_evil_tree.54;"De én... Sosem láttam még ehhez foghatót."\n
+say.nr204_1_evil_tree.55;Fekete Rayla, aki épp kihúzta a pengéjét egy tünde ellenálló bordái közül, sötéten elmosolyodott.\n
+say.nr204_1_evil_tree.57;"A legrosszabb még csak ezután következik, Úrnôm."\n\n
+say.nr204_1_evil_tree.58;A királynô újracsoportosította az egységeit, és benyomult a Mállóerdôbe. A lyriaiak ajkán most nem kélt egyik menetelést kísérô nótájuk sem. Ehelyett néma csendben lépkedtek, és tekintetükkel megállás nélkül az út szélét szegélyezô fákat és aljnövényzetet pásztázták.
+say.nr204_1_evil_tree.60;"Ezeken az utakon még békeidôben is a veszély az úr"
+say.nr204_1_evil_tree.62;– mondta Rayla. –
+say.nr204_1_evil_tree.63;"Mostanság pedig... senki sem merészel erre átutazni."\n\n
+say.nr204_1_evil_tree.64;Meve tett egy lépést a fa irányába, és akkor látta, hogy még az összes hozzákötözött ember életben van. Azok, akiket csak nemrégiben fogtak el a tündék, kínjukban vonaglottak és segítségért rimánkodtak. Akik pedig régebb óta csüngtek a fa törzsén, csak félôrült és vérágas tekintettel követték a királynô mozdulatait.
+say.nr204_1_evil_tree.65;"Ni'l ceim siaar!"\n
+title.nr204_1_evil_tree.254;A szomorú fûz
+title.nr204_1_evil_tree.280;A szomorú fûz
+

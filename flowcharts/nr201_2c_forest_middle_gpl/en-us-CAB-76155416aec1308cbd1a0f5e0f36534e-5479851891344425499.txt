@@ -1,0 +1,5 @@
+say.nr201_2c_forest_middle_gpl.1;Nem... Nem jártunk már erre korábban?
+say.nr201_2c_forest_middle_gpl.3;A felderítôk szerint még nem, Felség. Megjelölték a fákat.
+say.nr201_2c_forest_middle_gpl.5;A tündék akár el is tüntethették a jelzéseket, vagy újakat is hagyhattak, hogy megvezessenek bennünket.
+say.nr201_2c_forest_middle_gpl.6;Jobb, ha a napot követjük. Az az egyetlen módja, hogy ne tévesszünk irányt.
+

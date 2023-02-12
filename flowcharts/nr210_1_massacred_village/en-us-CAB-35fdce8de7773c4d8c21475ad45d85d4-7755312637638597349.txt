@@ -1,0 +1,43 @@
+menu.nr210_1_massacred_village.3;Raylát küldöd a faluba felderíteni.
+menu.nr210_1_massacred_village.4;Továbbmész.
+menu.nr210_1_massacred_village.70;Raylát küldöd a faluba felderíteni.
+menu.nr210_1_massacred_village.71;Továbbmész.
+menu.nr210_1_massacred_village.78;Elkísérteted a másfajúakat a legközelebbi városig.
+menu.nr210_1_massacred_village.82;Hagyod, hogy Rayla a kedve szerint leckéztesse meg ôket.
+say.nr210_1_massacred_village.1;Meve útja egy Tölgyesgázló nevû falun át vezetett. A környék többi településétôl eltérôen egyetlen ember sem lakta. Ehelyett törpök és tündék üldögéltek a házak tornácán – és idegenkedéssel bámulták az elhaladó lyriaiakat. Egyetlen egy baráti üdvözlés sem szállt feléjük, egyetlen árus sem próbálta rájuk sózni a portékáját. Csak a gyorsan becsapott spaletták és ajtók hangjai kísérték útjukat.\n
+say.nr210_1_massacred_village.17;"Tégy, ahogy jónak látod"
+say.nr210_1_massacred_village.19;"Tudjátok, mit érdemeltek"
+say.nr210_1_massacred_village.20;"Úrnôm, én... Jöjjön velem, kérem...! Ezt a saját szemével kell látnia."\n
+say.nr210_1_massacred_village.24;"Valami nincs rendjén"
+say.nr210_1_massacred_village.26;– mondta Rayla a szemöldökét összevonva. –
+say.nr210_1_massacred_village.27;"Rendeljen el pihenôt, Úrnôm. És engedje meg, hogy körülnézzek egy kicsit."
+say.nr210_1_massacred_village.29;– válaszolta Meve higgadtan, és úgy tett, mintha nem venné észre Rayla dühös tekintetét.
+say.nr210_1_massacred_village.31;"Kétlem, hogy ez másmilyen lenne, mint a többi. Nem érzem szükségét a dolgok megbolygatásának. Továbbmegyünk."
+say.nr210_1_massacred_village.33;– mondta Meve, miközben leszállt lova nyergébôl. –
+say.nr210_1_massacred_village.35;"De egy perccel se többet."\n\n
+say.nr210_1_massacred_village.37;A királynô egy nagy körtefa árnyékában üldögélt. Lehunyta szemét, és hallgatta a fûben ciripelô tücskök zizegését, átadva magát a pihenés ritka pillanatai egyikének. De a nyugalom nem tartott sokáig. Pár perc múlva visszatért az egyik felderítô, egy bizonyos Niedamir ôrmester. Könnyek patakzottak hegek barázdálta arcán.\n\n
+say.nr210_1_massacred_village.38;"Mondják meg a falusiaknak, hogy gyûljenek össze a kútnál"
+say.nr210_1_massacred_village.40;– mondta a királynô feszült hangon. –
+say.nr210_1_massacred_village.42;"Különben kivégeztetem ôket."\n\n
+say.nr210_1_massacred_village.44;A tündék és a törpök meg sem próbálták letagadni a történteket. Beismerték, hogy Eldain és Mókusai segédkeztek az emberek összefogdosásában, majd a malomba hajtották ôket, és rájuk gyújtották az épületet.\n
+say.nr210_1_massacred_village.46;Meve számára nem voltak idegenek a háború kegyetlenkedései, ám az a fokú gonoszság, amivel Tölgyesgázlóban találkozott, valósággal letaglózta. Borzalmas nyomást érzett a mellkasában, alig kapott levegôt, és émelyegni kezdett. Fejében valósággal hallotta az elevenen elégô emberek sikolyait.\n
+say.nr210_1_massacred_village.48;"Asszonyom..."
+say.nr210_1_massacred_village.50;– suttogta Reynard. –
+say.nr210_1_massacred_village.52;"Muszáj... Felségednek muszáj kihirdetnie valamiféle ítéletet!"\n
+say.nr210_1_massacred_village.54;– mondta Meve halkan, tekintetét a földre szegezve.\n\n
+say.nr210_1_massacred_village.56;A királynô a lova tomporára csapott a lovaglópálcájával, és kilovagolt a faluból. Nem akart szemtanúja lenni annak a vérfürdônek, amit az emberei készültek rendezni. Már az, amit a malomnál látott, is elég volt sok-sok álmatlanul töltött éjszakához.
+say.nr210_1_massacred_village.57;– mondta Meve. –
+say.nr210_1_massacred_village.59;"Ám a katonáim nem gyilkosok, sem nem hóhérok, ti pedig nem az én alattvalóim vagytok. Ezért elkísértetlek titeket Rosbergbe. Hadd ítéljenek fölöttetek az ottani hatóságok. Remélhetôleg hurkot kaptok a nyakatok köré."\n\n
+say.nr210_1_massacred_village.61;A királynô kijelölt egy tucat katonát, és azzal bízta meg ôket, hogy gondoskodjanak róla, Tölgyesgázló másfajúira aedirni bíra mondjon ki ítéletet. Bár ekképp cselekedvén a seregét gyengítette meg, cserébe megóvta az embereit attól, hogy a halálos ítélet végrehajtásával a saját kezüket szennyezzék be.
+say.nr210_1_massacred_village.7;"Minden falu pincéjében vannak csontvázak"
+say.nr210_1_massacred_village.77;Kíváncsiságtól vezérelve tért vissza a királynô Tölgyesgázlóba. Fekete Rayla indítványozta, hogy álljanak meg ott, és vizsgálódjanak a faluban...
+say.nr210_1_massacred_village.79;– vetette közbe Rayla. –
+say.nr210_1_massacred_village.8;"Egy fertályórát kapsz rá"
+say.nr210_1_massacred_village.80;"Vagy egyszerûen csak bízza rám a dolgot, Felség"
+say.nr210_1_massacred_village.81;"Tudom, mit kell tennem."
+say.nr210_1_massacred_village.83;"Elvették tôlünk a földjeinket, bemocskolták a nevünket, vertek és gyilkoltak bennünket a véres pogromok során!"
+say.nr210_1_massacred_village.85;– kiáltotta a törpök egyike. –
+say.nr210_1_massacred_village.87;"Saját maguk hozták magukra a bajt! Úgy is mondatnám, hogy csak azt kapták, amit megérdemeltek!"\n\n
+say.nr210_1_massacred_village.9;Az ôrmester odavezette egy malom még mindig füstölgô maradványaihoz. A katonák dolgokat halásztak ki a hamu közül. Ahogy közelebb ért, elborzadt, látva, hogy azok koponyák voltak, amelyek közül egynémelyik nem volt nagyobb egy almánál.\n
+title.nr210_1_massacred_village.265;Számvetésnek ideje
+

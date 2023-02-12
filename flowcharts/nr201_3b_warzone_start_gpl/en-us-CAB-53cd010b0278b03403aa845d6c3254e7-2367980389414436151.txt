@@ -1,0 +1,3 @@
+say.nr201_3b_warzone_start_gpl.1;A romok még mindig parázslanak... Nilfgaard nemrég járhatott erre. Minden bizonnyal a közelben vannak.
+say.nr201_3b_warzone_start_gpl.3;Kétségtelen, hogy már Aldersberg kapuit döngetik. Sietnünk kell.
+

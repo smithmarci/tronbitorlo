@@ -1,0 +1,4 @@
+say.nr201_3a_forest_exit_gpl.1;Végre! Már kezdtem azt hinni, sosem ér véget ez a rengeteg.
+say.nr201_3a_forest_exit_gpl.3;És azt is hittem, hogy a haramiák tudják, miképp lehet megkerülni egy erdôt.
+say.nr201_3a_forest_exit_gpl.5;Tudjuk. Azokat az erdôket, amikben nem hemzsegnek állig felfegyverzett tündék.
+

@@ -1,0 +1,72 @@
+menu.nr211_2_renegades_fort.113;Tudom, hogy festek.
+menu.nr211_2_renegades_fort.114;Te magad sem tûnsz varázslónônek.
+menu.nr211_2_renegades_fort.24;Beleegyezem a feltételeidbe.
+menu.nr211_2_renegades_fort.26;Meggondoltam magam.
+menu.nr211_2_renegades_fort.3;Megtámadod az erôdöt.
+menu.nr211_2_renegades_fort.4;Elkerülöd a haramiák búvóhelyét.
+menu.nr211_2_renegades_fort.86;Megtámadod az erôdöt.
+menu.nr211_2_renegades_fort.92;Elkerülöd a haramiák búvóhelyét.
+say.nr211_2_renegades_fort.1;A felderítôk jelentették, hogy a haramiák, akik a falut is megtámadták, most egy, az aedirni haderô által a visszavonulásukkor kapkodva elhagyott erôdben rejtôznek.\n
+say.nr211_2_renegades_fort.101;"Játszma?"
+say.nr211_2_renegades_fort.103;– vakkantotta Rayla, közben azzal küszködve, hogy lenyelje a mérgét. –
+say.nr211_2_renegades_fort.105;"Lemészároltak egy egész falut. Nem hagyhatjuk, hogy megússzák!"
+say.nr211_2_renegades_fort.106;Újra feltûnt a láthatáron a banditák erôdje, és Meve tanácsadói arról vitatkoztak, hogy megtámadják–e, vagy sem...\n
+say.nr211_2_renegades_fort.107;– káromkodott a királynô, miközben fedezéket keresett a pajzsa mögött.\n\n
+say.nr211_2_renegades_fort.108;Nem kell harcolnod, ha nincs ínyedre. Több közember is tartózkodik a sorainkban, akik––
+say.nr211_2_renegades_fort.109;Akik szintén kiveszik a részüket a mészárlásból. A bûn pártolása is csak bûn.
+say.nr211_2_renegades_fort.110;Az én katonáim nem mészárolnak. Ôk harcolnak.
+say.nr211_2_renegades_fort.111;Vagy úgy. Bocsásson meg nekem, Felség, amiért nem ismertem föl! Nem úgy fest, mint egy uralkodó... Hanem sokkal inkább úgy, mint egy zsoldos.
+say.nr211_2_renegades_fort.119;Te magad sem tûnsz varázslónônek.
+say.nr211_2_renegades_fort.121;Igaza van, Úrnôm... Elnézését kérem. Nem állt szándékomban megsérteni.
+say.nr211_2_renegades_fort.122;Valóban nem viselek koronát. Ellopták tôlem azt, az országommal egyetemben.
+say.nr211_2_renegades_fort.123;Azért küzdök, hogy visszaszerezzem, amit elvettek tôlem... És beismerem, nagy hasznát látnám egy varázslónô segítségének.
+say.nr211_2_renegades_fort.125;Elfogadom a bocsánatkérésed... És örömmel üdvözölnélek a sorainkban. Az igazat megvallva, egy képzett mágiahasználó igazán nagy segítségünkre volna.
+say.nr211_2_renegades_fort.16;Hosszan és keményen küzdöttek az erôd bevételéért. Meve meg mert volna esküdni rá, hogy olyan banditákat látott osonni a sáncok mögött, akiknek néhány pillanattal korábban még nyílvesszô csapódott a fejébe – ami a közvélekedés szerint is általában halált okoz!\n
+say.nr211_2_renegades_fort.17;Még önvédelembôl sem.
+say.nr211_2_renegades_fort.18;Ilyen tekintetben nem élünk épp szerencsés idôket... Mindenütt a háború dúl. Te sem bújhatsz el elôle.
+say.nr211_2_renegades_fort.19;Akkor hát... az istenek kegyelmére kell bíznom magamat.
+say.nr211_2_renegades_fort.20;Vagy egy épp a közelben járó királynôére.
+say.nr211_2_renegades_fort.21;Köszönöm, Úrnôm...! De tudnod kell: nekem nincs helyem egyetlen hadseregben sem.
+say.nr211_2_renegades_fort.281;"Itt hagytak számszeríjat, nyílvetôt, dárdavetôt,... Ezek a haramiák aztán állig fel vannak fegyverkezve."\n\n
+say.nr211_2_renegades_fort.282;Hangzatos szavak... De az eredmény ugyanaz: hullahegyek.
+say.nr211_2_renegades_fort.284;Nos, mert nem vagyok bandita, nem foglak kényszeríteni. Reynard, szóljon az embereknek, hogy készüljenek az indulásra.
+say.nr211_2_renegades_fort.286;Igenis. Ám ha szabad megjegyeznem... Talán Xavier vethetne egy pillantást a zsákmányolt hadigépekre. Hátha talál közöttük használható alkatrészeket.
+say.nr211_2_renegades_fort.288;Meve elfogadta Reynard javaslatát. Xavier pedig munkához látott...
+say.nr211_2_renegades_fort.290;Az istenekre... Vele meg mi történt?
+say.nr211_2_renegades_fort.292;Rosbergben volt, amikor az erôd elesett. Majdnem elevenen elégett.
+say.nr211_2_renegades_fort.294;Hogyan... Hogyan gyógyítják?
+say.nr211_2_renegades_fort.296;A seborvosok rendszeres kutyafaggyús borogatást írtak elô, de hogy volna neki bármiféle hatása...
+say.nr211_2_renegades_fort.297;Még jó, hogy nincs neki semmiféle hatása! Az efféle sebekre... Mennyire szenvedhet szerencsétlen...
+say.nr211_2_renegades_fort.299;Egynémely napokon nem adja jelét a szenvedésének... De éjszakánként hallani lehet, amint zokog a fájdalomtól.
+say.nr211_2_renegades_fort.301;Mint láthatod,... gyógyítókra van szükségem.
+say.nr211_2_renegades_fort.302;...
+say.nr211_2_renegades_fort.304;Önökkel tartok... De soha nem fogom arra használni a mágiámat, hogy életeket oltsak ki általa. Érthetôen fejeztem ki magam?
+say.nr211_2_renegades_fort.305;De a varázsigéid fontosabbak számomra, mint a modorod. Üdvözöllek a sorainkban, Isbel!
+say.nr211_2_renegades_fort.43;Nem vagyok hozzászokva ilyesféle kikötésekhez,... legfôképp ha ilyen hangnemben közlik velem azokat. Ha szívességet akarsz tenni nekünk, úgy a legjobb lesz, ha inkább a magad útját járod.
+say.nr211_2_renegades_fort.45;Igen, jól érthetôen... És meglehetôsen nyersen.
+say.nr211_2_renegades_fort.46;"Mi a démon folyik itt?!"
+say.nr211_2_renegades_fort.47;A titokra csak a csata végeztével derült fény. A katonái egy ôsz hajú, színes ruházatú idôsödô nôt vezettek Meve elé. Az ôt körüllengô aura nem hagyott kétséget afelôl, hogy egy varázslónôt fogtak maguknak, akinek a gyógyító igéi tették lehetôvé, hogy a banditák olyan sokáig kitartottak.
+say.nr211_2_renegades_fort.48;Kényszerítettek? Nem értem... Egy, a mágia fortélyaiban ennyire járatos nô könnyedén kiszabadíthatta volna magát.
+say.nr211_2_renegades_fort.49;Igaz. Megtehettem volna. De... ahhoz gyilkolnom kellett volna, én pedig megfogadtam, hogy soha többé nem használom a képességemet mások kárára.
+say.nr211_2_renegades_fort.50;Még önvédelembôl sem?
+say.nr211_2_renegades_fort.52;Bocsásson meg Felséged. Rég volt, hogy kifinomult körökben mozogtam. Megfeledkeztem arról, mint kívánja az illem...
+say.nr211_2_renegades_fort.61;"Királynô vagyok, az istenek szerelmére! Nem fogok elbújni néhány közönséges gazfickó elôl, még akkor sem, ha velük van a Varázslók Konklávéja! Reynard! Mondja meg az embereknek, hogy készítsék a fegyvereiket!\n\n
+say.nr211_2_renegades_fort.63;Reynard tisztelgett, majd elhagyta a sátrat. Ha valaki látta volna ekkor, az bizonyára megesküdött volna rá, hogy mosolyogni látta az ôsz halántékú katonát, akit épp szétvetett az uralkodója iránt érzett büszkeség.
+say.nr211_2_renegades_fort.64;Isbel az egyik szekéren üldögélt, és lehunyta fáradt szemeit. Hosszú ôsz haja mintha örökké lágyan hullámzott volna, holott nem fújt se szél, se szellô...
+say.nr211_2_renegades_fort.68;Értem. Ebben az esetben... Ég Önnel, Felség... Adják az égiek, hogy a kezei által megholtak aztán vissza ne térjenek kísérteni az álmaiban.
+say.nr211_2_renegades_fort.69;A varázslónô szavai figyelmeztetésnek hangzottak... És vallomásnak. Meve késôbb próbált többet megtudni Tretogori Isbelrôl, és bár több varázslónôvel is találkozott, ám egyikük sem hallott ilyen nevezetû nôrôl.
+say.nr211_2_renegades_fort.7;Minden adott volt egy hosszan elhúzódó vitához, amikor Meve egyszer csak az asztalra csapott az öklével.\n
+say.nr211_2_renegades_fort.70;Mi a neved, varázslónô?
+say.nr211_2_renegades_fort.72;Tretogori Isbel.
+say.nr211_2_renegades_fort.729;Igen, Felség!
+say.nr211_2_renegades_fort.74;Remélem, nem önszántadból élvezted a haramiák társaságát.
+say.nr211_2_renegades_fort.75;Egyáltalán nem. Elraboltak, majd kényszerítettek, hogy ápoljam ôket.
+say.nr211_2_renegades_fort.77;Tudd meg: Meve színe elôtt állsz, aki Lyria és Rívia uralkodója az istenek kegyelmébôl. Eme földek urát, Demavendet keressük.
+say.nr211_2_renegades_fort.79;Mi több, a helyiek szerint volt közöttük egy boszorkány is. Ezen jelentések fényében próbáltak Meve tanácsadói dûlôre jutni afölött, hogy megéri-e kockáztatni egy támadást a banditák ellen, vagy sem...\n
+say.nr211_2_renegades_fort.8;A királynô arra az elhatározásra jutott, hogy pillanatnyilag egy támadás túlon túl kockázatos lett volna. Ezért hát a lyriai haderô biztonságos távolságot tartott az erôdtôl.
+say.nr211_2_renegades_fort.96;"Mondjuk ki kereken!"
+say.nr211_2_renegades_fort.97;– mondta Gascon. –
+say.nr211_2_renegades_fort.99;"Ez a játszma nem éri meg a veszôdséget."\n
+title.nr211_2_renegades_fort.267;A lelkiismeret rabságában
+title.nr211_2_renegades_fort.317;A lelkiismeret rabságában
+

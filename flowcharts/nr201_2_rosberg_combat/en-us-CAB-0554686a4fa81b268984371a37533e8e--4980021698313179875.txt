@@ -1,0 +1,5 @@
+say.nr201_2_rosberg_combat.1;Felség, nilfgaardi harcoló alakulatok maradtak a városban!
+say.nr201_2_rosberg_combat.3;Mocskos kurafiak... Ezért még megfizetnek...
+say.nr201_2_rosberg_combat.5;Ezt nem hiszem el... Nem halhatott meg itt a király!
+say.nr201_2_rosberg_combat.7;Keressétek Demavend lobogóit! Ha itt van, meg kell ôt találnunk!
+

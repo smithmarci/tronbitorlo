@@ -1,0 +1,23 @@
+menu.nr208_1_havekar_info.18;Fizetsz az értesülésért.
+menu.nr208_1_havekar_info.19;Kiszeded belôlük az információt.
+menu.nr208_1_havekar_info.20;Nem törôdsz a havekárokkal.
+say.nr208_1_havekar_info.1;A Mállóerdô mellett feküdt egy kis település, Aprókürt. A falucskát magas palánk kerítette el a külvilágtól, és a falusiak mindenhová rögtönzött fegyverekkel – cséphadarókkal, szekercékkel és szögekkel kivert lécekkel – jártak. A Scoia'tael szomszédjaiként láthatólag nem volt egyszerû az élet.\n\n
+say.nr208_1_havekar_info.10;"Elmondhatnám, Úrnôm, igazán,... de... csakis aranyakért."
+say.nr208_1_havekar_info.2;"Úrnôm... Szerintem jó ha tudja, hogy éjszakánként a tündék kereskedôkkel üzletelnek az erdôben. Kardokat és gyógynövényeket vesznek tôlük..."\n
+say.nr208_1_havekar_info.21;Meve kivett néhány érmét az erszényébôl, és a földre hajította azokat. A parasztok azon nyomban négykézlábra vágódtak, és nekiálltak összeszedni az érméket a fû közül, mit sem törôdve a királynô katonáinak megvetô pillantásaival.
+say.nr208_1_havekar_info.23;"Nem nézem jó szemmel, ha megzsarolnak"
+say.nr208_1_havekar_info.25;– válaszolta Meve, és kivonta kardját. A penge megcsillant a napfényben, és ragyogó pászmát vetett a rémült parasztok arcára. –
+say.nr208_1_havekar_info.27;"Hajlandó vagyok megfeledkezni eme sértésrôl,... amennyiben elmondtok mindent, amit tudtok. Most!"
+say.nr208_1_havekar_info.29;"Csak átutazóban vagyunk"
+say.nr208_1_havekar_info.3;Míg a katonái pihenôt tartottak, Meve odament két falusihoz. Azok a tiszteletük jeléül lehajtották a fejüket, és idegesen babrálni kezdtek az ingujjuk szegélyével.\n
+say.nr208_1_havekar_info.31;– közölte Meve egy vállrándítás kíséretében. –\n
+say.nr208_1_havekar_info.33;"Amint elhagyom ezt az erdôt, a Scoia'tael többé nem az én gondom lesz. Ti viszont... itt maradtok majd velük."\n
+say.nr208_1_havekar_info.35;A parasztok zavartan egymásra néztek. Egyikük ugyan szólásra nyitotta a száját, ám a királynô már nem törôdött velük. A katonák megindultak az úton, és hamar maguk mögött hagyták Aprókürtöt.
+say.nr208_1_havekar_info.37;"Azok a havekárok mindenféle árukat visznek nekik a régi halászkunyhóhoz, innen északra. A Scoia'tael az elsô kakaskukorékoláskor szokta kidugni az orrát az erdôbôl."\n\n
+say.nr208_1_havekar_info.38;A királynô szólt az embereinek, hogy készüljenek a Scoia'tael és bûnsegédeik elleni küzdelemre. Fekete Rayla egy kidôlt fatörzsön ücsörgött, és a kardját élezte. {audio=nr208_1_havekars_info_sword_sharpen}A köszörûkô fémen elvásó csikorgása zord ígéretet hordozott magában.
+say.nr208_1_havekar_info.39;"Úgy látom, eszes üzletemberekkel van dolgom... Legyen. Itt a fizetségetek."\n
+say.nr208_1_havekar_info.4;Rayla, aki fültanúja volt a beszélgetésnek, gyûlölködô grimaszt vágott.\n
+say.nr208_1_havekar_info.6;"Havekárok... Mocskosabbak, mint a férgek. Pénzért cserébe gyilkosoknak segédkeznek. Kérem, Úrnôm...! Fel kell kutatnunk és meg kell büntetnünk ôket. Te ott, beszélj! Hol ejtik meg ezeket a találkákat?"\n
+say.nr208_1_havekar_info.8;A parasztok összenéztek, az egyik megvakarta a feje búbját, a másik meg a nagylábujjával piszkálta az út porát. Végül az egyiküknek megeredt a nyelve:\n
+title.nr208_1_havekar_info.262;Veszélyes üzelmek
+

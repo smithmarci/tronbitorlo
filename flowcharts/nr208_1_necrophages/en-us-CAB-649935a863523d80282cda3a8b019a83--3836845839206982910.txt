@@ -1,0 +1,47 @@
+menu.nr208_1_necrophages.18;A nilfgaardiak megmentésére sietsz.
+menu.nr208_1_necrophages.20;Sorsukra hagyod a nilfgaardiakat.
+menu.nr208_1_necrophages.29;Engeded a katonáknak, hogy a seregedhez csatlakozzanak.
+menu.nr208_1_necrophages.30;Elutasítod a katonák csatlakozási kérelmét.
+menu.nr208_1_necrophages.68;Nem avatkozol közbe.
+menu.nr208_1_necrophages.69;Eyck megsegítésére sietsz.
+say.nr208_1_necrophages.1;"Meg kell néznünk közelebbrôl. Szedjen össze maga mellé néhány embert, és odamegyünk! Gyorsan!"\n\n
+say.nr208_1_necrophages.10;"Nem tudják visszaverni ôket. És a páncélzatuk túl nehéz ahhoz, hogy elmenekülhessenek."
+say.nr208_1_necrophages.11;"Felség! Tudom, hogy semmi oka megbízni bennünk, de... Nem vagyunk az Ön ellenségei. Egy Nilfgaard által elfoglalt és leigázott tartományból, Ghesóból valók vagyunk. Nem kértük, hogy harcolhassunk ebben a háborúban – erôszakkal soroztak be minket."\n
+say.nr208_1_necrophages.21;Meve kacsintott, és gonoszan elmosolyodott.\n
+say.nr208_1_necrophages.22;"Katonák! Egy csatának lehetünk szemtanúi! Az egyik oldalon vérszomjas, agyatlan bestiák állnak, akiket csak a gyilkolás éltet, a másikon pedig...: ghúlok. Véleményem szerint megérdemlik egymást. Visszavonulunk!"\n
+say.nr208_1_necrophages.23;A királynô meghúzta a kantárt, és megfordította a lovát. Az erdôt hamarosan nevetés töltötte be, amibe az élve széttépett nilfgaardiak halálsikolyainak hangja keveredett.
+say.nr208_1_necrophages.24;Meve az elején még bizonytalan volt azt illetôen, hogy miképp is cselekedjék. Ám amikor meglátta, ahogy ghúlok egy nilfgaardit szaggatnak miszlikekbe épp, kivonta a kardját.\n
+say.nr208_1_necrophages.25;"Senki nem érdemel ilyen halált. Még egy nilfgaardi sem. Utánam!"
+say.nr208_1_necrophages.267;Meve katonái gyanakodva méregették a megszállókat, nem lévén bizonyosak abban, hogy mi is fog következni ezután. Aztán hirtelen az egyik nilfgaardi kivált az alakzatból,... és térdre hullt.\n
+say.nr208_1_necrophages.28;"Az után sóvárogtunk, hogy valamiképp dezertálhassunk,... és most talán megadatik a lehetôség. Felség, engedje meg nekünk, hogy a seregéhez csatlakozhassunk. Ugyanannyira vágyjuk a Birodalom bukását, akárcsak Ön.
+say.nr208_1_necrophages.31;Meve talpra segítette a térdeplô katonát.\n
+say.nr208_1_necrophages.32;"Nilfgaard ellensége a barátom. Nem számít, hogy ki is ô, sem hogy honnan származik."\n\n
+say.nr208_1_necrophages.33;A lyriaiak láthatóan elégedetlenek voltak a királynô döntésével. A ghesói dezertôröknek bizony igencsak meg kell majd küzdeniük azért, hogy elnyerjék a bizalmukat.
+say.nr208_1_necrophages.34;Meve odasétált a térdeplô katonához, és kivette a kardot a kezébôl.\n
+say.nr208_1_necrophages.35;"Viseltes... Mondd csak, miképp lett rajta ez a csorba? Favágástól? Netán egy jó sült felszelésétôl?"\n
+say.nr208_1_necrophages.36;A katona nem válaszolt, csupán lesütötte a tekintetét. Ennyi elegendô volt ahhoz, hogy meggyôzze a királynôt, a katona lelkiismerete nem volt épp makulátlan.\n
+say.nr208_1_necrophages.37;"Tisztuljatok innen! És ha még egyszer kereszteznék egymást az útjaink, ne számítsatok a könyörületemre."\n
+say.nr208_1_necrophages.38;A dezertôrök összeszedelôzködtek, és szó nélkül eltûntek a fák között. Meve a katonáihoz fordult. Már az arckifejezésükbôl tudta, hogy elégedettek a döntésével.
+say.nr208_1_necrophages.39;"Áááááárgh!"\n
+say.nr208_1_necrophages.40;"Mi... Mi volt ez?"
+say.nr208_1_necrophages.42;– kérdezte Meve Reynardtól, aki mellette léptetett lován.\n
+say.nr208_1_necrophages.44;"Egy férfi... sikolya, úgy hiszem."\n
+say.nr208_1_necrophages.59;A királynô meghúzta a kantárt, és megfordította a lovát készen arra, hogy elhagyja a falut,... amikor Eyck állta el az útját.\n
+say.nr208_1_necrophages.61;"Ez hitványság!"
+say.nr208_1_necrophages.63;– harsogta a lovag. –
+say.nr208_1_necrophages.65;"Nem számít, milyen címer díszíti a vértjüket, ôk úgyszintén emberek! És én, Deneslei Eyck, a megsegítésükre sietek még akkor is, ha egymagamnak kell megvívnom ezt a csatát!"\n
+say.nr208_1_necrophages.67;Eyck a királynô válaszára sem várva leeresztette a lándzsáját, megsarkantyúzta a lovát, és rárontott a szörnyekre.
+say.nr208_1_necrophages.7;A lyriaiak és a nilfgaardiak egyesült erôvel, vállt vállnak vetve küzdöttek a szörnyekkel. De amint az utolsó nekrofág is a földre hanyatlott, a katonák nyomban visszatértek a saját különítményükhöz.\n\n
+say.nr208_1_necrophages.76;"Mint hogy Eyck nem lát különbséget nilfgaardi és északi között,"
+say.nr208_1_necrophages.78;"jobb is, hogy elhagyta a sorainkat. Térjünk vissza a többiekhez!"\n\n
+say.nr208_1_necrophages.80;– mondta Meve, –
+say.nr208_1_necrophages.81;A királynô döntésétôl megrökönyödötten a katonák még jó ideig csak álltak, hol ôrá, hol pedig az ocsmány dögökkel szemben magukat védô nilfgaardiakra pillantgatva. Végül követték a királynô parancsát, és elindultak vissza a fôsereg irányába, habár néha-néha hátratekintgettek a válluk fölött. És hogy mi lett Eyckkel? Nos, róla többé senki sem hallott.
+say.nr208_1_necrophages.83;"Vigye el a démon!"
+say.nr208_1_necrophages.85;– káromkodta el magát Meve, és kivonta a kardját. –
+say.nr208_1_necrophages.86;"Azt hiszem, nem hagyhatjuk azt a bolondot a ghúlok martalékául. Utánam! A csatába!"\n
+say.nr208_1_necrophages.87;A lyriaiak késedelem nélkül siettek Eyck segítségére... Na, és persze a nilfgaardiakéra.
+say.nr208_1_necrophages.89;A katona a pengéjénél fogva emelte fel a kardját, és markolattal elôre nyújtotta oda a királynônek.\n
+say.nr208_1_necrophages.9;A sikolyok egy kis település irányából hangzottak fel. Amint a parasztházakhoz ért, Meve lova rémületében curükkolni és nyihogni kezdett. Mindenfelé nekrofágok hemzsegtek. A szörnyek néhány nilfgaardit rajzottak körül, akik fáklyáikkal próbálták elûzni azokat – sikertelenül. Reynard végignézett a mészárlás helyszínén, majd így szólt:\n
+title.nr208_1_necrophages.264;Az ellenségem ellensége
+title.nr208_1_necrophages.304;Az ellenségem ellensége
+

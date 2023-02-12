@@ -1,0 +1,11 @@
+say.nr206_1_villagers_plea.12;Meve végignézett az elfeketedett, porig égett falun, a maradványok között tallózó csontvázakon. A még mindig lángoló szántókról feléje szálló fullasztó füst könnyet csalt a szemébe.\n
+say.nr206_1_villagers_plea.14;"Megteszem, amit tudok."
+say.nr206_1_villagers_plea.16;– Csak ennyit mondott. Tudta, hogy nem a lelkesítô beszédnek van most itt az ideje. Hanem a cselekvésnek.
+say.nr206_1_villagers_plea.2;Meve hitetlenkedve forgatta a fejét, ahogy az elôtte elterülô földeket nézte. A nilfgaardiak elpusztítottak mindent, ami az útjukba került: felégették a termôföldeket, letaposták a terményt, letarolták a gyümölcsösöket.\n
+say.nr206_1_villagers_plea.20;"A kurafik..."
+say.nr206_1_villagers_plea.22;– szûrte a szót a fogai között. –
+say.nr206_1_villagers_plea.24;"Az a céljuk, hogy kitörjön az éhínség."\n\n
+say.nr206_1_villagers_plea.4;Amikor a lyriaiak elérkeztek egy Aldersberghez közeli kis faluhoz, Bizalomváráshoz, lesoványodott, csupa csont és bôr nôket és férfiakat találtak ott, akik makkon és szárított bôrökön tengôdtek. A megszállók ellátmány gyanánt az utolsó morzsáig kifosztották a raktáraikat, és magukkal vitték azt a közeli táborukba. A falu lakói könyörögve kérték a királynôt, hogy szerezze vissza az élelmüket.\n
+say.nr206_1_villagers_plea.6;"Úrnôm,... elôbb itt lesz a fagy, mint gondolnánk. És ha nem segít rajtunk, egy árva lélek sem fogja itt megérni a rügyfakadást."\n
+title.nr206_1_villagers_plea.257;Kifosztott hombárok
+

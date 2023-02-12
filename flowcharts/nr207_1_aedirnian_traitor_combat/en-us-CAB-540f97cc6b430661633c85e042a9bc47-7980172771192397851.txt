@@ -1,0 +1,4 @@
+say.nr207_1_aedirnian_traitor_combat.1;Ez... Meve királynô maga?! Fegyverbe!
+say.nr207_1_aedirnian_traitor_combat.3;Kegyelem, Felség! Megadjuk magunkat!
+say.nr207_1_aedirnian_traitor_combat.5;Ez az ember sokat szenvedett...
+

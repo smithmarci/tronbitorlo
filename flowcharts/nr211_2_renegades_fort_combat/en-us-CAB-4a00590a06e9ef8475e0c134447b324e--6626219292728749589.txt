@@ -1,0 +1,7 @@
+say.nr211_2_renegades_fort_combat.1;Adjátok meg magatokat, amíg még lehet!
+say.nr211_2_renegades_fort_combat.11;Rést kell találnunk az erôdítésükön.
+say.nr211_2_renegades_fort_combat.3;Miénk az erôd, Felség.
+say.nr211_2_renegades_fort_combat.5;Valami itt nincs rendjén... Ilyen sebesülésekkel már halottnak kellene lenniük!
+say.nr211_2_renegades_fort_combat.7;Felség, villanásokat láttam az erôdön belülrôl...
+say.nr211_2_renegades_fort_combat.9;Hallották? Valamiféle... ráolvasás talán?
+

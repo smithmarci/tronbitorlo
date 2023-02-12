@@ -1,0 +1,44 @@
+menu.nr201_2_rosberg.36;Attól tartok, nem.
+menu.nr201_2_rosberg.37;A nilfgaardiak valószínûleg ejtettek foglyokat.
+say.nr201_2_rosberg.10;Amit a támadás során nem sikerült lerombolniuk, azt a nilfgaardiak, amint bejutottak a városba, azon nyomban fel is gyújtották. A megfeketedett, üszkös romok között számos védô és menedéket keresô paraszt elszenesedett holtteste hevert. Sokan a saját testükkel próbálták megóvni gyermekeiket a vésztôl... Sikertelenül.\n
+say.nr201_2_rosberg.12;"Az istenek legyenek átkozottak!"
+say.nr201_2_rosberg.13;Meve már majdnem kiadta a parancsot az indulásra, amikor egy halom törmelék alól kihallatszódó fojtott nyöszörgésre lett figyelmes. A katonák már oda is rohantak segíteni, és a puszta kezükkel túrtak a még mindig izzó tégladarabok közé.\n
+say.nr201_2_rosberg.14;"Itt! Életben van!"\n\n
+say.nr201_2_rosberg.15;A romok közül elôhúzott férfi borzalmas sérüléseket szenvedett. Az arca az elhalt hús és felhólyagzott, gennyes kelések elegye volt, és az égett hús szagától bûzlött. Fekete Raylát megpillantva a szerencsétlen két lábra kecmergett, és remegô kezét tisztelgésre emelte.
+say.nr201_2_rosberg.16;Xavier Lemmens hadnagy, mérnök, szolgálatra jelentkezem.
+say.nr201_2_rosberg.20;A lyriaiaknak egyetlen vigaszuk lehetett csak: igaz, hogy Rosberg elesett, de a nilfgaardiak, mert nem számítottak erôsítésre dél felôl, csak egy kisebb helyôrséget állomásoztattak itt a hely megtartására. Meve gyôzelembe vezette az embereit, és visszafoglalta az erôdítményt – már azt, ami megmaradt belôle.\n
+say.nr201_2_rosberg.21;Lem– Lemmens?! Mi a démon történt...?
+say.nr201_2_rosberg.23;Az erôd elesett.
+say.nr201_2_rosberg.24;Elesett...? Átkozott Scoia'tael...
+say.nr201_2_rosberg.25;Én... én azt nem tudhatom. A Keleti Toronynál vezettem a védelmet... Olajat melegítettünk, hogy odapiríthassunk a nilfgaardiaknak... Aztán az egyik kôhajító eltalált bennünket... Az üst megbillent,... minden lángba borult... Hogy azután mi történt, meg nem mondhatom.
+say.nr201_2_rosberg.253;Felcsert! Küldessenek felcserért!
+say.nr201_2_rosberg.254;Tisztelem a küzdeni akarásod, jóember,... de a te állapotodban––
+say.nr201_2_rosberg.29;Rayla keserû meglepetéssel szembesült. Egy majd' háromszáz lábnyi rés tátongott Rosberg "áthatolhatatlan" falán. Az erôd lángokban állt, fekete füstgomolyagok emelkedtek belôle az ég felé.\n
+say.nr201_2_rosberg.30;"Én nem... Hogyan?! Ez lehetetlen!!"\n\n
+say.nr201_2_rosberg.32;Nem volt idô a válaszon gondolkodni, ugyanis a nilfgaardi felderítôk már észre is vették Meve-et és seregét. Mert tudta, hogy a csata immár elkerülhetetlen, a királynô megadta a jelet a védekezô állásba helyezkedéshez, majd kivonta a kardját.
+say.nr201_2_rosberg.41;– kiáltotta a királynô, öklével pedig belebokszolt egy faldarabba.\n
+say.nr201_2_rosberg.43;Hogy mondod?
+say.nr201_2_rosberg.44;Kiválóan megerôsítettünk mindent. Egy hónapig, vagy akár kettôig is kitarthattunk volna... De árulók voltak közöttünk... Tündék. Törpök.
+say.nr201_2_rosberg.46;Tölteteket helyeztek el a támfalaknál... Robbanás rázta meg a tornyot. A falon hatalmas lyuk támadt. Az embereink azonnal ott termettek, hogy eltorlaszolják a rést...
+say.nr201_2_rosberg.48;Férgek... Mocskos, rohadt férgek...!
+say.nr201_2_rosberg.50;Tudom, hogy fájdalmaid vannak, katona... De Meve királynô találkozni kíván az uralkodóddal, Demavenddel. Tudnunk kell, mi lett a sorsa.
+say.nr201_2_rosberg.52;Távozott. Szerencsésen. Az elôkészületeket felügyelte, majd visszatért Aldersbergbe. Két vagy három napja talán...
+say.nr201_2_rosberg.54;Tegyünk mi is ekképp. Reynard! Készítse fel az embereket az indulásra.
+say.nr201_2_rosberg.55;Várjon, Felség... Vannak túlélôk? Túlélte bárki is?
+say.nr201_2_rosberg.57;Nem. Nem találtunk más túlélôt.
+say.nr201_2_rosberg.58;Talán a nilfgaardiak ejtettek foglyokat... Még van rá remény.
+say.nr201_2_rosberg.60;Hogy tehették ezt...? Oda egy egész helyôrség, egy egész város...? Állatok...
+say.nr201_2_rosberg.62;Katona,... a seborvosaim majd a legjobb tudásuk szerint ellátnak. Aztán hazakísérünk, ha––
+say.nr201_2_rosberg.64;Ez az én otthonom, Felség. Rosberg.
+say.nr201_2_rosberg.66;Felség, bár karddal és pajzzsal nem szolgálhatom, de... még mindig tudok harcolni – a magam módján. Hadmérnök vagyok. Ostromtornyokat, dárdavetôket, hidakat építek,... bármit megépítek, amit csak kíván. Könyörgöm, adjon rá lehetôséget.
+say.nr201_2_rosberg.67;Esdekelve kérem,... engedje meg, hogy Felségedhez csatlakozzak. Hogy bosszút állhassak.
+say.nr201_2_rosberg.69;Olyan fájdalom és elszánás hallatszott ki Xavier eltorzult, hörgô hangjából, hogy Meve nem tudta elutasítani a kérését. Amint a seborvosok bekötözték a hadmérnök sebeit, Meve emberei elindultak Aldersberg irányába, Demavend és a nilfgaardiak nyomában.\n\n
+say.nr201_2_rosberg.71;Útjuk során Fekete Rayla egyszer csak Meve mellé lovagolt. A harcos ajkai vékony vonallá keskenyedtek, vér serkent rajtuk, ahogy beharapta azokat.\n
+say.nr201_2_rosberg.72;"Úrnôm,... a Mállóerdôn át vezet az út Aldersbergbe. Ott ólálkodnak Eldain Scoia'taeljei. Ugyanazok a mocsadékok, akik az embereimmel végeztek.,.. és a Fekete mészárosok kezére játszották Rosberget."
+say.nr201_2_rosberg.74;– Rayla mély levegôt vett, hogy fékezze haragját, és elnyomja hangja remegését. –
+say.nr201_2_rosberg.75;"Kérem, Úrnôm! Kérem, mindarra, ami szent... Kutassuk fel ôket. Aztán pusztítsuk el ôket."\n
+say.nr201_2_rosberg.77;Meve alig láthatóan biccentett. Úgy festett, az Aldersbergig tartó út hosszú és kihívásokkal lesz teli...
+title.nr201_2_rosberg.248;A hamu alatt
+title.nr201_2_rosberg.268;A hamu alatt
+title.nr201_2_rosberg.271;A hamu alatt
+

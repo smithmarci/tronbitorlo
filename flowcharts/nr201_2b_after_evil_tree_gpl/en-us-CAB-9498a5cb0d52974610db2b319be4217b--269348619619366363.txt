@@ -1,0 +1,4 @@
+say.nr201_2b_after_evil_tree_gpl.1;Halljátok? Csalogányok... Csak dalolnak, a háborúval mit sem törôdve...
+say.nr201_2b_after_evil_tree_gpl.3;Nem madarak azok, Úrnôm... Hanem Scoia'tael ôrszemek. Állathangokkal jeleznek egymásnak.
+say.nr201_2b_after_evil_tree_gpl.6;Mondja meg az embereinek, Úrnôm, hogy maradjanak az úton. Bárki, aki a fák közé merészkedik, nem tér vissza onnan.
+

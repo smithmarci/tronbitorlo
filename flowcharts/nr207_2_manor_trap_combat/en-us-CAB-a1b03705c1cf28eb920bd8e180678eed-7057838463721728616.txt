@@ -1,0 +1,10 @@
+say.nr207_2_manor_trap_combat.1;Most már nem vagyunk olyan hatalmasak, ugye, Meve?
+say.nr207_2_manor_trap_combat.11;Hiába is küzd! Itt fog meghalni!
+say.nr207_2_manor_trap_combat.13;Mit mûvel? Öljétek meg! Végezzetek vele!
+say.nr207_2_manor_trap_combat.15;Ha megöl, a nilfgaardiak szörnyûséges bosszút állnak majd!
+say.nr207_2_manor_trap_combat.17;Az istenekre,... kegyelmezzen! Engem kényszerítettek...!
+say.nr207_2_manor_trap_combat.3;Ezért még megfizet!
+say.nr207_2_manor_trap_combat.5;Meve, kapd el a grabancát! Nem áll szándékomban itt hagyni ma a fogam!
+say.nr207_2_manor_trap_combat.7;Falbeson – a nagy Meve legyôzôje. Egészen jól cseng, nemde?
+say.nr207_2_manor_trap_combat.9;Ostobák! Ezüsttálcán szolgáltam fel nektek!
+

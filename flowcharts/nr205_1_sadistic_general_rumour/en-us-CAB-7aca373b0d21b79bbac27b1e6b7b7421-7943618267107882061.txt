@@ -1,0 +1,15 @@
+say.nr205_1_sadistic_general_rumour.1;Egy vékonyka csermelyen átkelvén Meve utasításba adta a katonáinak, hogy töltsék fel a vízkészleteiket. Ám azok üres vizestömlôkkel és kulacsokkal, valamint arcukon aggodalmas kifejezéssel tértek vissza.\n
+say.nr205_1_sadistic_general_rumour.10;– mondta a királynô hûvös hangon, –
+say.nr205_1_sadistic_general_rumour.12;"és megadjuk ezeknek a szegény lelkeknek az ôket megilletô temetést. Reynard, küldjön ki felderítôket. És hagyja meg nekik, hogy addig vissza se térjenek, amíg meg nem tudják, mi történt itt."\n\n
+say.nr205_1_sadistic_general_rumour.13;Amikor nem sokkal késôbb a felderítôk visszatértek, egy mezítlábas parasztot hoztak magukkal, akire az erdôben bujdokolva találtak rá. Azt állították, egy közeli falucskából, Dérfalváról származik, amely falunak a lakóit lemészárolták a nilfgaardiak.\n
+say.nr205_1_sadistic_general_rumour.15;"Azok a nyomoronc Feketék megrohanták a falut, Úrnôm. A démonfattya Vrygheffel az élükön... Összetereltek bennünket, és mindannyiunkat lehajtottak a tóhoz! Majd sihi-suhi, aztán csibb-csobb...! Csak nekem sikerült kereket oldanom."\n
+say.nr205_1_sadistic_general_rumour.16;Meve meghallgatta a férfi elbeszélését, majd a tábori orvosok gondjaira bízta ôt. Ezután elrendelte a táborbontást. A hadoszlop élén léptetett, Reynarddal az oldalán. Ökölbe szorított keze elfehéredett a kantárt markolva.\n
+say.nr205_1_sadistic_general_rumour.17;"Tudjuk, merrefelé állomásozik ez a Vrygheff?"\n
+say.nr205_1_sadistic_general_rumour.19;"A lovasaink azt jelentették, hogy innen keletre vert tábort."\n
+say.nr205_1_sadistic_general_rumour.2;"Úrnôm...! A víznek... vér íze van... De nem úgy, mint a véres hurkának, tudja, hanem mintha koszos vasat nyalna!"\n\n
+say.nr205_1_sadistic_general_rumour.256;"Akkor látogassuk meg."
+say.nr205_1_sadistic_general_rumour.4;Meve-nek nem volt más választása, mint továbbmenni. Kiszáradt torokkal nyelt egyet, és közben azon gondolkodott, miképp értelmezze ezt a különös eseményt. Egy rossz elôjelnek talán? Az istenektôl kapott figyelmeztetésként?\n\n
+say.nr205_1_sadistic_general_rumour.6;Hamarosan azonban megtudta az igazat. A csermelyt folyás iránt követve a lyriaiak egy kis tóhoz értek, aminek a felszínén több tucat holttest lebegett. Meve tekintete egy, a hátán lebegô fiatal nôn akadt meg, akinek hosszú haja lágyan terült szét a vízen, szemeiben az ég kékje tükrözôdött, fitos orrát szeplôk pettyezték,... és torkán széles vágás ásított vöröslôn.\n
+say.nr205_1_sadistic_general_rumour.8;"Itt megállunk"
+title.nr205_1_sadistic_general_rumour.255;Karmazsin színû hullámok
+

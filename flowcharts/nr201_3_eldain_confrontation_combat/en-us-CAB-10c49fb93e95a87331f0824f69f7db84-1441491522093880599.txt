@@ -1,0 +1,8 @@
+say.nr201_3_eldain_confrontation_combat.1;Itt fogsz kimúlni, dh'oine.
+say.nr201_3_eldain_confrontation_combat.11;Figyelmeztettem! Így elveszítettük minden elônyünket!
+say.nr201_3_eldain_confrontation_combat.13;Óvatosan! Maradjatok éberek! Gyávák ezek mind... És minden bizonnyal csapdákat is állítottak.
+say.nr201_3_eldain_confrontation_combat.3;Bloede... beanna!
+say.nr201_3_eldain_confrontation_combat.5;Felség... A katonáinkat megkímélhettük volna a haláltól...
+say.nr201_3_eldain_confrontation_combat.7;Én... Én sajnálom, Felség. Vállalom a felelôsséget – mindenért.
+say.nr201_3_eldain_confrontation_combat.9;Az emberei már akkor halottak voltak, amikor Eldain markába kerültek.
+

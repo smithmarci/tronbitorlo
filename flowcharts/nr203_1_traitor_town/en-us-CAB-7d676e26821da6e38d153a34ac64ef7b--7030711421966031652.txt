@@ -1,0 +1,32 @@
+menu.nr203_1_traitor_town.3;Megtámadod a várost.
+menu.nr203_1_traitor_town.39;Elveszed az aranyat.
+menu.nr203_1_traitor_town.4;Elkerülöd Gatberget.
+menu.nr203_1_traitor_town.40;Hagyod az aranyat Gatbergben.
+menu.nr203_1_traitor_town.64;Megtámadod a várost.
+menu.nr203_1_traitor_town.65;Elkerülöd Gatberget.
+say.nr203_1_traitor_town.1;Ahogy Meve Gatberghez közeledett, a szeme nyomban megakadt a palánkokról alálógó zászlókon. Nilfgaardi zászlókon.\n\n
+say.nr203_1_traitor_town.14;A gatbergi csata Meve gyôzelmével végzôdött – a város lakosainak legnagyobb bánatára. Miközben a nilfgaardi raktárakat szemrevételezte, a város polgármestere – egy idôsödô úriember méretes rozmárbajusszal – személyes kihallgatásért folyamodott nála.\n
+say.nr203_1_traitor_town.15;"Felség... Öreg vagyok már. Azzal, ha végez velem, csak a köszvénynek tesz szívességet. Ezért egyenes leszek... Önnek kevés embere van. Nem engedheti meg magának, hogy akár csak egyet is a város ôrizetére hagyjon. Miután tovalovagol, a birodalmiak visszafoglalják a várost, meglátják a kifosztott raktárakat, és bosszút esküsznek. Bár Felséged addigra már messze jár majd,... mi viszont rettentô közel leszünk."\n
+say.nr203_1_traitor_town.17;"Árulók, mindannyian. Nem lehet csoda, hogy a város sértetlen... Minden bizonnyal szélesre tárták a kapukat a délrôl érkezô söpredék elôtt. Most meg azt akarják, hagyjuk, hogy megtömjék a zsebeiket a gazdátlanul hagyott aranyakkal!"
+say.nr203_1_traitor_town.22;A felderítôi épségben találták a város épületeit, a város utcáit pedig kiontott vértôl mentesen. A Feketék katonáit látták a raktárházaknál, amikben a környékbeli településekrôl összeharácsolt zsákmányt ôrizték. Furcsamód ezek a katonák meglehetôsen kevesen voltak...\n\n
+say.nr203_1_traitor_town.23;"A kapuk tárva–nyitva. A birodalmiak, úgy tûnik, nem számítanak támadásra... Ezért meglephetjük ôket. Visszavehetjük a várost, és..."\n
+say.nr203_1_traitor_town.25;"...és rátehetjük a kezünket az aranyra"
+say.nr203_1_traitor_town.254;"Larwm! Essea tuv'en a'vean!"
+say.nr203_1_traitor_town.26;"Felség... Könyörögve kérem, hagyja itt az aranyat! Vagy az asszonyaink és gyermekeink vére fogja öntözni Gatberg utcáit."\n
+say.nr203_1_traitor_town.27;Meve azon morfondírozott, mit is gondoljon a fickóról. Vajon dícséret illetné meg az elôrelátásáért és a polgártársai iránt tanúsított törôdéséért? Vagy helytelenítést a gyávaságáért és arcátlanságáért? Ami Fekete Raylát illeti, neki nem voltak efféle kételyei.\n
+say.nr203_1_traitor_town.36;Végül Meve amellett döntött, hogy nem támadja meg a várost. Gatberg felszabadítása nem lenne befolyással a háború alakulására, és egy itt elvesztett csata jelentôsen meggyengítené a seregét.
+say.nr203_1_traitor_town.37;Meve gyûlölte Nilfgaardot, és szüksége volt az aranyra a sereg fenntartásához – ez két igen jó indok arra, hogy megtámadja Gatberget. Meghozta hát a döntést, és utasította az embereket, hogy készüljenek a harcra. Itt volt az ideje, hogy a megszállók megtudják, milyen is az, ha védekezni kényszerülnek.\n
+say.nr203_1_traitor_town.43;Pár pillanatnyi hezitálás után Meve a szekerekre rakatta az aranyat a katonákkal.\n
+say.nr203_1_traitor_town.44;"Mint Te is mondtad, Polgármester, a seregem kicsi. Ezért is van szükségem az aranyra. Hogy megnövelhessem."\n
+say.nr203_1_traitor_town.45;A polgármester egy szót sem szólt. Meghajolt a királynô elôtt, majd a botjára görnyedve elsántikált úgy, mintha ez alatt a rövid beszélgetés alatt éveket öregedett volna.
+say.nr203_1_traitor_town.46;Meve a kincsesládák egyike elôtt állt, amaz színültig teli arannyal. Lecsapta a tetejét, ami hangosat csattanva csukódott aztán be.\n
+say.nr203_1_traitor_town.47;"Az arany marad. Az utolsó érméig"
+say.nr203_1_traitor_town.48;Az öregember még jó ideig állta Meve metszô hideg tekintetét, majd szó nélkül biccentett.
+say.nr203_1_traitor_town.49;– fejezte be Gascon.
+say.nr203_1_traitor_town.66;A lyriaiak újfent Gatberg falai alatt álltak. Nilfgaard lobogói még mindig büszkén lengedeztek fennen a szélben.
+say.nr203_1_traitor_town.68;Az öregember térdre rogyott és megragadta a királynô palástjának szegélyét a bütykös ujjaival.\n
+say.nr203_1_traitor_town.69;– mondta a királynô. –
+say.nr203_1_traitor_town.71;"Cserébe azt kérem, esküdj, hogy amikor majd elérkezik a pillanat, és Nilfgaard visszavonulót fúj, fegyvert ragadtok. És hátba szúrjátok a Fekete szukafattyakat."\n
+title.nr203_1_traitor_town.253;A béke ára
+title.nr203_1_traitor_town.261;A béke ára
+

@@ -1,0 +1,85 @@
+menu.nr201_4_vengerberg.114;Egy gyáva alak vagy.
+menu.nr201_4_vengerberg.115;Tégy, ahogy jónak látod.
+menu.nr201_4_vengerberg.174;Ne akard beadni nekem ezt a maszlagot.
+menu.nr201_4_vengerberg.177;Úgy érted, mint akinek halálvágya van.
+menu.nr201_4_vengerberg.89;Egy fattyúért kockáztatod az egész sereget. Ez merô ostobaság.
+menu.nr201_4_vengerberg.91;Megértem. A gyermekek az élet legnagyobb ajándékai.
+say.nr201_4_vengerberg.1;Kihasználva a zûrzavart Meve a csapataival egészen az Óváros falaiig eljutott. A lyriai lobogókat megpillantván a védôk kelepcére gyanakodtak – ám amikor észrevették a katonák között Fekete Raylát, nyomban leengedték a csapóhidat.\n\n
+say.nr201_4_vengerberg.100;Megértem. A saját gyermekéért bárki hajlandó megtenni akármit.
+say.nr201_4_vengerberg.102;Furcsa, nem? Talán még mulattató is... A háború közepette, miközben a királyságom lángokban áll,... jómagam boldog vagyok.
+say.nr201_4_vengerberg.104;Ebben az esetben csak reménykedhetem abban, hogy az utódod – az enyémmel ellentétben – folytatni fogja majd––
+say.nr201_4_vengerberg.108;Felségek! Támadnak a nilfgaardiak!
+say.nr201_4_vengerberg.110;Meve,... ki kell tartanunk! Csak néhány órácskáig!
+say.nr201_4_vengerberg.112;Megteszem, ami tôlem telik.
+say.nr201_4_vengerberg.113;Meve,... az embernek tudnia kell, mikor kell engednie,... és mikor kockáztatnia. Nilfgaard túlságosan szétnyújtotta a frontvonalakat, és hamarosan itt a tél. Hadd ôrölje fel ôket a seregek fenntartása.
+say.nr201_4_vengerberg.118;Egy gyáva alak vagy, Demavend. Egy pipogya fráter.
+say.nr201_4_vengerberg.120;Talán így van... De ne feledd: csak bátorsággal nem lehet háborúkat nyerni. Katonákkal lehet. És Nilfgaardnak egyszerûen sokkal több katonája van.
+say.nr201_4_vengerberg.122;Rendben. Tégy, ahogy jónak látod.
+say.nr201_4_vengerberg.124;És Te?
+say.nr201_4_vengerberg.129;Én nem tudok így élni.
+say.nr201_4_vengerberg.13;Köszönöm! Ha Te nem vagy,... a démonok elemésztettek volna bennünket.
+say.nr201_4_vengerberg.131;Szóval mi tévô leszel?
+say.nr201_4_vengerberg.133;Harcolni fogok. Amíg nem gyôzedelmeskedem. Vagy a Fekete korcsok szét nem szaggatnak.
+say.nr201_4_vengerberg.135;Istenek... Sajnálom a férjedet. Szegény embernek nem lehetett könnyû dolga.
+say.nr201_4_vengerberg.137;Mindvégig elégedettnek tûnt az életével. Ám komolyan gondolom a kérésemet, Demavend. Valóban nem segítenél? Nem adnál mellém senkit és semmit?
+say.nr201_4_vengerberg.139;Hmm... Megmondom az embereimnek, hogy aki úgy kívánja, csatlakozhat a seregedhez, és harcolhat tovább. De kérlek, fékezd kitörni akaró ujjongásodat! Kevesen lesznek, akik a további keserves ellenállást választják majd.
+say.nr201_4_vengerberg.14;Mondanám, hogy semmiség volt,... de az az igazság, hogy szükségem van a segítségedre.
+say.nr201_4_vengerberg.141;De, de, de... Ismered a mondást, miszerint "Ahol az ész már cserben hagy, fogadj egy törpöt barátnak"?
+say.nr201_4_vengerberg.143;Igen, és még sok másikat. Ám tartsam bármennyire is sokra a népi bölcseleteket, jelen pillanatban nagyobb hasznát venném tényeknek a filozófiai fejtegetésekkel szemben. A jelen helyzetemmel kapcsolatos tényeknek leginkább.
+say.nr201_4_vengerberg.145;Helyes. Ezért, hogy valamiképp megkönnyítsem az utazásod, melléd adom a feladatra leginkább alkalmas emberemet. Rayla!
+say.nr201_4_vengerberg.147;Igen, Felség?
+say.nr201_4_vengerberg.148;Többször jártál már velem Mahakamban, ismered az ottani utakat és ösvényeket... Vezesd el oda Meve-et és a seregét!
+say.nr201_4_vengerberg.15;Segítségre? De hiszen magad is láthatod: nincs már seregem. Vissza kell vonulnunk, újrarendezni a sorainkat.
+say.nr201_4_vengerberg.159;Ha ez a kívánságod, Királyom,... engedelmeskedem.
+say.nr201_4_vengerberg.16;Visszavonulni? Hova? Az Aranyló Napkorong ragyog fennen az egész királyságod fölött!
+say.nr201_4_vengerberg.161;Megtisztelô lenne, Felség.
+say.nr201_4_vengerberg.165;Addig is... sok szerencsét, Meve. És adják az istenek, hogy a fény egy nap még ellenségünk, Emhyr császár sírján táncoljon.
+say.nr201_4_vengerberg.167;Úgy legyen... Ahogy azt is, hogy magam gyújthassam azt a fényt.
+say.nr201_4_vengerberg.169;Hahh! Természetesen. Ég veled, Királynô!
+say.nr201_4_vengerberg.17;Redániába. Az ottani udvarban keresünk menedéket...
+say.nr201_4_vengerberg.170;Hírvivôket menesztek, hogy a törpök tudatában legyenek az érkezéseteknek.
+say.nr201_4_vengerberg.179;Mint aki öngyilkosságra készül inkább. Demavend, legalább ugyanannyira gyûlölöm a meghátrálást, mint bármely másik uralkodó,... de néha jobb visszavonulni, és egy alkalmasabb pillanatban támadni.
+say.nr201_4_vengerberg.18;És azután? Majd csak ülsz, és nézed az udvari bolondot, amint almákkal zsonglôrködik, miközben Nilfgaard szétosztja egész Aedirnt a telepesei között?
+say.nr201_4_vengerberg.181;Eh... Hogy ôszinte legyek, egészen más oka van annak, hogy nem hagytam el a várost.
+say.nr201_4_vengerberg.2;Az Óváros egy bordélyházakból és kétes hírû kocsmákból épült útvesztô volt. Békésebb idôkben diákok és más, örömöt keresôk rótták a zegzugos utcácskákat. Most kimerült katonák gubbasztottak minden sarokban, bár a lyriaiak érkezése {audio=nr201_4_vengerberg_soldiers}érezhetôen lelkesítôleg hatott rájuk. A testvéri királyságok harcosai baráti kézfogásokat váltottak, és elmesélték egymásnak az elmúlt hetek történéseit. Még Aedirn királya, Demavend sem csinált titkot abból, hogy mennyire örül a váratlan érkezôk látványának.
+say.nr201_4_vengerberg.253;Nem sokkal ezután a védôk elhagyták a falakat, és távoztak a városból a titkos alagúton át. A nilfgaardiak pedig feldühödvén azon, hogy nem csak egy, hanem két északi uralkodó is kicsúszott a karmaik közül, a földdel tették egyenlôvé Aldersberget.
+say.nr201_4_vengerberg.269;Aztán mi lesz? Áruld el! Meghívod majd egész Nilfgaardot a névadóra?
+say.nr201_4_vengerberg.271;Nem, Kedvesem. Van a város alatt mélyen egy rejtett alagút, ami kivezet a falaktól távolra. Amint a bábaasszonyok elvágják a köldökzsinórt, menekülôre fogjuk.
+say.nr201_4_vengerberg.272;Ó...?
+say.nr201_4_vengerberg.273;Egy év, vagy kettô,... és lecsapunk rájuk. És bebizonyítjuk, hogy a Birodalom csak egy olyan kolosszus, ami agyaglábakon áll.
+say.nr201_4_vengerberg.3;Az istenek legyenek kegyelmesek... és démonok vigyék el az összeset!
+say.nr201_4_vengerberg.44;Meve! A világ összes ostromlott városa közül épp az enyémbe sétálsz be. A megsegítésünkre érkeztél?
+say.nr201_4_vengerberg.46;Az igazat megvallva, magam reménykedtem a segítségben...
+say.nr201_4_vengerberg.48;Ó, igen. Sokat hallottam a Lyriában történtekrôl. Szégyenletes egy árulás. Bár, mint azt magad is láthatod, errefelé sem túl rózsás a helyzet.
+say.nr201_4_vengerberg.50;Nos,... nehéz nem észrevenni.
+say.nr201_4_vengerberg.51;Úgy hittem, lesz esélyünk a Feketékkel szemben, hogy kiegyenlített lesz a küzdelem...
+say.nr201_4_vengerberg.53;Két hét. Mindössze addig tartott nekik megsemmisíteni egy élet során felépített sereget.
+say.nr201_4_vengerberg.55;Felség. Nem tudhatom, mit szán nekünk a sors, hogy túléljük-e ezt a háborút,... de azt szeretném elmondani, hogy csodálattal adózom Felségednek.
+say.nr201_4_vengerberg.57;Kimenekítette a városlakókat,... ám önmaga mégis a városban maradt. Úgy küzd egészen a keserû végig, akár egy hôs.
+say.nr201_4_vengerberg.59;Ez csak természetes... Végtére is, egy királynak példát kell mutatnia. Háborús idôkben legfôképp.
+say.nr201_4_vengerberg.61;Reynard,... hallja ezt a morajlást? Szegecses csizmák csattogását a macskaköveken...? A nilfgaardiak. Készítse fel az embereket a harcra!
+say.nr201_4_vengerberg.63;Igenis, Felség.
+say.nr201_4_vengerberg.65;Nos,... most, hogy magunkra maradtunk... Mi folyik itt valójában?
+say.nr201_4_vengerberg.67;Nem hallottad? Épp a fôvárosomat védelmezem. Akár egy hôs.
+say.nr201_4_vengerberg.68;Demavend,... kérlek. Felesleges ilyen szamárságokkal traktálnod – ehhez már túl régóta ismerjük egymást. Miért maradtál?
+say.nr201_4_vengerberg.7;Egyesített erejükkel az uralkodóknak sikerült addig tartaniuk az Óvárost, amíg Demaretta megszülte a király gyermekét, egy egészséges és életerôs fiút. Amikor a bábaasszony a csecsemô fenekére csapott,{audio=nr201_4_vengerberg_baby_cry} az újszülött sírása túlzengte még a csata zaját is.\n\n
+say.nr201_4_vengerberg.70;Eh... Meve, amilyen gyönyörû vagy, legalább olyannyira kekeckedô...
+say.nr201_4_vengerberg.711;Mit szólsz ehhez? Mahakam alig egy hétnyi lovaglásra van innen, ahol állig felfegyverzett törpök ezreit találhatod magadnak. Elegendôt, hogy megfordíthasd velük a háború menetét is. Lefogadom.
+say.nr201_4_vengerberg.712;Igen, meglehet. Bár ennek némiképp ellentmondani látszik az a tény, miszerint a törpök híresek arról, hogy hidegen hagyja ôket az emberek közötti bármiféle torzsalkodás. Sosem lennének a segítségemre. Még abban is kételkedem, hogy hajlandóak lennének a földjükre beengedni.
+say.nr201_4_vengerberg.713;Hacsak... fel nem mutatod nekik ezt. Az Ólomgyûrût – a barátság egy jelképet, amit az Elöljárójuk adott nekem.
+say.nr201_4_vengerberg.714;Nem állíthatom, hogy tárt karokkal fogadnak majd... De meg fognak hallgatni. És az is több a semminél.
+say.nr201_4_vengerberg.715;Hmm... Nagy hasznát venném a törp gyalogságnak... Úgy teszek, ahogy javasoltad. Vagy, legalábbis, megpróbálom.
+say.nr201_4_vengerberg.72;Látod azt az épületet? Ott, amazt?
+say.nr201_4_vengerberg.74;A... bordélyt? “A karmazsin köpönyeget”?
+say.nr201_4_vengerberg.76;Pontosan azt. Szóval – és ígérd meg, hogy nem fogsz nevetni, de – úgymond mecénása vagyok ama mûintézménynek. Történetesen egy hûséges patrónusa. Az egyik ott dolgozó leányzó, Demaretta,... áh, ô egy csodálatos teremtés. Vele újra ifjúnak érzem magam.
+say.nr201_4_vengerberg.78;Úgy érted, egy ifjú bolondnak. Demavend, épp háború zajlik, és...
+say.nr201_4_vengerberg.80;Hadd fejezzem be. Demaretta, nos, várandós lett... Épp kilenc holdtöltével ezelôtt. Érted már?
+say.nr201_4_vengerberg.82;Elkezdett már vajúdni? Vannak már összehúzódásai?
+say.nr201_4_vengerberg.84;Tegnap óta. Mint láthatod hát,... nem hagyhattam ôt így itt, és nem is vihettem magammal. Maradnom kell, amíg életet nem ad a gyermeknek.
+say.nr201_4_vengerberg.92;Demavend... Emberek ezreinek életét kockáztatod egyetlen gyermekért? Ráadásul egy fattyú életéért?
+say.nr201_4_vengerberg.94;Meve... Emberek ezreit gyilkolnám le a gyermekemért. Legyen akár házasságban született, akár azon kívül... Ez semmin nem változtat.
+say.nr201_4_vengerberg.96;Ez mindent megváltoztat. Vagy ez a gyermek lesz a trón örököse, vagy...
+say.nr201_4_vengerberg.98;Eh, trónöröklésrôl papolsz itt nekem, miközben én az atyai szeretetrôl beszélek... De nem is várhatom el, hogy megértsd. A Te szíved hideg, mint a jég. Mindig is az volt. Nem csoda, hogy Villem––
+title.nr201_4_vengerberg.251;Az utolsó bástya
+title.nr201_4_vengerberg.293;Az utolsó bástya
+

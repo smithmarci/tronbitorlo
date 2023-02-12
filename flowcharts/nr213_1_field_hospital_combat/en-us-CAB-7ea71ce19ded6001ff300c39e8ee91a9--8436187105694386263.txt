@@ -1,0 +1,4 @@
+say.nr213_1_field_hospital_combat.1;Va vort, d'hoine!
+say.nr213_1_field_hospital_combat.3;A legvégsôkig ellenálltak...
+say.nr213_1_field_hospital_combat.5;Nem adják föl... Bizonyára van itt valami számukra értékes.
+

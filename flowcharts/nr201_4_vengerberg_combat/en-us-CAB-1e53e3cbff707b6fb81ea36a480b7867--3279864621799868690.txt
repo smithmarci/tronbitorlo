@@ -1,0 +1,7 @@
+say.nr201_4_vengerberg_combat.1;Védjétek a királyt! Fel kell tartóztatnunk ôket!
+say.nr201_4_vengerberg_combat.11;Haha! Sikerült! Most pedig vonuljunk vissza az alagúton át!
+say.nr201_4_vengerberg_combat.3;Neeem! Ess'sheyss!
+say.nr201_4_vengerberg_combat.5;A fejüket akarom! A'anval neen orde!
+say.nr201_4_vengerberg_combat.7;Meve! Már csak egy kicsivel tovább kell kitartanunk!
+say.nr201_4_vengerberg_combat.9;Meve! Egyre közelebb jutnak! A démonok vigyék el ôket, segíts rajtam!
+

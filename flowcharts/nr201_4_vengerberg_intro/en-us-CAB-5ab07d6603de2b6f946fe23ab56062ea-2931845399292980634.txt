@@ -1,0 +1,24 @@
+say.nr201_4_vengerberg_intro.1;A lyriaiak Aldersbergtôl alig öt mérföldnyire jártak, amikor az utat, amin ez idáig haladtak, mindenféle népségek – parasztok, kereskedôk és elrongyolódott egyenruhájú sebesült katonák – özönlötték el. A szemközti irányból botorkáltak, a várostól elfelé, hátukon a megmaradt javaikkal.\n\n
+say.nr201_4_vengerberg_intro.10;"Aldersberg elesett, Úrnôm..."
+say.nr201_4_vengerberg_intro.12;– sóhajtotta az egyik menekült egy erôtlen vállrándítás kíséretében. –
+say.nr201_4_vengerberg_intro.14;"Áttörték a külsô falat... Demavend király még mindig védi az Óvárost, de... a Fekete disznók nyerésre állnak. Jobb volna, ha rögvest visszafordulna, még mielôtt késô lenne..."\n
+say.nr201_4_vengerberg_intro.15;"Nincs hova visszafordulnunk, jóember"
+say.nr201_4_vengerberg_intro.16;– felelte a királynô, majd megsarkantyúzta a lovát. –
+say.nr201_4_vengerberg_intro.18;"Utánam!"\n\n
+say.nr201_4_vengerberg_intro.20;A királynô olyan gyorsan vágtatott, hogy a szél könnyeket csalt a szemébe. A lyriai lovasság nem sokkal lemaradva a nyomában. Paták mennydörgô robaja vert végig az országúton, és a menekültek áradata szétnyílt, utat engedve a rohamozó lovasoknak.\n
+say.nr201_4_vengerberg_intro.21;Nemsokára megpillantották Aldersberget. Vöröslô fény ragyogta be a látóhatárt, a szél sikolyok és egymásnak csapódó acél csengését sodorta feléjük. Az egykor büszke város hamar a porba rogyott a nilfgaardi Napkorong alatt.\n\n
+say.nr201_4_vengerberg_intro.23;A nilfgaardi sereg mozdult, hogy a lyriaiak útját állja. Meve lassítás nélkül kaszabolta le a gyalogos katonát, aki kampóval próbálta meg kirángatni a nyeregbôl. Egy szárnyas sisakos fej röppent fel, majd landolt véres csíkot hagyva a földön.\n
+say.nr201_4_vengerberg_intro.25;"Lyriaiak, támadjatok!"
+say.nr201_4_vengerberg_intro.268;"Gyorsabban! Gyorsabban!!"\n\n
+say.nr201_4_vengerberg_intro.27;– ordította Meve. –
+say.nr201_4_vengerberg_intro.29;"Nem ejtünk foglyokat!"
+say.nr201_4_vengerberg_intro.34;A lyriaiaknak sikerült szétzilálniuk az Aldersberget ostromló hadosztályok egyikét. A felderítôk egy, a megszállók fogságából kiszabadított rabot kísértek a királynô színe elé. Meve a városban uralkodó helyzetrôl érdeklôdött tôle.\n
+say.nr201_4_vengerberg_intro.36;"Igazi mészárszékké vált az egész. A Birodalmiak, ôk... A király kiüríttette a várost,... de jómaga odabent rekedt. Az ôrségével még tartják magukat az Óvárosban. Annak a falai még állnak... Azt mondta, jöjjön, aminek jönnie kell, ô a végsôkig küzdeni fog..."\n\n
+say.nr201_4_vengerberg_intro.38;Meve mérlegelte a lehetôségeit. A helyzet elkeserítônek tûnt. Demavendnek, akihez segítségért jött, magának is segítségre volt szüksége. Nilfgaard erôfölénye szinte letaglózó volt. A kis lyriai seregnek esélye sem volt az ostrom megtörésére... De hogy visszavonulni? Vagy megadni magát? Nos, az nem vallott volna Meve-re.\n
+say.nr201_4_vengerberg_intro.39;"A nilfgaardiak nem számítanak egy felmentô seregre. Hmm... Rayla! Te ismered Aldersberget... El tudnál vezetni minket az Óvárosig a mellékutcákon keresztül? Ekképp talán elkerülhetnénk a nilfgaardi seregek nagyját."\n\n
+say.nr201_4_vengerberg_intro.41;A harcos bólintott, és anélkül, hogy további utasításra várt volna, a különítmény élére masírozott. Reynard aggódó tekintettel követte útját.\n
+say.nr201_4_vengerberg_intro.43;"És... és azután mi lesz, Felség? Berontunk az oroszlán barlangjába, és...?"\n
+say.nr201_4_vengerberg_intro.47;"És reménykedünk abban, hogy az oroszlán torkán akad a falat. Utánam!"
+title.nr201_4_vengerberg_intro.250;Aldersberg bukása
+title.nr201_4_vengerberg_intro.273;Aldersberg bukása
+

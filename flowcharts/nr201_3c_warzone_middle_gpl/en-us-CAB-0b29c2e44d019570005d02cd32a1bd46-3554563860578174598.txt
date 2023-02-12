@@ -1,0 +1,5 @@
+say.nr201_3c_warzone_middle_gpl.1;Minden elpusztult... Mintha senki sem rántott volna kardot Nilfgaard ellenében.
+say.nr201_3c_warzone_middle_gpl.3;A király bizonyára parancsot adott a seregeinek, hogy térjenek vissza Aldersbergbe. Amaz város falai mögött kereshettek menedéket.
+say.nr201_3c_warzone_middle_gpl.5;Öhöm... Nem kívánok senkit sem megrémíteni, de azok után, amiket Rosbergben láttunk,...
+say.nr201_3c_warzone_middle_gpl.7;Nincs szükségünk vészmadárra, Gascon.
+

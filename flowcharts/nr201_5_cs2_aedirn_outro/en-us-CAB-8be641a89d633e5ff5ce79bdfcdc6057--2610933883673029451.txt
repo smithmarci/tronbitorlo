@@ -1,0 +1,3 @@
+say.nr201_5_cs2_aedirn_outro.1;Meve nyomorúságos hangulatban hagyta maga mögött Aldesberget. Ahelyett, hogy Demavend megadta volna neki azt a segítséget, amiben reménykedett, egyszerûen csak elküldte Mahakamba. A nyugati irányba tartó útját elôbb egy lángoló város fénye világította be, majd leégett falvak füstje takarta el.
+say.nr201_5_cs2_aedirn_outro.3;Egyértelmûvé vált, hogy a Nilfgaard elleni küzdelem keserû fordulatot vett. Az aedirniek minden idegent ellenségesen fogadtak, és a máskor oly szívélyes népek mindenki közeledtére elreteszelték a kunyhóik ajtaját. A katonák hangulata is komorrá vált, amin még a távolban elôtûnô hófödte hegyek látványa sem javított jottányit sem. Meve hamutakarón lépdelve érkezett meg a törpök birodalmába...
+

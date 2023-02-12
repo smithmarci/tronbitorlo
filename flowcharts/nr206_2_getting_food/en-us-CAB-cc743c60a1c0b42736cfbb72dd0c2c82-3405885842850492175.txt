@@ -1,0 +1,36 @@
+menu.nr206_2_getting_food.19;Megtartod az ellátmányt a seregednek.
+menu.nr206_2_getting_food.20;Visszaadod az élelem felét, megtartod a többit.
+menu.nr206_2_getting_food.21;Minden élelmet visszaadsz a falusiaknak.
+menu.nr206_2_getting_food.3;Megtámadod a helyôrséget.
+menu.nr206_2_getting_food.4;Visszavonulsz.
+menu.nr206_2_getting_food.49;Megtámadod a helyôrséget.
+menu.nr206_2_getting_food.50;Visszavonulsz.
+say.nr206_2_getting_food.1;A lyriaiak elérték a helyôrség külsô védvonalait, ahol a nilfgaardiak a bizalomvárásiak élelemtartalékait tárolták. Rayla jelentett.\n
+say.nr206_2_getting_food.15;Meve gyôzelmet aratott a nilfgaardiak fölött, és visszaszerezte az elrekvirált készleteket. Azonban a királynô jókedve nem sokkal a csata után elmúlt. A katonák abbéli vélekedésüknek kezdtek hangot adni, miszerint jobb volna, ha a királynô nem szolgáltatná vissza a készleteket a falunak, hanem inkább megtartaná az élelmet a csapatainak.\n
+say.nr206_2_getting_food.23;A katonák által elmondottak kegyetlenségnek tûntek,... de jogos volt az észrevételük. Meve arra a következtetésre jutott, hogy nem áll módjában megvédeni Bizalomvárás lakóit a háború pusztításától – a nilfgaardiak által eltulajdonított készletek visszaszolgáltatásával csak a saját lelkiismeretét nyugtatná meg.\n
+say.nr206_2_getting_food.24;A katonák mondandóját könnyen vehette volna akár inzultációnak is, vádolhatta volna ôket mohósággal. De volt igazság a szavaikban. Meve seregének ugyanannyira szüksége volt az élelemre, mint a parasztoknak, és a háború tépázta Aedirnben nem adódott sok lehetôségük a készleteik feltöltésére. Némi gondolkodás után a királynô kihirdette a döntést.\n
+say.nr206_2_getting_food.25;Meve meghallgatta a katonái mondandóját. A szíve mélyén tudta, hogy jogosak az érveik, ám csak annyit mondott:\n
+say.nr206_2_getting_food.35;"Három ezrednyi nehézgyalogság, nazairi számszeríjászok..."
+say.nr206_2_getting_food.37;Meve nem mondott semmit, újra és újra végiggondolta az egészet. Az éhezô falusiak sorsának terhe nyomta a vállát... De érdemes kockáztatni az esetleges veszteségeket a szerencsétlenek megmentéséért cserébe?
+say.nr206_2_getting_food.38;"A mi bendônk is korog az éhségtôl, Úrnôm, és adjunk bármennyit is vissza nekik, a Feketék újfent ellopják majd tôlük. Jobb volna tán a saját seregünket erôsíteni, mint az ellenségét."
+say.nr206_2_getting_food.39;"Elosztjuk az élelmet. Az egyik felét visszaadjuk a parasztoknak, a másik felét megtartjuk magunknak."
+say.nr206_2_getting_food.41;"Inkább harcolok tiszta lelkiismerettel, mint teli hassal."\n
+say.nr206_2_getting_food.57;– mondta a harcos. –
+say.nr206_2_getting_food.58;"És nyerítéseket is hallottam, szóval lovasságuk is akad."\n\n
+say.nr206_2_getting_food.59;Meve visszatért a helyôrséghez, ahol a nilfgaardiak a Bizalomvárásból ellopott készleteket tárolták. A lyriaiak felkészültek a támadásra.
+say.nr206_2_getting_food.61;– kérdezte a királynô, mondandóját a katonáinak címezve.\n
+say.nr206_2_getting_food.63;"Miközben a nilfgaardiak készleteket halmoznak fel, aztán hagyják megrohadni az egészet, a parasztok egyre csak halnak az éhínség miatt. Engedjük ezt nekik?
+say.nr206_2_getting_food.65;"NEM!"
+say.nr206_2_getting_food.66;– kiáltották a katonák.\n
+say.nr206_2_getting_food.68;"Én is így gondoltam"
+say.nr206_2_getting_food.70;– mondta Meve mosollyal az ajkán, és kivonta a kardját. –
+say.nr206_2_getting_food.72;"Lyriaiak, támadás!"
+say.nr206_2_getting_food.73;A királynô szava nem hagyott több teret a vitának. A katonák szekerekre pakolták az élelmet, és elindultak Bizalomvárás irányába.
+say.nr206_2_getting_food.74;"Bizalomvárás, Aedirn és egész Észak parasztjai addig nem élhetnek békében, amíg a birodalmiakat vissza nem ûzzük a Jaruga túlpartjára"
+say.nr206_2_getting_food.76;– mondta. –
+say.nr206_2_getting_food.78;"És ezt nem tudjuk megtenni akkor, ha minket is legyengít az éhezés. Szállásmester! Pakoltassa fel az élelmet a szekereinkre!"\n
+say.nr206_2_getting_food.8;Miután megtanácskozta a dolgot Reynarddak és Gasconnal, Meve arra jutott, hogy egy támadás túlontúl kockázatos lenne. Az ellopott készletek visszaszerzésére még nem érett meg az idô. A lyriaiak egy része megértéssel fogadta a döntést, másik része viszont felháborodással...
+say.nr206_2_getting_food.80;A lyriaiak meneteltek tovább, bár jóllakottan,... de lelkiismeret-furdalás által gyötörten.
+title.nr206_2_getting_food.258;Kifosztott hombárok
+title.nr206_2_getting_food.285;Kifosztott hombárok
+

@@ -1,0 +1,44 @@
+menu.nr212_1_refugees.37;Engeded, hogy a kiszabadított rabszolgák csatlakozzanak.
+menu.nr212_1_refugees.38;Sorsukra hagyod a kiszabadított rabszolgákat.
+menu.nr212_1_refugees.4;Megtámadod a nilfgaardi karavánt.
+menu.nr212_1_refugees.5;Hagyod, hogy a karaván elhaladjon.
+say.nr212_1_refugees.1;"Felség!"
+say.nr212_1_refugees.11;"Visszatért az egyik felderítô. Azt állítja, hogy sürgôs üzenete van."\n
+say.nr212_1_refugees.12;A királynô megállította a lovát, és megvárta, míg a katona odaér hozzá, aki aztán az illemre fittyet hányva azonnal a tárgyra tért:\n
+say.nr212_1_refugees.13;"Úrnôm, a Feketék egy karavánja, katonák állig fegyverben, errefelé tartanak. Ha hinni lehet a pletykáknak, a háborús zsákmányt viszik délnek."\n
+say.nr212_1_refugees.14;"Hmm... Kiváló alkalomnak tûnik az erszényeink megtömésére..."
+say.nr212_1_refugees.15;"Nem, Reynard. Inkább csökkentem a fejadagokat, sem hogy ne legyen, akinek ki lehessen osztani azokat."\n\n
+say.nr212_1_refugees.16;A nilfgaardiak karavánja háborítatlanul folytatta útját déli irányba. De hogy mit is szállított,... az sosem derült ki számomra.
+say.nr212_1_refugees.17;– mondta a királynô. –
+say.nr212_1_refugees.18;"Az Ön egységei elállják az útjukat,... Gascon és az emberei elbújnak az erdôben, és megtámadják az oldalvédeket,... én pedig bezárom a csapdát, hátulról ütve rajtuk."\n\n
+say.nr212_1_refugees.19;Amint a terv kikristályosodott, Meve jelt adott az indulásra. Alig néhány perccel késôbb kezdetét vette a csata.
+say.nr212_1_refugees.2;– hallotta meg Meve, amint Reynard ôt szólítja a karaván vége felôl. –
+say.nr212_1_refugees.27;A tervet siker koronázta, a nilfgaardiak szétverve. Ahogy elült a por, Meve feltépte egy közeli szekér ponyváját, hogy megtudja, milyen értékes szállítmányt ôriztek a Feketék. {audio=nr212_1_refugees_slaves}Aranyra, ékszerekre, finom selymekre és brokátra számított. Helyettük azonban koszos, riadt, és legfôképp láncra vert alakokat látott.\n
+say.nr212_1_refugees.28;"Rabszolgák..."
+say.nr212_1_refugees.29;– mormogta Reynard. –
+say.nr212_1_refugees.30;"Az értékes szállítmányuk:... rabszolgák. Nézze azt a fényes jövôt, amit a Birodalom szándékozik elhozni."\n\n
+say.nr212_1_refugees.31;Meve elrendelte a fogvatartottak kiszabadítását, akikrôl aztán megtudta, hogy aedirni parasztok, akiket kényszermunkára szállítottak csatornákat ásni és mocsarakat feltölteni.\n
+say.nr212_1_refugees.32;"Szabadok vagytok. Visszatérhettek az otthonaitokba"
+say.nr212_1_refugees.33;– mondta nekik a királynô.\n
+say.nr212_1_refugees.34;"Mi lesz velünk, Úrnôm...?"
+say.nr212_1_refugees.35;A királynô már épp válaszolni készült, amikor meghallotta Gascon suttogását a háta mögül:\n
+say.nr212_1_refugees.36;"Mielôtt elhamarkodottan ígérgetni kezdenél, számoljunk kicsit – több tucat éhes száj és megvédendô gyenge fizikumú ember, kétszer annyi fáradt láb, amire aztán várni kell,... miközben körös–körül a háború tombol. Ugye tudod, hogy nem menthetsz meg mindenkit?"
+say.nr212_1_refugees.41;"Mint láthatjátok, kevesen vagyunk..."
+say.nr212_1_refugees.42;– kezdte a királynô. A hangját hallván a korábbi rabszolgák már tudták, hogy elveszett számukra a remény. Látva az arcukra kiülô elkeseredést Meve hangja megbicsaklott egy pillanatra:
+say.nr212_1_refugees.43;"– És a... ládáink szinte üresek. Sajnálom,... de nem tudunk rajtatok segíteni."\n\n
+say.nr212_1_refugees.44;Meve hagyott ott a nilfgaardiak szekerein talált élelembôl a parasztoknak. Úgy taksálta, hogy három vagy négy napra is elegendô lehet nekik. Azután már... nem Lyria királynôjére vár majd a bajuk megoldása.
+say.nr212_1_refugees.45;"Abban a reményben támadtam meg ezt a karavánt, hogy feltölthetjük a rohamosan apadó készleteinket"
+say.nr212_1_refugees.46;– mondta a királynô. –
+say.nr212_1_refugees.47;"Ehelyett viszont csak tovább apasztom ôket. Ám... legyen. Ezekben a vészterhes idôkben nekünk, Északiaknak, segítenünk kell egymást."\n\n
+say.nr212_1_refugees.48;"A nôk és a gyerekek a szekereken utaznak, a férfiak gyalogosan a menet végén. De figyelmeztetlek benneteket: aki nem tudja tartani a tempót, azt az útszélen hagyjuk! Indulás!"\n\n
+say.nr212_1_refugees.49;A királynô tekintete összeakadt egy öregasszonyéval, akit a katonák épp felsegítettek a szekerek egyikére. Koromtól piszkos, hosszú évek kemény munkája barázdálta ráncos arcát a hála könnyei szántották. Meve tudta, hogy helyesen cselekedett.
+say.nr212_1_refugees.50;Reynard új parancsokat adott a katonáknak, majd Meve-hez fordult.\n
+say.nr212_1_refugees.60;"Vagy rengeteg jó ember elveszejtésére..."
+say.nr212_1_refugees.61;Ha köszönetet vagy hálálkodó szavakat várt,... akkor bizony csalódnia kellett.
+say.nr212_1_refugees.62;"Elvették tôlünk a földjeinket. Semmink sem maradt,... se egy rongy, amit viselhetnénk, se egy kenyércsücsök, amit megehetnénk. Ha sorsunkra hagy bennünket, meghalunk. A katonák nem ölnek meg minket, csak a szörnyek... Hacsak az éhség és a hideg nem végez velünk elôbb."\n\n
+say.nr212_1_refugees.63;– kérdezte a parasztok egyike, aki épp a könnyeit próbálta visszatartani. –
+say.nr212_1_refugees.8;"Valóban. Egy lehetôség, amit nem hagyhatunk figyelmen kívül"
+say.nr212_1_refugees.9;– felelte Meve bólogatva. –
+title.nr212_1_refugees.268;Szokatlan szállítmány
+title.nr212_1_refugees.288;Szokatlan szállítmány
+

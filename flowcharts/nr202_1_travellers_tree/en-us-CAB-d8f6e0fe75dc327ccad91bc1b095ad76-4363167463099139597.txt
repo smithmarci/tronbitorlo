@@ -1,0 +1,40 @@
+menu.nr202_1_travellers_tree.17;Betartatod a törvényt, és elütteted a katona kezét.
+menu.nr202_1_travellers_tree.18;Megkegyelmezel a katonának.
+menu.nr202_1_travellers_tree.2;Közelebb mész a Vándorok Bükkfájához.
+menu.nr202_1_travellers_tree.3;Odaküldesz egy felderítôt.
+menu.nr202_1_travellers_tree.4;Elkerülöd a Vándorok Bükkfáját.
+menu.nr202_1_travellers_tree.48;Odalovagolsz a Vándorok Bükkfájához.
+menu.nr202_1_travellers_tree.49;Odaküldesz egy felderítôt.
+menu.nr202_1_travellers_tree.50;Elkerülöd a Vándorok Bükkfáját.
+say.nr202_1_travellers_tree.10;"A mocskok nem átallották becsmérelni Felségedet! Azt mondták, hogy fülét-farkát behúzva iszkolt el Lyriából, mint valami kivert szuka!"\n\n
+say.nr202_1_travellers_tree.11;Meve úgy döntött, óvatossággal közelít a helyhez. Egy közeli tisztáson vert tábort, és egy házalónak öltözött felderítôt küldött ki, hogy megvizsgálja a Vándorok Bükkfája környékét.\n\n
+say.nr202_1_travellers_tree.12;Meve arra a megállapításra jutott, hogy kockázatos lenne felfedniük a helyzetüket olyan értesülésekért, amik szavahihetôsége erôsen kétséges volna. A lyriaiak tovább folytatták hát útjukat.
+say.nr202_1_travellers_tree.13;"A Vándorok Bükkfája"
+say.nr202_1_travellers_tree.14;"Vagy az ellenség kaphat tisztább képet a mi helyzetünkrôl"
+say.nr202_1_travellers_tree.16;A ranggal és társadalmi státusszal nem törôdve Meve személyesen tudakozódott az utazóktól a legfrissebb hírek felôl. Azok aztán szûkszavúból hamar beszédessé váltak, és megosztották értesüléseiket egy tünde haramiáról, Eldainról, aztán egy Vrygheff nevezetû nilfgaardi tábornokról, aki lemészárolt egy egész falut, végül egy varázslónôrôl, aki néhány rézpénzért cserébe bármilyen betegségbôl kigyógyít.\n\n
+say.nr202_1_travellers_tree.21;– szakította félbe Gascon. –
+say.nr202_1_travellers_tree.22;"Kétségtelen, hogy nilfgaard kémei úgy gyûlnek ehhez a fához, mint legyek a meleg trágyára."
+say.nr202_1_travellers_tree.23;A felderítô testére a Vándorok Bükkfájától néhány mérföldnyire találtak rá a lyriaiak. A holttestén egyértelmûen láthatóak voltak a gyötrelmes kínzás nyomai. Meve csak remélhette, hogy a szerencsétlen nem fedett fel mindent a fogvatartói elôtt...
+say.nr202_1_travellers_tree.24;Az utazókat nem hatotta meg különösebben a magyarázat. Követelték, hogy a katona nyerje el méltó büntetését, ami az aedirni törvények értelmében annak a kéznek a levágását jelenti, amellyel a gyilkosságot elkövették.
+say.nr202_1_travellers_tree.25;Nehéz szívvel bár, de Meve úgy döntött, a katona büntetést érdemel. Reynard halkan elôhúzta kardját annak hüvelyébôl.\n
+say.nr202_1_travellers_tree.253;– mondta Rayla. –
+say.nr202_1_travellers_tree.254;"Mindenféle utazók mesélik el itt egymásnak a velük megesetteket. Talán mi is megtudhatunk valamit az ellenségeink mozgásáról..."\n
+say.nr202_1_travellers_tree.26;"Nem. Majd én megteszem"
+say.nr202_1_travellers_tree.27;– jelentette ki Meve olyan hangon, amirôl mindannyian tudták, hogy nem tûr ellentmondást. –
+say.nr202_1_travellers_tree.28;"Katona, a becsületemet szándékoztad megvédeni. Ezért hálás vagyok neked. Ám mert gyilkosságot követtél el, meg kell hogy büntesselek – a vidék törvényeinek megfelelôen."\n
+say.nr202_1_travellers_tree.29;Bár könnyek patakzottak a gyalog arcán, feltûrte a gambesonja ujját, és egy fatönkre fektette az alkarját. Meve mély levegôt vett, aztán megemelte kardját. Egy fájdalmas sikoly töltötte be az erdôt.\n\n
+say.nr202_1_travellers_tree.30;Az utazókban tisztelet ébredt Meve iránt. Bár korántsem voltak tehetôsek, elôbb körbeadtak egy kalpagot, majd átnyújtottak a királynônek egy maréknyi érmét hálájuk jeléül, amiért betartotta a törvényeiket. A lyriaiak pedig {audio=nr202_1_travellers_tree_riding_off}komor csendben vonultak el a Vándorok Bükkfája alól.
+say.nr202_1_travellers_tree.31;Meve odalépett a megvádolt katonához, aki könnyes szemekkel épp az ítéletére várt. A férfi vállára tette a kezét.\n
+say.nr202_1_travellers_tree.32;"Ez az ember megvédte a becsületemet"
+say.nr202_1_travellers_tree.33;– jelentette ki fennhangon a királynô. –\n
+say.nr202_1_travellers_tree.34;"Ezért nem büntetés, hanem hála illeti meg ôt. Ti pedig ne feledjétek: legyen az bárki, aki rágalmazni merészel, keservesen megbûnhôdik miatta."\n\n
+say.nr202_1_travellers_tree.35;Meve egységei gúnyolódások és szitokszavak közepette meneteltek tovább. Ám a katonák a királynôjükre büszkén, felszegett fejjel masíroztak ezután.
+say.nr202_1_travellers_tree.42;Kíváncsiságtól hajtva Meve újfent a Vándorok Bükkfája közelében találta magát. A katonái a döntésére vártak...
+say.nr202_1_travellers_tree.52;Hosszú órák teltek el, ám a katona nem érkezett vissza...\n
+say.nr202_1_travellers_tree.54;"Az istenek legyenek átkozottak"
+say.nr202_1_travellers_tree.56;– morogta a királynô. –
+say.nr202_1_travellers_tree.58;"Reynard! Küldjön a nyomába néhány embert!"\n\n
+say.nr202_1_travellers_tree.8;A lyriaiak egy ôsöreg, félig kiszáradt bükkfához értek. A fa törzse vastag gyökerek kuszaságából meredt, és szövegekkel telerótt papirosok borították azt az aljától a tetejéig. Utazók vették körül a fát: mezítlábas menekültek, csupa csont és bôr zarándokok, vándorárusok fegyveresek kíséretében, és sunyi tekintetû férfiak, akik leginkább elvadult kinézetû dezertôröknek tûntek.\n
+say.nr202_1_travellers_tree.9;Egyszer csak egy vérfagyasztó sikoly hasított bele a körös-körül folyó diskurzus zajába. Meve katonái szóváltásba keveredtek néhány fegyveressel, akik egy kereskedôt védelmeztek, aki épp a földön feküdt mozdulatlanul, egy tátongó sebbel a nyakán.\n
+title.nr202_1_travellers_tree.252;Vándorok bükkfája
+

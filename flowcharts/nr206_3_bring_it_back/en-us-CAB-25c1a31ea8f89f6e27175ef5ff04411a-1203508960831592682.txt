@@ -1,0 +1,8 @@
+say.nr206_3_bring_it_back.10;"Ó, Úrnôm... megmentett bennünket az éhhaláltól, attól, hogy egymás ellen forduljunk, hogy... borzalmas dolgokra fanyalodjunk... Hétszeresen is áldják az istenek!"\n\n
+say.nr206_3_bring_it_back.12;Meve a hálálkodást hallván mosolygott, ám a tekintetében szomorúság bujkált. Ha az istenek valóban jutalmaznák a jó cselekedeteket, és büntetéssel sújtanák a rosszakat, akkor éjjel s nappal villámok csapkodnák a nilfgaardiakat.
+say.nr206_3_bring_it_back.4;A parasztok az elején még örültek a katonáknak – ám az örömük hamar elszállt, és dühnek adta át a helyét, amikor megtudták, hogy Meve csak a visszaszerzett élelmük felét adja oda nekik.\n
+say.nr206_3_bring_it_back.5;A falusiak könnyáztatta szemekkel üdvözölték a katonákat. Egyikük térdre hullt a királynô elôtt.\n
+say.nr206_3_bring_it_back.7;"Hogy ennyire mélyre süllyedjen egy királynô! Ennyire mélyre! Hogy meglopja a jó népet, éhezteti a jó népet...! Ájj!"\n\n
+say.nr206_3_bring_it_back.9;Meve nem volt hajlandó vitába szállni a falusiakkal. Valóban, az igazság az ô oldalukon állt. De háborús idôkben vajmi keveset számít az igazság.
+title.nr206_3_bring_it_back.259;Kifosztott hombárok
+

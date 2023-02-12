@@ -1,0 +1,6 @@
+say.nr212_1_refugees_combat.1;Be kell zárnunk körülöttük a kelepcét. Utánam!
+say.nr212_1_refugees_combat.3;Miénk a karaván, Úrnôm.
+say.nr212_1_refugees_combat.5;Közel a gyôzelem, Felség.
+say.nr212_1_refugees_combat.7;Most! Vaaa–úúúúú!!!
+say.nr212_1_refugees_combat.9;Nem siették el... Már azt hittem, el is felejtkeztek rólam.
+

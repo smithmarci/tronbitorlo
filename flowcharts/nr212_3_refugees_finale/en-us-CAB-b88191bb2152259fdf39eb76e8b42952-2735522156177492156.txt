@@ -1,0 +1,6 @@
+say.nr212_3_refugees_finale.5;Ahogy Meve és kompániája elhaladt Háromlen városa közelében, a kiszabadított parasztok egyike kihallgatásért folyamodott.\n
+say.nr212_3_refugees_finale.6;"Itt elválnak útjaink, Asszonyom. Tôlünk elszármazott népek élnek Háromlenben, a segítségükkel már elboldogulunk talán. De Asszonyom, szeretnénk megköszönni, hogy megszánt bennünket... újra és újra."\n
+say.nr212_3_refugees_finale.8;"Semmink sincs, Asszonyom, vagy alig valamicske... A Fekete kurafik elvették mindenünket, amit elvenni volt érdemes... Ezt az egyet kivéve. Egy amulett, ami már emberöltôk óta a családom tulajdonában van. Megvédett minket a bajoktól. Tegyen ugyanígy Asszonyommal is."\n\n
+say.nr212_3_refugees_finale.9;Meve már épp mondani akarta, hogy nem hisz a népi babonákban, ám amikor a kezébe vette az elefántcsont medált, furcsa melegséget érzett sugározni belôle. A paraszt meghajolt, majd csatlakozott a városka irányába távozó társaihoz.
+title.nr212_3_refugees_finale.270;Szokatlan szállítmány
+

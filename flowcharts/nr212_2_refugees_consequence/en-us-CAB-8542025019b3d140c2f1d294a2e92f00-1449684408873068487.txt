@@ -1,0 +1,20 @@
+menu.nr212_2_refugees_consequence.6;Hagyod, hogy a parasztok maradjanak.
+menu.nr212_2_refugees_consequence.7;Kikényszeríted a parasztok távozását.
+say.nr212_2_refugees_consequence.1;Meve fülét a tábor irányából jövô ricsaj ütötte meg.\n
+say.nr212_2_refugees_consequence.10;"Már épp itt volt az ideje, hogy külön útra térjenek, Felség. Túl nagy kolonc voltak a számunkra. Csak lelassítottak bennünket, és a katonák figyelmét is elvonták a sokkal fontosabb teendôiktôl. És most még ez is..."\n
+say.nr212_2_refugees_consequence.11;"Elég a szócséplésbôl. Ha elûzzük ezeket a parasztokat, meghalnak"
+say.nr212_2_refugees_consequence.12;Meve szeme összeszûkült, az arcán a ráncok elmélyültek. A parasztokhoz fordult.\n
+say.nr212_2_refugees_consequence.13;"Elleneztem, hogy befogadjuk ôket... És csak hogy következetes maradjak, most ellenzem az elzavarásukat. Vállaltuk a felelôsséget a nyomorúságos kis életeikért, nemdebár? Nos hát, ez egy olyan teher, amit nem dobhatunk le csak úgy magunkról."
+say.nr212_2_refugees_consequence.15;Gascon hallgatta a beszélgetésüket. Meve kérdôn nézett rá.\n
+say.nr212_2_refugees_consequence.16;– mondta végül Meve. –
+say.nr212_2_refugees_consequence.17;"Maradhatnak. De figyeljétek ôket. Ha még több bajt okoznak, a katonai igazságszolgáltatással találják magukat szemben. Megértettétek?"\n
+say.nr212_2_refugees_consequence.18;A kiszabadított rabok megkönnyebbülten sóhajtottak fel. Az ôrizetükkel megbízott talpasok a királynô döntésével való egyet nem értésük jeleként azonban morgolódni kezdtek.\n
+say.nr212_2_refugees_consequence.19;"Ez egy hadsereg. Nincs idônk nyomozásra és hosszan elhúzódó tárgyalásra. Ha az embereim egyike lop, az egész ezrede büntetésben részesül miatta. Veletek szemben is ekképp járunk el. Mert nem tudjátok kordában tartani a hozzátartozóitokat, ezért távoznotok kell. Mindannyiótoknak. Még ma."\n\n
+say.nr212_2_refugees_consequence.20;Amint a parasztok összeszedték a cókmókjaikat és továbbálltak, a lyriaiak folytatták a menetelést. Eztán sokkal gyorsabban haladtak, nem kellett a gyengébb állóképességû és lerongyolódott menekültekhez igazítaniuk a tempójukat. Ám a népi énekek és a parasztasszonyok tréfálkozásainak hiányában a menetelés furcsamód csendesnek hatott.
+say.nr212_2_refugees_consequence.22;A szállásmester volt az, aki válogatott szitkokat zúdított a nilfgaardiak konvojából kiszabadított parasztokra. Néhányuk az éj leple alatt lopott az ellátmányból, és továbbállt a zsákmányával. A többi felszabadított paraszton rémület és rettegés lett úrrá. Meve eltöprengett azon, mi tévô legyen velük, és Reynard – jó szokásához híven – ezúttal is tanáccsal szolgált számára.\n\n
+say.nr212_2_refugees_consequence.23;"Tolvajok! Hálátlanok! A himlô csúfítsa el az orcátokat!"\n\n
+say.nr212_2_refugees_consequence.281;Meve ugyan meghallotta a panaszaikat, de a királynô sosem engedte, hogy ilyen ügyekben mások véleménye befolyásolja – csak a saját ítéletében bízott.
+say.nr212_2_refugees_consequence.282;"Ez egy hadsereg, nem pedig menedék..."
+say.nr212_2_refugees_consequence.284;– mondták.\n
+title.nr212_2_refugees_consequence.269;Szokatlan szállítmány
+

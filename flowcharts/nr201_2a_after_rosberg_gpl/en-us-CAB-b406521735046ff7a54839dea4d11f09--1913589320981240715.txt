@@ -1,0 +1,5 @@
+say.nr201_2a_after_rosberg_gpl.1;Kár, hogy Villem nincs itt velünk. Ha látná mindazt, ami a szemünk elôtt terül el, ha érezné az égett testek bûzét...
+say.nr201_2a_after_rosberg_gpl.3;Talán akkor látná, hogy milyenek is valójában azok, akikhez társult. Kik azok, akiket minden ellenállás nélkül az otthonunkba engedett.
+say.nr201_2a_after_rosberg_gpl.6;Ha úgy kívánja Felséged, máris lovast küldök a herceghez egy––
+say.nr201_2a_after_rosberg_gpl.8;Semmi ilyesmit nem kívánok. Nem vagyok hajlandó az ellenséggel diskurálni.
+

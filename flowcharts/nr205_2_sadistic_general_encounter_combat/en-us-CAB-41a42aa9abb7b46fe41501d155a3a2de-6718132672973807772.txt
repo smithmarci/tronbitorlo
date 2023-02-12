@@ -1,0 +1,6 @@
+say.nr205_2_sadistic_general_encounter_combat.1;Bújjon elô, Vrygheff! Ideje, hogy megfizessen a bûneiért!
+say.nr205_2_sadistic_general_encounter_combat.3;Elfogtuk! A többi nemsokára megadja majd magát.
+say.nr205_2_sadistic_general_encounter_combat.5;Felség,... végeznek a sebesültjeinkkel!
+say.nr205_2_sadistic_general_encounter_combat.7;A szukafattyak...
+say.nr205_2_sadistic_general_encounter_combat.9;Amott! Vrygheff! Már látom! El kell fognunk!
+

@@ -1,0 +1,38 @@
+menu.nr208_2_havekar_battle.3;Parancsot adsz a támadásra.
+menu.nr208_2_havekar_battle.37;Megsemmisíted a havekárok fegyvereit.
+menu.nr208_2_havekar_battle.38;Felszereled az egységeidet a fegyverekkel.
+menu.nr208_2_havekar_battle.4;Elkerülöd az összetûzést.
+say.nr208_2_havekar_battle.1;Meve megérkezett a kunyhóhoz, ami a falusiak elmondása szerint a Scoia'tael és a havekárok találkozóhelye volt. Fáklyák fénye táncolt a fák között, és folytott hangú beszélgetés foszlányai ütötték meg a fülét.\n
+say.nr208_2_havekar_battle.14;Meve egy régi trükköt vetett be: a saját erdejükben állított csapdát a Scoia'taelnek. A körülvett tündék mindhalálig küzdöttek – a halált választották a fogság helyett.\n\n
+say.nr208_2_havekar_battle.23;Meve felnyitotta a havekárok ládáit,... és kötözött kócra esett a pillantása. Meghökkenésébôl felocsúdva mélyebbre túrt, és megtalálta az igazi árukat a kóc alatt: horgos hegyû számszeríj–lövedékeket, medvecsapdákat és olyan mérgeket, amiknek nem volt ismert ellenszere.
+say.nr208_2_havekar_battle.25;"A kegyetlenkedés eszközei"
+say.nr208_2_havekar_battle.27;– mondta Reynard, amint végigpásztázta tekintetével a ládák tartalmát. –
+say.nr208_2_havekar_battle.29;"Arra tervezték ezeket, hogy a legtöbb fájdalmat okozzák, ám a lehetô leglassabban öljenek."\n
+say.nr208_2_havekar_battle.31;Gascon nem komorodott el úgy, mint a többiek. Az egyik nyílért nyúlt, és kíváncsian egyensúlyozni kezdett vele a kezén.\n
+say.nr208_2_havekar_battle.33;"A hulla az csak hulla, nem törôdik vele, miképp lett azzá. És ezekkel a kis csudákkal... a pajtikáim huncut dolgokra lennének képesek."
+say.nr208_2_havekar_battle.39;"A cél szentesíti az eszközt"
+say.nr208_2_havekar_battle.41;– mondta Meve kurtán, és kiragadott az egyik ládából egy fegyvert. A katonái hasonlóképp cselekedtek, és havekár fegyverekkel egészítették ki a felszerelésüket. A tündék hamarosan megismerik majd azt a fájdalmat, amit másoknak reméltek okozni.
+say.nr208_2_havekar_battle.42;"A koronámat elveszítettem, de a becsületemet nem fogom"
+say.nr208_2_havekar_battle.44;A havekár fegyverek halma dacára Meve világossá tette, hogy a becsület még a legsötétebb órákban is mindennél elôrébb való. A mészárlás híre hamar bejárta egész Aedirnt, és kedvét szegte mindazoknak, akik még szerettek volna haszonra szert tenni a halál instrumentumainak eladásából a tünde terroristáknak.
+say.nr208_2_havekar_battle.45;"Felség..."
+say.nr208_2_havekar_battle.47;– súgta oda neki Rayla. –
+say.nr208_2_havekar_battle.48;"A markunkban vannak. Gyorsan kell cselekednünk, még mielôtt a tündék visszatérnek az erdejükbe."
+say.nr208_2_havekar_battle.49;"Számosan vannak..."
+say.nr208_2_havekar_battle.51;– jegyezte meg a királynô homlok ráncolva. –
+say.nr208_2_havekar_battle.53;"Jobb lesz, ha meghátrálunk. Reynard! Visszavonulás!"\n
+say.nr208_2_havekar_battle.55;"Felség,... nem hagyhatjuk csak úgy––"\n
+say.nr208_2_havekar_battle.57;"De hagyhatjuk"
+say.nr208_2_havekar_battle.58;– vágott Rayla szavába Meve. –\n
+say.nr208_2_havekar_battle.59;"Nem az a célunk, hogy békés útra tereljük a tünde felkelôket, hanem hogy átjussunk ezen a rengetegen, és eljussunk Aldersbergbe. A szándékainknak megfelelôen kell cselekednünk.\n
+say.nr208_2_havekar_battle.60;Rayla nem szólt semmit. Nem is kellett, hogy mondjon bármit is – az arca mindent elárult. Hatalmas csalódottság és düh ütközött ki rajta.
+say.nr208_2_havekar_battle.62;– felelte a királynô, és közben hátba veregette a harcosnôt. –
+say.nr208_2_havekar_battle.64;"Nem hagyom, hogy egy ilyen ragyogó lehetôség elússzon. Támadás!"\n\n
+say.nr208_2_havekar_battle.66;A lyriaiak kirontottak az erdôbôl, ezzel meglepve a gyanútlan tündéket és a kereskedôket egyaránt. Pillanatokon belül csatazaj töltötte be a sötét erdôt.
+say.nr208_2_havekar_battle.7;"Ne aggódj, Rayla"
+say.nr208_2_havekar_battle.70;"Szégyenletes dolog ilyesféle eszközökkel harcolni"
+say.nr208_2_havekar_battle.72;– szólalt meg a mindig csendes Eyck.\n
+say.nr208_2_havekar_battle.73;– mondta Meve kiragadva Gascon kezébôl a fegyvert. –
+say.nr208_2_havekar_battle.75;"Nem engedem a szolgálatomban álló katonáknak, hogy ezekkel a... ezekkel harcoljanak. Reynard! Dobassa a ládákat a tóba!"\n\n
+title.nr208_2_havekar_battle.263;Veszélyes üzelmek
+title.nr208_2_havekar_battle.297;Veszélyes üzelmek
+

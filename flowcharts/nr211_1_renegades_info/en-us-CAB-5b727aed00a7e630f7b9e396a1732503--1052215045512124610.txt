@@ -1,0 +1,11 @@
+say.nr211_1_renegades_info.13;"Nézzétek meg a nyílvesszôket. Birodalmi típusúak? Nem igazán. És nem is olyanok, mint amilyeneket a Scoia'tael használ elôszeretettel. És a nyomok a sárban? A támadók nem alakzatban harcoltak, hanem ember ember ellen. Ezek haramiák voltak."\n
+say.nr211_1_renegades_info.15;Reynard, aki ott állt mellette, egyetértôn bólintott.\n
+say.nr211_1_renegades_info.17;"E tekintetben nyugodtan hagyatkozhatunk Gasconra. Végtére is, ô már csak tudja, mirôl beszél."\n\n
+say.nr211_1_renegades_info.19;Kényelmetlen csönd ereszkedett a csapatra, ami csak akkor tört meg, amikor Meve utasította az egyik felderítôt, hogy állapítsa meg, milyen irányba tartanak a banditák nyomai. Az azzal a hírrel tért vissza, hogy a gyilkosok feltehetôen tôlük északra bujdosnak...
+say.nr211_1_renegades_info.2;A lángoló szántók és gyümölcsöskertek sûrû fekete füstöt eregettek, a legsötétebb éjszakába fordítva a nappalt. A menet közepén lovagolva Meve nem látta annak sem elejét, sem végét. Reynard utasította az embereket, hogy tartsák az alakzatot, és csöndben masírozannak.\n
+say.nr211_1_renegades_info.280;Testek – mezítlábas emberek hálóköntösben, mintha csak álmukban ütöttek volna rajtuk – hevertek a hamu között szerteszét. Meve úgy vélte, a fekete páncélos megszállók újabb áldozatait látják, ám Gascon más véleményen volt.\n
+say.nr211_1_renegades_info.282;"Nyitott szemmel járjatok, nézzetek a hátatok mögé is! Az ellenség kihasználhatja a helyzetet, hogy csapdát állítson."\n
+say.nr211_1_renegades_info.283;"Itt meg mi a démon történhetett...?"\n\n
+say.nr211_1_renegades_info.4;Mikor az egyik felderítô kürtjének éles harsanása keresztülvágott a csenden, Meve nyomban a menetoszlop elejére vágtatott. Izzó szénhalmok közepében találta magát, amely halmok egykor parasztok kunyhói voltak.\n
+title.nr211_1_renegades_info.266;A lelkiismeret rabságában
+

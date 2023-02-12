@@ -1,0 +1,4 @@
+say.nr203_1_traitor_town_combat.1;A nilfgaardiak otthon érzik itt magukat. Mutassuk meg nekik, mennyire rosszul is gondolják!
+say.nr203_1_traitor_town_combat.3;Megnyertük a csatát, Felség.
+say.nr203_1_traitor_town_combat.5;Nincs jele csatározásnak... Ezek a kurafik bizonyosan kitárták a kapukat a Feketéknek!
+
